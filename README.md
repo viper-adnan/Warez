@@ -1220,7 +1220,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 ## PC Games
 - [Bzinho Games](http://anonym.es/?https://bzinhoneverdies.blogspot.com/) - Scene releases mirrors.
 - [CompucaliTV](http://anonym.es/?https://www.compucalitv.com/juegos-pc) - (SP) - Games, Video & more via Mega, OpenLoad, & others).
-- [CS.Rin.RU](http://anonym.es/?https://cs.rin.ru) - NoStream Gaming Servers, Repacks & mods. (Tor Mirror: _csrinru3c2ownkep.onion/forum/_ + [[Userscript] CS.RIN.RU Enhanced](http://anonym.es/?https://greasyfork.org/scripts/25713-cs-rin-ru-enhanced/code/CSRINRU%20Enhanced.user.js)) -
+- [CS.Rin.RU](http://anonym.es/?https://cs.rin.ru) - NoStream Gaming Servers, Repacks & mods. (Tor Mirror: _csrinru3c2ownkep.onion/forum/_ + [[Userscript] CS.RIN.RU Enhanced](http://anonym.es/?https://greasyfork.org/scripts/25713-cs-rin-ru-enhanced/code/CSRINRU%20Enhanced.user.js)) - [Blog](http://anonym.es/?https://write.as/ress/)
 - [Firestorm](http://anonym.es/?https://firestorm-servers.com/) - Games & more.
 - [GameCopyWorld](http://anonym.es/?https://gamecopyworld.eu) - Provides cracks for Games.
 - [GamesFull](http://anonym.es/?https://www.gamesfull.org/) - (SP) - ElAmigos Games and other scene releases. Mega, GDrive, MediaFire.
