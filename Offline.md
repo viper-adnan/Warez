@@ -7,8 +7,9 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - buildfeed.net ([source code](https://gitlab.com/buildfeed/BuildFeed))
 - [Tetrisfriends.com](https://old.reddit.com/r/Piracy/comments/bn3dno/tetrisfriendscom_is_going_offline_at_the_end_of/)
 - [YIFYMovies.is](https://torrentfreak.com/movie-companies-sue-yts-and-yify-site-operators-in-us-court-190527/)
-- worldwidetorrents.me
+- worldwidetorrents.me & yify.am
 - [MKVCage](http://mkvcage.com/) ([source](https://torrentfreak.com/popular-torrent-site-mkvcage-faces-lawsuit-and-goes-offline/))
+- [Mangamura.org](https://twitter.com/ABSCBNNews/status/1148449826155057152?ref_src=twsrc%5Etfw)
 
 ## Android Apps
 - Terrarium TV
@@ -332,6 +333,10 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - extratorrent.ag (India)
 - torrentz.ht (India)
 - torrentmovies.co (India)
+
+## Anime
+- MioMio
+- AniTube!
 
 ## Books / PDFs
 - Oceanofpdf.com
