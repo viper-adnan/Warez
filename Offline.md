@@ -137,6 +137,13 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - Onhaxme.com
 - Onhax.me
 - warezscene.org
+- IPTVBox.plus
+- Openload.co
+- oload.cc
+- oload.club
+- oload.download
+- openload.pw
+- oloadcdn.net
 
 
 ## TV / Torrent
@@ -159,6 +166,28 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - time2watch.in
 - Egy.best
 - Watchseries-online
+- StreamCherry.com
+- Oload.stream
+- fruithosted.net
+- oload.win
+- oload.life
+- oload.services
+- oload.xyz
+- oload.space
+- oload.biz
+- oload.vip
+- oload.tv
+- oload.monster
+- oload.best
+- oload.press
+- oload.live,
+- oload.site
+- oload.network
+- oload.website
+- oload.online
+- olpair.com
+- openload.status
+
 
 ## Domain registrar
 - openleaf.net.ru
