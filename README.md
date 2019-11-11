@@ -1019,6 +1019,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Solarmovie](http://anonym.es/?https://solarmoviez.ru/) - Watch Movies Online and Watch Tv-Series online On Solarmovie without Registration.
 - [StreamCR](http://anonym.es/?https://scr.cr/) - Watch movies and TV series online for free. Stream episodes of Game of Thrones, Breaking Bad, Stranger Things and more!
 - [Streams.now.sh](http://anonym.es/?https://streams.now.sh/) - Clean design, fast & smart search, large variety of films, HD quality, from popular groups & hosters.
+- [ShareMania.US](http://anonym.es/?http://sharemania.us/) (_insecure_) - HDTV, HD Music Videos, 1080i, 720p, Live, TV Shows.
 - [StreamCouch](http://anonym.es/?https://www2.streamcouch.com/) - Watch free the newest movie stream indexed as they appear online, in HD high quality.
 - [Streamcomplete](http://anonym.es/?https://streamcomplet.me/) - (FR) - Streaming gratuit des films en VF, Regarder les meilleurs sélections des films complets en version française a voir online.
 - [TakiART](http://anonym.es/?https://www.takiartmovies.ga/) - Watch and download latest Hollywood movies for free.
