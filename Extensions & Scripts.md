@@ -17,6 +17,12 @@
 **[`^        back to top        ^`](#)**
 
 
+## Browser based Video & Downloader 
+- [Media Reaper - Privacy 1st, Audio & Video Download](http://anonym.es/?https://sasrip.cf/) + ([addon](http://anonym.es/?https://addons.mozilla.org/en-US/firefox/addon/media-reaper/))
+
+
+**[`^        back to top        ^`](#)**
+
 ## Website "Enhancer" Userscripts
 - [[TS] Citrus GFork](http://anonym.es/?https://greasyfork.org/scripts/4336) - Adds bunch of GreasyFork hidden features.
 - [GBookDown - Download Google Books](http://anonym.es/?https://greasyfork.org/scripts/17113) - Saves all available Preview pages from a Google Book as PNGs.
