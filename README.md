@@ -1412,6 +1412,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 
 ### iOS JailBreak Firmware
+- [Checkra1n](http://anonym.es/?https://checkra.in/) - Semi-tethered Jailbreak for iOS 12.3+.
 - [IPSW](http://anonym.es/?https://ipsw.me/?_escaped_fragment_=/version) - Provides Jailbreak firmware.
 - [ipwndfu](https://github.com/axi0mX/ipwndfu) - Open-source jailbreaking tool for many iOS devices.
 - [s0meiyoshino](http://anonym.es/?https://github.com/dora2-iOS/s0meiyoshino) - This tool enables exploit of iBoot.
