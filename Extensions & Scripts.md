@@ -10,7 +10,6 @@
 - [Bypass paywalls for scientific documents](http://anonym.es/?https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents) - This script adds download buttons on Google Scholar, Scopus, and Web Of Science, which lead to sci-hub.tw.
 - [Direct download from Google Play](http://anonym.es/?https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Adds APKPure, APKMirror and Evozi download buttons to Google Play when browsing apps.
 - [Emuparadise ROMs:easy download](http://anonym.es/?https://old.reddit.com/r/Piracy/comments/9zuu6p/emuparadise_roms_easy_download/) - Make Emuparadise great again!
-- [MoreCAPTCHA](http://anonym.es/?https://greasyfork.org/en/scripts/31088-morecaptcha) - Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
 - [Mouseover Popup Image Viewer](http://anonym.es/?https://greasyfork.org/scripts/404) - Shows images and videos behind links and thumbnails.
 - [Various torrent links to Episodecalendar](http://anonym.es/?https://greasyfork.org/en/scripts/27367-various-torrent-links-to-episodecalendar) - Adds various torrent links next to every episode in calendar, unwatched and season overview sections.
 
@@ -45,6 +44,12 @@
 **[`^        back to top        ^`](#)**
 
 
+## Website "Enhancer" Addons/Extensions
+- [Reddit Enhancment Suite](http://redditenhancementsuite.com/) - Community-driven unofficial browser extension for reddit.
+- [Google unlocked](http://anonym.es/?https://github.com/Ibit-to/google-unlocked) - + [Website](http://anonym.es/?https://ibit.uno/) Google Unlocked Chrome extension unlocks hidden google search results.
+- [Hide Fake Torrents on TPB](http://anonym.es/?https://chrome.google.com/webstore/detail/hide-fake-torrents-on-tpb/fkdhkcpmifehkmadpldbbdadepgplcmo) - Hide fake torrents on TPB.
+
+
 ### Browser Anti-Fingerprinting + "privacy" Extensions
 - [Browser Plugs](https://www.browserplugs.com/) - A Chrome "all-in-one" anti-fingerprinting protection extensions.
 - [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - Alters some JS APIs to prevent fingerprinting.
@@ -67,18 +72,32 @@ All other extensions **do not** adding any benefit over the integrated Browser "
 **[`^        back to top        ^`](#)**
 
 
-### Misc Browser Extensions
+### (anti) CAPTCHA Browser Extensions
+- [MoreCAPTCHA](http://anonym.es/?https://greasyfork.org/en/scripts/31088-morecaptcha) - Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
 - [Buster](http://anonym.es/?https://github.com/dessant/buster) - Captcha solver extension for humans.
-- [Google unlocked](http://anonym.es/?https://github.com/Ibit-to/google-unlocked) - + [Website](http://anonym.es/?https://ibit.uno/) Google Unlocked Chrome extension unlocks hidden google search results.
-- [Hide Fake Torrents on TPB](http://anonym.es/?https://chrome.google.com/webstore/detail/hide-fake-torrents-on-tpb/fkdhkcpmifehkmadpldbbdadepgplcmo) - Hide fake torrents on TPB.
+
+**[`^        back to top        ^`](#)**
+
+
+## URL shortenr extensions
+- [Universal Bypass (for shortner links)](http://anonym.es/?https://chrome.google.com/webstore/detail/universal-bypass/aihomhdbhpnpmcnnbckjjcebjoikpihj)
+
+
+## RSS Feed extensions
+- [RSS Subscription Extension by Google](http://anonym.es/?https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd?hl=en) - Adds one-click subscription to your toolbar and brings back the posability to read RSS Feeds in Chrome.
+
+**[`^        back to top        ^`](#)**
+
+
+### Misc Browser Extensions
+- [Containerise](http://anonym.es/?https://addons.mozilla.org/en-US/firefox/addon/containerise/) - Automatically open websites in a dedicated container. Simply add rules to map domain or subdomain to your container.
 - [Image Search Options](http://anonym.es/?https://saucenao.com/tools/) - Add search options to the right-click context menu.
 - [MegaLinks & Snahp.it Forum Link Solver](http://anonym.es/?https://github.com/samvk/snahp-it-forum-link-solver) - Simplify opening forum.snahp.it links.
-- [Reddit Enhancment Suite](http://redditenhancementsuite.com/) - Community-driven unofficial browser extension for reddit.
 - [Remote Torrent Adder](http://anonym.es/?https://chrome.google.com/webstore/detail/remote-torrent-adder/oabphaconndgibllomdcjbfdghcmenci?hl=en) - Allows you to send torrent files from your browser to your remote or local Bittorrent client's web interface.
-- [RSS Subscription Extension by Google](http://anonym.es/?https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd?hl=en) - Adds one-click subscription to your toolbar and brings back the posability to read RSS Feeds in Chrome.
 - [SABconnect++](http://anonym.es/?https://github.com/gboudreau/sabconnectplusplus) - Chrome extension which adds one-click 'Send to SABnzbd' buttons to many popular NZB index sites.
 - [Save To The Wayback Machine](http://anonym.es/?https://chrome.google.com/webstore/detail/save-to-the-wayback-machi/eebpioaailbjojmdbmlpomfgijnlcemk) - Quickly save web pages to the Internet Archive's Wayback Machine.
-- [Universal Bypass (for shortner links)](http://anonym.es/?https://chrome.google.com/webstore/detail/universal-bypass/aihomhdbhpnpmcnnbckjjcebjoikpihj)
+- [Stylus](http://anonym.es/?https://addons.mozilla.org/en-US/firefox/addon/styl-us/) - Redesign your favorite websites with Stylus, an actively developed and community driven userstyles manager.
+
 
 **[`^        back to top        ^`](#)**
 
@@ -87,6 +106,8 @@ All other extensions **do not** adding any benefit over the integrated Browser "
 - [Iridium](http://anonym.es/?https://github.com/ParticleCore/Iridium) - Iridium is an extension built to improve your experience with the new YouTube Material layout.
 - [YouTube Skip intro (Chrome)](http://anonym.es/?https://chrome.google.com/webstore/detail/youtube-skip-intro/pkfnooichbjhhoajcoffiggbckfbflbg) - Define the intro time to skip it each time you play a video on YouTube helpful when you watching a series or any many episodes shows.
 - [YouTube: Age Verification Bypass](http://anonym.es/?https://greasyfork.org/scripts/375525) - Watch restricted videos without having to log in.
+- [Invidition](http://anonym.es/?https://addons.mozilla.org/en-US/firefox/addon/invidition/) - Redirects YouTube and Twitter to their alternative ads-free, privacy-friendly, interfaces.
+- [SponsorBlock - Sponsorship Blocker for YouTube] - Easily skip YouTube video sponsors. When you visit a YouTube video, the extension will check the database for reported sponsors and automatically skip known sponsors. You can also report sponsors in videos. Compared to uBlock it actually does hide sponsor based in-video ads.
 
 
 ### Browser syncing (self-hosted)
