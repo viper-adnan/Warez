@@ -141,6 +141,7 @@ Downloads albums in bulk.
 - [CrossFTP](http://anonym.es/?http://www.crossftp.com/ftp-client.htm) - CrossFTP makes it extremely simple to manage the FTP related tasks.
 - [D-lan](http://anonym.es/?http://www.d-lan.net/) - A free LAN file sharing software.
 - [DBREE](http://anonym.es/?http://dbr.ee/) - DBREE is a simplistic and easy way to upload and share any type of file.
+- [Envelop](http://anonym.es/?https://github.com/envelop-app) - Decentralized file sharing app via [Web](https://envelop.app/)/[Android](https://play.google.com/store/apps/details?id=app.envelop).
 - [File & Image Uploader](http://anonym.es/?http://z-o-o-m.eu/) - The most comprehensive program to upload files and images to different file-/image-hoster.
 - [FilePizza](http://anonym.es/?http://file.pizza/) - Free peer-to-peer file transfers in your browser.
 - [Filezilla](http://anonym.es/?http://filezilla-project.org/) - The free & open source (S)FTP solution.
