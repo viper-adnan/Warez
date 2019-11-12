@@ -223,7 +223,6 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Mailbox](http://anonym.es/?https://mailbox.org/en/) - Mailbox.org fights for privacy eMails since years and is a big player when it comes to eMail.
 - [Posteo](http://anonym.es/?https://posteo.de/) - Email green, secure, simple and ad-free!
 - [ProtonMail](http://anonym.es/?https://protonmail.com/) - Secure Email Based made in Switzerland.
-- [Tutanota](http://anonym.es/?https://tutanota.com) - A secure and open source eMail provider.
 
 **[`^        back to top        ^`](#)**
 
