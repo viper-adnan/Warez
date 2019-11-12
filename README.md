@@ -2472,6 +2472,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 ## Alternative (private) Search Engines
 - [DavidWon.com](http://anonym.es/?http://davidwon.com/) - (`insecure`) - An alternative search engine for Reddit, Google etc which comes with pre-defined tags to find some things faster.
 - [Mega.nz Search Engine](http://anonym.es/?http://megasearch.co/) - (`insecure`) - A search engine for Mega.nz files.
+- [Ecosia](http://anonym.es/?https://www.ecosia.org/?c=en) - Ecosia's search results are provided by Bing and enhanced by the company's own algorithms to strip away tracking.
 - [Search Encrypt](http://anonym.es/?https://www.searchencrypt.com/) - The Privacy Based Search Engine.
 - [SearX](http://anonym.es/?https://searx.me/) - The world's most private search engine.
 - [Jive Search](http://anonym.es/?https://jivesearch.com/) - A search engine that doesn't track you.
