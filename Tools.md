@@ -147,6 +147,7 @@ Downloads albums in bulk.
 - [Filezilla](http://anonym.es/?http://filezilla-project.org/) - The free & open source (S)FTP solution.
 - [Flareget](http://anonym.es/?http://flareget.com/) - Full featured, multi-threaded download manager and accelerator.
 - [Fopnu](http://anonym.es/?http://fopnu.com/) - Fopnu is a new and decentralized network tool to share files over P2P.
+- [Nord Locker](http://anonym.es/?https://nordlocker.com/) - Store and share your files securely, 5 GB are free.
 - [Mega.nz Website](http://anonym.es/?http://mega.nz/#sync) - Easy automated syncing between your computers and your MEGA cloud drive.
 - [Meiga](http://anonym.es/?http://meiga.igalia.com/) - A tool that makes possible to share selected local directories via web.
 - [NitroShare](http://anonym.es/?http://nitroshare.net/) - Cross-Platform network file transfer application.
