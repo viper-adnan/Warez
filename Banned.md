@@ -470,9 +470,81 @@
 
 ## VPN provider
 - [NordVPN](https://www.theverge.com/2019/10/21/20925065/nordvpn-server-breach-vpn-traffic-exposed-encryption), see [here](https://torrentfreak.com/nordvpn-had-private-keys-stolen-after-server-breach-191022/) for more information.
-- [SurfShark](https://surfshark.com/)
 - [TorGuard](https://torguard.net/blog/why-torguards-network-is-secure-after-an-isolated-2017-server-breach/)
 - [VikingVPN](https://web.archive.org/web/20180504001844/https://8ch.net/b/res/7948898.html)
+- TurboVPN
+- TouchVPN
+- Opera VPN
+- Hoxx VPN
+- Betternet
+- Hola VPN
+- SecureVPN
+- Ace VPN
+- VPN Unlimited
+- Ra4w VPN
+- Speedify
+- AzireVPN
+- Ivacy
+- BTGuard VPN
+- Zenmate
+- DotVPN
+- VPN.ht
+- F-Secure Freedome
+- Kaspersky VPN
+- Anonymizer VPN
+- Norton Wifi Privacy
+- SurfEasy
+- Encrypt Me
+- TigerVPN
+- AVG VPN
+- PureVPN
+- HideMyAss!
+- Hide My IP
+- Hide Me VPN
+- Browsec VPN
+- BitDefender VPN
+- Hide All IP
+- ProxPN
+- ZoogVPN
+- VPN ac
+- OneVPN
+- Cactus VPN
+- SaferVPN
+- SpyOFF
+- VPNTunnel
+- SwitchVPN
+- VyprVPN
+- Buffered
+- BolehVPN
+- Avira Phantom
+- PrivateTunnel
+- HotSpot Shield
+- LiquidVPN
+- TunnelBear
+- PrivateVPN
+- StrongVPN
+- SlickVPN
+- Astrill VPN
+- FrootVPN
+- VPNArea
+- Goose VPN
+- Celo VPN
+- PersonalVPN
+- AirVPN
+- AnonymousVPN.org
+- Avast Secureline
+- IVPN
+- TorGuard
+- FastestVPN
+- BlackVPN
+- VPNSecure Me
+- WindScribe
+- ibVPN (almost no servers)
+- Trust Zone
+- CyberGhost
+- 
+
+
 
 ## eMail provider
 - [Tutanota](http://anonym.es/?https://tutanota.com) - A secure and open source eMail provider, Tutanota is forced (by law) to hand over all data in plain text, read the [german article](https://www.sueddeutsche.de/digital/tutanota-verschluesselung-e-mail-ueberwachung-polizei-1.4676988)
