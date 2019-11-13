@@ -181,6 +181,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Perfect Privacy VPN](http://anonym.es/?https://www.perfect-privacy.com/) - Known in the business since over 10 years.
 - [Private Internet Access](http://anonym.es/?https://www.privateinternetaccess.com/) - Popular subscription-based VPN provider with a proven track record for not keeping logs.
 - [ProtonVPN](http://anonym.es/?https://protonvpn.com/) - High-speed Swiss made VPN that safeguards your privacy.
+- [SurfShark](http://anonym.es/https://surfshark.com/) - Surfshark is an award-winning, secure VPN that encrypts your online data to help you stay private & protected every day, hassle-free.
         
 **[`^        back to top        ^`](#)**
 
