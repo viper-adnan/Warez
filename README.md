@@ -2336,6 +2336,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Psiphon](http://anonym.es/?https://www.psiphon.ca/) - Run your own server, invite your friends, build a community, provide free and unfiltered Internet access to the world.
 - [Scuttlebutt](http://anonym.es/?https://www.scuttlebutt.nz/) - A decentralised secure gossip platform that aims to harmonize four perspectives of life: Environment reflecting Technology reflecting Community reflecting Society.
 - [Shadowsocks](http://anonym.es/?https://shadowsocks.org/) - A secure socks5 proxy, designed to protect your Internet traffic.
+- [kalitorify](http://anonym.es/?https://github.com/brainfucksec/kalitorify) - Transparent proxy through Tor for Kali Linux OS
 
 **[`^        back to top        ^`](#)**
 
