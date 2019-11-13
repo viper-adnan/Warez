@@ -1133,7 +1133,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 
 ## Gaming Infos, Emus & other resources
-- [/r/CrackWatch](http://anonym.es/?https://reddit.com/r/CrackWatch/) - New video game crack releases are posted here.
+- [Crackwatch](http://anonym.es/?https://crackwatch.com/) + Reddit: [/r/CrackWatch](http://anonym.es/?https://reddit.com/r/CrackWatch/) - New video game crack releases are posted here.
 - [CreamAPI AutoInstaller](http://anonym.es/?https://github.com/Douile/cream-api-autoinstaller) - A python script to auto install Cream API for Steam games in order to get all [DLCs for free](http://anonym.es/?https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576&hilit=CreamAPI).
 - [Goldberg Steam Emulator](http://anonym.es/?https://gitlab.com/Mr_Goldberg/goldberg_emulator) - The  project is an attempt to make a generic Steam ddl that lets you play multiplayer games on a LAN without any internet connection.
 - [SmartSteamEmu](http://anonym.es/?https://github.com/MAXBURAOT/SmartSteamEmu) - A Steam emulator.
@@ -2673,3 +2673,19 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 ### Pay-TV Sky
 - [Familienforum.biz](http://anonym.es/?http://www.familienforum.biz/) - Sky cracking news, and other topics.
+
+
+### Steam Client Mods & Skins
+- [AugmentedSteam](http://anonym.es/?https://github.com/tfedor/AugmentedSteam) - Augments your Steam Experience.
+- [Depressurizer](http://anonym.es/?https://github.com/Depressurizer/Depressurizer) - A Steam library categorizing tool.
+- [ICE](http://anonym.es/?https://github.com/scottrice/Ice) - Application to automatically add ROMs to Steam.
+- [Playnite](http://anonym.es/?https://github.com/JosefNemec/Playnite) - Video game library manager with support for 3rd party libraries like Steam, GOG, Origin, Battle.net and Uplay.
+- [Pressure-for-Steam](http://anonym.es/?https://github.com/DirtDiglett/Pressure-for-Steam) - A skin to improve the visual aesthetics of Steam.
+- [Proton](http://anonym.es/?https://github.com/ValveSoftware/Proton) -  Compatibility tool for Steam Play based on Wine and additional components.
+- [shellphish](http://anonym.es/?https://github.com/thelinuxchoice/shellphish) - Phishing Tool for 18 social media: Instagram, Facebook, Snapchat, Github, Twitter, Yahoo, Protonmail, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers, Gitlab, Pinterest.
+- [steam-dark-mode](http://anonym.es/?https://github.com/AikoMidori/steam-dark-mode) - A true Dark Mode for Steam.
+- [SteamCleaner](http://anonym.es/?https://github.com/Codeusa/SteamCleaner) - A PC utility for restoring disk space from various game clients like Origin, Steam, Uplay, Battle.net, GoG and Nexon.
+- [SteamCMD-GUI](http://anonym.es/?https://github.com/DioJoestar/SteamCMD-GUI) - Graphical interface for SteamCMD.
+- [SteamDesktopAuthenticator](http://anonym.es/?https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app.
+- [Threshold-Skin](http://anonym.es/?https://github.com/Edgarware/Threshold-Skin) - A Windows 10 UWP style skin for Steam.
+
