@@ -469,7 +469,8 @@
 
 
 ## VPN provider
-- [NordVPN](https://www.theverge.com/2019/10/21/20925065/nordvpn-server-breach-vpn-traffic-exposed-encryption), see [here](https://torrentfreak.com/nordvpn-had-private-keys-stolen-after-server-breach-191022/) for more information
+- [NordVPN](https://www.theverge.com/2019/10/21/20925065/nordvpn-server-breach-vpn-traffic-exposed-encryption), see [here](https://torrentfreak.com/nordvpn-had-private-keys-stolen-after-server-breach-191022/) for more information.
+- [SurfShark](https://surfshark.com/)
 - [TorGuard](https://torguard.net/blog/why-torguards-network-is-secure-after-an-isolated-2017-server-breach/)
 - [VikingVPN](https://web.archive.org/web/20180504001844/https://8ch.net/b/res/7948898.html)
 
