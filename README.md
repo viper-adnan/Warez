@@ -1003,7 +1003,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [CMoviesHD](http://anonym.es/?https://www2.cmovieshd.bz) - Basic streaming site layout, HD server with additional hosts.
 - [DP Stream](http://anonym.es/?https://www.dpstream.net/) - (FR) - Films/Series/Animés a votre dispositions sur différents herbergeurs. dpstream.net.
 - [Daxiv Video](http://anonym.es/?https://daxiv.com/) - Movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more. Primarily Chinese content.
-- [FMOVIES](http://anonym.es/?https://www3.fmovies.to/) - Openload, MyCloud, RapidVideo, Streamango-
+- [FMOVIES](http://anonym.es/?https://fmovies.to/) - Just a better place for watching online movies for free!
 - [FilmXY](http://anonym.es/?https://www.filmxy.one/) - Download Free Unlimited Movies Online From Filmxy At Great Quality!! Here You Can Download Movies in Bluray, 1080p, 720p, HD, HDTV, Web-dl, DvD-rip & more
 - [Filmz.cc](http://anonym.es/?https://www.filmz.cc/) - (FR) - French streaming website.
 - [FlixGo](http://anonym.es/?https://flixgo.net/) - Ralph Breaks the Internet. Avengers: Infinity War. Incredibles 2. Ant-Man and the Wasp ... Dawn of Justice. Captain America: Civil War. FlixGo.
@@ -1030,6 +1030,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Streamcomplete](http://anonym.es/?https://streamcomplet.me/) - (FR) - Streaming gratuit des films en VF, Regarder les meilleurs sélections des films complets en version française a voir online.
 - [TakiART](http://anonym.es/?https://www.takiartmovies.ga/) - Watch and download latest Hollywood movies for free.
 - [Time2Watch](http://anonym.es/?https://time2watch.in/) - (FR) - Films, séries et mangas en streaming et téléchargement gratuit pour PC, iPhone, iPad et autres Smartphones.
+- [Tubeninja](http://anonym.es/?https://tubeninja.net) - All-in-one audio and video downloader that doesn't require any installation. 
 - [VF-Streaming](http://anonym.es/?https://www.vf-stream.org/) - (FR) - Voir Les Meilleurs Films, Séries Et Manga En Streaming HD Gratuit Sans inscription Sur VF Stream Venez découvrir les derniers films complet en français.
 - [Vidcloud](http://anonym.es/?https://vidcloud.icu/) - Basic streaming site layout, HD server with additional hosts.
 - [VodLocker](http://anonym.es/?https://vodlocker.tv/) - Official home of vodlocker - no ads and only good movies.
