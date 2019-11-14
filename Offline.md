@@ -38,6 +38,7 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - Streamworld.cc
 - Streamworld.co
 - Streamworld.to
+- Stream-tv.me
 - view4u.co
 - kinow.to
 - Pirate.ws
