@@ -385,7 +385,7 @@ Downloads albums in bulk.
 
 
 ## Adobe CC
-- ["Ultimate Adobe Guide!"](http://anonym.es/?http://www.reddit.com/r/Piracy/comments/arbt9p/ultimate_adobe_guide/?sort=new) - Reddit guide for Adobe Products.
+- [Adobe CC 2019/2020 GenP - Universal Patch - Updated V 2.2](http://anonym.es/?https://www.nsaneforums.com/topic/344869-adobe-cc-20192020-genp-universal-patch-updated-v-22/#comments)
 - [Adobe CC 2018 - Full in-depth guide to installing and using any application (Windows)](http://anonym.es/?http://www.reddit.com/r/sjain_guides/comments/9g4t2u/adobe_cc_2018_full_indepth_guide_to_installing/) - A full in-depth guide to installing and cracking any application (Windows) - by sjain_guides.
 - [Adobe Photoshop CC 2019 - Full in-depth guide to installation and activation (Windows)](http://anonym.es/?http://old.reddit.com/r/sjain_guides/comments/9q4u6r/adobe_photoshop_cc_2019_full_indepth_guide_to/) - A full in-depth guide to installing and cracking any application (Windows) - by sjain_guides.
 - [Adobe Zii 4.0.3](http://anonym.es/?http://www.reddit.com/r/Piracy/comments/9v7tr6/adobe_zii_403_released_now_includes_incopy/) - Tool for patching and cracking Adobe CC applications
