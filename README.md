@@ -2676,6 +2676,8 @@ Since this list is really huge I can't name each and every single one of you, bu
 ### Pay-TV Sky
 - [Familienforum.biz](http://anonym.es/?http://www.familienforum.biz/) - Sky cracking news, and other topics.
 
+**[`^        back to top        ^`](#)**
+
 
 ### Steam Client Mods & Skins
 - [AugmentedSteam](http://anonym.es/?https://github.com/tfedor/AugmentedSteam) - Augments your Steam Experience.
@@ -2691,3 +2693,31 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [SteamDesktopAuthenticator](http://anonym.es/?https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app.
 - [Threshold-Skin](http://anonym.es/?https://github.com/Edgarware/Threshold-Skin) - A Windows 10 UWP style skin for Steam.
 
+**[`^        back to top        ^`](#)**
+
+## PayPal alternatives
+- [2Checkout](http://anonym.es/?https://www.2checkout.com/)
+- [Amazon Pay](http://anonym.es/?https://pay.amazon.com/)
+- [Authorize.Net](http://anonym.es/?https://account.authorize.net/)
+- [Braintree](http://anonym.es/?https://www.braintreepayments.com/)
+- [Dwolla](http://anonym.es/?https://www.dwolla.com/)
+- [Google Pay](http://anonym.es/?https://pay.google.com/about/)
+- [Intuit](http://anonym.es/?https://www.intuit.com/)
+- [Klarna](http://anonym.es/?https://www.klarna.com/international/)
+- [Payoneer](http://anonym.es/?https://www.payoneer.com/)
+- [Pyline](http://anonym.es/?https://paylinedata.com/) (_US only so far_)
+- [Shopify Payments](http://anonym.es/?https://www.shopify.com/)
+- [Skrill](http://anonym.es/?hhttps://www.skrill.com/)
+- [Square](http://anonym.es/?https://www.ojrq.net) 
+- [Stripe](http://anonym.es/?hhttps://stripe.com/)
+- [TransferWise](http://anonym.es/?https://transferwise.com/)
+- [WePay](http://anonym.es/?https://go.wepay.com/)
+- [WorldPay](http://anonym.es/?https://www.worldpay.com/)
+
+### PayPal alternatives (crypto based)
+- [Monero](http://anonym.es/?https://www.getmonero.org/)
+
+### PayPal alternatives (donation based)
+- [Liberapay](http://anonym.es/?https://en.liberapay.com/)
+
+**[`^        back to top        ^`](#)**
