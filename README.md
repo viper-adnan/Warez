@@ -1126,6 +1126,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [Official Plex Addon](https://anonym.to/?https://forums.plex.tv/t/installation-instructions/168854) - Official Plex add-on for Kodi.
 - [PlexKodiConnect](https://anonym.to/?https://github.com/croneter/PlexKodiConnect) - Plex integration in Kodi done right.
 - [Python-GoogleDrive-VideoStream](https://anonym.to/?https://github.com/ddurdle/Python-GoogleDrive-VideoStream) - Provides service content delivered in Google Drive plugin for KODI through any HTML5 client.
+- [Seren](https://anonym.to/?https://www.reddit.com/r/Addons4Kodi/comments/dt4kg2/recommended_addons_november_2019/f6ukyfr?utm_source=share&utm_medium=web2x) Kodi addon which works with Premiumize and Real-Debrid to stream torrents with the appropriate provider package instantly.
 - [Sparkle](https://anonym.to/?https://github.com/iwannabelikemike/plugin.video.sparkle) - Kodi addon for finding acestream links.
 - [Tooonmania2](https://anonym.to/?https://github.com/doko-desuka/doko.repository/releases) - lets you watch cartoons, dubbed anime and movies (from animetoon) - and subbed anime and movies (from animeplus).
 - [tvtorrentorganizer](https://anonym.to/?https://github.com/tvtorrentorganizer/tvtorrentorganizer) - Bash 4 Script to Organize TV Show Downloads for Kodi
@@ -1804,6 +1805,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [readcomiconline.to](https://anonym.to/?https://readcomiconline.to/) - Manga and comics which are been uploaded daily.
 - [ReadComics](https://anonym.to/?http://readcomics.website/) - (`insecure`) - Several misc comics published.
 - [WorldWideTorrents](https://anonym.to/?https://worldwidetorrents.eu/torrents.php?parent_cat=Comics) - Provides comic releases.
+- [Omnibus](https://anonym.to/?https://github.com/fireshaper/Omnibus) Download comics that are added to GetComics.info.
 
 **[`^        back to top        ^`](#)**
 
@@ -2329,6 +2331,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 - [ByPassed](https://anonym.to/?https://bypassed.wtf/) - ByPassed is an all-in-one solution to unblock censored websites including thepiratebay, kickass, eztv, yts, extratorrent & more.
 - [ProxySite.cc](https://anonym.to/?https://proxysite.cc/) + ([Mirror](https://anonym.to/?https://proxysite.site/)) + ([for Videos](https://anonym.to/?https://proxysite.video/)) - Free web proxy site to bypass filters and unblock blocked websites anonymously.
 - [Unblocked](https://anonym.to/?https://unblocked-pw.github.io/) - Proxy site for accessing your favourite blocked sites.
+- [netflix-proxy](https://anonym.to/?https://github.com/ab77/netflix-proxy/) Smart DNS proxy to unblock Netflix streams.
 
 **[`^        back to top        ^`](#)**
 
@@ -2357,17 +2360,20 @@ Since this list is really huge I can't name each and every single one of you, bu
 
 **[`^        back to top        ^`](#)**
 
+
 ## Secure PasteBin alternatives
 - [PrivateBin](https://anonym.to/?https://privatebin.net/) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data.
 - [ZeroBin](https://anonym.to/?https://zerobin.net/) + [Tor Mirror](https://anonym.to/?https://zerobinqmdqd236y.onion) & [source code](https://anonym.to/?https://github.com/sebsauvage/ZeroBin)
 
 **[`^        back to top        ^`](#)**
 
+
 ## DNS based Ad-Blockers
 - [AdGuard Home](https://anonym.to/?https://github.com/AdguardTeam/AdGuardHome) - AdGuard Home is a network-wide software for blocking ads & tracking.
 - [Pi-hole](https://anonym.to/?https://pi-hole.net/) - Pi-Hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole.
 
 **[`^        back to top        ^`](#)**
+
 
 ## Emby Servers
 - [/r/EmbyShares](https://anonym.to/?https://www.reddit.com/r/EmbyShares) - This subreddit is dedicated to the sharing of Emby servers.
