@@ -473,6 +473,7 @@
 - [TorGuard](https://torguard.net/blog/why-torguards-network-is-secure-after-an-isolated-2017-server-breach/)
 - [VikingVPN](https://web.archive.org/web/20180504001844/https://8ch.net/b/res/7948898.html)
 - TurboVPN
+- [Private Internet Access](https://www.techradar.com/news/cyberghost-owner-buys-pia-for-dollar955m-to-create-vpn-giant)
 - TouchVPN
 - Opera VPN
 - Hoxx VPN
@@ -542,9 +543,11 @@
 - ibVPN (almost no servers)
 - Trust Zone
 - CyberGhost
-- 
 
 
 
 ## eMail provider
 - [Tutanota](http://anonym.es/?https://tutanota.com) - A secure and open source eMail provider, Tutanota is forced (by law) to hand over all data in plain text, read the [german article](https://www.sueddeutsche.de/digital/tutanota-verschluesselung-e-mail-ueberwachung-polizei-1.4676988)
+
+## Tools
+- [FlashFXP](http://www.whig.com/20171021/quincy-man-faces-federal-exploitation-of-a-minor-charges#//)
