@@ -2589,6 +2589,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 ### Google reCAPTCHA
 - [TextCaptcha](https://anonym.to/?http://textcaptcha.com/) - A privacy respecting reCAPTCHA alternative. 
 - [SecureImage](https://anonym.to/?https://www.phpcaptcha.org/) - Yet another alternative to Google's reCAPTCHA system which is open source. 
+- [PrivacyPass](https://anonym.to/?https://privacypass.github.io/team/) - A privacy-preserving and frustration-reducing alternative to CAPTCHAs which uses [Trust API](https://anonym.to/?https://github.com/dvorak42/trust-token-api) principles. A standalone API is planned.
 
 
 ### YouTube
