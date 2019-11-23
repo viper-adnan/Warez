@@ -822,3 +822,50 @@ Downloads albums in bulk.
 - [smarttv-twitch](https://anonym.to/?https://github.com/fgl27/smarttv-twitch) - Twitch client for Samsung Smart TVs 2015 and newer models.
 
 **[`^        back to top        ^`](#)**
+
+
+## OS Fingerprinting tools
+- [asp-audit](https://anonym.to/?http://seclists.org/basics/2006/Sep/128) - An ASP fingerprinting tool and vulnerability scanner.
+- [blindelephant](https://anonym.to/?http://blindelephant.sourceforge.net/) - Attempts to discover the version of a (known) web application by comparing static files at known locations.
+- [cms-explorer](https://anonym.to/?https://github.com/FlorianHeigl/cms-explorer) - Designed to reveal the specific modules, plugins, components and themes that various cms driven websites are running.
+- [complemento](https://anonym.to/?http://complemento.sourceforge.net/) - A collection of tools for pentester.
+- [detectem](https://anonym.to/?https://github.com/spectresearch/detectem) - Detect software and its version on websites.
+- [dhcpf](https://anonym.to/?https://github.com/elceef/dhcpf) - Passive DHCP fingerprinting implementation.
+- [dnsmap](https://anonym.to/?http://dnsmap.googlecode.com/) - Passive DNS network mapper.
+- [Ettercap](https://anonym.to/?hhttps://www.ettercap-project.org/) - Is a comprehensive suite for man in the middle attacks, sniffing of live connections, content filtering on the fly and many other interesting tricks... 
+- [fingerprinter](https://anonym.to/?https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library etc Versions Fingerprinter.
+- [fl0p](https://anonym.to/?http://lcamtuf.coredump.cx/) - A passive L7 flow fingerprinter that examines TCP/UDP/ICMP packet sequences, can peek into cryptographic tunnels, can tell human beings and robots apart, and performs a couple of other infosec-related tricks.
+- [fpdns](https://anonym.to/?https://github.com/kirei/fpdns) - Program that remotely determines DNS server versions.
+- [ftpmap](https://anonym.to/?http://wcoserver.googlecode.com/files/) - Scans remote FTP servers to identify what software and what versions they are running.
+- [htrosbif](https://anonym.to/?https://github.com/lkarsten/htrosbif) - Active HTTP server fingerprinting and recon tool.
+- [httprint](https://anonym.to/?http://www.net-square.com/httprint.html) - A web server fingerprinting tool.
+- [lbmap](https://anonym.to/?https://github.com/wireghoul/lbmap) - Proof of concept scripts for advanced web application fingerprinting, presented at OWASP AppSecAsia (_2012_).
+- [mwebfp](https://anonym.to/?https://github.com/falcon-lnhg/mwebfp) - Mass Web Fingerprinter.
+- [neighbor-cache-fingerprinter](https://anonym.to/?https://github.com/PherricOxide/Neighbor-Cache-Fingerprinter) - An ARP based Operating System version scanner.
+- [NetScanTools Pro](https://anonym.to/?https://www.netscantools.com/nstpro-demo-download.html) - Based on ICMP techniques and will not give OS identifications as accurate as those provided by nmap.
+- [NetSleuth](https://anonym.to/?http://www.netgrab.co.uk/) - Free network forensics and pcap file analyser.
+- [NetworkMiner](https://anonym.to/?http://networkminer.wiki.sourceforge.net/NetworkMiner) - Open source Network Forensic Analysis Tool (NFAT) for Windows (but also works in Linux / Mac OS X / FreeBSD).
+- [nimbostratus](https://anonym.to/?https://github.com/andresriancho/nimbostratus) - 	Tools for fingerprinting and exploiting Amazon cloud infrastructures.
+- [Nmap](https://anonym.to/?https://nmap.org/) - Security Scanner, Port Scanner, & Network Exploration tool.
+- [ntp-fingerprint](https://anonym.to/?http://www.hackingciscoexposed.com/?link=tools) - An active fingerprinting utility specifically designed to identify the OS the NTP server is running on.
+- [operative](https://anonym.to/?https://github.com/graniet/operative-framework) - Framework based on fingerprint action, this tool is used for get information on a website or a enterprise target with multiple modules.
+- [p0f](https://anonym.to/?https://github.com/p0f/p0f) - Passive TCP/IP stack fingerprinting tool.
+- [PacketFence](https://anonym.to/?https://packetfence.org) - Free and Open Source network access control (NAC) solution, it provides abnormal network activities detection and many more.
+- [PRADS](https://anonym.to/?https://github.com/gamelinux/prads) - Passive Real-time Asset Detection System. 
+- [propecia](https://anonym.to/?http://www.redlevel.org/) - A fast class scanner that scans for a specified open port with banner grabbing.
+- [Satori](https://anonym.to/?https://github.com/xnih/satori) - Basically listens on the wire for all traffic and does OS Identification based on what it sees.
+- [scannerl](https://anonym.to/?https://github.com/kudelskisecurity/scannerl) - The modular distributed fingerprinting engine.
+- [Scapy](https://anonym.to/?https://scapy.net) - Python-based interactive packet manipulation program & library.
+- [SinFP](https://anonym.to/?http://www.gomor.org/sinfp) - SinFP is a new approach to OS fingerprinting, which bypasses limitations that nmap has.
+- [sinfp](https://anonym.to/?http://www.projectiwear.org/~plasmahh/software.html) - A full operating system stack fingerprinting suite.
+- [smtpmap](https://anonym.to/?http://www.projectiwear.org/~plasmahh/software.html) - Tool to identify the running smtp software on a given host.
+- [smtpscan](https://anonym.to/?http://packetstormsecurity.com/files/31102/smtpscan.5.tar.gz.html) - An SMTP scanner.
+- [spartan](https://anonym.to/?https://github.com/sensepost/SPartan) - Frontpage and Sharepoint fingerprinting and attack tool.
+- [Superscan](https://anonym.to/?http://www.foundstone.com) - A Windows-only port scanner, pinger, and resolver, closed-source TCP/UDP port scanner by Foundstone.
+- [tls-fingerprinting](https://anonym.to/?https://github.com/LeeBrotherston/tls-fingerprinting) - Tool and scripts to perform TLS Fingerprinting.
+- [tls-prober](https://anonym.to/?https://github.com/WestpointLtd/tls_prober) - A tool to fingerprint SSL/TLS servers.
+- [Unicornscan](https://anonym.to/?http://www.unicornscan.org) - TCP/IP stack scan for information gathering and correlation.
+- [XProbe2](https://anonym.to/?https://linux.die.net/man/1/xprobe2) - Active operating system fingerprinting tool with a different approach to operating system fingerprinting. xprobe2 relies on fuzzy signature detection.
+- [zgrab2](https://anonym.to/?https://github.com/zmap/zgrab2) - Go Application Layer Scanner.
+
+**[`^        back to top        ^`](#)**
