@@ -27,6 +27,9 @@ Since this list is really huge I can't name each and every single one of you, bu
 * All other people which helped to push this little project forward.
 * All people which are involved in the piracy & netsec scene or created forums to talk about such topics.
 
+### Donations
+I do not accept any donations or add a sponsorship button for this repository. It should be free for anyone and should not be influenced by specific groups/people or organizations.
+
 ### What **does not** belong on this list? (see code of conduct)
 * Illegal programs (cracks, keygens etc.) or direct links to copyright protected material.
 * Links to [banned websites](https://github.com/CHEF-KOCH/Warez/blob/master/Banned.md).
