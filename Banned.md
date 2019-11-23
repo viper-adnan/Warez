@@ -468,12 +468,17 @@
 - [unlockapk](https://unlockapk.com/) - A website which aims to remove ads from pk files.
 
 
+## VPN Research
+- [VPNpro research: this Chinese-linked company secretly owns 10 VPNs with 86 million installs](https://securityaffairs.co/wordpress/86328/security/chinese-company-vpns.html)
+- [Kape turns privacy crusader with purchase of VPN provider PIA](https://www.proactiveinvestors.co.uk/companies/news/907357/kape-turns-privacy-crusader-with-purchase-of-vpn-provider-pia-907357.html)
+- [Hidden VPN owners unveiled: 97 VPN products run by just 23 companies](https://vpnpro.com/blog/hidden-vpn-owners-unveiled-97-vpns-23-companies/)
+
 ## VPN provider
 - [NordVPN](https://www.theverge.com/2019/10/21/20925065/nordvpn-server-breach-vpn-traffic-exposed-encryption), see [here](https://torrentfreak.com/nordvpn-had-private-keys-stolen-after-server-breach-191022/) for more information.
 - [TorGuard](https://torguard.net/blog/why-torguards-network-is-secure-after-an-isolated-2017-server-breach/)
 - [VikingVPN](https://web.archive.org/web/20180504001844/https://8ch.net/b/res/7948898.html)
 - TurboVPN
-- [Private Internet Access](https://www.techradar.com/news/cyberghost-owner-buys-pia-for-dollar955m-to-create-vpn-giant)
+- [Private Internet Access](https://www.techradar.com/news/cyberghost-owner-buys-pia-for-dollar955m-to-create-vpn-giant), also see [here](https://www.proactiveinvestors.co.uk/companies/news/907357/kape-turns-privacy-crusader-with-purchase-of-vpn-provider-pia-907357.html)
 - TouchVPN
 - Opera VPN
 - Hoxx VPN
