@@ -103,11 +103,14 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## Social Media Alternatives
-- [Gab Social](https://anonym.to/?https://gab.com/) - Gab is a fork of Mastodon, itself an open-source self-hosted, federated social media networking service. 
+- [Framapiaf](https://anonym.to/?https://framapiaf.org/about/) Mastodon instance of [Framasoft](https://anonym.to/?https://framasoft.org), a nonprofit organization focusing on free-software alorisation.
+- [Mamot](https://anonym.to/?https://mamot.fr/about/) Mastodon instance of the [La Quadrature du Net](https://anonym.to/?https://www.laquadrature.net/en/), a French advocacy group that promotes digital rights and freedoms of citizens.
+- [Mastodon](https://anonym.to/?https://joinmastodon.org/) - Mastodon is an open-source self-hosted, federated social media networking service.
 - [MeWe](https://anonym.to/?https://mewe.com/) - Google+ replacement.
 - [Movim](https://anonym.to/?https://freedif.org/movim-the-decentralized-social-network) - Movim is a social network, based on XMPP, with Chat and chatrooms, news & communities features.
 - [Nitter](https://nitter.net/) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
 - [Pleroma](https://anonym.to/?https://pleroma.social/) - Host your own social media.
+- [social.privacytools.io](https://anonym.to/?https://social.privacytools.io/about/) Mastodon instance of [PrivacyTools](https://anonym.to/?https://www.privacytools.io/), a volunteer-run privacy centered collective.
 - [Stream.io](https://anonym.to/?https://Stream.io) - Tries to combine all social networks into one place (_currently beta_).
 
 **[`^        back to top        ^`](#)**
