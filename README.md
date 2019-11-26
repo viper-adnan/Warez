@@ -1633,7 +1633,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ### Microsoft Windows Activation (KMS/KMS38/HWID)
 - [HWIDGEN](https://anonym.to/?https://old.reddit.com/r/sjain_guides/comments/9qyuij/hwidkms38genmk6_download_and_usage_guide/) - Download and usage guide (permanent or long-term activation for any edition of Windows 10). HWIDGEN provides several activation methods. [Source code](https://anonym.to/?https://github.com/CHEF-KOCH/HWIDGEN-SRC)
-- [KMS Activator](https://anonym.to/?https://github.com/CHEF-KOCH/KMS-activator) - The original open source repo for KMS related activation & research.
+- [KMS Activator](https://anonym.to/?https://yzyveojj6tqzqwe5muzglg-on.drv.tw/KVA/ReadMe36.html) - The original open source repo for KMS related activation & research.
 - [KMS Server Emulator written in Python](https://anonym.to/?https://github.com/SystemRage/py-kms) - Open source KMS Server Emulator written in Python.
 - [PIDChecker](https://anonym.to/?https://github.com/BlackRouter/PIDChecker/) - Validate and check Microsoft Product keys.
 - [W10-Digital-License-Activation-Script-4](https://anonym.to/?https://github.com/trungx/W10-Digital-License-Activation-Script-4) - Activate the Windows 10 permanently with digital License.
