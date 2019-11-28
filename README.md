@@ -929,6 +929,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Aniwatcher](https://anonym.to/?https://aniwatcher.com/) - Subs and dubs, pop-up ads on video player, downloadable, multiple sources.
 - [AnimeFreak.TV](https://anonym.to/?https://www.animefreak.tv/) - Subs and sometimes dubs, banner and pre-roll ads, one source.
 - [9Anime](https://anonym.to/?https://www2.9anime.to/) - Subs and dubs, many ads, many player alternatives, videos hosted by Google.
+- [All-animes](https://anonym.to/?https://all-animes.com) - Watch Online Anime in HD, English, subbed and dubbed.
 - [Animeboys](https://anonym.to/?https://www.kaze-online.de/) - (Ger) - Subs and dubs, banner and pop-up ads, multiple sources.
 - [Animefever](https://anonym.to/?https://www.animefever.tv/) - Subs only, multilingual, banner ads, self-hosted.
 - [Anime Streams](https://anonym.to/?https://www.anime2you.de/streams/) - Sub and dub, banner ads.
