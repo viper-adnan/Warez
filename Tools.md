@@ -10,6 +10,12 @@
 **[`^        back to top        ^`](#)**
 
 
+## Directory Brute Forcer
+- [dirsearch](https://anonym.to/?https://github.com/maurosoria/dirsearch) - Web path scanner.
+
+**[`^        back to top        ^`](#)**
+
+
 ## Music Library Manager
 - [Beets](https://anonym.to/?https://github.com/beetbox/beets) - Beets is the media library management system for obsessive music geeks.
 - [Groove Music](https://anonym.to/?https://www.microsoft.com/en-us/p/groove-music/9wzdncrfj3pt?activetab=pivot:overviewtab) - Windows users only!
