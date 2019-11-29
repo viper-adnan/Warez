@@ -194,6 +194,7 @@ Downloads albums in bulk.
 
 ## Reverse Engineering Tools
 - [Capstone](https://anonym.to/?http://www.capstone-engine.org/) - Lightweight multi-platform, multi-architecture disassembly framework.
+- [disasm.pro](https://anonym.to/?https://github.com/ret2got/disasm.pro) - A realtime assembler/disassembler (formerly known as [disasm.ninja](https://anonym.to/?https://disasm.pro/)).
 - [Evan's Debugger](https://anonym.to/?http://www.codef00.com/projects#debugger) - OllyDbg-like debugger for GNU/Linux.
 - [Frida](https://anonym.to/?http://www.frida.re/) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 - [Ghidra](https://anonym.to/?http://www.ghidra-sre.org/) - Suite of free software reverse engineering tools developed by NSA's Research Directorate originally exposed in WikiLeaks's "Vault 7" publication and now maintained as open source software.
