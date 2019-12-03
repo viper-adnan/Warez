@@ -237,7 +237,9 @@ Downloads albums in bulk.
 
 
 ### eMail Clients (Desktop/Mobile)
+- [Confidant](https://anonym.to/?https://www.confidantmail.org/) - Another secure eMail provider, apps are planned.
 - [ElectronMail](https://anonym.to/?http://github.com/vladimiry/ElectronMail) - Electron based wrapper for ProtonMail & Tutanota.
+- [Lavabit](https://anonym.to/?https://lavabit.com/) - Those guys are back and they are now developing their own mail protocol for secure communication.
 - [Mozilla Thunderbird](https://anonym.to/?http://www.thunderbird.net/en-US/) - Well-known open source eMail Client from Mozilla.
 - [p=p](https://anonym.to/?http://www.pep.security/) - Pretty Easy Privacy (p=p) - email client encrypts all communications in your email without the need for you to create new accounts.
 - [Tutanota](https://anonym.to/?http://github.com/tutao/tutanota) - Email client with a strong focus on security and privacy that lets you encrypt emails on all your devices.
