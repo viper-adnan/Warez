@@ -769,6 +769,8 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ### The-Eye
+- [/public/Piracy/](https://anonym.to/?https://the-eye.eu/public/Piracy/) 
+- [exodos.the-eye.eu](https://exodos.the-eye.eu/)
 - [In progress subreddit archive](https://anonym.to/?https://the-eye.eu/r)
 - [All DOS games](https://anonym.to/?https://exodos.the-eye.eu)
 - [Keygens](https://anonym.to/?https://parazite.the-eye.eu/)
