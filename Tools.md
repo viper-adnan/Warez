@@ -313,6 +313,7 @@ Downloads albums in bulk.
 - [onlinevideoconverter](https://anonym.to/?http://www.onlinevideoconverter.com/youtube-converter) - Convert YouTube video links to MP4, MP3, AVI with our YouTube Converter & Downloader.
 - [y2mate.com](https://anonym.to/?http://y2mate.com/) - Download Video and Audio from YouTube.
 - [youtube-dl](https://anonym.to/?http://ytdl-org.github.io/youtube-dl/index.html) - youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
+- [TheFrenchGhostys YouTube-DL Archivist Scripts](https://gitlab.com/TheFrenchGhosty/TheFrenchGhostys-YouTube-DL-Archivist-Scripts) - The ultimate collection of scripts for YouTube-DL.
 
 
 ### YouTube Channel Blocker
