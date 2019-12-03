@@ -198,6 +198,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ### Self-hosted VPN
+- [Cloudron](https://anonym.to/?https://cloudron.io/get.html) - A solution that allows anybody to create private clouds instantaneously.
 - [n2n](https://anonym.to/?https://github.com/ntop/n2n) - A Peer-to-peer VPN.
 - [OpenVPN](https://anonym.to/?https://openvpn.net/) - OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
 - [PeerVPN](https://anonym.to/?https://peervpn.net/) - PeerVPN is a software that builds virtual ethernet networks between multiple computers.
@@ -206,6 +207,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Mysterium Network](https://anonym.to/?https://mysterium.network/) - Yet another self-hosted VPN.
 - [Outline by Alphabet](https://anonym.to/?https://www.getoutline.org/) - Not a traditional VPN but it might work with Google Cloud, AWS & more.
 - [ocserv](https://anonym.to/?https://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server.
+- [vpn-at-home](https://anonym.to/?https://github.com/ezaquarii/vpn-at-home) - 1-click, self-hosted deployment of OpenVPN with DNS ad blocking sinkhole.
 - [WireGuard VPN](https://anonym.to/?https://www.wireguard.com/) - WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
 
 **[`^        back to top        ^`](#)**
@@ -2518,6 +2520,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [SearX](https://anonym.to/?https://searx.me/) - The world's most private search engine.
 - [Swisscows](https://swisscows.com/) - Private and secure Search engine made from Swiss.
 - [Jive Search](https://anonym.to/?https://jivesearch.com/) - A search engine that doesn't track you.
+- [Yippy](https://anonym.to/?https://yippy.com/) - Another private search engine and replacement for Google Search.
 - [Qwant](https://anonym.to/?https://lite.qwant.com/) - Yet another search engine.
 
 **[`^        back to top        ^`](#)**
