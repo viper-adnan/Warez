@@ -2754,6 +2754,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ### PayPal alternatives (crypto based)
 - [Monero](https://anonym.to/?https://www.getmonero.org/)
+- [Zcash](https://anonym.to/?https://github.com/adityapk00/zecwallet-lite/releases/latest)
 
 ### PayPal alternatives (donation based)
 - [Liberapay](https://anonym.to/?https://en.liberapay.com/)
