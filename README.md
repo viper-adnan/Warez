@@ -58,6 +58,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Tutorials.md](https://github.com/CHEF-KOCH/Warez/blob/master/Tutorials.md) - Lists all warez related tools.
 - [Banned.md](https://github.com/CHEF-KOCH/Warez/blob/master/Banned.md) - Lists all banned groups, programs and topics
 - [Offline.md](https://github.com/CHEF-KOCH/Warez/blob/master/Offline.md) - Lists all offline or compromised websites.
+- [Open Source hardware.md](https://github.com/CHEF-KOCH/Warez/blob/master/Open%20Source%20Hardware.md) - Lists privacy and FOSS hardware alternatives.
 - [Trusted.md](https://github.com/CHEF-KOCH/Warez/blob/master/Trusted.md) - Lists trusted groups or people which are known to crack or upload stuff.
 - [Code-of-Conduct.md](https://github.com/CHEF-KOCH/Warez/blob/master/CODE_OF_CONDUCT.md) - A list which provides our current project standards.
 
@@ -2288,8 +2289,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Direct Connect (protocol)](https://anonym.to/?https://en.wikipedia.org/wiki/Direct_Connect_(protocol)) - Wikipedia page describing Direct Connect.
 - [EiskaltDC++](https://anonym.to/?https://github.com/eiskaltdcpp/eiskaltdcpp) - Windows/Linux/macOS DC++ client, with ADC and DHT support
 - [FlylinkDC++](http://www.flylinkdc.com/) - (`insecure`) - Windows DC++ and BitTorrent client in active development, with ADC and DHT support.
-- [Linux DC++](https://anonym.to/?https://launchpad.net/linuxdcpp) - Easy to configure and use DC++ client
-- [LinuxDC++](https://anonym.to/?https://launchpad.net/linuxdcpp) - Utilizing the latest DC++ core, LinuxDC++ offers similar functionality to the Windows client like segmented downloading, TTH based file integrity, etc. with a GTK+ user interface.
+- [Linux DC++](https://anonym.to/?https://launchpad.net/linuxdcpp) - Easy to configure and use DC++ client.
 - [Tankafett](http://tankafett.biz/?do=hublist) - (`insecure`) - List of public DC++ hubs, previously known as hublist.org and TheHubList.com.
 
 **[`^        back to top        ^`](#)**
