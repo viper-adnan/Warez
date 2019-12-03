@@ -46,6 +46,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 ## How do I search on this page?
 * A search function is planned, [among other small features](https://github.com/CHEF-KOCH/Warez/blob/master/.github/PROJECT_ToDo.md).
 * Since there is (currently) - no filter or page search you need to browse trough the page from within your Browser via `Ctrl + F` or `Cmd + F`.
+* A web based search will be integrated at the end of Jan. 2020.
 
 ## Project structure
 - `.github` - Documents, Todo etc.
@@ -762,10 +763,23 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [mattpalm.com/search](https://anonym.to/?https://mattpalm.com/search/) - Get direct download links for almost anything.
 - [Musgle](http://www.musgle.com/) - (`insecure`) - Musgle in action just type a song title, or the artist name, or both in a search bar and hit 'Enter' - you will be redirected to the Google page with relevant search results. Click on one of those results, and you will have a chance to directly download the song you are searching for - very smooth!
 - [opendirectory-finder](https://anonym.to/?https://ewasion.github.io/opendirectory-finder/) - Get direct download links for almost anything.
-- [The Eye CGS Engine](https://anonym.to/?https://cgs.the-eye.eu/) - The-Eye - CGS Engine
 - [wtfnzb](https://anonym.to/?https://wtfnzb.pw/) - Open dir for Software.
 
 **[`^        back to top        ^`](#)**
+
+
+### The-Eye
+- [In progress subreddit archive](https://anonym.to/?https://the-eye.eu/r)
+- [All DOS games](https://anonym.to/?https://exodos.the-eye.eu)
+- [Keygens](https://anonym.to/?https://parazite.the-eye.eu/)
+- [25TB of retro stuff](https://anonym.to/?https://vv.the-eye.eu/)
+- [The-Eye merch](https://anonym.to/?https://56k.pizza/)
+- [The-Eye search engine](https://anonym.to/?https://searchin.the-eye.eu)
+- [Image Fusker](https://anonym.to/?https://fusker.the-eye.eu)
+- [Custom Google search](https://anonym.to/?https://cgs.the-eye.eu)
+- [Open directory index](https://anonym.to/?https://od-db.the-eye.eu)
+- [NFSW reddit reverse image search](https://anonym.to/?https://irar.the-eye.eu)
+- [15TB+ in 31,500,000+ files mostly from nsfw reddit subs](https://anonym.to/?https://the-eye.eu/imgur/)
 
 
 ### FTP Indexer
@@ -781,7 +795,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Alluc](https://anonym.to/?https://w1.alluc.uno/) - Search engine with over 80 million streaming-links from over 700 VOD services, video hosters and file-hosters.
 - [IPLIVE](https://anonym.to/?https://iplive.club/) - DDL search engine.
 - [MegaSearch](http://megasearch.co) - (`insecure`) - Search engine for finding content hosted on Mega and other premium hosts like OpenLoad.
-- [OD-Database](https://anonym.to/?https://od-db.the-eye.eu/) - Database of searchable open directories curated by The-Eye.eu.
 - [ololo](https://anonym.to/?https://ololo.to/) - ololo is a video streaming link search engine.
 - [Orion](https://anonym.to/?https://orionoid.com/) - Orion is a service that indexes metadata and links from a variety of public websites and networks, including torrent, usenet, and hoster indexes.
 - [VideoSpider](https://anonym.to/?https://videospider.in/) - VideoSpider crawls various websites and search engines to find movie and TV episode streaming links.
@@ -919,7 +932,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [FileMasta](https://anonym.to/?https://github.com/HerbL27/FileMasta) - Search servers for video, music, books, software, games, subtitles and much more.
 - [httpdirfs](https://anonym.to/?https://github.com/fangfufu/httpdirfs) - A filesystem which allows you to mount HTTP directory listings.
 - [opendirectories-bot](https://anonym.to/?https://github.com/simon987/opendirectories-bot) - Bot used on /r/opendirectories for analysing the contents of open directories posted on the subreddit.
-- [The-Eye](https://anonym.to/?https://the-eye.eu/public/) - The Eye is a non-profit website dedicated towards content archival and long-term preservation.
 - [The Holy Grail of Indexes](https://anonym.to/?https://www.reddit.com/r/opendirectories/comments/75ya8g/the_holy_grail_of_indexes/) - Posted by /u/shadow_hunter104.
 
 **[`^        back to top        ^`](#)**
@@ -1179,7 +1191,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 ### PlayStation (4)
 - [Darksoftware Forum](https://anonym.to/?https://forum.darksoftware.net/forums/) - Number #1 forum for Playstation hacking topics.
 - [Download Game PS3](https://anonym.to/?https://downloadgameps3.com/) - Download game PS3, PS4, RPCS3, PC for free.
-- [They-Eye](https://anonym.to/?http://the-eye.eu/alvro) - Playstation resources, games etc. 
 - [Ziperto](https://anonym.to/?https://www.ziperto.com/) - Nintendo, PC, Playstation and Emulator based games via GDrive & other hosters.
 
 **[`^        back to top        ^`](#)**
@@ -1201,7 +1212,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Romulation.net](https://anonym.to/?https://www.romulation.net/) - Collection of over ~28,000 console game ROMs.
 - [Romsmania](https://anonym.to/?https://romsmania.cc/) - Another great ROMs collection with a decent UI to find stuff quick.
 - [ROMNation](https://anonym.to/https://www.romnation.net/) - Lots of ROMs.
-- [The Eye ROMs](https://anonym.to/http://the-eye.eu/public/rom/) - (`insecure`) - Open directory of ROMs from The-Eye.
 - [ROM Center](https://anonym.to/https://docs.google.com/spreadsheets/d/17XOCs-KWKOwtxWwyTsAH887GlkJ7DcCMv6cL9FoMOKM/htmlview?usp=sharing&sle=true) - Newer games tracker, links and downloads via GDrive.
 - [Retro Archive](https://anonym.to/https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed) - Collection of all retro based ROM's.
 - [The ROM Depot](https://anonym.to/?https://theromdepot.com/roms/) - Around 3 TB of ROMs (requires a VPN).
@@ -1373,7 +1383,8 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Alternatives to Kiss websites](https://anonym.to/?https://www.reddit.com/r/KissCartoon/wiki/alternatives) - /r/KissCartoon wiki page with lots of anime sites.
 - [AniDex](https://anonym.to/?https://anidex.info) - Torrent tracker and indexer, primarily for English fansub groups of anime.
 - [AniLinkz](https://anonym.to/?https://anilinkz.to/) - Large database of streaming anime episodes.
-- [Anime Kaizoku](https://anonym.to/?https://www2.animekaizoku.com/) - Up to 1080p DDL links, mostly Google Drive.
+- [Anime Kaizoku](https://anonym.to/?https://www2.animekaizoku.com/) - Up to 1080p DDL links, mostly delivered via Google Drive.
+- [Anime Kayo](https://anonym.to/?https://animekayo.com/) -  1080p DDL links, mostly delivered via Google Drive
 - [Anime Twist](https://anonym.to/?https://twist.moe/) - An anime direct streaming site with a decent UI and video player.
 - [animEncodes](https://anonym.to/?https://www.animencodes.com/) - Anime sharing page.
 - [Anime-Loards.org](ttps://www.anime-loads.org) - Anime sharing page.
@@ -1663,7 +1674,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 ### Windows 10 Downloads (Mirrors) & Verification Tools
 - [Microsoft .iso DDLs](https://anonym.to/?https://tb.rg-adguard.net/index.php) - Web interface for Microsoft's own "TechBench" site to provide mirrors for everyone. Latest releases are avbl. [here](https://anonym.to/?https://tb.rg-adguard.net/products.html). 
 - [Microsoft .iso torrents on Digitalriver](https://anonym.to/?https://mirror.corenoc.de/digitalrivercontent.net/) - Mirrors for official Windows & Office ISO's.
-- [The-Eye - Over 2.7 TB backup of MSDN dump](https://anonym.to/?https://the-eye.eu/public/MSDN/) - Mirrors for a lot of ISO's.
 - [Windows 10 1903 Build 18362.30 Final (May Update '19)](https://anonym.to/?https://gist.github.com/CHEF-KOCH/64fed5431b57a43b4a70ed510b56cba1) - Download + checksum links.
 - [Windows and Office Genuine ISO Verifier](https://anonym.to/?https://genuineisoverifier.weebly.com/) - Freeware tool to verify Windows & Office images.
 - [Windows ISO Downloader](https://anonym.to/?https://www.heidoc.net/php/Windows%20ISO%20Downloader.exe) - Allows an easy and comfortable way to download genuine Windows 7, 8.1 and 10 disk images (ISO) directly from Microsoft's servers (tool contains ads).
@@ -1805,7 +1815,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Ebooks Shares](http://ebooks-shares.org) - (`insecure`) - A lot of eBooks & audiobooks!
 - [Hoerspiele](https://www.hoerspiele.cc/) - (Ger) - A big german website which provides Audiobooks via sharehosters.
 - [P2PEiite](https://anonym.to/?http://p2pelite.com) - (`insecure`) - Yet another oldschool eBook website.
-- [The-Eye /public/AudioBooks](https://anonym.to/?http://the-eye.eu/public/AudioBooks/) - (`insecure`) - Audiobooks hosted by "The Eye".
 - [ThePirateBay](https://anonym.to/?https://www.thepiratebay.org/browse/102) - TPB collection of AudioBooks.
 - [Tokybook](https://anonym.to/?https://tokybook.com/) - Yet another free audiobook streaming site.
 - [ZLibrary](https://anonym.to/?https://b-ok.org/) - Part of Z-Library project. The world's largest ebook library.
@@ -2353,6 +2362,8 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [ProxySite.cc](https://anonym.to/?https://proxysite.cc/) + ([Mirror](https://anonym.to/?https://proxysite.site/)) + ([for Videos](https://anonym.to/?https://proxysite.video/)) - Free web proxy site to bypass filters and unblock blocked websites anonymously.
 - [Unblocked](https://anonym.to/?https://unblocked-pw.github.io/) - Proxy site for accessing your favourite blocked sites.
 - [netflix-proxy](https://anonym.to/?https://github.com/ab77/netflix-proxy/) Smart DNS proxy to unblock Netflix streams.
+- [k8s-usenet](https://anonym.to/?https://github.com/aldoborrero/k8s-usenet) - Helm (Kubernetes based) collection of charts related to different Usenet services (sabnzbd, radarr, sonarr etc).
+
 
 **[`^        back to top        ^`](#)**
 
