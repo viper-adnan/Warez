@@ -879,3 +879,15 @@ Downloads albums in bulk.
 - [zgrab2](https://anonym.to/?https://github.com/zmap/zgrab2) - Go Application Layer Scanner.
 
 **[`^        back to top        ^`](#)**
+
+## Router based software Firewalls
+- [GufW](https://anonym.to/?http://gufw.org/)
+- [FlatPak](https://anonym.to/?https://www.flatpak.org/) 
+- [IPFire](https://anonym.to/?https://www.ipfire.org) 
+- [Endian Firewall](https://anonym.to/?https://www.endian.com)
+- [pfSense](https://anonym.to/?https://www.pfsense.org)
+- [LibreCMC](https://anonym.to/?https://librecmc.org/)
+- [Opensense](https://anonym.to/?https://opnsense.org)
+- [gl-inet](https://anonym.to/?https://www.gl-inet.com/)
+
+**[`^        back to top        ^`](#)**
