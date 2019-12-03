@@ -5,7 +5,7 @@
 - [Enigma Protector](https://anonym.to/?https://enigmaprotector.com)
 - [Google Widevine Modular DRM](https://anonym.to/?https://castlabs.com/company/partners/google-widevine/)
 - [Marlin](https://anonym.to/?https://en.wikipedia.org/wiki/Marlin_(DRM))
-- [Microsoft Playready](hhttps://anonym.to/?ttps://www.microsoft.com/playready/overview/)
+- [Microsoft Playready](https://anonym.to/?ttps://www.microsoft.com/playready/overview/)
 - [Valeroa](https://anonym.to/?https://old.reddit.com/r/CrackWatch/comments/a23al4/valeroa_the_new_anti_tamper/)
 - [Verimatrix](https://anonym.to/?https://www.verimatrix.com)
 - [VMProtect](https://anonym.to/?http://vmpsoft.com)
