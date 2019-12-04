@@ -2489,7 +2489,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 **[`^        back to top        ^`](#)**
 
-## VPS Hosting Providers
+## VPS Hosting Providers ([Bulletproof Hosting](https://en.wikipedia.org/wiki/Bulletproof_hosting))
 - [BlueAngelHost](https://anonym.to/?https://www.blueangelhost.com/) - Ignores DMCA requests, starts with 2,50€ a month, servers are based in Sofia.
 - [CyberHour](https://anonym.to/?https://www.cyberhour.com/) - Rusian based host provider which allows Warez.
 - [FlokiNET](https://anonym.to/?https://flokinet.is/) - Designed for Whistleblower, ignores DMCA requests, starts with 2,99€ a month, servers are located in Bukarest, Reykjavik or Helsinki. Servers are known to be slow.  
@@ -2501,6 +2501,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Inferno Solutions](https://anonym.to/?https://inferno.name/) - VPS, Dedicated Server & more. Multiple server located around the world. Starts with 4,54€ a month.
 - [ProHoster](https://anonym.to/?https://prohoster.info/?partner=483528) - Provides a free domain, starts with 0,00€, multiple server locations, e.g. Moskow, New York, Amsterdam.
 - [RapidLeechHost.com](https://anonym.to/?https://www.estrowebservices.com/) - RapidLeechHost only allows warez linking on their offshore plans, using servers based in Netherlands.
+- [SharkServe](https://anonym.to/?https://www.sharkserve.rs/) - DDoS protection, Bitcoin & Co.
 - [SporeStack](https://anonym.to/?https://sporestack.com/news/#2019-02-27) - Truly Hidden Hosting.
 - [Warez Hosting](https://anonym.to/?https://warezhosting.ru/) - Private & Anonymous VPS Hosting!
 - [WebCare360](https://anonym.to/?https://webcare360.com/) - Powerful Offshore cpanel shared hosting provider.
