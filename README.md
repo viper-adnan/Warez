@@ -1677,6 +1677,9 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [PIDChecker](https://anonym.to/?https://github.com/BlackRouter/PIDChecker/) - Validate and check Microsoft Product keys.
 - [W10-Digital-License-Activation-Script-4](https://anonym.to/?https://github.com/trungx/W10-Digital-License-Activation-Script-4) - Activate the Windows 10 permanently with digital License.
 
+### Bypass Windows 7 ESU
+- [Bypass Windows 7 Extended Security Updates Eligibility](https://anonym.to/?hhttps://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606/) another alternative is to work with [micro patches](https://anonym.to/?https://blog.0patch.com/2019/09/keeping-windows-7-and-windows-server.html)
+
 **[`^        back to top        ^`](#)**
 
 
