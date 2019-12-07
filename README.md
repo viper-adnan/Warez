@@ -1338,6 +1338,13 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [GDrive](https://anonym.to/?https://drive.google.com/drive/folders/168_c19L6oDozFaMIOdf4oiL34y9tQP_J)
 - [Switch SN Checker](https://anonym.to/?https://akdm.github.io/ssnc/scanner/)
 
+### Nintendo Switch Custom Firmware
+- [Atmosphère](https://anonym.to/?https://wiidatabase.de/switch-downloads/custom-firmware/atmosphere/)
+- [Kosmos](https://anonym.to/?https://github.com/CTCaer/hekate)
+- [ReiNX](https://anonym.to/?https://github.com/Reisyukaku/ReiNX)
+- [SX OS](https://anonym.to/?https://sx.xecuter.com/)
+- [IsMySwitchPatched.com](https://anonym.to/?https://ismyswitchpatched.com/) - Check if your CFW is already patched or not.
+
 **[`^        back to top        ^`](#)**
 
 
