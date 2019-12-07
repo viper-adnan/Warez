@@ -553,12 +553,18 @@
 ## Social media alternatives
 - [Gab Social](https://anonym.to/?https://gab.com/) - Gab is a fork of Mastodon, open-source self-hosted, federated social media networking service.
 
+
 ## eMail provider
 - [Tutanota](http://anonym.es/?https://tutanota.com) - A secure and open source eMail provider, Tutanota is forced (by law) to hand over all data in plain text, read the [german article](https://www.sueddeutsche.de/digital/tutanota-verschluesselung-e-mail-ueberwachung-polizei-1.4676988)
+
 
 ## Tools
 - [FlashFXP](http://www.whig.com/20171021/quincy-man-faces-federal-exploitation-of-a-minor-charges#//)
 
 
+## Messenger
+- [TikTok](https://www.wired.com/story/tiktok-ftc-record-fine-childrens-privacy/)
+
 ## Mobile OS
 - [/e/l](https://ewwlo.xyz/evil.html)
+
