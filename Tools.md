@@ -109,8 +109,6 @@ Downloads albums in bulk.
 - [SickRage](https://anonym.to/?http://github.com/SiCKRAGE/SiCKRAGE) - Automatic Video Library Manager for TV Shows.
 - [TV Overlord](https://anonym.to/?http://www.tvoverlord.com/) - TV Overlord is a semi automatic command line tool to download and manage TV shows from newsgroups or Bittorent.
 - [TVShows 2](https://anonym.to/?http://tvshowsapp.com/) - TVShows is the easiest way to download your favorite shows automatically in your Mac.
-- [subsync](https://anonym.to/?http://github.com/smacke/subsync) - Automatically synchronize subtitles with video.
-- [vlsub](https://anonym.to/?http://github.com/exebetche/vlsub) - VLC extension to download subtitles from opensubtitles.org.
 
 **[`^        back to top        ^`](#)**
 
@@ -144,6 +142,8 @@ Downloads albums in bulk.
 - [WonderfulSubs](https://anonym.to/?http://www.wonderfulsubs.com/) - Subs and dubs, no ads, still in beta stage.
 - [autosub](https://anonym.to/?http://github.com/agermanidis/autosub) - Command-line utility for auto-generating subtitles for any video file using speech recognition
 - [vlsub](https://anonym.to/?http://github.com/exebetche/vlsub) - VLC extension to download subtitles from opensubtitles.org.
+- [subsync](https://anonym.to/?http://github.com/smacke/subsync) - Automatically synchronize subtitles with video.
+- [Sublight.me](https://anonym.to/?http://sublight.me/) - Automatically batch download subtitles in a monitored folder.
 
 **[`^        back to top        ^`](#)**
 
@@ -880,6 +880,7 @@ Downloads albums in bulk.
 
 **[`^        back to top        ^`](#)**
 
+
 ## Router based software Firewalls
 - [GufW](https://anonym.to/?http://gufw.org/)
 - [FlatPak](https://anonym.to/?https://www.flatpak.org/) 
@@ -889,5 +890,17 @@ Downloads albums in bulk.
 - [LibreCMC](https://anonym.to/?https://librecmc.org/)
 - [Opensense](https://anonym.to/?https://opnsense.org)
 - [gl-inet](https://anonym.to/?https://www.gl-inet.com/)
+
+**[`^        back to top        ^`](#)**
+
+
+## RSS link generation
+- [ShowRSS.info](https://anonym.to/?http://showrss.info/) -  Compile a list of TV shows that you follow and generate an RSS link that you can put in your torrent client to automatically download new episodes as they are released based on the quality that you want (480p, 720p, 1080p, REPACK, etc).
+
+**[`^        back to top        ^`](#)**
+
+
+## Rename releases
+- [TheRenamer.com](https://anonym.to/?http://therenamer.com/) - Automatically organize, move, and rename downloaded TV shows and movies.
 
 **[`^        back to top        ^`](#)**
