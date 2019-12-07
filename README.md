@@ -1689,6 +1689,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Windows 10 1903 Build 18362.30 Final (May Update '19)](https://anonym.to/?https://gist.github.com/CHEF-KOCH/64fed5431b57a43b4a70ed510b56cba1) - Download + checksum links.
 - [Windows and Office Genuine ISO Verifier](https://anonym.to/?https://genuineisoverifier.weebly.com/) - Freeware tool to verify Windows & Office images.
 - [Windows ISO Downloader](https://anonym.to/?https://www.heidoc.net/php/Windows%20ISO%20Downloader.exe) - Allows an easy and comfortable way to download genuine Windows 7, 8.1 and 10 disk images (ISO) directly from Microsoft's servers (tool contains ads).
+- [All Windows LTSC download links incl. N](https://anonym.to/?https://gist.github.com/CHEF-KOCH/a9a70744d79e335e4b4512cbb9588982)
 
 **[`^        back to top        ^`](#)**
 
