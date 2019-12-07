@@ -104,6 +104,12 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 
+## Public DMCA complaints 
+- [Lumendatabase.org](https://anonym.to/?https://www.lumendatabase.org/) - Database Google uses for their blacklist, it provides hundreds of links with movie and tv shows
+
+**[`^        back to top        ^`](#)**
+
+
 ## Social Media Alternatives
 - [Framapiaf](https://anonym.to/?https://framapiaf.org/about/) Mastodon instance of [Framasoft](https://anonym.to/?https://framasoft.org), a nonprofit organization focusing on free-software alorisation.
 - [Mamot](https://anonym.to/?https://mamot.fr/about/) Mastodon instance of the [La Quadrature du Net](https://anonym.to/?https://www.laquadrature.net/en/), a French advocacy group that promotes digital rights and freedoms of citizens.
