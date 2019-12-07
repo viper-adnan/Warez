@@ -535,7 +535,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Shaanig](https://anonym.to/?https://shaanig.se/) - Small-size HD TV episodes & movies.
 - [SkyTorrents](https://anonym.to/?https://www.skytorrents.lol/) - Revival of the recently-shut-down, privacy-focused, ad-free torrent indexer.
 - [Streams.Now.SH](https://anonym.to/?https://streams.now.sh/) - Similar quality & size like RARBG & YTS.
-- [The Pirate Bay](https://anonym.to/?https://thepiratebay.org/) - A well-known torrent site which is somehow still running, blocked in most places. (**Be warned**: It mines coins in the background!)
+- [The Pirate Bay](https://anonym.to/?https://thepiratebay.org/) - A well-known torrent site which is somehow still running, blocked in most places. (**Be warned**: It mines coins in the background!) + Onion `piratebayztemzmv.onion`
 - [The Proxy Bay](https://anonym.to/?https://proxybay.bz/) - Can't access The Pirate Bay? Try one of these proxy sites.
 - [Tor Lock](https://anonym.to/?https://torlock.com/) - TorLock is a torrent site that offers verified torrent downloads.
 - [Torrent9](https://anonym.to/?https://www.torrent9.ph/) - French torrent search engine.
@@ -1665,7 +1665,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ### Microsoft Windows Activation (KMS/KMS38/HWID)
-- [HWIDGEN](https://anonym.to/?https://old.reddit.com/r/sjain_guides/comments/9qyuij/hwidkms38genmk6_download_and_usage_guide/) - Download and usage guide (permanent or long-term activation for any edition of Windows 10). HWIDGEN provides several activation methods. [Source code](https://anonym.to/?https://github.com/CHEF-KOCH/HWIDGEN-SRC)
+- [HWIDGEN](https://anonym.to/?https://github.com/CHEF-KOCH/HWIDGEN-SRC) - Download and usage guide (permanent or long-term activation for any edition of Windows 10). HWIDGEN provides several activation methods. [Source code](https://anonym.to/?https://github.com/CHEF-KOCH/HWIDGEN-SRC)
 - [KMS Activator](https://anonym.to/?https://yzyveojj6tqzqwe5muzglg-on.drv.tw/KVA/ReadMe36.html) - The original open source repo for KMS related activation & research.
 - [KMS Server Emulator written in Python](https://anonym.to/?https://github.com/SystemRage/py-kms) - Open source KMS Server Emulator written in Python.
 - [PIDChecker](https://anonym.to/?https://github.com/BlackRouter/PIDChecker/) - Validate and check Microsoft Product keys.
@@ -1732,7 +1732,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Issuu](https://anonym.to/?https://issuu.com/) - Allows users to upload and distribute their publications worldwide.
 - [KnowFree](http://knowfree.tradepub.com/) - (`insecure`) - Access free research, white papers, reports, case studies, magazines, and eBooks.
 - [LeanPub](https://anonym.to/?https://leanpub.com/) - eBooks on programming languages such as JavaScript, C#, PHP or Ruby and guidebooks.
-- [LibGen](http://libgen.io/) - (`insecure`) - eBook search. ([Mirror](http://gen.lib.rus.ec/)) - (`insecure`) - + ([another Mirror](https://anonym.to/?https://libgen.pw/))
+- [LibGen](http://libgen.is/) - (`insecure`) - eBook search. ([Mirror](http://gen.lib.rus.ec/)) - (`insecure`) - + ([another Mirror](https://anonym.to/?https://libgen.pw/))
 - [LibriVox](https://anonym.to/?https://librivox.org/) - Yet another pplatform that offers a free download of audiobooks all over the world.
 - [ManyBooks](http://manybooks.net/) - (`insecure`) - You can conduct an advanced search, type in a title or author, browse categories or select books by language, from Finnish to Bulgarian to Catalan to Swedish.
 - [Myanonamouse](http://www.myanonamouse.net/login.php?returnto=%2F) - (`insecure`) - Over 2 million torrents.
@@ -2011,6 +2011,15 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [TVPato2](https://anonym.to/?https://tvpato2.com/) - (es-ES) - Spanish Live TV App.
 - [TVZion](https://anonym.to/?https://tvzionapp.live/) - + [Reddit](https://anonym.to/?https://www.reddit.com/r/TVZionApp/)
 - [UnlockMyTV (Cinema Clone Ad-Free)](https://anonym.to/?https://unlockmytv.com/)
+- [Vaughn Live ](https://anonym.to/?https://vaughn.live) - Possibly the greatest LIVE streaming video site on the internet! Looks like a Twitch clone.
+
+**[`^        back to top        ^`](#)**
+
+
+### Stream Sharing
+- [Cybergame.tv](https://cybergame.tv/) - Stream copyrighted content via rtmp protocol.
+- [Kast is Watch Parties Made Easy](https://anonym.to/?https://kast.gg) - Watch parties made easy. Share movies, TV shows, games, and whatever you want with 100+ people.
+- [rabb.it](https://anonym.to/?https://rabb.it/) - Hang out and watching stuff with your friends online!
 
 **[`^        back to top        ^`](#)**
 
