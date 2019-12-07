@@ -233,10 +233,11 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## Piracy archives
-- [130GB of flash games](http://bluemaxima.org/flashpoint/downloads/) - (`insecure`)
-- [GOG Dump](http://web.archive.org/web/20190429144618/https://anonym.to/?https://docs.google.com/spreadsheets/d/e/2PACX-1vSDj58h_xUDPoz9n12x_kZvQW1VKO4AQOaNGaUmEtpFmL5q0R05Pr4qVZxxzH8CZT3ZLX6_ZX8muYzm/pubhtml)
+- [130GB of flash games](https://anonym.to/?http://bluemaxima.org/flashpoint/downloads/) - (`insecure`)
+- [GOG Dump](https://anonym.to/?http://web.archive.org/web/20190429144618/https://anonym.to/?https://docs.google.com/spreadsheets/d/e/2PACX-1vSDj58h_xUDPoz9n12x_kZvQW1VKO4AQOaNGaUmEtpFmL5q0R05Pr4qVZxxzH8CZT3ZLX6_ZX8muYzm/pubhtml)
 - [Nintendo Games Collection](http://web.archive.org/web/20190429144531/https://anonym.to/?https://docs.google.com/spreadsheets/d/e/2PACX-1vSSmcqtzUguH-tlJ2sr6_v5rTwnlZI1wlsjnyH3Zyy4VKo-TbkHFuW_m3FjpTc3ApQxAL13lOWY9gkm/pubhtml)
-- [Microsoft Games Collection](http://web.archive.org/web/20190429144409/https://anonym.to/?https://docs.google.com/spreadsheets/d/e/2PACX-1vRs56u1DiQy4EBB8rWrk1r-yvkYgatv9h0IbKKDh1HyPXueiaS06aVdovdF_nHe9SJrPwfkYRMif_mG/pubhtml)
+- [Microsoft Games Collection](https://anonym.to/?http://web.archive.org/web/20190429144409/https://anonym.to/?https://docs.google.com/spreadsheets/d/e/2PACX-1vRs56u1DiQy4EBB8rWrk1r-yvkYgatv9h0IbKKDh1HyPXueiaS06aVdovdF_nHe9SJrPwfkYRMif_mG/pubhtml)
+- [LibGen & Sci-Hub torrent archive](http://libgen.lc/stat.php) - Entire collection via BitTorrent, a readdit discussion can be found over [here](https://anonym.to/?https://www.reddit.com/r/seedboxes/comments/e129yi/charitable_seeding_for_nonprofit_scientific/)
 
 **[`^        back to top        ^`](#)**
 
