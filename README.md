@@ -2639,7 +2639,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [GraphenOS](https://anonym.to/?https://grapheneos.org/) - Hardened OS for e.g. Google Pixel.
 - [LineageOS](https://anonym.to/?https://lineageos.org/) - LineageOS, one of the biggest an well maintained alternative to Google's AOSP. Google apps (short: gapps) can be optionally installed.
 - [Replicaant](https://anonym.to/?hhttps://replicant.us/) - Replicant is a fully free Android distribution running on several devices, a free software mobile operating system putting the emphasis on freedom and privacy/security.
-- [The /e/](https://anonym.to/?https://e.foundation/e-pre-installed-smartphones/) - Lineage OS fork with Android Open Source Project (AOSP) features integrated for Samsung phones.
 
 
 ### Google Translate
