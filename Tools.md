@@ -900,7 +900,13 @@ Downloads albums in bulk.
 **[`^        back to top        ^`](#)**
 
 
-## Rename releases
+## Rename scene releases
 - [TheRenamer.com](https://anonym.to/?http://therenamer.com/) - Automatically organize, move, and rename downloaded TV shows and movies.
+
+**[`^        back to top        ^`](#)**
+
+
+## WordPress login bruteforcer
+- [wpbrute-rs](https://anonym.to/?https://github.com/leo-lb/wpbrute-rs) - High performance WordPress login bruteforcer with automatic concurrency for maximum amount of tries per second.
 
 **[`^        back to top        ^`](#)**
