@@ -147,10 +147,12 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Cracking Pro](https://anonym.to/?https://www.crackingpro.com/)  - Cracking Tutorials, Free Premium Accounts, Cracking Configs, Combolists & Proxylists.
 - [CrackingGOD Forum](https://anonym.to/?https://crackingod.com/) -  Cracking. Hack. Graphics. Webmaster. Marketplace.
 - Crackmes.cf - (mirror of crackmes.de + [reboot](https://anonym.to/?https://crackmes.one/))
-- [Forum ExeTools](https://anonym.to/?https://forum.exetools.com/) - The original old school forum to share cracking knowledge.
-- Reverse Club ([needs invite code](https://anonym.to/?https://forum.crack.vc/?thread-22.htm))
+- [ExeTools Forum](https://anonym.to/?https://forum.exetools.com/) - The original old school forum to share cracking knowledge.
+- [Reverse Club (needs invite code)](https://anonym.to/?https://forum.crack.vc/?thread-22.htm))
+- [R0 CREW](https://anonym.to/?https://forum.reverse4you.org/)
 - [Team-IRA [TIRA]](https://anonym.to/?https://team-ira.com/) - TIRA Team International Reversers Alliance ([needs invite code](http://forum.crack.vc/?thread-22.htm))
 - [Tuts 4 You](https://anonym.to/?https://tuts4you.com) - One of the oldest forums to discuss reversing related stuff.
+- [Webscene.ir](https://anonym.to/?https://webscene.ir/) - Can you crack it?!
 
 **[`^        back to top        ^`](#)**
 
