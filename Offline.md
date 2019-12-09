@@ -400,3 +400,25 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 ## Books / PDFs
 - Oceanofpdf.com
 - ebook.farm
+
+## Hoster
+- ArkaHosting
+- Bigfoot Servers
+- DCNHost
+- HostBRZ
+- HostedSimply
+- Hosting73
+- KudoHosting
+- LQHosting
+- MegaZoneHosting
+- n3Servers
+- ServerStrong
+- SnowVPS
+- SparkVPS
+- StrongHosting
+- SuperbVPS
+- SupremeVPS
+- TCNHosting
+- UMaxHosting
+- WelcomeHosting
+- X4Servers
