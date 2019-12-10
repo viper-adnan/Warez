@@ -950,11 +950,13 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## Anime & Cartoon Streaming (720p+)
-- [/r/AnimePiracy BCSE Search](https://ui.customsearch.ai/hosted-page?customconfig=12619b8a-0cac-4a38-b20b-04c79ddb616d&version=latest&market=en-US&q=)
+- [/r/AnimePiracy BCSE Search](https://anonym.to/?https://ui.customsearch.ai/hosted-page?customconfig=12619b8a-0cac-4a38-b20b-04c79ddb616d&version=latest&market=en-US&q=) - A custom search engine for Anime content.
+- [The /r/AnimePiracy Index](https://anonym.to/?https://docs.zoho.com.au/sheet/open/stzn58acc24611fea414e8901724ff4510fe8/sheets/Anime/ranges/A1) - A Google Docs sheet for Anime websites including background information if page x contains ads, anti-adblock & more.
 - [AnimeKisa](https://anonym.to/?https://animekisa.com/) - Subs and dubs, no ads, funded by donations, self-hosted.
 - [Animelon](https://anonym.to/?https://animelon.com/) - Subs only, multilingual, no ads, funded by donations, only one source, videos hosted by Google, aimed for Japanese learners.
 - [Aniwatcher](https://anonym.to/?https://aniwatcher.com/) - Subs and dubs, pop-up ads on video player, downloadable, multiple sources.
 - [AnimeFreak.TV](https://anonym.to/?https://www.animefreak.tv/) - Subs and sometimes dubs, banner and pre-roll ads, one source.
+- [4Anime](https://anonym.to/?https://4anime.to/) - Subs and dubs, many ads, many player alternatives, videos hosted by Google.
 - [9Anime](https://anonym.to/?https://www2.9anime.to/) - Subs and dubs, many ads, many player alternatives, videos hosted by Google.
 - [All-animes](https://anonym.to/?https://all-animes.com) - Watch Online Anime in HD, English, subbed and dubbed.
 - [Animeboys](https://anonym.to/?https://www.kaze-online.de/) - (Ger) - Subs and dubs, banner and pop-up ads, multiple sources.
