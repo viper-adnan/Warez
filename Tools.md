@@ -10,6 +10,12 @@
 **[`^        back to top        ^`](#)**
 
 
+## Crunchyroll Downloader
+- [Crunchyroll Downloader/Scraper (Windows/Linux)](https://github.com/ThePBone/CrunchyrollDownloader#crunchyroll-scraper) - Crunchyroll Downloader written (from scratch) in C++ for Windows and Linux, it uses FFmpeg to download/convert MP4 files and a US proxy to bypass GeoIP blocks.
+
+**[`^        back to top        ^`](#)**
+
+
 ## Directory Brute Forcer
 - [dirsearch](https://anonym.to/?https://github.com/maurosoria/dirsearch) - Web path scanner.
 
