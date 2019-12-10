@@ -950,6 +950,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## Anime & Cartoon Streaming (720p+)
+- [/r/AnimePiracy BCSE Search](https://ui.customsearch.ai/hosted-page?customconfig=12619b8a-0cac-4a38-b20b-04c79ddb616d&version=latest&market=en-US&q=)
 - [AnimeKisa](https://anonym.to/?https://animekisa.com/) - Subs and dubs, no ads, funded by donations, self-hosted.
 - [Animelon](https://anonym.to/?https://animelon.com/) - Subs only, multilingual, no ads, funded by donations, only one source, videos hosted by Google, aimed for Japanese learners.
 - [Aniwatcher](https://anonym.to/?https://aniwatcher.com/) - Subs and dubs, pop-up ads on video player, downloadable, multiple sources.
