@@ -1476,10 +1476,16 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ### iOS JailBreak Firmware
+- [checkm8](https://anonym.to/?https://twitter.com/axi0mX/status/1177544174163263489) - Checkm8 is an iOS 13 Boot-exploit.
 - [Checkra1n](https://anonym.to/?https://checkra.in/) - Semi-tethered Jailbreak for iOS 12.3+.
 - [IPSW](https://anonym.to/?https://ipsw.me/?_escaped_fragment_=/version) - Provides Jailbreak firmware.
 - [ipwndfu](https://github.com/axi0mX/ipwndfu) - Open-source jailbreaking tool for many iOS devices.
 - [s0meiyoshino](https://anonym.to/?https://github.com/dora2-iOS/s0meiyoshino) - This tool enables exploit of iBoot.
+- [Unc0ver](https://anonym.to/?https://twitter.com/Pwn20wnd/) - Official Twitter Account from the developer of Unc0ver.
+
+### iOS Secure Enclave key for iPhone and iPad
+
+`iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347bc1897bdd66b11815f036e94c951250c4dda916c00`
 
 **[`^        back to top        ^`](#)**
 
