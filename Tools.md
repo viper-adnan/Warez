@@ -231,13 +231,19 @@ Downloads albums in bulk.
 **[`^        back to top        ^`](#)**
 
 
-## Password Managers (Desktop & Mobile)
+## Password Managers (Desktop)
 - [1Password](https://anonym.to/?http://1password.com/) - Popular cloud-hosted password manager.
 - [Dashlane](https://anonym.to/?http://www.dashlane.com/) - An intuitive password manager with over with over 8 million users worldwide.
 - [KeePass](https://anonym.to/?http://keepass.info/) - A free and open source, light-weight, and easy-to-use password manager.
+- [KeeWeb](https://anonym.to/?https://keeweb.info/) - Free cross-platform password manager compatible with KeePass.
 - [KeeVault](https://anonym.to/?http://keevault.pm/) - Secure, Open Source Password Management.
 - [LastPass](https://anonym.to/?http://www.lastpass.com/) - LastPass remembers all your passwords, so you don't have to.
 - [Wikipedia's list of Password Managers](https://anonym.to/?http://en.wikipedia.org/wiki/List_of_password_managers) - Overview of all password manager utilities.
+
+## Password Managers (Mobile)
+- [Keepass2Android](https://anonym.to/?https://github.com/PhilippC/keepass2android) - Android KeePass version with a nice GUI!
+- [MiniKeePass](https://anonym.to/?https://minikeepass.github.io/) - iOS version of KeePass (_unofficial_).
+- [Tusk](https://anonym.to/?https://subdavis.com/Tusk/) - For Chrome and Firefox. 
 
 **[`^        back to top        ^`](#)**
 
