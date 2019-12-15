@@ -512,6 +512,8 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [ArenaBG](https://anonym.to/?https://arenabg.com/) - A Bulgarian tracker with an English translation available.
 - [NoNaMe Club](https://anonym.to/?https://nnmclub.to/) - Russian semi-private tracker and forum.
 - [ruTracker](https://anonym.to/?https://rutracker.org/forum/index.php) - RuTracker is a huge Russian torrent site with a thriving file-sharing community.
+- [MetalArea](https://metalarea.org/) - Russian tracker for obscure metal and dungeon synth.
+- [Zamunda.net](http://zamunda.net) - A Bulgarian tracker with English and Russian translations available.
 
 **[`^        back to top        ^`](#)**
 
@@ -983,10 +985,12 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [DubbedAnime](https://anonym.to/?https://ww5.dubbedanime.net/) - Subs and dubs, banner and pop-up ads, multiple sources.
 - [EyeOnAnime](https://anonym.to/?https://eyeonanime.tv/) - Subs and dubs, banner ads, uses multiple uploaders/players.
 - [GoGoAnime](https://anonym.to/?https://www1.gogoanime.sh/) - Subs and dubs, many ads, many player alternatives.
+- [HakuNeko](https://anonym.to/?https://github.com/manga-download/hakuneko) - A cross-platform downloader for manga and anime from +400 websites. Manga and anime in multiple languages and formats (cbz, folder with images, epub).
 - [Hi10Anime](https://anonym.to/?https://hi10anime.com/) - High Quality 10-bit Animes.
 - [KickAssAnime](https://anonym.to/?https://www11.kickassanime.io/) - Subs and dubs, banner ads, some sources.
 - [KimCartoon](https://anonym.to/?https://kimcartoon.to/)
 - [Mangarock](https://anonym.to/?https://mangarock.com/)
+- [MangaRock](https://anonym.to/?https://mangarock.com)
 - [MoviesEver](https://anonym.to/?https://moviesever.com/)
 - [NineAnime](https://anonym.to/?https://www.nineanime.com/)
 - [OtakuStream](https://anonym.to/?https://otakustream.unblocker.cc/) - Subs only, banner and pop-up ads, downloadable, multiple sources.
@@ -1058,6 +1062,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Qwemovies](https://anonym.to/?https://www3.qwemovies.com/) - Watch HD Movies Online For Free and Download the latest movies without Registration at qwemovies.to.
 - [Rainierland](https://anonym.to/?https://rainierland.is/) - Official home of rainierland - no ads and only good movies.
 - [Series9](https://anonym.to/?https://www2.series9.io/) - Unique design, HD server with additional hosts.
+- [Soap2day](https://anonym.to/?https://www.soap2day.com/) - Unique design, very nice speeds, HD server with subtitles. 
 - [Sokrostream.vip](https://anonym.to/?https://sokrostream.vip/) - (FR) - 2019 Films · 2018 Films · Action · Science-Fiction · Comédie · Horreur · Rapport
 - [Solarmovie](https://anonym.to/?https://solarmoviez.ru/) - Watch Movies Online and Watch Tv-Series online On Solarmovie without Registration.
 - [StreamCR](https://anonym.to/?https://scr.cr/) - Watch movies and TV series online for free. Stream episodes of Game of Thrones, Breaking Bad, Stranger Things and more!
@@ -1770,7 +1775,8 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [OnlineProgrammingBooks](http://www.onlineprogrammingbooks.com/) - (`insecure`) - Offers mobile app development, programming, computer science, web design, software engineering, information technology, networking, and databases.
 - [Open Culture](http://www.openculture.com/free_ebooks) - (`insecure`) - Offers over 800 free eBooks to your Kindle, iPad/iPhone, computer, smartphone and eReader.
 - [Open Library](https://anonym.to/?https://play.google.com/store/books/collection/topselling_free) - Gooel's free eBook storage.
-- [Planet PDF](http://www.planetpdf.com/free_pdf_ebooks.asp) - (`insecure`) - Planet PDF has made available classic titles like Anna Karenina and Frankenstein for free.
+- [Planet PDF](https://anonym.to/?http://www.planetpdf.com/free_pdf_ebooks.asp) - (`insecure`) - Planet PDF has made available classic titles like Anna Karenina and Frankenstein for free.
+- [ReadAnyBook](https://anonym.to/?https://readanybook.com/) - Free online eBook reading.
 - [Read Print Library](http://www.readprint.com/) - (`insecure`) - Provides free novels and poems.
 - [s10 BitDownload](http://s10.bitdownload.ir/Learning.2/) - (`insecure`) - Tutorials, Udemy & and others.
 - [Starry.com](http://www.starry.com/free-online-novels/index.htm) - (`insecure`) - These novels and anthologies were last updated in 2006, but you'll still find an interesting selection of online and virtual novels.
