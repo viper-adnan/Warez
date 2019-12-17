@@ -325,6 +325,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [libre.io](https://anonym.to/?https://boards.libre.io) - (requires login) - A small forum with some exclusive apps & games.
 - [Mobilism Forum](https://anonym.to/?https://forum.mobilism.org/index.php) - Large forum of mobile apps and books.
 - [RevDl](https://anonym.to/?https://www.revdl.com/) - Direct download site for Android apps & games.
+- [RexDL](https://anonym.to/?https://rexdl.com/) - Similar like RevDL, download free Android apps & games.
 
 **[`^        back to top        ^`](#)**
 
