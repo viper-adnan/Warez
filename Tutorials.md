@@ -30,6 +30,13 @@
 **[`^        back to top        ^`](#)**
 
 
+## Kindle eBook
+- [Guide to Copy Kindle Content to PDF using Calibre](https://anonym.to/?https://www.reddit.com/r/Piracy/comments/bm837l/guide_to_copy_kindle_content_to_pdf_using_calibre/)
+- [The idiot-proof guide to downloading ebooks off IRC](https://anonym.to/?https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/)
+
+**[`^        back to top        ^`](#)**
+
+
 ## VPN Guides & Tutorials
 - [/r/VPN wiki](https://anonym.to/?https://www.reddit.com/r/VPN/wiki/index) - Helpful Wiki resource written by the community from /r/VPN.
 - [Choosing the best VPN (for you) - /r/VPN](https://anonym.to/?https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2) - That One Privacy Guy's - Guide to Choosing the Best VPN (for you)
