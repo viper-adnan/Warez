@@ -909,6 +909,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ### Premium Link Generators
 - [File Hosting Wiki](https://anonym.to/?https://filehostlist.miraheze.org/wiki/Main_Page) - This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) - frequent updates.
+- [Filebin](https://anonym.to/?https://filebin.net/) - Convenient file sharing on the web, without registration. Simply upload files and share the URL. The files will expire automatically 1 week from now.
 - [Free Premium Leeches](https://anonym.to/?https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches) - Search up for the website you want to download from and pick from a massive list.
 - [Small File sharing table](https://anonym.to/?https://nafanz.github.io/filesharing.html) - Small File sharing table which shows maximum file limit, language etc.
 - [Small cloud storage table](https://anonym.to/?https://nafanz.github.io/cloudstorage.html) - Small cloud storage table which shows maximum file limit, language etc.
