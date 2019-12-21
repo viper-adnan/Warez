@@ -2762,10 +2762,11 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 
-### Multihoster 
-- [Premiumize.me](https://anonym.to/?https://www.premiumize.me/)
-- [Oboom](https://anonym.to/?https://www.oboom.com/)
-- [Smoozed](https://anonym.to/?https://www.smoozed.biz/)
+### Multi file hoster 
+- [Premiumize.me](https://anonym.to/?https://www.premiumize.me/) - (_free/paid_) - Handsfree fetching and storing of any file directly into your cloud.
+- [Oboom](https://anonym.to/?https://www.oboom.com/) - (_free/paid_) - Provides up to 50 GB free space, Swiss made!
+- [Smoozed](https://anonym.to/?https://www.smoozed.biz/) - Claims to be the biggest multihoster, encrypted files and fast up-downloads.
+- [globalupload.io](https://anonym.to/?https://globalupload.io/) - IPFS and hash based services foryour files, a multi hosting option is planned.
 
 **[`^        back to top        ^`](#)**
 
