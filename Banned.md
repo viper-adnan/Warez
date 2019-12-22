@@ -412,6 +412,7 @@
 * mkvcage-proxy.tk
 * mkvcagemovie.com
 * mkvcagez.net
+* LBRY.tv
 
 ## Faker
 * 2baksa.net
