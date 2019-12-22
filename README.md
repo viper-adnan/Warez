@@ -2793,6 +2793,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 **[`^        back to top        ^`](#)**
 
+
 ## PayPal alternatives
 - [2Checkout](https://anonym.to/?https://www.2checkout.com/)
 - [Amazon Pay](https://anonym.to/?https://pay.amazon.com/)
@@ -2818,5 +2819,15 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ### PayPal alternatives (donation based)
 - [Liberapay](https://anonym.to/?https://en.liberapay.com/)
+
+**[`^        back to top        ^`](#)**
+
+
+## Anonymous Cryptocurrency Exchanges (without KYC Verification!)
+- [Binance](https://anonym.to/?https://www.binance.com/) - Hong Kong-based exchange.
+- [Changelly](https://anonym.to/?https://itunes.apple.com/us/app/stratis/id1250824734?mt=8) - (_iOS app_) - Cryptocurrency exchange service that allows for instant transfers from 
+one cryptocurrency wallet to another across various cryptocurrencies
+- [ShapeShift](https://anonym.to/?https://itunes.apple.com/us/app/shapeshift-crypto-converter/id996569075?mt=8) - (_iOS App_) -  Claims to not collect any data!
+- [Tornado](https://anonym.to/?https://tornado.cash/) - (_Beta!_) - Audit but still in beta!
 
 **[`^        back to top        ^`](#)**
