@@ -30,7 +30,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 ### Donations
 I do not accept any donations or add a sponsorship button for this repository. It should be free for anyone and should not be influenced by specific groups/people or organizations.
 
-### What **does not** belong on this list? (see code of conduct)
+### What **does not** belong on this list? (see [code of conduct](https://github.com/CHEF-KOCH/Warez/blob/master/CODE_OF_CONDUCT.md))
 * Illegal programs (cracks, keygens etc.) or direct links to copyright protected material.
 * Links to [banned websites](https://github.com/CHEF-KOCH/Warez/blob/master/Banned.md).
 * Links to [offline websites](https://github.com/CHEF-KOCH/Warez/blob/master/Offline.md).
@@ -540,6 +540,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [KickAss Torrents](https://anonym.to/?https://katcr.co/) - Community-made reincarnation launched in 2016.
 - [LBRY](https://anonym.to/?https://beta.lbry.tv/) & [source code](https://anonym.to/?https://github.com/lbryio/lbrytv) - Search engine for games, videos, music & more. 
 - [LimeTorrents](https://anonym.to/?https://www.limetorrents.info/) - LimeTorrents has been around for more than half a decade.
+- [MagnetDL](https://anonym.to/https://www.magnetdl.com) - Find your download by searching thousands of magnet links using our search engine. 
 - [Monitor Shodan](https://anonym.to/?https://monitor.shodan.io/) - Keep track of the devices that you have exposed to the Internet. Setup notifications, launch scans and gain complete visibility into what you have connected.
 - [MKVCage](https://anonym.to/?https://www.mkvcage.nl/) - (warning) - Rebooted (unofficial) MKVCage website. It's not in any relationship with the original _project_.
 - [Mp4ba.cc](https://anonym.to/?http://mp4ba.cc/) - (CN _insecure_) - Videos, TV series and animes.
@@ -560,7 +561,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [TorrentGalaxy](https://anonym.to/?https://torrentgalaxy.org/) - Public tracker with a clean UI.
 - [TorrentInvites](http://torrentinvites.org) - (`insecure`) - #1 to buy, trade, sell or find free Tracker Invites!
 - [TorrentKing](https://anonym.to/?https://torrentking.io/) - Torrentking is a popular movie torrent site.
-- [Torrentz2](https://anonym.to/?https://torrentz2.eu/) - A good replacement of the defunct Torrentz.eu.
+- [Torrentz2](https://anonym.to/?https://torrentz2.is/) - A good replacement of the defunct Torrentz.eu.
 - [Torrents-csv.ml](https://torrents-csv.ml) - An open-source torrent search engine tracker for all sorts of torrents.
 - [Trackers list](https://anonym.to/?https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers which you can add in e.g. QB.
 - [WebOas](https://anonym.to/?https://weboas.is/) - A search engine designed to find warez, music and other stuff in public dirs.
