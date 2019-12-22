@@ -525,6 +525,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [BTDB](https://anonym.to/?https://btdb.to/) - Large BitTorrent DHT search engine.
 - [CGPeers](https://anonym.to/?https://www.cgpeers.to/) - CGPeers is a well known trusted tracker (registration every 15th and 1st of the month).
 - [dlb.to](https://anonym.to/?https://dlb.to/) - Indixer for various Warez websites and material.
+- [Darli](https://anonym.to/?http://tracker.darli.net) - (HDS) - Our open torrent tracker is available for everyone. Use where necessary.
 - [DIGBT](https://anonym.to/?https://www.digbt.org/) - DIGBT is a DHT torrent search engine.
 - [ETTV](https://anonym.to/?https://www.ettv.tv/) + [EZTV](https://anonym.to/?https://eztv.ag/) - ETTV is a torrent site specific for movie torrents.
 - [g4u](https://anonym.to/?https://g4u.me/) - (Ger) - Movies, TV Shows & Games.
