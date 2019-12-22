@@ -472,6 +472,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [/PTG tracker manifesto](https://anonym.to/?https://pastebin.com/thLgSkNE) - List of private trackers
 - [0QoLttS.jpg](https://anonym.to/?https://i.imgur.com/0QoLttS.jpg) - Screenshot of a table from somewhere of private trackers and their sign-up requirements
 - [AlphaRatio](https://anonym.to/?https://alpharatio.cc) - (AR) - A good starter tracker with lots of freeleech content.
+- [AvistaZ](https://anonym.to/?) - (EN) - AvistaZ (AsiaTorrents) is a Private Torrent Tracker for ASIAN MOVIES / TV / Docus.
 - [AnimeBytes](https://anonym.to/?https://animebytes.tv/) - (AB) - community centralized around Japanese media, including anime, manga, and music.
 - [Audionews](https://anonym.to/?https://audionews.org/) - (AN) - Private torrent tracker for music production audio. (DJ apps, audio editor, DAW apps etc) - Open signups on the 1st-2nd every month.
 - [Awesome HD](https://anonym.to/?https://awesome-hd.me/) - (AHD) - Awesome-HD is a private tracker for quality enthusiasts.
@@ -522,6 +523,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 #### Public Trackers
 - [1337x](https://anonym.to/?https://1337x.to/) - 1337x is a torrent site that offers verified torrent downloads.
 - [7torrents](https://anonym.to/?https://www.7torrents.cc/) - Privacy-focused DHT search engine without any ads.
+- [Bthub.Me](https://anonym.to/?https://www.bthub.me/) - (CN) - Movies, Docus & more for your chinese friends.
 - [BTDB](https://anonym.to/?https://btdb.to/) - Large BitTorrent DHT search engine.
 - [CGPeers](https://anonym.to/?https://www.cgpeers.to/) - CGPeers is a well known trusted tracker (registration every 15th and 1st of the month).
 - [dlb.to](https://anonym.to/?https://dlb.to/) - Indixer for various Warez websites and material.
@@ -529,6 +531,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [DIGBT](https://anonym.to/?https://www.digbt.org/) - DIGBT is a DHT torrent search engine.
 - [ETTV](https://anonym.to/?https://www.ettv.tv/) + [EZTV](https://anonym.to/?https://eztv.ag/) - ETTV is a torrent site specific for movie torrents.
 - [g4u](https://anonym.to/?https://g4u.me/) - (Ger) - Movies, TV Shows & Games.
+- [GaOQing](https://anonym.to/?https://gaoqing.fm/) - (CN _insecure_) - Porn, movies, tv-shows, documentations, you name it!
 - [Games4theworld](https://anonym.to/?https://games4theworld.org) - Torrents and magnet links for games.
 - [GloTorrents](https://anonym.to/?https://glodls.to/) - Download Movies, TV, Games and Other Torrents Free.
 - [HDCenter](https://anonym.to/?https://hdcenter.cc/login.php) - (NL) - Games, Movies, eBooks & more.
@@ -539,6 +542,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [LimeTorrents](https://anonym.to/?https://www.limetorrents.info/) - LimeTorrents has been around for more than half a decade.
 - [Monitor Shodan](https://anonym.to/?https://monitor.shodan.io/) - Keep track of the devices that you have exposed to the Internet. Setup notifications, launch scans and gain complete visibility into what you have connected.
 - [MKVCage](https://anonym.to/?https://www.mkvcage.nl/) - (warning) - Rebooted (unofficial) MKVCage website. It's not in any relationship with the original _project_.
+- [Mp4ba.cc](https://anonym.to/?http://mp4ba.cc/) - (CN _insecure_) - Videos, TV series and animes.
 - [Movcr](https://anonym.to/?https://movcr.tv/) - Download Movies Torrent Online Free.
 - [OTorrents](https://anonym.to/?https://otorrents.com/) - Yet another public torrent tracker.
 - [Pirateiro](https://anonym.to/?https://pirateiro.unblocked.gdn/) - Pirateiro is a torrent index for Brazilian and Portuguese torrents.
@@ -563,6 +567,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [xbit.pw](http://xbit.pw/) - (`insecure`) - A Magnet site search engine.
 - [YggTorrent](https://anonym.to/?https://www3.yggtorrent.to/) - French tracker and search engine (has a download/upload ratio limitation).
 - [YTS](https://anonym.to/?https://yts.am/) - Small-size HD movies in a good quality from YIFY.
+- [Xiepp](https://anonym.to/?https://www.xiepp.com/) (CN _insecure_) - Chinese movies, TV-Shows and other torrents.
 - [Zonatorrent](https://anonym.to/?https://zonatorrent.tv/) - Spanish tracker.
 - [Zooqle](https://anonym.to/?https://zooqle.com/) - Zooqle is a relatively new torrent index providing a huge database of verified torrents.
 
