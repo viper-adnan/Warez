@@ -559,6 +559,10 @@
 - [Tutanota](http://anonym.es/?https://tutanota.com) - A secure and open source eMail provider, Tutanota is forced (by law) to hand over all data in plain text, read the [german article](https://www.sueddeutsche.de/digital/tutanota-verschluesselung-e-mail-ueberwachung-polizei-1.4676988)
 
 
+## Google Photos Alternative
+- [Stingle Photos](https://play.google.com/store/apps/details?id=org.stingle.photos)
+
+
 ## Tools
 - [FlashFXP](http://www.whig.com/20171021/quincy-man-faces-federal-exploitation-of-a-minor-charges#//)
 
