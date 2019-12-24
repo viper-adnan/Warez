@@ -1264,7 +1264,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 
-
 ### Good Old Download alternatives (mirrors)
 - [GOD Games](https://anonym.to/?https://god-games.com/) - GOD is alive.
 - [GOD Project](http://god.freevar.com) - (`insecure`) - A work in Progress Project which aims to reboot the old GOD project.
@@ -1385,6 +1384,9 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [GDrive](https://anonym.to/?https://drive.google.com/drive/folders/0B7vPmuZfN3snMU0zYlBXSWVhOUE) - Wiiware and VC collection
 - [GDrive](https://anonym.to/?https://drive.google.com/drive/folders/0B7H6hIZDxNXeQW9uODA5UkM0ZG8) - Wii Scrubbed ISOs retail Collection NTSC
 - [GDrive](https://anonym.to/?https://drive.google.com/drive/folders/1UM6ZIhtWtIuwHo2rJunTTtW6sMxkTSQ0) - Mirror from abolve link.
+
+### Wii Hacking 
+- [r/WiiHacking](https://www.reddit.com/r/WiiHacking) - Community dedicated for Wii Roms, Firmwares, Discussions and links around the Wii hacking topic.
 
 **[`^        back to top        ^`](#)**
 
