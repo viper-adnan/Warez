@@ -22,6 +22,12 @@
 **[`^        back to top        ^`](#)**
 
 
+## Patreon campaigns scrawler
+- [Yiff.Party](https://anonym.to/?https://yiff.party/) [source code](https://anonym.to/?https://github.com/yiffparty/tracker) -  Web scraper website that uses bots to crawl various different Patreon campaigns, mainly those of furry content creators.
+
+**[`^        back to top        ^`](#)**
+
+
 ## Music Library Manager
 - [Beets](https://anonym.to/?https://github.com/beetbox/beets) - Beets is the media library management system for obsessive music geeks.
 - [Groove Music](https://anonym.to/?https://www.microsoft.com/en-us/p/groove-music/9wzdncrfj3pt?activetab=pivot:overviewtab) - Windows users only!
