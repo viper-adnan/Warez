@@ -155,26 +155,31 @@
 
 **[`^        back to top        ^`](#)**
 
+
 ## iOS
 - [How to add HackYouriPhone Repo in Cydia](https://anonym.to/?http://repo.hackyouriphone.org/add)
 - [iOS: How to crack your apps (IPA) and share it with people! (Working versions past iOS 9!)](https://anonym.to/?https://www.reddit.com/r/Piracy/comments/e6r80n/ios_how_to_crack_your_apps_ipa_and_share_it_with/)
 
 **[`^        back to top        ^`](#)**
 
+
 ## qBittorrent
 - [Auto unRar](https://anonym.to/?https://old.reddit.com/r/Piracy/comments/byemt3/auto_unrar_qbittorrent/) or via [script](https://anonym.to/?https://github.com/arfoll/unrarall)
 
 **[`^        back to top        ^`](#)**
+
 
 ## Baidu
 - [Guide to baidu account creation/downloading from pan.baidu](https://anonym.to/?https://old.reddit.com/r/Piracy/comments/by70qt/guide_to_baidu_account_creationdownloading_from/) 
 
 **[`^        back to top        ^`](#)**
 
+
 ## YouTube (Premium)
 - [How to get yt premium for free](https://anonym.to/?https://old.reddit.com/r/Piracy/comments/d6ltfc/so_here_is_how_to_get_yt_premium_for_free/) - A short tutorial on how you get YouTube Premium for free.
 
 **[`^        back to top        ^`](#)**
+
 
 ## Wget
 - [wget - a noob's guide](https://anonym.to/?http://chris.partridge.tech/data/wget-noobs.pdf) - A beginner guide on how to use `wget`.
@@ -213,3 +218,10 @@
 * [How to break IGG-GAMES's DRM ](https://anonym.to/?https://www.reddit.com/r/Piracy/comments/dn4t2e/how_to_break_igggamess_drm_repost_since_deleted/) - A guide to bypass IGG motherf*cking DRM.
 
 **[`^        back to top        ^`](#)**
+
+
+## Wii 
+* [Wii Hacking Guide](https://anonym.to/?https://wii.guide/) - Provides hacking guidance for the Wii console.
+
+**[`^        back to top        ^`](#)**
+
