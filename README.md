@@ -1783,7 +1783,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Issuu](https://anonym.to/?https://issuu.com/) - Allows users to upload and distribute their publications worldwide.
 - [KnowFree](http://knowfree.tradepub.com/) - (`insecure`) - Access free research, white papers, reports, case studies, magazines, and eBooks.
 - [LeanPub](https://anonym.to/?https://leanpub.com/) - eBooks on programming languages such as JavaScript, C#, PHP or Ruby and guidebooks.
-- [LibGen](http://libgen.is/) - (`insecure`) - eBook search. ([Mirror](http://gen.lib.rus.ec/)) - (`insecure`) - + ([another Mirror](https://anonym.to/?https://libgen.pw/))
+- [LibGen](http://gen.lib.rus.ec/) - (`insecure`) - eBook search. ([Mirror](http://gen.lib.rus.ec/)) - (`insecure`) - + ([another Mirror](https://anonym.to/?https://libgen.pw/))
 - [LibriVox](https://anonym.to/?https://librivox.org/) - Yet another pplatform that offers a free download of audiobooks all over the world.
 - [ManyBooks](http://manybooks.net/) - (`insecure`) - You can conduct an advanced search, type in a title or author, browse categories or select books by language, from Finnish to Bulgarian to Catalan to Swedish.
 - [Myanonamouse](http://www.myanonamouse.net/login.php?returnto=%2F) - (`insecure`) - Over 2 million torrents.
