@@ -1204,7 +1204,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ### Game Repacks
 - ["A simple script for easily downloading emulator.games ROMs"](https://anonym.to/?https://www.reddit.com/r/Piracy/comments/aytutr/a_simple_script_for_easily_downloading/) - Reddit guide and userscript created by /u/estel_smith to allow you to easily download ROMs from Emulator.Games.
-- [Corepack](https://anonym.to/?https://corepacks.com/) - Game & software repacks.
 - [BlackBox](https://anonym.to/?http://www.blackboxrepack.com/) - (`insecure`) - A well known forum/site for game repacks.
 - [Dark Umbra](https://anonym.to/?https://darkumbra.net/) - A forum for sourcing games.
 - [DODI](http://dodi-repacks.site/) - (`insecure`) - Similar like fit-girl repacks, known and trusted by thousend of peoples around the world.
