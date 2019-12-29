@@ -419,6 +419,7 @@
 * NORO repacks
 * nosTEAM.ro
 * Kkiste.io
+* Corepack
 
 ## eBooks
 * downeu.org
