@@ -214,6 +214,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [PeerVPN](https://anonym.to/?https://peervpn.net/) - PeerVPN is a software that builds virtual ethernet networks between multiple computers.
 - [Pritunl](https://anonym.to/?https://pritunl.com/) - Enterprise Distributed OpenVPN and IPsec Server.
 - [sshuttle](https://anonym.to/?https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
+- [SoftEther VPN](https://anonym.to/?https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software.
 - [Mysterium Network](https://anonym.to/?https://mysterium.network/) - Yet another self-hosted VPN.
 - [Outline by Alphabet](https://anonym.to/?https://www.getoutline.org/) - Not a traditional VPN but it might work with Google Cloud, AWS & more.
 - [ocserv](https://anonym.to/?https://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server.
