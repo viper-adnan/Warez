@@ -203,6 +203,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ### Decentralized VPN
 - [radvpn](https://anonym.to/?https://github.com/mehrdadrad/radvpn) - Decentralized VPN
+- [Mysterium Network](https://anonym.to/?hhttps://mysterium.network/vpn/) - [source code](https://anonym.to/?https://github.com/Mysterium) Claims to be world’s 1st decentralized free VPN which uses OpenVPN & WireGuard.
 
 **[`^        back to top        ^`](#)**
 
