@@ -1197,6 +1197,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ## Gaming Infos, Emus & other resources
 - [Crackwatch](https://anonym.to/?https://crackwatch.com/) + Reddit: [/r/CrackWatch](https://anonym.to/?https://reddit.com/r/CrackWatch/) - New video game crack releases are posted here.
+- [Is Cracked?](https://anonym.to/?https://iscracked.info/) - Similar likle Crackwatch, provides Infos if the game was already cracked or not, among Game information and release date.
 - [CreamAPI AutoInstaller](https://anonym.to/?https://github.com/Douile/cream-api-autoinstaller) - A python script to auto install Cream API for Steam games in order to get all [DLCs for free](https://anonym.to/?https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576&hilit=CreamAPI).
 - [Goldberg Steam Emulator](https://anonym.to/?https://gitlab.com/Mr_Goldberg/goldberg_emulator) - The  project is an attempt to make a generic Steam ddl that lets you play multiplayer games on a LAN without any internet connection.
 - [SmartSteamEmu](https://anonym.to/?https://github.com/MAXBURAOT/SmartSteamEmu) - A Steam emulator.
@@ -2852,7 +2853,7 @@ one cryptocurrency wallet to another across various cryptocurrencies
 
 ## Router Firmware
 - [List of router formware projects](https://anonym.to/?https://en.wikipedia.org/wiki/List_of_router_firmware_projects)
-- [FreshTomato](https://anonym.to/?https://exotic.se/freshtomato/) - [source code ARM])(https://anonym.to/?https://bitbucket.org/pedro311/freshtomato-arm) + [source code MIPS](https://anonym.to/?https://bitbucket.org/pedro311/freshtomato-mips) - 
+- [FreshTomato](https://anonym.to/?https://exotic.se/freshtomato/) - [source code ARM](https://anonym.to/?https://bitbucket.org/pedro311/freshtomato-arm) + [source code MIPS](https://anonym.to/?https://bitbucket.org/pedro311/freshtomato-mips) - 
 - [OpenWRT OPEN Wireless RouTer (LEDGE)](https://anonym.to/?https://openwrt.org/) - The OpenWrt Project is a Linux operating system targeting embedded devices.
 - [VyOS.io](https://anonym.to/?https://www.vyos.io/) - VyOS is a Linux-based network operating system that provides software-based network routing, firewall, and VPN functionality.
 
