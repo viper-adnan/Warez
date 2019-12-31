@@ -1757,10 +1757,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Boundless](https://anonym.to/?https://www.boundless.com/) - Affordable online textbooks & study materials.
 - [Calibre DRM Removal Plugins 2019 — Remove eBook DRM with Calibre](https://anonym.to/?https://medium.com/@angeldan1989/calibre-drm-removal-plugins-2019-remove-ebook-drm-with-calibre-4ec9c07cae80) - DeDRM removal guide for Calibre.
 - [Calibre Web](https://anonym.to/?https://github.com/janeczku/calibre-web) - Web app for browsing, reading and downloading eBooks stored in a Calibre database.
-- [CG Persia Forum](https://anonym.to/?https://cgpersia.com/) - EBooks, tutorials & courses.
-- [CGPeers](https://anonym.to/?https://www.cgpeers.com/) - Ebooks,, courses and trainings.
 - [COPS](https://anonym.to/?https://github.com/seblucas/cops) - Calibre OPDS (and HTML) - PHP Server: Web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, etc.).
-- [CourseClub.me](https://anonym.to/?https://courseclub.me/) - CourseClub provides courses which you can download for e.g. Lynda, Pluralsight, CBG Nuggets & more.
 - [Custom Search Engine](https://anonym.to/?https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) - A Google custom search engine specifically for ebooks.
 - [DailyLit](http://www.dailylit.com/) - (`insecure`) - Get free downloads sent to your email by RSS feed.
 - [DeDRM_tools](https://anonym.to/?https://github.com/apprenticeharper/DeDRM_tools) A github repository of all the scripts and other tools for removing DRM from ebooks.
@@ -1774,7 +1771,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Free eBooks](http://www.free-ebooks.net/) - (`insecure`) - Besides browsing topics such as biography, fan fiction, games, history, or tutorials, you can submit your own ebook, too.
 - [freebookspot.es](http://www.freebookspot.es/) - (`insecure`) - Various eBook's for free.
 - [FreeComputerBooks](http://freecomputerbooks.com/) - (`insecure`) - eBook categories such as Computer, Lecture Notes, Mathematics, Tutorials, Programming, and Technical books.
-- [FreeCourseSite.com](https://anonym.to/?https://freecoursesite.com/) - Provides Udemy courses for free.
 - [FreeTechBooks](http://www.freetechbooks.com/) - (`insecure`) - Download free computer science, engineering and programming books, textbooks and lecture notes.
 - [GetFreeEBooks](http://www.getfreeebooks.com/) - (`insecure`) - This website has free ebooks in categories from writing to environment to fiction to business, plus features and reviews.
 - [Globusz](http://www.globusz.com/) - (`insecure`) - There are no limits on the number of free books you can download on this online publishing site.
@@ -1807,23 +1803,28 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## Courses
-- [NulledPremium](https://anonym.to/?https://nulledpremium.com/) - Paid Graphics, Themes, Plugins, Music For Free – Premium Graphics, Themes, Plugins, Music for free.
-- [FreeCourseLab](https://anonym.to/?https://freecourselab.com/) + ([Mirror](https://www.freecoursesonline.me/?1))- Download Paid Udemy Courses Free.
-- [CourseHunter](https://anonym.to/?https://coursehunters.net/) - Free tutorials and video tutorials.
-- [Ebizcourses.com](https://anonym.to/?https://ebizcourses.com) -  A membership site that sharing all the MMO courses from big authors around of the world, all in one place.
-- [RealMVP](https://anonym.to/?https://realmvp.org/) - New eBooks, video and written tutorials.
-- [DownTurk.eu](https://anonym.to/?https://downturk.eu/video-tutorials/) - Developer tutorials and other eBook related stuff.
 - [0Day releases](https://anonym.to/?https://0dayreleases.com/category/video-tutorial/) - 0Day releases for Games, Video Tutorials, TV Shows & more.
-- [FTU Forum](https://anonym.to/?https://ftuforum.com/) - Forum for eBooks, courses and tutorials.
-- [FreeCourses](https://anonym.to/?http://freecoursesite.com/) - Alternative to freetutorials.us, provides similar service.
-- [DownDuck](https://anonym.to/?https://downduck.eu/video-tutorials/) - Various video tutorials for developers.
-- [ForCoder.su](https://anonym.to/?https://forcoder.su/) - Coding related courses and tutorials.
+- [CG Persia Forum](https://anonym.to/?https://cgpersia.com/) - EBooks, tutorials & courses.
+- [CGPeers](https://anonym.to/?https://www.cgpeers.com/) - Ebooks, courses and trainings.
 - [Coderprog](https://anonym.to/?hhttps://coderprog.com/) - Developer courses, trainings and books among some tutorial related books.
+- [CourseClub.me](https://anonym.to/?https://courseclub.me/) - CourseClub provides courses which you can download for e.g. Lynda, Pluralsight, CBG Nuggets & more.
+- [CourseHunter](https://anonym.to/?https://coursehunters.net/) - Free tutorials and video tutorials.
+- [DownDuck](https://anonym.to/?https://downduck.eu/video-tutorials/) - Various video tutorials for developers.
+- [DownTurk.eu](https://anonym.to/?https://downturk.eu/video-tutorials/) - Developer tutorials and other eBook related stuff.
+- [Ebizcourses.com](https://anonym.to/?https://ebizcourses.com) -  A membership site that sharing all the MMO courses from big authors around of the world, all in one place.
+- [eLearning](https://anonym.to/?https://www.torontopubliclibrary.ca) - Cisco, Mango, HSTalks and other eBook courses for free.
+- [ForCoder.su](https://anonym.to/?https://forcoder.su/) - Coding related courses and tutorials.
+- [FreeCourseLab](https://anonym.to/?https://freecourselab.com/) + ([Mirror](https://www.freecoursesonline.me/?1))- Download Paid Udemy Courses Free.
+- [FreeCourses](https://anonym.to/?http://freecoursesite.com/) - Alternative to freetutorials.us, provides similar service.
+- [FreeCourseSite.com](https://anonym.to/?https://freecoursesite.com/) - Provides Udemy courses for free.
+- [FTU Forum](https://anonym.to/?https://ftuforum.com/) - Forum for eBooks, courses and tutorials.
+- [NulledPremium](https://anonym.to/?https://nulledpremium.com/) - Paid Graphics, Themes, Plugins, Music For Free – Premium Graphics, Themes, Plugins, Music for free.
+- [O’Reilly](https://anonym.to/?http://www.oreilly.com/?cmp=af-npa--home_cj_11246204_7018660) - (`insecure`) - A platform to download books, magazines, and tutorials for free.
+- [RealMVP](https://anonym.to/?https://realmvp.org/) - New eBooks, video and written tutorials.
+- [s10 BitDownload](https://anonym.to/?http://s10.bitdownload.ir/Learning.2/) - (`insecure`) - Tutorials, Udemy & and others.
 - [ScanLibs](https://anonym.to/?https://scanlibs.com/) - Provides Android, Assembler, Books, C & other courses.
 - [The Online Books Page](https://anonym.to/?http://digital.library.upenn.edu/books/) - (`insecure`) - You'll be able to access over 35,000 free ebooks from this site, powered by the University of Pennsylvania.
-- [O’Reilly](https://anonym.to/?http://www.oreilly.com/?cmp=af-npa--home_cj_11246204_7018660) - (`insecure`) - A platform to download books, magazines, and tutorials for free.
-- [s10 BitDownload](https://anonym.to/?http://s10.bitdownload.ir/Learning.2/) - (`insecure`) - Tutorials, Udemy & and others.
-- [TutsGalaxy](https://anonym.to/?https://tutsgalaxy.com/) - Free Courses & Tutorials
+- [TutsGalaxy](https://anonym.to/?https://tutsgalaxy.com/) - Free Courses & Tutorials.
 
 **[`^        back to top        ^`](#)**
 
