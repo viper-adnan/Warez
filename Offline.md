@@ -10,6 +10,7 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - worldwidetorrents.me & yify.am
 - [MKVCage](http://mkvcage.com/) ([source](https://torrentfreak.com/popular-torrent-site-mkvcage-faces-lawsuit-and-goes-offline/))
 - [Mangamura.org](https://twitter.com/ABSCBNNews/status/1148449826155057152?ref_src=twsrc%5Etfw)
+- Freetutorials.us
 
 ## Android Apps
 - Terrarium TV
