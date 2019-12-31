@@ -1791,21 +1791,39 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [ManyBooks](http://manybooks.net/) - (`insecure`) - You can conduct an advanced search, type in a title or author, browse categories or select books by language, from Finnish to Bulgarian to Catalan to Swedish.
 - [Myanonamouse](http://www.myanonamouse.net/login.php?returnto=%2F) - (`insecure`) - Over 2 million torrents.
 - [NZBIndex](https://anonym.to/?https://nzbindex.com/search/?q=Lynda.+Com&age=&max=25&minage=&sort=agedesc&minsize=&maxsize=&dq=&poster=&hidespam=0&hidespam=1&more=0) - Example search for "Lynda .com". - you get the idea.
-- [O’Reilly](http://www.oreilly.com/?cmp=af-npa--home_cj_11246204_7018660) - (`insecure`) - A platform to download books, magazines, and tutorials for free.
 - [OnlineProgrammingBooks](http://www.onlineprogrammingbooks.com/) - (`insecure`) - Offers mobile app development, programming, computer science, web design, software engineering, information technology, networking, and databases.
 - [Open Culture](http://www.openculture.com/free_ebooks) - (`insecure`) - Offers over 800 free eBooks to your Kindle, iPad/iPhone, computer, smartphone and eReader.
 - [Open Library](https://anonym.to/?https://play.google.com/store/books/collection/topselling_free) - Gooel's free eBook storage.
 - [Planet PDF](https://anonym.to/?http://www.planetpdf.com/free_pdf_ebooks.asp) - (`insecure`) - Planet PDF has made available classic titles like Anna Karenina and Frankenstein for free.
 - [ReadAnyBook](https://anonym.to/?https://readanybook.com/) - Free online eBook reading.
 - [Read Print Library](http://www.readprint.com/) - (`insecure`) - Provides free novels and poems.
-- [s10 BitDownload](http://s10.bitdownload.ir/Learning.2/) - (`insecure`) - Tutorials, Udemy & and others.
 - [Starry.com](http://www.starry.com/free-online-novels/index.htm) - (`insecure`) - These novels and anthologies were last updated in 2006, but you'll still find an interesting selection of online and virtual novels.
 - [TehParadox](http://www.tehparadox.co/) - (`insecure`) - eBooks, Apps, Games & more.
 - [The idiot proof guide to downloading ebooks off IRC](https://anonym.to/?https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) - Posted by /u/Servaplur
-- [The Online Books Page](http://digital.library.upenn.edu/books/) - (`insecure`) - You'll be able to access over 35,000 free ebooks from this site, powered by the University of Pennsylvania.
 - [TheGeeks](https://anonym.to/?https://thegeeks.click/) - Ebook tutorials mostly Udemy, but not limted to it.
-- [TutsGalaxy](https://anonym.to/?https://tutsgalaxy.com/) - Free Courses & Tutorials
 - [Twirpx](https://anonym.to/?https://www.twirpx.com/) - (RU) - Fiction/Non-fiction, books in multiple languages.
+
+**[`^        back to top        ^`](#)**
+
+
+## Courses
+- [NulledPremium](https://anonym.to/?https://nulledpremium.com/) - Paid Graphics, Themes, Plugins, Music For Free – Premium Graphics, Themes, Plugins, Music for free.
+- [FreeCourseLab](https://anonym.to/?https://freecourselab.com/) + ([Mirror](https://www.freecoursesonline.me/?1))- Download Paid Udemy Courses Free.
+- [CourseHunter](https://anonym.to/?https://coursehunters.net/) - Free tutorials and video tutorials.
+- [Ebizcourses.com](https://anonym.to/?https://ebizcourses.com) -  A membership site that sharing all the MMO courses from big authors around of the world, all in one place.
+- [RealMVP](https://anonym.to/?https://realmvp.org/) - New eBooks, video and written tutorials.
+- [DownTurk.eu](https://anonym.to/?https://downturk.eu/video-tutorials/) - Developer tutorials and other eBook related stuff.
+- [0Day releases](https://anonym.to/?https://0dayreleases.com/category/video-tutorial/) - 0Day releases for Games, Video Tutorials, TV Shows & more.
+- [FTU Forum](https://anonym.to/?https://ftuforum.com/) - Forum for eBooks, courses and tutorials.
+- [FreeCourses](https://anonym.to/?http://freecoursesite.com/) - Alternative to freetutorials.us, provides similar service.
+- [DownDuck](https://anonym.to/?https://downduck.eu/video-tutorials/) - Various video tutorials for developers.
+- [ForCoder.su](https://anonym.to/?https://forcoder.su/) - Coding related courses and tutorials.
+- [Coderprog](https://anonym.to/?hhttps://coderprog.com/) - Developer courses, trainings and books among some tutorial related books.
+- [ScanLibs](https://anonym.to/?https://scanlibs.com/) - Provides Android, Assembler, Books, C & other courses.
+- [The Online Books Page](https://anonym.to/?http://digital.library.upenn.edu/books/) - (`insecure`) - You'll be able to access over 35,000 free ebooks from this site, powered by the University of Pennsylvania.
+- [O’Reilly](https://anonym.to/?http://www.oreilly.com/?cmp=af-npa--home_cj_11246204_7018660) - (`insecure`) - A platform to download books, magazines, and tutorials for free.
+- [s10 BitDownload](https://anonym.to/?http://s10.bitdownload.ir/Learning.2/) - (`insecure`) - Tutorials, Udemy & and others.
+- [TutsGalaxy](https://anonym.to/?https://tutsgalaxy.com/) - Free Courses & Tutorials
 
 **[`^        back to top        ^`](#)**
 
