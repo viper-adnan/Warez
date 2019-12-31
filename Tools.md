@@ -913,6 +913,10 @@ Downloads albums in bulk.
 **[`^        back to top        ^`](#)**
 
 
+## Spotify 
+- [MuteSpotifyAds](https://anonym.to/?https://github.com/simonmeusel/MuteSpotifyAds) - A efficent MacOS application automatically silencing ads on the spotify desktop app.
+
+
 ## RSS link generation
 - [ShowRSS.info](https://anonym.to/?http://showrss.info/) -  Compile a list of TV shows that you follow and generate an RSS link that you can put in your torrent client to automatically download new episodes as they are released based on the quality that you want (480p, 720p, 1080p, REPACK, etc).
 
