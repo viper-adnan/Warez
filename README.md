@@ -2848,3 +2848,11 @@ one cryptocurrency wallet to another across various cryptocurrencies
 - [Tornado](https://anonym.to/?https://tornado.cash/) - (_Beta!_) - Audit but still in beta!
 
 **[`^        back to top        ^`](#)**
+
+
+## Router Firmware
+- [List ofrouter formware projects](https://anonym.to/?https://en.wikipedia.org/wiki/List_of_router_firmware_projects)
+- [VyOS.io](https://anonym.to/?https://www.vyos.io/) - VyOS is a Linux-based network operating system that provides software-based network routing, firewall, and VPN functionality.
+- [OpenWRT OPEN Wireless RouTer (LEDGE)](https://anonym.to/?https://openwrt.org/) - The OpenWrt Project is a Linux operating system targeting embedded devices.
+
+**[`^        back to top        ^`](#)**
