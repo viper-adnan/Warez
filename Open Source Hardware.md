@@ -8,9 +8,13 @@
 
 - [Turris](https://anonym.to/?https://project.turris.cz/en/hardware-documentation) - [Turris OS](https://gitlab.labs.nic.cz/public/projects?search=turris) is the OpenWRT based operating system, the project [documents the hardware](https://project.turris.cz/en/hardware-documentation)
 
+## CPU's
+- [OpenPower](https://anonym.to/?hhttps://openpowerfoundation.org/openpower-the-best-combination-of-open-and-high-performance/)
+
 
 ## Laptop
 - [Librem 13 or 15 series](https://anonym.to/?https://puri.sm/products/librem-15/)
+- [Nitropad X230](https://anonym.to/?hhttps://shop.nitrokey.com/de_DE/shop/product/nitropad-x230-67) - `no Intel ME` - (_Evil-Maid-Attack protection_)
 
 
 ## Tablet
