@@ -570,7 +570,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [WebOas](https://anonym.to/?https://weboas.is/) - A search engine designed to find warez, music and other stuff in public dirs.
 - [xbit.pw](http://xbit.pw/) - (`insecure`) - A Magnet site search engine.
 - [YggTorrent](https://anonym.to/?https://www3.yggtorrent.to/) - French tracker and search engine (has a download/upload ratio limitation).
-- [YTS](https://anonym.to/?https://yts.am/) - Small-size HD movies in a good quality from YIFY.
 - [Xiepp](https://anonym.to/?https://www.xiepp.com/) (CN _insecure_) - Chinese movies, TV-Shows and other torrents.
 - [Zonatorrent](https://anonym.to/?https://zonatorrent.tv/) - Spanish tracker.
 - [Zooqle](https://anonym.to/?https://zooqle.com/) - Zooqle is a relatively new torrent index providing a huge database of verified torrents.
