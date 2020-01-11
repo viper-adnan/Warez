@@ -30,6 +30,12 @@
 **[`^        back to top        ^`](#)**
 
 
+## Games specific
+- [How to play Resident Evil Outbreak Coop Multiplayer](https://anonym.to/?https://www.reddit.com/r/localmultiplayergames/comments/bhtfzl/how_to_play_resident_evil_outbreak_coop/)
+- [Playing Resident Evil Outbreak File#1 and File#2 Online Again! YES!](https://anonym.to/?https://www.reddit.com/r/residentevil/comments/5x99m9/playing_resident_evil_outbreak_file1_and_file2/)
+
+**[`^        back to top        ^`](#)**
+
 ## Kindle eBook
 - [Guide to Copy Kindle Content to PDF using Calibre](https://anonym.to/?https://www.reddit.com/r/Piracy/comments/bm837l/guide_to_copy_kindle_content_to_pdf_using_calibre/)
 - [The idiot-proof guide to downloading ebooks off IRC](https://anonym.to/?https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/)
