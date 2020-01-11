@@ -24,6 +24,7 @@
 
 ## Patreon campaigns scrawler
 - [Yiff.Party](https://anonym.to/?https://yiff.party/) [source code](https://anonym.to/?https://github.com/yiffparty/tracker) -  Web scraper website that uses bots to crawl various different Patreon campaigns, mainly those of furry content creators.
+- [YiffyScraper](https://anonym.to/?https://github.com/yiffscraper/yiffscraper) - Based on the original script by u/KilljoyWonderland, and new and updated + working versions to script for scraping content off YP.
 
 **[`^        back to top        ^`](#)**
 
