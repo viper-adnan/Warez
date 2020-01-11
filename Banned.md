@@ -190,6 +190,7 @@
 - torrentsafe.com
 
 ## Imposter, crypto mining etc.
+* fitgirlrepacks.co
 * CMRG
 * cpygames
 * cracked-games.org
