@@ -231,7 +231,6 @@ There is a universal rule for Android:
 
 **[`^        back to top        ^`](#)**
 
-
 ## Xposed (EdXposed) Modules
 - [List of Xposed Modules For Android Pie Working With Ed Xposed](https://anonym.to/?https://forum.xda-developers.com/xposed/list-xposed-modules-android-pie-ed-t3892768)
 - [Lucky Patcher](https://anonym.to/?https://www.luckypatchers.com/download/) - LP also has a Xposed module which you can use (in case you use Xpose).
@@ -243,6 +242,12 @@ There is a universal rule for Android:
 
 ## Unblock Warez Websites
 - [Unblocked](https://anonym.to/?https://unblocked.mx/) - A service which links to official mirror websites or proxy your fav. warez website in case it was GeoIP blocked.
+
+**[`^        back to top        ^`](#)**
+
+
+## Lynda
+- [Generate-HoustonLibrary-Codes](https://anonym.to/?https://github.com/SharlSherif/Generate-HoustonLibrary-Codes) - A simple script to automate the process of getting a card number from Houstonlibrary.org in order to get free access to Lynda.com
 
 **[`^        back to top        ^`](#)**
 
