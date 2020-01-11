@@ -229,6 +229,7 @@
 
 
 ## Other reasons (sell-out, under surveillance or dangerous ads etc)
+* [YTS](https://torrentfreak.com/movie-companies-sue-yts-users-including-one-who-hid-behind-a-vpn-200106/) / [Discussion](https://www.reddit.com/r/Piracy/comments/emyitb/movie_companies_have_got_access_to_ytslt_user/)
 * 3456.ws
 * 01torrent.net
 * 1movies.biz
