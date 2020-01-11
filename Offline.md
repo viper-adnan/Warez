@@ -52,6 +52,9 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 ## Music
 - mp3-monkey.com
 
+## Tracker info
+- btracs.com
+
 ### Cracking forums
 - cracked.to
 - crackingleaks.to
