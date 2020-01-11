@@ -14,6 +14,7 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 
 ## Android Apps
 - Terrarium TV
+- SMLoader (also Windows/Linux) 
 
 ## predb
 - dats.romshepherd.com
