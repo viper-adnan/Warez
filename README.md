@@ -1278,6 +1278,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 ### Console Games (various)
 - [/r/PkgLinks](https://anonym.to/?https://www.reddit.com/r/PkgLinks/) - A place to share working Playstation 4 PKGs.
 - [/r/SwitchNSPs](https://anonym.to/?https://www.reddit.com/r/SwitchNSPs/) - Nintendo Switch games.
+- [Allgamesforyou](https://anonym.to/?https://www.allgamesforyou.com) - Popular Games, updated every week!
 - [gazellegames](https://anonym.to/?https://gazellegames.net/) - Another xBox 360 collection.
 - [NoPayStation](https://anonym.to/?https://nopaystation.com) - A Database for PSN Content including Vita, PS3, PSX, and PSP.
 - [OVAGames](http://www.ovagames.com/) - (`insecure`) - Yet another database with console and pc games. 
