@@ -1645,10 +1645,11 @@ I do not accept any donations or add a sponsorship button for this repository. I
 ## Spotify
 - [Block Spotify Updates on MacOS](https://anonym.to/?https://donotupdatespotify.sh/) - A guide is avbl. [here](https://anonym.to/?https://old.reddit.com/r/Piracy/comments/d2z6kc/guide_spotify_free_without_ads_for_mac_os/). 
 - [BlockTheSpot](https://anonym.to/?https://github.com/master131/BlockTheSpot) - Video, Audio & Banner ad-block/skip for Spotify. 
-- [MuteSPotifyAds](https://anonym.to/?https://github.com/simonmeusel/MuteSpotifyAds) - Mutes audio/video ads, however you still need to wait 30 sec.
+- [MuteSpotifyAds](https://anonym.to/?https://github.com/simonmeusel/MuteSpotifyAds) - Mutes audio/video ads, however you still need to wait 30 sec.
 - [Spotifree](https://anonym.to/?https://github.com/ArtemGordinsky/Spotifree) - An OS X app that automatically mutes ads on Spotify (not supported).
 - [Spotify Ad-Free](https://anonym.to/?https://github.com/CHEF-KOCH/Spotify-Ad-free) - Modified Client(s), Information, etc.
 - [Spotify Downloader](https://anonym.to/?https://github.com/ritiek/spotify-downloader) - Download Spotify playlists with albumart and meta-tags.
+- [spotr](https://anonym.to/?https://github.com/XDGFX/spotr) - Python app which converts Spotify playlist tracks to Deezer URLs.
 - [Spytify](https://anonym.to/?https://jwallet.github.io/spy-spotify/) - Records Spotify without ads while it plays and includes media tags to the recorded files.
 
 **[`^        back to top        ^`](#)**
