@@ -910,7 +910,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Warez-BB-org](https://anonym.to/?https://warez-bb.org/) - Elite warez forum. [![(invite needed)][inviteneeded]](#)
 - [WarezBB.org](http://warezbb.org/) - (`insecure`) - Invite-only elite forum.
 - [Warezforum Asia](http://warezforum.asia/) - (`insecure`) - A website for PDF's & more.
-- [WarezForums](https://anonym.to/?https://warezforums.com/) - (EN/US) - Warez forum with films, TV shows, ebooks, anime, games, and more.
+- [WarezForums](https://anonym.to/?https://warezforums.com/) - (EN/US) - Warez forum with films, TV shows, ebooks, anime, games, and more via G-Drive and Mega.
 - [watchepisodeseries](https://anonym.to/?https://watchepisodeseries.bypassed.wtf/) - Watch Episode Series provides TV Shows releases from the scene.
 - [WatchTVSeries](https://anonym.to/?https://watchtvseries.unblocked.krd/) - Watch TV shows online.
 - [ZeroBoard](https://anonym.to/?https://zeroboard.org/) - A board which provides Windows related stuff.
@@ -982,7 +982,9 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Animeboys](https://anonym.to/?https://www.kaze-online.de/) - (Ger) - Subs and dubs, banner and pop-up ads, multiple sources.
 - [Animefever](https://anonym.to/?https://www.animefever.tv/) - Subs only, multilingual, banner ads, self-hosted.
 - [Anime Streams](https://anonym.to/?https://www.anime2you.de/streams/) - Sub and dub, banner ads.
-- [Anime8](https://anonym.to/?https://anime8.me/)
+- [Anime8](https://anonym.to/?https://anime8.me/) - Watch & download online in high quality.
+- [AnimeRam](https://anonym.to/?https://ww2.animeram.cc/) A streaming website for dubbed/subbed anime.
+- [Animepahe](https://anonym.to/?https://animepahe.com/) A minimilistic anime streaming/download website, subs only. 
 - [AnimeBam](https://anonym.to/?https://www.animebam.net/) - Subs only, banner ads, only one source.
 - [AnimeDao](https://anonym.to/?https://animedao.com/) - No ads, subs only, multiple sources, videos hosted by Google.
 - [Animeflv](https://anonym.to/?https://animeflv.net/)
@@ -1246,7 +1248,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [No Intro DAT-o-MATIC](https://anonym.to/?https://datomatic.no-intro.org/) - List of Xbox, Nintendo etc games.
 - [Old Games Finder](http://www.oldgamesfinder.com/) - (`insecure`) - Old Games Finder is an automated old games search engine. (avoid ISO Zone links, as that site is dead).
 - [Rom Links Megathread - 1Fichier, GDrive, Mega](https://anonym.to/?https://old.reddit.com/r/Roms/comments/9jmmhi/rom_links_megathread_1fichier_gdrive_mega/) - Nintendo, Sony, Microsoft, Romsets, Arcade and other ROM collections.
-- [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM/ISO_Sites) - (`insecure`) - Wiki page from gametechwiki.com with more links to ROM and ISO websites.
+- [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) - (`insecure`) - Wiki page from gametechwiki.com with more links to ROM and ISO websites.
 - [Romulation.net](https://anonym.to/?https://www.romulation.net/) - Collection of over ~28,000 console game ROMs.
 - [Romsmania](https://anonym.to/?https://romsmania.cc/) - Another great ROMs collection with a decent UI to find stuff quick.
 - [ROMNation](https://anonym.to/https://www.romnation.net/) - Lots of ROMs.
@@ -1475,7 +1477,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [FreeAllMusic](https://anonym.to/?https://freeallmusic.top/) - Download any high quality music and up-to-date to the latest releases.
 - [LibreSonic](https://anonym.to/?https://github.com/Libresonic/libresonic) - Media streaming software.
 - [MOOVAL](https://anonym.to/?https://www.mooval.de/) - Easily move your playlists, tracks and likes from one streaming service to another.
-- [Madsonic](madsonic.org) - Madsonic is a web-based media library and media streamer with jukebox functionality.
+- [Madsonic](https://anonym.to/?https://www.madsonic.org/) - Madsonic is a web-based media library and media streamer with jukebox functionality.
 - [MusicBrainz](https://anonym.to/?https://musicbrainz.org/) - MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public.
 - [ProgrockWorld](https://anonym.to/?https://progrockworld.ru/) - (RU) - Classic Rock, Pop & more.
 - [Redacted](https://anonym.to/?https://redacted.ch/) - Elite music scene (requires invite).
@@ -2878,3 +2880,10 @@ one cryptocurrency wallet to another across various cryptocurrencies
 
 
 **[`^        back to top        ^`](#)**
+
+
+## VST plugins
+- [Kvraudio](https://anonym.to/?https://www.kvraudio.com/plugins/newest) 
+
+**[`^        back to top        ^`](#)**
+
