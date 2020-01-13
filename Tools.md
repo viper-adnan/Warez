@@ -38,6 +38,18 @@
 **[`^        back to top        ^`](#)**
 
 
+## PGP alternatives
+- [Minisign](https://anonym.to/?https://jedisct1.github.io/minisign/) (_signing_)
+- [Magic Wormhole](https://anonym.to/?https://github.com/warner/magic-wormhole) (_file transfer_)
+- [Tarsnap](https://anonym.to/?https://www.tarsnap.com/design.html) (_encrypted backups_)
+
+### PGP replacements
+- [Autocrypt](https://anonym.to/?https://autocrypt.org/index.html)
+- [PeP](https://anonym.to/?https://www.pep.security/)
+
+**[`^        back to top        ^`](#)**
+
+
 ## Android Reverse Engineering Tools
 - [androidre](https://anonym.to/?https://github.com/cryptax/androidre) - Reverse engineering Android.
 - [apkstudio](https://anonym.to/?https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt based IDE for reverse-engineering Android application packages.
