@@ -444,7 +444,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [TechWorm](https://anonym.to/?https://www.techworm.net) - Techworm is a Tech, Cyber-security news platform.
 - [TorrentFreak](https://anonym.to/?https://torrentfreak.com) - TorrentFreak is a publication dedicated to bringing the latest news about copyright, privacy, and everything related to filesharing.
 - [Tunny.to](https://anonym.to/?https://tunny.to) - DDL.to & VUP.to Blog.
-- [/v/piracy](https://anonym.to/?https://voat.co/v/piracy) - Voat Forum for piracy related discussions.
+- [/v/piracy](https://anonym.to/?https://voat.co/v/piracy) - Voat forum for piracy related discussions.
 
 
 ## Torrenting
@@ -460,6 +460,12 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [ZBIGZ](https://anonym.to/?https://zbigz.com/) - Zbigz is a very good solution if your PC or laptop is locked by your ISP, it allows you to download torrents via Browser.
 
 **[`^        back to top        ^`](#)**
+
+
+### Torrent Search Engines
+- [Search Torrents](https://anonym.to/?https://search.torrents.io/)
+- [Toorgle](https://anonym.to/?http://www.toorgle.com/) - `insecure` 
+
 
 ### Torrent Trackers
 - [/r/trackers](https://anonym.to/?https://www.reddit.com/r/trackers) - A subreddit for discussing public & private trackers.
@@ -564,7 +570,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [TorrentGalaxy](https://anonym.to/?https://torrentgalaxy.org/) - Public tracker with a clean UI.
 - [TorrentInvites](http://torrentinvites.org) - (`insecure`) - #1 to buy, trade, sell or find free Tracker Invites!
 - [TorrentKing](https://anonym.to/?https://torrentking.io/) - Torrentking is a popular movie torrent site.
-- [Torrentz2](https://anonym.to/?https://torrentz2.is/) - A good replacement of the defunct Torrentz.eu.
+- [Torrentz2](https://anonym.to/?https://torrentz2.is/) - [(mirror)](https://anonym.to/?https://torrentz2.eu/) - A good replacement of the defunct Torrentz.eu.
 - [Torrents-csv.ml](https://torrents-csv.ml) - An open-source torrent search engine tracker for all sorts of torrents.
 - [Trackers list](https://anonym.to/?https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers which you can add in e.g. QB.
 - [WebOas](https://anonym.to/?https://weboas.is/) - A search engine designed to find warez, music and other stuff in public dirs.
@@ -589,6 +595,8 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [snowfl](https://anonym.to/?https://snowfl.com/) - Snowfl is a torrent aggregator which searches various public torrent indexes in real-time.
 - [SolidTorrents](https://anonym.to/?https://solidtorrents.net) - A clean, privacy focused torrent search engine.
 - [Torrents.me](https://anonym.to/?https://torrents.me/) - Torrents.me combines popular torrent sites and specialized private trackers in a torrent multi-search.
+- [Torrentzeta](https://anonym.to/?https://www.torrentzeta.com/)
+- [Skyn3t](https://anonym.to/?https://skyn3t.in/srx/)
 
 **[`^        back to top        ^`](#)**
 
