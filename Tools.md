@@ -5,7 +5,7 @@
 
 
 ## Audio Converter
-- [fre:ac](https://anonym.to/?https://www.freac.org/)
+- [fre:ac](https://anonym.to/?https://www.freac.org/) - Free audio converter and CD ripper with support for various popular formats and encoders.
 
 **[`^        back to top        ^`](#)**
 
