@@ -348,7 +348,8 @@ Downloads albums in bulk.
 - [y2mate.com](https://anonym.to/?http://y2mate.com/) - Download Video and Audio from YouTube.
 - [youtube-dl](https://anonym.to/?http://ytdl-org.github.io/youtube-dl/index.html) - youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
 - [TheFrenchGhostys YouTube-DL Archivist Scripts](https://gitlab.com/TheFrenchGhosty/TheFrenchGhostys-YouTube-DL-Archivist-Scripts) - The ultimate collection of scripts for YouTube-DL.
-
+- [YoutubeDownloader](https://anonym.to/?https://github.com/ShimmyMySherbet/YoutubeDownloader) -  A Music downloader with Spotify integration for automatic metadata application.
+        
 
 ### YouTube Channel Blocker
 - [YouTube Cleaner](https://anonym.to/?https://addons.mozilla.org/firefox/addon/youtube-cleaner/) - (Firefox) - YouTube cleaner offers the ability to block specific user defined channels.
@@ -691,6 +692,12 @@ Downloads albums in bulk.
 - [Hard_Configurator](https://anonym.to/?http://hard-configurator.com/) - GUI to manage Software Restriction Policy (SRP) and harden Windows.
 - [hardentools](https://anonym.to/?https://github.com/securitywithoutborders/hardentools) - Hardentools is a utility that disables a number of risky Windows features.
 
+**[`^        back to top        ^`](#)**
+
+
+## Windows product key finder and validation checker
+* [ShowKeyPlus](https://anonym.to/?https://github.com/Superfly-Inc/ShowKeyPlus) - Windows product key finder and validation checker.
+        
 **[`^        back to top        ^`](#)**
 
 
