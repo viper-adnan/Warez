@@ -2237,6 +2237,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [HD Multireddit](https://anonym.to/?https://old.reddit.com/user/nbatman/m/streaming2/) - 1080p Openload, Google Video & Vimeo,..
 - [Kodi](https://anonym.to/?https://kodi.tv/) - + ([Setup guide](https://anonym.to/?https://www.reddit.com/r/Addons4Kodi/comments/93porc/requests_recommendations_basics_august_2018/e3f6i12/))
 - [LeonFlix](https://anonym.to/?https://leonflix.net/)
+- [OpenloadMovies.ac](https://anonym.to/?https://openloadmovies.ac/) - `needs adblocker`
 - [MovieJagg](https://anonym.to/?https://www.coolmoviejagg.pro/)
 - [MovieStreams](https://anonym.to/?https://moviestreams.org/)
 - [OneMov](https://anonym.to/?https://onemov.net/)
