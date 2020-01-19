@@ -1082,7 +1082,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [HDOnline](https://anonym.to/?https://www3.hdonline.eu/) - Free Movies Online!
 - [INDOXXI](https://anonym.to/?https://indoxxi.cx/) - Movies releases.
 - [KStreaming](https://anonym.to/?https://www.k-streaming.tv/) - (FR) - Film Streaming et Série Streaming Gratuit.
-- [LookMovie](https://anonym.to/?https://lookmovie.ag/) - Watch Movies and TV Shows for Free in 1080p and 720p. New Movies and Episodes are added every hour.
+- [LookMovie](https://anonym.to/?https://lookmovie.ag/) - (`needs adblocker`) - Watch Movies and TV Shows for Free in 1080p and 720p. New Movies and Episodes are added every hour.
 - [MKVHub](https://anonym.to/?https://www.mkvhub.com/) - MkvHub is the best website to download high-quality 720p, 1080p WEB-DL HDRip BluRay Movies and TV Shows with Single Direct Download Link.
 - [Nox](https://anonym.to/?https://nox.tv/) - (Ger) - Filme, HD-Filme, 3D-Filme, Serien und Spiele - News. Reporters Without Borders.
 - [PelisPedia](https://anonym.to/?https://www.pelispedia.tv/) - (es-do) - Movies & TV Shows.
@@ -1935,6 +1935,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Madokami F-K](https://anonym.to/?https://archive.org/download/Madokami.Manga.F-K) - Download manga titles named F to K.
 - [Madokami L-Q](https://anonym.to/?https://archive.org/download/Madokami.Manga.L-Q) - Download manga titles named L to Q.
 - [Madokami novels, raws and artbooks](https://anonym.to/?https://archive.org/download/Madokami.NotManga) - Download novels, manga raws and artbooks.
+- [Mangareader.net](https://anonym.to/?https://www.mangareader.net) - Read your favorite manga scans and scanlations online at Manga Reader.
 - [Madokami R-Z](https://anonym.to/?https://archive.org/download/Madokami.Manga.R-Z) - Download manga titles named R to Z.
 - [MangaDex](https://anonym.to/?https://www.mangadex.org/) - MangaDex is an online manga reader that caters to all languages.
 - [MangaZone](http://mangazoneapp.com/) - (`insecure`) - A manga reader app.
