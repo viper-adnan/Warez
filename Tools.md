@@ -118,8 +118,7 @@ Downloads albums in bulk.
 - [Discord WarezBot](https://anonym.to/?http://github.com/enzobes/WarezBot) - Public Version of Discord bot for scene release.
 - [Discord notifications 1: Sonarr, Radarr and Lidarr](https://anonym.to/?http://blog.tiga.tech/discord-notifications-for-sonarr-radarr-and-lidarr/) - A short tutorial to work with Sonarr which notificatesDiscord Users about new releases.
 - [Discord toolkit](https://anonym.to/?http://notabug.org/johndoe5436/discord-toolkit) - Discord batch account creator.
-- [DiscordCrypt](https://anonym.to/?http://gitlab.com/leogx9r/DiscordCrypt) - Encrypt Discord - there is also [Simple DiscordCrypt](https://anonym.to/?http://gitlab.com/An0/SimpleDiscordCrypt) - which works with the Web version of Discord (both are not compatible to each other!).
-- [DiscordCrypt](https://anonym.to/?http://gitlab.com/leogx9r/DiscordCrypt) - Provides end-to-end encryption for Discord.
+- [DiscordCrypt](https://anonym.to/?http://gitlab.com/leogx9r/DiscordCrypt) - Encrypt Discord - there is also [Simple DiscordCrypt](https://anonym.to/?http://gitlab.com/An0/SimpleDiscordCrypt) - which works with the Web version of Discord (both are not compatible to each another!).
 - [Do Not Track for Discord](https://anonym.to/?http://betterdocs.us/plugins/do-not-track/) - A plugin for BD to prevent Discord tracking.
 - [Running a full deletion](https://anonym.to/?http://github.com/c-edw/discord-delete/wiki/Running-a-full-deletion) - Powerful script to delete full Discord message history.
 
@@ -451,8 +450,8 @@ Downloads albums in bulk.
 
 ## Courses
 ### Udemy Downloader
-- [udemy-downloader-gui](https://anonym.to/?https://github.com/FaisalUmair/udemy-downloader-gui) A cross platform (Windows, Mac, Linux) desktop application for downloading Udemy Courses.
-- [udemy-downloader-gui](https://anonym.to/?https://tut4dl.com/) Download tutorial and training courses from many paid MOOCs, with categories ranging from Cuisine to Cryptography.
+- [udemy-downloader-gui](https://anonym.to/?https://github.com/FaisalUmair/udemy-downloader-gui) - A cross platform (Windows, Mac, Linux) desktop application for downloading Udemy Courses.
+- [Tut4dl](https://anonym.to/?https://tut4dl.com/) Download tutorial and training courses from many paid MOOCs, with categories ranging from Cuisine to Cryptography.
 
 
 ### Brilliant Downloader
