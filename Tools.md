@@ -397,10 +397,6 @@ Downloads albums in bulk.
 - [grayhatwarfare S3 bucket search](https://anonym.to/?http://buckets.grayhatwarfare.com/) - Not likely to find much with this one but interesting nonetheless.
 - [Leonflix](https://anonym.to/?http://leonflix.net/) - A multi-platform desktop app for finding movies and TV shows.
 - [maulvi.github.io](https://anonym.to/?http://maulvi.github.io/) - Google Drive direct download link generator.
-- [megabasterd](https://anonym.to/?http://github.com/tonikelope/megabasterd) - Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.
-- [MegaCrypt.js](https://anonym.to/?http://github.com/JohnDeved/megacrypt.js) - MegaCrypt.js lets you share your Mega.nz files without actually having to share any Mega.nz links by encrypting them to create a secure proxy to your files.
-- [MEGAsync](https://anonym.to/?http://mega.nz/sync) - Easy automated synchronisation between your computer and your MEGA account. Can stream Mega videos directly.
-- [megatools](https://anonym.to/?http://github.com/megous/megatools) - Open-source command line tools and C library (libmega) - for accessing Mega.co.nz cloud storage.
 - [netclix](https://anonym.to/?http://github.com/ston3o/netclix) - A simple cli tool to get movie streaming premium links from VodLocker's API.
 - [Persepolis](https://anonym.to/?http://persepolisdm.github.io/) - Front-end for aria2.
 - [RapidLeech](https://anonym.to/?http://github.com/Th3-822/rapidleech) - a free server transfer script for use on various popular upload/download sites such as uploaded.net, Rapidgator.net and more than 127 others.
@@ -411,6 +407,16 @@ Downloads albums in bulk.
 - [wget for Windows](https://anonym.to/?http://eternallybored.org/misc/wget/) - A command-line utility for retrieving files using HTTP, HTTPS and FTP protocols.
 - [wget](https://anonym.to/?http://www.gnu.org/software/wget/) - `wget` is a free and open source tool for downloading files using HTTP, HTTPS, FTP and FTPS. It can be easily called from scripts, cronjobs, terminals without X-Windows support, etc.
 - [YouTube MP3 Rip](https://anonym.to/?http://youtubemp3.rip/) - Download YouTube music videos as MP3 files without registration.
+
+**[`^        back to top        ^`](#)**
+
+
+## Mega.nz Downloader
+- [MEGAsync](https://anonym.to/?http://mega.nz/sync) - Easy automated synchronisation between your computer and your MEGA account. Can stream Mega videos directly.
+- [MegaCrypt.js](https://anonym.to/?http://github.com/JohnDeved/megacrypt.js) - MegaCrypt.js lets you share your Mega.nz files without actually having to share any Mega.nz links by encrypting them to create a secure proxy to your files.
+- [megabasterd](https://anonym.to/?http://github.com/tonikelope/megabasterd) - Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.
+- [megadown](https://anonym.to/?https://github.com/tonikelope/megadown) - Bash script for download files from mega.nz and megacrypter.
+- [megatools](https://anonym.to/?http://github.com/megous/megatools) - Open-source command line tools and C library (libmega) - for accessing Mega.co.nz cloud storage.
 
 **[`^        back to top        ^`](#)**
 
