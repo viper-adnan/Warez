@@ -799,7 +799,8 @@ Downloads albums in bulk.
 ### Nintendo 64
 - [1964](https://anonym.to/?http://github.com/schibo/1964js) - One of the oldest and most popular N64 emulators written in C++.
 - [Mupen64Plus (Mupen64-64bit/Mupen64-amd64)](https://anonym.to/?http://mupen64plus.org/) - Written in C, C++, allows users to play Nintendo 64 games on a computer by reading ROM images.
-
+- [parallel-n64](https://anonym.to/?https://github.com/libretro/parallel-n64) - Optimized/rewritten Nintendo 64 emulator made specifically for Libretro. Originally based on Mupen64 Plus.
+       
 ### GameCube/Wii
 - [Dolphin](https://anonym.to/?http://github.com/dolphin-emu/dolphin) - Supports Windows, Linux, macOS and Android.
 
