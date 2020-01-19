@@ -1458,12 +1458,12 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## Cartoons
-- [animetoon](http://www.animetoon.org/) - (`insecure`) - Lots of streaming via premium hosts for cartoons.
-- [Toonova](http://www.toonova.net/) - (`insecure`) - Another site for streaming cartoons.
-- [watchcartoononline.com](https://anonym.to/?https://www.watchcartoononline.com/) - Cartoons, dubbed/subbed anime streaming site.
-- [watchcartoononline.io](https://anonym.to/?https://www.watchcartoononline.io/) - Large DDL site for cartoons as well as anime and movies.
-- [KimCartoon](https://anonym.to/?https://kimcartoon.co/) Large cartoon collection, primarily Openload.
+- [animetoon](https://anonym.to/?http://www.animetoon.org/) - (`insecure`) - Lots of streaming via premium hosts for cartoons.
+- [iHaveNoTv](https://anonym.to/?https://ihavenotv.com/) - Community managed documentary collection
+- [KimCartoon](https://anonym.to/?https://kimcartoon.co/) - Large cartoon collection, primarily Openload.
+- [Toonova](https://anonym.to/?http://www.toonova.net/) - (`insecure`) - Another site for streaming cartoons.
 - [WatchCartoon](https://anonym.to/?https://www.watchcartoononline.io/) Outdated site layout, still active and Openload.
+- [watchcartoononline.com](https://anonym.to/?https://www.watchcartoononline.com/) + ([Mirror](https://anonym.to/?https://www.watchcartoononline.io)) - Cartoons, dubbed/subbed anime streaming site.
 
 **[`^        back to top        ^`](#)**
 
@@ -2730,10 +2730,22 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ### YouTube
+- [Bitchute](https://anonym.to/?https://www.bitchute.com/) - Aims to put creators first and provide them with a service that they can use to flourish and express their ideas freely.
+- [Bit.tube](https://anonym.to/?https://bit.tube/) - Take back control of your content. Create it. Link it. Monetize it, it's a similar service like D.Tube.
+- [Documentary Addict](https://anonym.to/?https://documentaryaddict.com/) - A website which scrapes Youtube for documentaries.
+- [Dailymotion](https://anonym.to/?https://www.dailymotion.com/)
 - [DTube](https://anonym.to/?https://d.tube) - D.Tube aims to become an alternative to YouTube that allows you to watch or upload videos on IPFS and share or comment about it on STEEM.
+- [Hooktube](https://anonym.to/?https://hooktube.com/) - Similar to invidio.us.
 - [Minds](https://anonym.to/?https://www.minds.com) - Minds is a open source and decentralized platform for Internet freedom.
 - [INVIDIOUS](https://anonym.to/?https://invidio.us/) - Open source alternative to YouTube. 
-- [PeerTube](https://anonym.to/?https://joinpeertube.org/en/) - A decentralized video hosting network, based on free/libre software.
+- [PeerTube](https://anonym.to/?https://joinpeertube.org/) - A decentralized video hosting network, based on free/libre software.
+- [Vimeo](https://anonym.to/?https://vimeo.com/) - Alternative platform to YouTube.
+
+
+### Google Domains
+- [Namecheap](https://anonym.to/?https://www.namecheap.com/) - Namecheap accepts Bitcoin and offers domain registration, hosting, email, SSL certs, and a variety of other products.
+- [Njalla](https://anonym.to/?https://njal.la/) - Privacy-focused domain registration service based in Nevis.
+- [OrangeWebsite](https://anonym.to/?https://www.orangewebsite.com/) - Anonymous domain registration services and also accepts cryptocurrency payments, based in Iceland.
 
 
 ### Google Search
@@ -2750,6 +2762,10 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Mamoto](https://anonym.to/?https://matomo.org/) - Open source alternative to Google's Analytics.
 - [Open Web Analytics](https://anonym.to/?http://www.openwebanalytics.com/) - Yet another open alternative to Google's analytics.
 - [Go Access](https://anonym.to/?https://goaccess.io/) - Yet another open source alternative. 
+
+
+### Google form builder
+- [JotForm](https://anonym.to/?https://www.jotform.com/) - JotForm is a free online form builder.
 
 
 ### Google GMail
@@ -2795,7 +2811,11 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ### Google Home
-- [Projekt Leon-AI](https://anonym.to/?https://github.com/leon-ai/leon) - A good alternative to Google's Home service. 
+- [Projekt Leon-AI](https://anonym.to/?https://github.com/leon-ai/leon) - A good alternative to Google's Home service.
+
+
+### Google Voice
+- [JMP.chat](https://anonym.to/?https://jmp.chat/) 
 
 **[`^        back to top        ^`](#)**
 
