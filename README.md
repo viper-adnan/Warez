@@ -895,7 +895,8 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Mutaz](https://anonym.to/?https://www.mutaz.net/free-programs/) - Tracks scene software releases.
 - [NGB.to](https://anonym.to/?https://ngb.to/) - (Ger) - Another Gulli/MyGully clone.
 - [Nsane Forum](https://anonym.to/?https://www.nsaneforums.com/) - Public forum for everyone to talk about software & news around the world.
-- [NulledTeam Underground](https://anonym.to/?https://www.nulledteam.com/) - Software forum.
+- [NitroBlog](https://anonym.to/?https://nblog.org/) - PC, PS3, VITA, WII & ISO ROMs.
+- [NulledTeam Underground](https://anonym.to/?https://www.nulledteam.com/) - Software forum for nulled script/tools/software.
 - [PCPortal](https://anonym.to/?https://pcportal.org/) - (RU) - One of the biggest russian software forums.
 - [PSARips](https://anonym.to/?https://psarips.com/) - Popular site for movies and TV shows, includes torrent files
 - [RADIXX11](https://anonym.to/?https://radixx11rce2.blogspot.com) - (EN-US) - Software forum.
