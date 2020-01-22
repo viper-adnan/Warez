@@ -437,7 +437,6 @@
 ## Manga
 * MangaRock
 
-
 ## Search engines
 * DuckDuckGo ([read here why](https://torrentfreak.com/duckduckgo-removes-pirate-site-bangs-to-avoid-liability-181203/))
 
@@ -461,6 +460,7 @@
 * [Taraftar Tv](https://play.google.com/store/apps/details?id=com.tebilisim.android.taraftar)
 * [Typhoon TV](https://typhoontv.net/)
 * [ThopTV](https://thoptv.space/)
+* [Hoop Messenger](http://hoopmessenger.com/)
 
 ## YouTube Downloader
 - [Videoder](https://www.videoder.com/) - Download videos for free. See [here](https://old.reddit.com/r/androidapps/comments/bnekx7/is_videoder_safe_these_days/).
