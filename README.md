@@ -173,6 +173,15 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [HexRaysPyTools](https://anonym.to/?https://github.com/igogo-x86/HexRaysPyTools)
 - [Microsoft Research Detours Package](https://anonym.to/?https://github.com/Microsoft/Detours)
 
+### Reasons against DRM
+- [Digital rights management overview at Wikipedia](https://anonym.to/?https://en.wikipedia.org/wiki/Digital_rights_management) + [Hardware restriction](https://anonym.to/?https://en.wikipedia.org/wiki/Hardware_restriction)
+- [HP Remotely Kills Perfectly Good Ink Cartridge With DRM](https://anonym.to/?https://www.vice.com/en_us/article/939ay3/hp-remotely-kills-perfectly-good-ink-cartridge-with-drm?utm_source=digg)
+- [For and against DRM in games](https://anonym.to/?https://www.techradar.com/news/gaming/for-and-against-drm-in-games-675447)
+- [Performance](https://anonym.to/?https://www.extremetech.com/gaming/282924-denuvo-really-does-cripple-pc-gaming-performance)
+- [Compatibility](https://anonym.to/?https://www.pcworld.com/article/2972271/windows-10-wont-run-some-older-cd-rom-games-thanks-to-drm.html) ([workaround](https://anonym.to/?https://www.howtogeek.com/230773/how-to-play-pc-games-that-require-safedisc-or-securom-drm-on-windows-10-8.1-8-7-and-vista/))
+- [List of DRM-free games](https://anonym.to/?https://steam.fandom.com/wiki/List_of_DRM-free_games) + [another one](https://anonym.to/?https://www.pcgamingwiki.com/wiki/The_Big_List_of_DRM-Free_Games_on_Steam)
+- [Developer forgot to remove old DRM system which breaks games on Steam](https://anonym.to/?https://www.gamerevolution.com/news/621017-drm-securom-tron-evolution-unplayable-activation)
+
 **[`^        back to top        ^`](#)**
 
 
@@ -1900,12 +1909,14 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [AAXtoMP3](https://anonym.to/?https://github.com/KrumpetPirate/AAXtoMP3) - Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS.
 - [AudioBook Bay](http://audiobookbay.nl/) - (`insecure`) - Download unabridged audiobook for free or share your audio books, safe, fast and high quality.
 - [AudioBooks.Cloud](https://anonym.to/?https://audiobooks.cloud/) - DDL links to a lot of audiobooks.
+- [AudiobookReviews](https://anonym.to/?http://audiobookreviews.com/) - Yet another audiobook direct download site.
 - [BookFI](https://anonym.to/?http://en.bookfi.net/) - (`insecure`) - The largest ebook library.
 - [Booksonic](https://anonym.to/?http://booksonic.org/) - Booksonic is a server and an app for streaming your audiobooks to any pc or android phone.
 - [Ebooks Shares](http://ebooks-shares.org) - (`insecure`) - A lot of eBooks & audiobooks!
 - [Hoerspiele](https://www.hoerspiele.cc/) - (Ger) - A big german website which provides Audiobooks via sharehosters.
+- [MyAnonyMouse](https://www.myanonamouse.net) - Community sharing for Audiobooks & more.
 - [P2PEiite](https://anonym.to/?http://p2pelite.com) - (`insecure`) - Yet another oldschool eBook website.
-- [ThePirateBay](https://anonym.to/?https://www.thepiratebay.org/browse/102) - TPB collection of AudioBooks.
+- [ThePirateBay](https://anonym.to/?https://www.thepiratebay.org/browse/102) - ThePirateBay's collection of AudioBooks.
 - [Tokybook](https://anonym.to/?https://tokybook.com/) - Yet another free audiobook streaming site.
 - [ZLibrary](https://anonym.to/?https://b-ok.org/) - Part of Z-Library project. The world's largest ebook library.
 
