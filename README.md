@@ -2336,7 +2336,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [allsprk.tv](https://anonym.to/?https://stream.allsprk.tv) - Channel-hoppable live streaming site with a chat room.
 - [antennas](https://anonym.to/?https://github.com/TheJF/antennas) - HDHomeRun emulator for Plex DVR to connect to Tvheadend.
 - [IPTV Community](https://anonym.to/?https://iptv.community/) - Technology and IPTV discussion website, useful for finding an IPTV provider/reseller.
-- [IPTV Providers list](https://anonym.to/?https://docs.google.com/spreadsheets/d/1ehpk3OCkqj4QgF71v410avGpGC5bQ_lOLl5ppRb3Q9s/edit) - A recently created list of 40+ IPTV providers with notes.
+- [IPTV Providers list](https://anonym.to/?https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world.
 - [MythTV](https://anonym.to/?https://www.mythtv.org/) - Free Open Source software digital video recorder.
 - [PIPTV](https://github.com/schwifty42069/piptv) -  Python IPTV client with over 80 channels.
 - [Piracy and automation, an overview Guide by /u/JukeCity101](https://anonym.to/?https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/edit)
