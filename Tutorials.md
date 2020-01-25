@@ -163,6 +163,7 @@
 
 
 ## iOS
+- [iOS hardening guide by Z24T](https://anonym.to/?https://github.com/Z24T/iOS-Security/blob/master/Settings.md) + for [iOS 12](https://anonym.to/?https://www.stigviewer.com/stig/apple_ios_12/)
 - [How to add HackYouriPhone Repo in Cydia](https://anonym.to/?http://repo.hackyouriphone.org/add)
 - [iOS: How to crack your apps (IPA) and share it with people! (Working versions past iOS 9!)](https://anonym.to/?https://www.reddit.com/r/Piracy/comments/e6r80n/ios_how_to_crack_your_apps_ipa_and_share_it_with/)
 
