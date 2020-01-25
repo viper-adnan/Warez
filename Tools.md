@@ -15,6 +15,10 @@
 
 **[`^        back to top        ^`](#)**
 
+## eMule
+- [Safe Server List for eMule](https://www.emule-security.org/serverlist/) - Safe Server list for eMule, auto generated and updated daily.
+
+**[`^        back to top        ^`](#)**
 
 ## Directory Brute Forcer
 - [dirsearch](https://anonym.to/?https://github.com/maurosoria/dirsearch) - Web path scanner.
