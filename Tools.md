@@ -968,7 +968,6 @@ Overall strategy:
 * APT investigations must be seperated from commodity malware, otherwise you give malware authors "ideas".
 * Treat everything like it could be malicious until you have enough evidence to suggest otherwise.
 
-
 - [Any-Run](https://anonym.to/?https://any.run/) - Run files in a sandbox.
 - [Thread Minder](https://www.threatminer.com/) - Allow analysts to find additional information on indicators of compromise (IOC) such as domain names, IP's and more.
 - [ThreatCrowd](https://www.threatcrowd.com/) - Search engine for threats, show correlations of submitted entries eg IP, hashes, domains etc
@@ -977,6 +976,11 @@ Overall strategy:
 - [CheckIP](https://anonym.to/?https://threatstop.com/checkip) - Free resource for checking rep on IPs/CIDRs and domains.
 - [Hybrid-Analysis](https://anonym.to/?https://www.hybrid-analysis.com/) - [alternative](https://anonym.to/?hhttps://app.sndbox.com/) - The free version is normally good enough.
 
+
+**[`^        back to top        ^`](#)**
+
+## WhatsApp decrypter
+- [whatsapp-media-decrypt](https://anonym.to/?https://github.com/ddz/whatsapp-media-decrypt) - Decrypt WhatsApp encrypted media files.
 
 **[`^        back to top        ^`](#)**
 
