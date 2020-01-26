@@ -2364,7 +2364,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [aceproxy](https://anonym.to/?https://github.com/ValdikSS/aceproxy) - Ace Stream HTTP Proxy. (abandonware)
 - [acestream.org](http://acestream.org/) - (`insecure`) - Ace Stream is a peer-to-peer streaming application that lets you stream live sports and other content
 - [AceStreamSearch](https://anonym.to/?https://acestreamsearch.com/en/) - Ace Stream Broadcasts Search
-- [FireDrop](https://anonym.to/?https://firedrop.com/) - 100GB free cloud storage.
 - [iktason/aceproxy](https://anonym.to/?https://hub.docker.com/r/ikatson/aceproxy/) - A docker image to run aceengine + aceproxy, e.g. to watch Torrent-TV.ru.
 
 **[`^        back to top        ^`](#)**
