@@ -572,7 +572,7 @@
 
 ## Messenger
 - [TikTok](https://www.wired.com/story/tiktok-ftc-record-fine-childrens-privacy/)
-
+- [Vernam.im](https://vernam.im/)
 
 ## Mobile OS
 - [/e/l](https://ewwlo.xyz/evil.html)
