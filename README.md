@@ -154,6 +154,10 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Tuts 4 You](https://anonym.to/?https://tuts4you.com) - One of the oldest forums to discuss reversing related stuff.
 - [Webscene.ir](https://anonym.to/?https://webscene.ir/) - Can you crack it?!
 
+
+### General Filesharing Discussions
+- [MVGroup.org](https://anonym.to/?https://www.mvgroup.org/) - BitTorrent-Tracking- and Filesharing-Community.
+
 **[`^        back to top        ^`](#)**
 
 
