@@ -1116,7 +1116,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [VodLocker](https://anonym.to/?https://vodlocker.tv/) - Official home of vodlocker - no ads and only good movies.
 - [VoirFilms.ws](https://anonym.to/?https://ww6.voirfilms.ws/) - (FR) -Voir Film Streaming, Streaming Film, telecharger, Films, regarder film streaming, dvdrip, film en streaming, voirfilms, gratuit.
 - [WatchFree](https://anonym.to/?https://watchfree.at/) - Watch Movies Online Free. Watch your favorite movies and tv-series in hd quality on watchfree.to + putlocker.
-- [Yes! Movies](https://anonym.to/?https://yesmovies.to) - Watch movies full HD online free. Watch latests episode series online. Over 9000 free streaming movies, documentaries & TV shows.
 - [cine.to](https://anonym.to/?https://cine.to/) -  Sit back and relax while watching the newest Cinema or your favorite Movie for free. Just cine.to & chill.
 - [cinebloom](https://anonym.to/?https://www2.cinebloom.com) - Action Adventure Animation Biography Comedy Crime Documentary Drama Family Fantasy History Horror Music Musical Mystery Romance Sci-Fi Sport Thriller War Western.
 - [eMule Island.ru](https://anonym.to/?https://www2.emule-island.ru/) - (FR/RU) - Site de téléchargement gratuit, Telecharger des films complet, series, ebooks, spectacles, documentaires et bien plus, sur uptobox, 1fichier.
