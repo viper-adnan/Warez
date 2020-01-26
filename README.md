@@ -1675,6 +1675,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Spotify Downloader](https://anonym.to/?https://github.com/ritiek/spotify-downloader) - Download Spotify playlists with albumart and meta-tags.
 - [spotr](https://anonym.to/?https://github.com/XDGFX/spotr) - Python app which converts Spotify playlist tracks to Deezer URLs.
 - [Spytify](https://anonym.to/?https://jwallet.github.io/spy-spotify/) - Records Spotify without ads while it plays and includes media tags to the recorded files.
+- [XSPotify](https://anonym.to/?https://github.com/meik97/XSpotify) - A modified Spotify client with DRM bypass.
 
 **[`^        back to top        ^`](#)**
 
