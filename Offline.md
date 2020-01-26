@@ -398,7 +398,6 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - scihub.unblocked.lc (Austria)
 - scihub.unblocked.vet (Austria)
 
-
 ## Anime
 - MioMio
 - AniTube!
@@ -428,3 +427,6 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - UMaxHosting
 - WelcomeHosting
 - X4Servers
+
+## File Hoster
+- Firedrop.com
