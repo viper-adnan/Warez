@@ -5,7 +5,7 @@
 
 
 ## Movie & TV Streaming
-- [How To Stream Movies, TV, Anime & Sports Online](https://anonym.to/?https://www.reddit.com/r/FREEMEDIAFUCKYEAH/comments/9q11kg/how_to_stream_movies_tv_anime_sports_online/) - Huge list by /u/nbatman
+- [How To Stream Movies, TV, Anime & Sports Online](https://anonym.to/?https://www.removeddit.com/r/FREEMEDIAFUCKYEAH/comments/9q11kg/how_to_stream_movies_tv_anime_sports_online/) - Huge list by /u/nbatman
 - [Streaming pirated media in 2019 (seedbox + Sonarr + Plex)](https://anonym.to/?https://ryanlue.com/posts/2019-03-29-paying-money-to-steal-movies) - Paying Money to Steal Movies & Music on the Internet.
 
 
@@ -31,21 +31,21 @@
 
 
 ## Games specific
-- [How to play Resident Evil Outbreak Coop Multiplayer](https://anonym.to/?https://www.reddit.com/r/localmultiplayergames/comments/bhtfzl/how_to_play_resident_evil_outbreak_coop/)
-- [Playing Resident Evil Outbreak File#1 and File#2 Online Again! YES!](https://anonym.to/?https://www.reddit.com/r/residentevil/comments/5x99m9/playing_resident_evil_outbreak_file1_and_file2/)
+- [How to play Resident Evil Outbreak Coop Multiplayer](https://anonym.to/?https://www.removeddit.com/r/localmultiplayergames/comments/bhtfzl/how_to_play_resident_evil_outbreak_coop/)
+- [Playing Resident Evil Outbreak File#1 and File#2 Online Again! YES!](https://anonym.to/?https://www.removeddit.com/r/residentevil/comments/5x99m9/playing_resident_evil_outbreak_file1_and_file2/)
 
 **[`^        back to top        ^`](#)**
 
 ## Kindle eBook
-- [Guide to Copy Kindle Content to PDF using Calibre](https://anonym.to/?https://www.reddit.com/r/Piracy/comments/bm837l/guide_to_copy_kindle_content_to_pdf_using_calibre/)
-- [The idiot-proof guide to downloading ebooks off IRC](https://anonym.to/?https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/)
+- [Guide to Copy Kindle Content to PDF using Calibre](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/bm837l/guide_to_copy_kindle_content_to_pdf_using_calibre/)
+- [The idiot-proof guide to downloading ebooks off IRC](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/)
 
 **[`^        back to top        ^`](#)**
 
 
 ## VPN Guides & Tutorials
-- [/r/VPN wiki](https://anonym.to/?https://www.reddit.com/r/VPN/wiki/index) - Helpful Wiki resource written by the community from /r/VPN.
-- [Choosing the best VPN (for you) - /r/VPN](https://anonym.to/?https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2) - That One Privacy Guy's - Guide to Choosing the Best VPN (for you)
+- [/r/VPN wiki](https://anonym.to/?https://www.removeddit.com/r/VPN/wiki/index) - Helpful Wiki resource written by the community from /r/VPN.
+- [Choosing the best VPN (for you) - /r/VPN](https://anonym.to/?https://www.removeddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2) - That One Privacy Guy's - Guide to Choosing the Best VPN (for you)
 - [Choosing the VPN that's right for you](https://anonym.to/?https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) - Helpful guide from EFF.org.
 - [That One Privacy Site](https://anonym.to/?https://thatoneprivacysite.net/vpn-section/) - VPN section of "That One Privacy Site" with VPN comparisons.
 - [VPN over SSH](https://anonym.to/?https://wiki.archlinux.org/index.php/VPN_over_SSH) - ArchWiki page which explains how to achieve a poor man's VPN via SSH tunneling.
@@ -79,7 +79,7 @@
 
 
 ## eMule
-- [How to use eMule in 2018](https://anonym.to/?https://www.reddit.com/r/Piracy/comments/9p82e1/how_to_use_emule_in_2018/) - An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
+- [How to use eMule in 2018](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/9p82e1/how_to_use_emule_in_2018/) - An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
 
 **[`^        back to top        ^`](#)**
 
@@ -140,6 +140,12 @@
 **[`^        back to top        ^`](#)**
 
 
+## Netflix
+- [How To Get Everything On Netflix](https://www.removeddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv/) Recovered Link to a post by /u/huldre99
+
+**[`^        back to top        ^`](#)**
+
+
 ## Windows 10 Hardening
 - [Windows 10 Privacy Guide](https://anonym.to/?https://github.com/adolfintel/Windows10-Privacy) - An in-depth guide on purging Windows 10 of Microsoft's attempts to track you.
 - [Windows 10 hardening by CHEF-KOCH](https://anonym.to/?https://github.com/CHEF-KOCH/Windows-10-hardening) - Windows 10 hardening without gimmicks. 
@@ -148,7 +154,7 @@
 
 
 ## Windows 10 Tutorials
-- [How to download and install Windows 10 LTSB/LTSC](https://anonym.to/?https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) - Guide by /u/sq_skez on how to download and install Windows 10 LTSB/LTSC.
+- [How to download and install Windows 10 LTSB/LTSC](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) - Guide by /u/sq_skez on how to download and install Windows 10 LTSB/LTSC.
 - [How to SVF patch Windows 10](https://anonym.to/?https://github.com/CHEF-KOCH/How-to-SVF-patch-Windows-10)
 
 **[`^        back to top        ^`](#)**
@@ -165,7 +171,7 @@
 ## iOS
 - [iOS hardening guide by Z24T](https://anonym.to/?https://github.com/Z24T/iOS-Security/blob/master/Settings.md) + for [iOS 12](https://anonym.to/?https://www.stigviewer.com/stig/apple_ios_12/)
 - [How to add HackYouriPhone Repo in Cydia](https://anonym.to/?http://repo.hackyouriphone.org/add)
-- [iOS: How to crack your apps (IPA) and share it with people! (Working versions past iOS 9!)](https://anonym.to/?https://www.reddit.com/r/Piracy/comments/e6r80n/ios_how_to_crack_your_apps_ipa_and_share_it_with/)
+- [iOS: How to crack your apps (IPA) and share it with people! (Working versions past iOS 9!)](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/e6r80n/ios_how_to_crack_your_apps_ipa_and_share_it_with/)
 
 **[`^        back to top        ^`](#)**
 
@@ -216,13 +222,13 @@
 
 
 ## Linux Gaming
-* [Playing The Outer Worlds on Linux without the Epic Games Launcher](https://anonym.to/?https://www.reddit.com/r/Piracy/comments/drspy4/playing_the_outer_worlds_on_linux_without_the/)
+* [Playing The Outer Worlds on Linux without the Epic Games Launcher](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/drspy4/playing_the_outer_worlds_on_linux_without_the/)
 
 **[`^        back to top        ^`](#)**
 
 
 ## Bypass IGG DRM
-* [How to break IGG-GAMES's DRM ](https://anonym.to/?https://www.reddit.com/r/Piracy/comments/dn4t2e/how_to_break_igggamess_drm_repost_since_deleted/) - A guide to bypass IGG motherf*cking DRM.
+* [How to break IGG-GAMES's DRM ](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/dn4t2e/how_to_break_igggamess_drm_repost_since_deleted/) - A guide to bypass IGG motherf*cking DRM.
 
 **[`^        back to top        ^`](#)**
 
