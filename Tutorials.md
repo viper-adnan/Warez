@@ -189,7 +189,7 @@
 
 
 ## Wget
-- [wget - a noob's guide](https://anonym.to/?http://chris.partridge.tech/data/wget-noobs.pdf) - A beginner guide on how to use `wget`.
+- [wget - a noob's guide](https://anonym.to/?https://the-eye.eu/public/wget-noobs-guide.pdf) - A beginner guide on how to use `wget`.
 - [tpget](https://anonym.to/?https://github.com/0x6a73/tpget) - Tutorialspoint downloader tool.
 
 **[`^        back to top        ^`](#)**
