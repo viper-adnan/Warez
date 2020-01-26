@@ -202,7 +202,8 @@
 
 
 ## HTML5 & CSS
-- [TUTSGALAXY](https://anonym.to/?https://tutsgalaxy.com/) - Learn HTML5 and CSS3 fundamentals.
+- [Haxnode](https://anonym.to/?https://haxnode.com/) - Replacement for TutsGalaxy, learn HTML5 and CSS3 fundamentals.
+- [BookFlare](https://anonym.to/?https://bookflare.org/) - Replacement for TutsGalaxy, learn HTML5 and CSS3 fundamentals.
 
 **[`^        back to top        ^`](#)**
 
