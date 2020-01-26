@@ -128,7 +128,7 @@ All other extensions **do not** adding any benefit over the integrated Browser "
 - [Burlesco](https://anonym.to/?https://burles.co/en/) - Userscript which allows you to read & annotate without distractions.
 - [Bypass Paywalls for Chrome](https://anonym.to/?https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass New York Times among many other paywalls.
 - [Bypass Paywalls](https://anonym.to/?https://bypasspaywalls.weebly.com/) - Chrome & Firefox extension to bypass paywalls.
-- [Outline](https://anonym.to/?https://outline.com/) - Outline is a free service for reading and annotating news articles.
+- [Outline](https://anonym.to/?https://outline.com/) + ([extensions](https://github.com/ymolodtsov/outline/)) - Outline is a free service for reading and annotating news articles.
 - [Unpaywall](https://anonym.to/?https://unpaywall.org/) - An open database of 20 million free scholarly articles.
 - [Via Firefox Containers](https://anonym.to/?https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) - (works on some websites) Install the extension, right click on the link, then click "Reopen in Container" from there choose e.g. "Work".
 
