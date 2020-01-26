@@ -203,7 +203,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 
-## VPN (no-logs)
+## VPN Provider (no-logs)
 - [VPN chart list](https://anonym.to/?https://docs.google.com/spreadsheets/d/e/2PACX-1vRh1eSvC9A9hvNE9m1ZgfZQu5GtREEXtKQ25BmCLveYduOl4kVc5gDO7Mj28oOboAv-VTIMtY7JdKpP/pubhtml#)
 - [ExpressVPN](https://anonym.to/?https://anonym.to/?https://www.expressvpn.com/) ExpressVPN - A VPN with 256-bit encryption, over 94 countries, and no logs. Also rated as one of the fastest VPNs out there.
 - [Mullvad VPN](https://anonym.to/?https://mullvad.net/) - Provides OpenVPN/Wireguard support.
@@ -231,6 +231,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [sshuttle](https://anonym.to/?https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
 - [SoftEther VPN](https://anonym.to/?https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software.
 - [Mysterium Network](https://anonym.to/?https://mysterium.network/) - Yet another self-hosted VPN.
+- [Nebula](https://anonym.to/?https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security.
 - [Outline by Alphabet](https://anonym.to/?https://www.getoutline.org/) - Not a traditional VPN but it might work with Google Cloud, AWS & more.
 - [ocserv](https://anonym.to/?https://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server.
 - [vpn-at-home](https://anonym.to/?https://github.com/ezaquarii/vpn-at-home) - 1-click, self-hosted deployment of OpenVPN with DNS ad blocking sinkhole.
@@ -2757,7 +2758,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [INVIDIOUS](https://anonym.to/?https://invidio.us/) - Open source alternative to YouTube. 
 - [PeerTube](https://anonym.to/?https://joinpeertube.org/) - A decentralized video hosting network, based on free/libre software.
 - [Vimeo](https://anonym.to/?https://vimeo.com/) - Alternative platform to YouTube.
-
+- [YouTube MP3 Rip](https://anonym.to/?hhttps://ytmp3.cc/en9/) - Download YouTube music & videos as .MP3 files without registration.
 
 ### Google Domains
 - [Namecheap](https://anonym.to/?https://www.namecheap.com/) - Namecheap accepts Bitcoin and offers domain registration, hosting, email, SSL certs, and a variety of other products.
