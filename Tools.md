@@ -446,6 +446,7 @@ Downloads albums in bulk.
 
 
 ## Adobe CC
+- [Adobe CC 2019/2020 AIO Patcher](https://anonym.to/?https://cracked.to/Thread-Cracked-Crack-Adobe-CC-2019-2020-GenP-v2-4) - The latest working All-In-One Patcher for all Adobe Creative Cloud 2019/2020 Applications (Windows only)
 - [Adobe CC 2019/2020 GenP - Universal Patch - Updated V 2.2](https://anonym.to/?https://www.nsaneforums.com/topic/344869-adobe-cc-20192020-genp-universal-patch-updated-v-22/#comments)
 - [Adobe CC 2018 - Full in-depth guide to installing and using any application (Windows)](https://anonym.to/?http://www.reddit.com/r/sjain_guides/comments/9g4t2u/adobe_cc_2018_full_indepth_guide_to_installing/) - A full in-depth guide to installing and cracking any application (Windows) - by sjain_guides.
 - [Adobe Photoshop CC 2019 - Full in-depth guide to installation and activation (Windows)](https://anonym.to/?http://old.reddit.com/r/sjain_guides/comments/9q4u6r/adobe_photoshop_cc_2019_full_indepth_guide_to/) - A full in-depth guide to installing and cracking any application (Windows) - by sjain_guides.
