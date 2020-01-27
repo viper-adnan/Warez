@@ -80,6 +80,12 @@ All other extensions **do not** adding any benefit over the integrated Browser "
 **[`^        back to top        ^`](#)**
 
 
+## Google Drive Downloader
+- [googledrive-copy-downloader](https://anonym.to/?https://github.com/jonathanTIE/googledrive-copy-downloader) - Python script to download google drive files even if the daily limit of download has exceeded.
+
+**[`^        back to top        ^`](#)**
+
+
 ## URL shortener extensions
 - [Universal Bypass (for shortner links)](https://anonym.to/?https://chrome.google.com/webstore/detail/universal-bypass/aihomhdbhpnpmcnnbckjjcebjoikpihj)
 
