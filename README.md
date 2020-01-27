@@ -1681,8 +1681,10 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## SoundCloud
-- [scdl](https://anonym.to/?https://github.com/flyingrub/scdl) - Soundcloud Music Downloader.
+- [scdl](https://anonym.to/?https://github.com/flyingrub/scdl) - Old Soundcloud Music Downloader.
+- [mrwnwttk/scdl](https://anonym.to/?https://github.com/mrwnwttk/scdl) - [Tutorial](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/euhd77/scdl_a_256_kbps_soundcloud_downloader_now_with/) - New 256 Kbps Soundcloud Downloader 
 - [scddlr.com](https://anonym.to/?https://www.scddlr.com/) - SoundCloud To Mp3 Converter Online.
+
 
 **[`^        back to top        ^`](#)**
 
