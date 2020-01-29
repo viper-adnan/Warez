@@ -754,7 +754,8 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [nZEDb-deploy](https://anonym.to/?https://github.com/PREngineer/nZEDb-deploy) - A collection of scripts to automate and simplify the deployment of a nZEDb Usenet Indexer using the new format of their GitHub repository.
 - [nZEDb](https://anonym.to/?https://github.com/nZEDb/nZEDb) - A fork of nnplus(2011) - | NNTP / Usenet / Newsgroup indexer.
 - [newznab-tmux](https://anonym.to/?https://github.com/NNTmux/newznab-tmux) - Laravel based usenet indexer.
-- [newznab](http://www.newznab.com/) - (`insecure`) - Newznab is a usenet indexing application, that makes building a usenet community easy.
+- [newznab](https://anonym.to/?http://www.newznab.com/) - (`insecure`) - Newznab is a usenet indexing application, that makes building a usenet community easy.
+- [NzBlite](https://anonym.to/?https://www.nzblite.com/) (_nzblite client_) - Open source file format to simplify Usenet uploading and downloading to newsgroups.
 
 **[`^        back to top        ^`](#)**
 
