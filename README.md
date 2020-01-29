@@ -10,7 +10,7 @@
 # Warez
 This list is the biggest [Warez](https://anonym.to/?https://en.wikipedia.org/wiki/Warez_scene) overview on the entire internet! It contains links to Warez related topics, discussions, tools etc. It also provides some background information about the scene.
 
-## Disclaimer
+# Disclaimer
 **GitHub and I do not supporting warez (!) - we're also not responsible for external links or their content! If you dislike the information this list provides then please contact the website owner/webmaster/hoster directly and fill a DMCA request.**
 
 ### Why was this overview page created?
@@ -2314,9 +2314,12 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 
-## Discord alternatives (without logging/telemetry)
+## Discord alternatives (without logging or telemetry)
 - [Ripcord](https://anonym.to/?https://cancel.fm/ripcord/) - A closed source no tracking or analytics Discord client (without electron framework part).
-- [EnhancedDiscord](https://anonym.to/?https://github.com/joe27g/EnhancedDiscord) - A lightweight Discord client mod. 
+
+### Discord Client (Mods)
+- [EnhancedDiscord](https://anonym.to/?https://github.com/joe27g/EnhancedDiscord) - A lightweight Discord client mod.
+- [Quarrel]https://anonym.to/?(https://github.com/UWPCommunity/Quarrel) - A UWP discord client for Windows 10.
 
 **[`^        back to top        ^`](#)**
 
