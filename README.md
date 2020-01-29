@@ -290,6 +290,12 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 
+## Official Scene Group Forums
+- [3DM Forum](https://anonym.to/?https://bbs.3dmgame.com/) - `CN` - The official 3DMs page.
+
+**[`^        back to top        ^`](#)**
+
+
 ## DarkNet
 - [DarkNet Stats](https://anonym.to/?https://dnstats.net/) - Monitors DarkNet Forums & Markets.
 
