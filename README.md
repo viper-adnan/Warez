@@ -1447,10 +1447,11 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 
-## Anime (Hentai is not allowed in this section!)
+## Anime (Hentai is not allowed!)
 - [/r/animepiracy wiki](https://anonym.to/?https://www.removeddit.com/r/animepiracy/wiki/index) - Lists for sourcing Anime streaming sites, manga sites, and more.
 - [/r/animepiracy](https://anonym.to/?https://www.removeddit.com/r/animepiracy) - This sub is about streaming and torrent websites for anime.
 - [/r/sjain_guides](https://anonym.to/?https://www.removeddit.com/r/sjain_guides/) - Guides and downloads for CS:GO, Windows 10 gaming optimisations, and more
+- [animetosho](https://anonym.to/?https://animetosho.org/) - AnimeTosho (AT) is an automated service that mirrors torrents posted on Tokyo Tosho and Nyaa Torrents AniDex onto various file hosting services.
 - [9Anime Downloader](https://anonym.to/?https://anonembed.xyz/9anime/) - Download Full Seasons from 9anime.
 - [Animes.so](https://anonym.to/?https://www.animes.so) - (needs registration to see content) - Downloads, DL-Links for all sorts of Animes.
 - [Alternatives to Kiss websites](https://anonym.to/?https://www.removeddit.com/r/KissCartoon/wiki/alternatives) - /r/KissCartoon wiki page with lots of anime sites.
@@ -1463,6 +1464,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Anime-Loards.org](ttps://www.anime-loads.org) - Anime sharing page.
 - [AnimeOut](https://anonym.to/?https://www.animeout.xyz/) - Over 1000's of Encoded Anime with DDL links.
 - [GoGo Anime](https://anonym.to/?https://www3.gogoanime.in/) - Popular website for watching anime.
+- [Dognzb.cr](https://anonym.to/?https://dognzb.cr/login) - DogNZB exists since 2013 and is one of the biggest and popular NZB indexer.
 - [Hi10 Anime](https://anonym.to/?https://hi10anime.com/) - High Quality 10-bit Anime Encodes.
 - [HorribleSubs](https://anonym.to/?https://horriblesubs.info/) - Download anime via torrent files, magnet links, XDCC, and premium link hosts.
 - [Monimo](https://anonym.to/?https://monimoapp.netlify.com/) - Netflix like web app for watching animes.
