@@ -295,6 +295,17 @@ Downloads albums in bulk.
 **[`^        back to top        ^`](#)**
 
 
+## OS Metadata cleaner
+- [mat2](https://anonym.to/?https://pypi.org/project/mat2/) - mat2 cleans metadata.
+- [CCleaner](https://anonym.to/?hhttps://www.ccleaner.com/) + [Winapp3.ini](https://anonym.to/?https://github.com/MoscaDotTo/Winapp2/blob/master/Winapp3/Winapp3.ini) - `Bundleware` - `Make sure CCLeaner is blocked via firewall` - It removes unused files from your system.
+- [Bleachbit](https://anonym.to/?https://www.bleachbit.org/) - Unless CCleaner it works on all operating systems and is fully open source but comes with less "cleaning features".
+
+### Photo metdata cleaner
+- [ExifTool](https://anonym.to/?https://exiftool.org/) - Most reliable photo exif cleaning tool.
+- [Exiv2](https://anonym.to/?https://www.exiv2.org/) - Exiv2 is a C++ library and a command line utility to manage image metadata.
+
+**[`^        back to top        ^`](#)**
+
 ## Social Engineering Resources & Tools
 - [Beelogger](https://anonym.to/?http://github.com/4w4k3/BeeLogger) - A little tool for generating keyloogers.
 - [Catphish](https://anonym.to/?http://github.com/ring0lab/catphish) - A tool for phishing and corporate espionage written in Ruby.
