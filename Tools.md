@@ -388,6 +388,10 @@ Downloads albums in bulk.
 - [Unison](https://anonym.to/?http://panic.com/blog/the-future-of-unison/) - OS X app for accessing Usenet Newsgroups and the many wonders and mysteries contained within (discontinued).
 - [Usenetic](https://anonym.to/?http://www.usenetic.com/) - The full-featured Usenet client for Mac OSX.
 
+
+## usenet Tools 
+- [ngPost](https://anonym.to/?https://github.com/mbruel/ngPost) - Command Line (or minimalist GUI) usenet poster for binaries developped in C++/QT.
+
 **[`^        back to top        ^`](#)**
 
 
