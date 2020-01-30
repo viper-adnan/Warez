@@ -2852,10 +2852,14 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ### Google Play Store
+
+**Warning**: You can't download paid android apps for free from the official Google Play Store, paid apps are bound to your Google Account. If an app/website tells you other things than this is fake. You can only do the "[refund trick](https://anonym.to/?https://www.androidauthority.com/how-to-get-refund-apps-google-play-store-673644/)" or download _precracked_ apps from mobilism and other places!
+
 - [F-Droid](https://anonym.to/?https://f-droid.org/) - F-Droid is a open source alternative to Google's Play Store.
 - [Aurora Store](https://anonym.to/?https://f-droid.org/en/packages/com.aurora.store/) - Allows you the usage of Google Play Store but without lossing your privacy!
-- [Yalp Store](https://anonym.to/?https://f-droid.org/packages/com.github.yeriomin.yalpstore/) - Similar like Aurora Store, both apps are foss. 
-
+- [Yalp Store](https://anonym.to/?https://f-droid.org/packages/com.github.yeriomin.yalpstore/) - Similar like Aurora Store, both apps are foss.
+- [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - A command line tool to download free Android applications directly from the Google Play Store.
+- [Raccoon](https://raccoon.onyxbits.de/) - Java based APK Downloader which uses a fake Google Account (API Key) to download free Android apps.
 
 ### Google Earth
 - [ArcGIS](https://anonym.to/?https://www.arcgis.com/home/webmap/viewer.html) - A privacy friendly alternative to Google's Eath Service.
