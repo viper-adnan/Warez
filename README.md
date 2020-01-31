@@ -1930,7 +1930,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ## Audiobooks
 - [AAXtoMP3](https://anonym.to/?https://github.com/KrumpetPirate/AAXtoMP3) - Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS.
-- [AudioBook Bay](http://audiobookbay.nl/) - (`insecure`) - Download unabridged audiobook for free or share your audio books, safe, fast and high quality.
+- [AudioBook Bay](http://audiobookbay.me/) - (`insecure`) - Download unabridged audiobook for free or share your audio books, safe, fast and high quality.
 - [AudioBooks.Cloud](https://anonym.to/?https://audiobooks.cloud/) - DDL links to a lot of audiobooks.
 - [AudiobookReviews](https://anonym.to/?http://audiobookreviews.com/) - Yet another audiobook direct download site.
 - [BookFI](https://anonym.to/?http://en.bookfi.net/) - (`insecure`) - The largest ebook library.
