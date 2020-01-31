@@ -60,6 +60,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Offline.md](https://github.com/CHEF-KOCH/Warez/blob/master/Offline.md) - Lists all offline or compromised websites.
 - [Open Source hardware.md](https://github.com/CHEF-KOCH/Warez/blob/master/Open%20Source%20Hardware.md) - Lists privacy and FOSS hardware alternatives.
 - [Trusted.md](https://github.com/CHEF-KOCH/Warez/blob/master/Trusted.md) - Lists trusted groups or people which are known to crack or upload stuff.
+- [Tor.md](https://github.com/CHEF-KOCH/Warez/blob/master/Tor.md) - Tor 🧅 list.
 - [Code-of-Conduct.md](https://github.com/CHEF-KOCH/Warez/blob/master/CODE_OF_CONDUCT.md) - A list which provides our current project standards.
 
 
@@ -1535,8 +1536,10 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ### iOS JailBreak Firmware
+- [/r/jailbreak](https://old.reddit.com/r/jailbreak) - Subreddit for iOS side-loading and jailbreak related discussions.
 - [checkm8](https://anonym.to/?https://twitter.com/axi0mX/status/1177544174163263489) - Checkm8 is an iOS 13 Boot-exploit.
 - [Checkra1n](https://anonym.to/?https://checkra.in/) - Semi-tethered Jailbreak for iOS 12.3+.
+- [EtasonATV](https://anonym.to/?https://etasonatv.tihmstar.net/) - AppleTV jailbreak.
 - [IPSW](https://anonym.to/?https://ipsw.me/?_escaped_fragment_=/version) - Provides Jailbreak firmware.
 - [ipwndfu](https://github.com/axi0mX/ipwndfu) - Open-source jailbreaking tool for many iOS devices.
 - [s0meiyoshino](https://anonym.to/?https://github.com/dora2-iOS/s0meiyoshino) - This tool enables exploit of iBoot.
