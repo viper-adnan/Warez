@@ -2592,12 +2592,24 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [TBomb](https://anonym.to/?https://github.com/TheSpeedX/TBomb) - This is a SMS and call Bomber for Linux and Termux.
 - [YetAnotherSMSBomber](https://anonym.to/?https://github.com/AvinashReddy3108/YetAnotherSMSBomber) - A fast and reliable SMS Bomber which works on all platforms.
 
-### Call forwarder (hide your real phone number for e.g. sms verification like Telegram/Signal/Google)
+### Receive Anonymous SMS (hide your real phone number for e.g. sms verification like Telegram/Signal/Google)
 - [Google Voice](https://anonym.to/?https://voice.google.com/) - Navigate to Google Voice and register or select a phone number via fake account ([works without phone number verification](https://anonym.to/?https://www.wikicue.com/how-can-i-create-a-google-account-without-giving-a-phone-number-during-the-registration-process/))
 - [Burner](https://anonym.to/?https://www.burnerapp.com/) - Rent a temporary phone number and give it out to whomever you want.
 - [FreePhoneNum](https://anonym.to/?https://freephonenum.com/us) - The service offers a very temporary number for verification or any other purpose.
 - [Receive SMS](https://anonym.to/?https://www.receivesms.org/) - Free service to verify your membership without giving out my own number.
-
+- [ReceiveSMS](https://anonym.to/?https://www.receivesms.co/) - Receive Your SMS Online With Our Virtual Numbers For Free! Without Registration!
+- [MyTrashmobile](https://anonym.to/?https://www.mytrashmobile.com/) -  Receive text messages for online verifications as in WhatsApp or Facebook. 
+- [SMSToolsOnline](https://anonym.to/?https://smstools.online/) - Yet another free SMS service.
+- [SMS.INK](https://anonym.to/?https://sms.ink/) - `RU` - Share SMS.
+- [hs3x](https://anonym.to/?https://hs3x.com/) - Receive SMS Online For Free
+- [Receive-SMS-Now](https://anonym.to/?hhttps://receive-sms-now.com/) - Receive SMS Online for FREE and with NO Registration.
+- [Online SIM](https://anonym.to/?https://onlinesim.ru/) - `RU` - Russian SMS service.
+- [Receive-sms-online.com](https://anonym.to/?https://receive-sms-online.com/) - Another free sms provider.
+- [GetFreeSMSNumber](https://anonym.to/?https://getfreesmsnumber.com/) - Free Receive SMS Online.
+- [Free Online Phone](https://anonym.to/?https://www.freeonlinephone.org/) - Just use one of the numbers listed, then select one of the numbers and you can see the SMS that reach that number.
+- [SMSFinder](https://anonym.to/?https://smsfinders.com/) - SMS service located in USA, UK, France, Canada, Sweden.
+- [Receive-SMS](https://anonym.to/?https://receive-sms.com/) - Webservice to vie SMS.
+- [Receive SMS Online](https://anonym.to/?https://www.receivesmsonline.net/) - Virtual numbers from United States, United Kingdom, Sweden, Canada and more.
 
 **[`^        back to top        ^`](#)**
 
