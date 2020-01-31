@@ -571,6 +571,7 @@
 
 
 ## Messenger
+- [Dino](https://dino.im/blog/2020/01/dino-0.1-release/)
 - [TikTok](https://www.wired.com/story/tiktok-ftc-record-fine-childrens-privacy/)
 - [Vernam.im](https://vernam.im/)
 
