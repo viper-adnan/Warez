@@ -4,10 +4,13 @@
 **[`^        back to top        ^`](#)**
 
 
+## Blizzard 
+- [For anyone looking for the actual classic Warcraft 3 installers (not Battle.net launcher nor Reforged)](https://www.removeddit.com/r/Piracy/comments/ewdlnd/for_anyone_looking_for_the_actual_classic/)
+
+
 ## Movie & TV Streaming
 - [How To Stream Movies, TV, Anime & Sports Online](https://anonym.to/?https://www.removeddit.com/r/FREEMEDIAFUCKYEAH/comments/9q11kg/how_to_stream_movies_tv_anime_sports_online/) - Huge list by /u/nbatman
 - [Streaming pirated media in 2019 (seedbox + Sonarr + Plex)](https://anonym.to/?https://ryanlue.com/posts/2019-03-29-paying-money-to-steal-movies) - Paying Money to Steal Movies & Music on the Internet.
-
 
 **[`^        back to top        ^`](#)**
 
