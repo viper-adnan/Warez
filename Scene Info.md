@@ -16,7 +16,7 @@
 - [Down For Everyone Or Just Me - Check if the website is offline](https://anonym.to/?https://downforeveryoneorjustme.com/)
 - [Jason Scott aka /u/textfiles BBS The Documentary Part 5 - Artscene](https://anonym.to/?https://www.youtube.com/watch?v=Zl9yejh92tc)
 - [No Copy (2008) - YouTube Video](https://anonym.to/?https://www.youtube.com/watch?v=BXBqUBAv1ek) - A brief history of piracy and filesharing.
-- [Piracy 101](https://anonym.to/?hhttps://maximousblk.github.io/raven/2020-01-31-piracy-101/)
+- [Piracy 101](https://anonym.to/?https://maximousblk.github.io/raven/2020-01-31-piracy-101/)
 - [Scene Rules](https://anonym.to/?https://scenerules.org/)
 - [The Art of Warez Article](https://anonym.to/?https://www.juxtapoz.com/news/film/the-art-of-warez-documents-the-lost-ansi-art-scene/)
 - [The Art Of Warez](https://anonym.to/?https://vimeo.com/341663153) - A recent 30 minute explanation and round up of the Artscene paired with some very prolific examples from many groups.
