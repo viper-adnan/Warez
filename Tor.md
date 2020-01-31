@@ -26,6 +26,44 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 | The Intercept    | http://intrcept32ncblef.onion/
 | NPR              | http://5ha7oig7du2jeyer.onion/
 | VICE             | http://e3v3x57ykz25uvij.onion/
+| Privacy International | https://privacyintyqcroe.onion/
+| Deutsche Welle   | https://www.dwnewsvdyyiamwnp.onion/
+| Deutsche Welle Russian | https://www.dwnewsvdyyiamwnp.onion/ru/
+| Wired            | http://k5ri3fdr232d36nb.onion/
+| disclose.ngo     | http://eexekfp2ye4h643c.onion/
+| Žvižgač          | http://bhzbgbet5l5p4lb3.onion/
+| The Telegraph    | http://ldbtuktejbkg227d.onion/
+
+
+## Tech News
+| clearnet/name    | onion address
+|------------------|:--------------
+| DEF CON Groups   | http://jrw32khnmfehvdsvwdf34mywoqj5emvxh4mzbkls6jk2cb3thcgz6nid.onion/
+| DEF CON Home     | http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion/
+| DEF CON Media    | http://m6rqq6kocsyugo2laitup5nn32bwm3lh677chuodjfmggczoafzwfcad.onion/
+| Debian Home      | http://sejnfjrq6szgca7v.onion/
+| Debian Onion Index | http://5nca3wxl33tzlzj5.onion/
+
+
+## Web Archive
+| clearnet/name    | onion address
+|------------------|:--------------
+| Archive Today (archive.is) | http://archivecaslytosk.onion/
+| Internet Archive (archive.org) | http://archivebyd3rzt3ehjpm4c3bjkyxv3hjleiytnvxcn7x32psn2kxcuid.onion/
+| Mail2Tor         | http://mail2tor2zyjdctd.onion/
+
+
+## Leaks
+| clearnet/name    | onion address
+|------------------|:--------------
+| ALAT / Allerta AntiCorruzione | http://fkut2p37apcg6l7f.onion/
+| Afrileaks        | http://wcnueib4qrsm544n.onion/
+| Atlatszo MagyarLeaks | http://ak2uqfavwgmjrvtu.onion/
+| Bezkorupce.cz    | http://iopx5pchfdldldwp.onion/
+| Mexico Leaks     | http://kjpkmlafh2ra57wz.onion/
+| Pistaljka.rs Whistleblowing | http://acabtd4btrxjjrvr.onion/#/
+| Wildleaks        | http://ppdz5djzpo3w5k2z.onion/
+| XNet Activism    | http://ztjn5gcdsqeqzmw4.onion/
 
 
 ## Blogs
@@ -57,6 +95,7 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 | GNUPG            | http://ic6au7wa3f6naxjq.onion/
 | OnionShare       | http://elx57ue5uyfplgva.onion/
 | OpenPGPKeysever  | http://pgpkeysximvxiazm.onion/
+| Privacytools.io  | http://privacy2zbidut4m4jyj3ksdqidzkw3uoip2vhvhbvwxbqux5xy5obyd.onion/
 | Privacy International | https://privacyintyqcroe.onion/
 | Security in a Box | http://bpo4ybbs2apk4sk4.onion/en/
 | Tor Project servers | http://expyuzz4wqqyqhjn.onion/
@@ -125,11 +164,14 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 | clearnet/name    | onion address
 |------------------|:--------------
 | ExpressVPN       | http://expressobutiolem.onion/
+| Mullvad VPN      | http://xcln5hkbriyklr6n.onion/
 
 
 ## Hosting
 | clearnet/name    | onion address
 |------------------|:--------------
+| 0xacab.org       | vivmyccb3jdb7yij.  onion
+| Ablative Hosting | https://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion/
 | Black Cloud      | http://bcloud2suoza3ybr.onion/
 | Cloudflare       | https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/
 | Daniel Uploads   | http://filesto37i2x5dea.onion/
@@ -224,11 +266,26 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 |------------------|:--------------
 | ProtonMail.com   | https://protonirockerxow.onion
 | Confidant        | http://cwu7eglxcabwttzf.onion/
+| Cock.li          | http://cockmailwwfvrtqj.onion/
+| Cock.li (Webmail) | http://mail.cockmailwwfvrtqj.onion/
 | Daniel Email     | http://tt3j2x4k5ycaa5zt.onion/mail/
 | Elude            | http://eludemaillhqfkh5.onion/
 | GuerrillaMail    | http://grrmailb3fxpjbwm.onion/
 | Mailpile         | http://clgs64523yi2bkhz.onion/
 | Riseup           | http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/
+
+
+## Learn new languages
+| clearnet/name    | onion address
+|------------------|:--------------
+| BBC learning english          | http://www.s5rhoqqosmcispfb.onion/learningenglish/
+| BBC learning Mandarin         | http://www.s5rhoqqosmcispfb.onion/learningenglish/chinese
+
+
+## Law firm
+| clearnet/name    | onion address
+|------------------|:--------------
+| Decoded          | http://dlegal66uj5u2dvcbrev7vv6fjtwnd4moqu7j6jnd42rmbypv3coigyd.onion/
 
 
 ## Torrent
@@ -246,6 +303,7 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 | Pasta            | http://pastagdsp33j7aoq.onion/
 | Stronghold Paste | http://nzxj65x32vh2fkhk.onion/
 | Zerobin          | http://zerobinqmdqd236y.onion/
+| Riseup Onion Index | http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor#riseups-tor-onion-services
 
 
 ## Onion Directories
