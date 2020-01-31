@@ -215,7 +215,7 @@
 
 
 ## Misc Tutorials
-- [How to get free Rock Band 1, 2 & 3 DLC without RGH/JTAG](https://anonym.to/?https://old.reddit.com/r/Piracy/comments/d4lohq/how_to_get_free_rock_band_1_2_3_dlc_without/) - Get Rock Band 1-3 working on PS3 and Wii/U & Xbox 360 without the need of using RGH/JTAG.
+- [How to get free Rock Band 1, 2 & 3 DLC without RGH/JTAG](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/d4lohq/how_to_get_free_rock_band_1_2_3_dlc_without/) - Get Rock Band 1-3 working on PS3 and Wii/U & Xbox 360 without the need of using RGH/JTAG.
 - [How to get ti-nspire CX student software for free, even after the free trial.](https://anonym.to/?https://old.reddit.com/r/Piracy/comments/d5e70k/how_to_get_tinspire_cx_student_software_for_free/)
 - [Traning Circle](https://anonym.to/?https://trainingcircle.in/) - (EN-US) - Coding, reversing & other tutorials.
 
@@ -232,6 +232,10 @@
 * [How to break IGG-GAMES's DRM ](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/dn4t2e/how_to_break_igggamess_drm_repost_since_deleted/) - A guide to bypass IGG motherf*cking DRM.
 
 **[`^        back to top        ^`](#)**
+
+
+## Spotify 
+* [Dockerized Spotify downloader with metadataOC](https://anonym.to/?hhttps://www.removeddit.com//r/Piracy/comments/ew5cus/dockerized_spotify_downloader_with_metadata/)
 
 
 ## Wii 
