@@ -50,7 +50,6 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 |------------------|:--------------
 | Archive Today (archive.is) | http://archivecaslytosk.onion/
 | Internet Archive (archive.org) | http://archivebyd3rzt3ehjpm4c3bjkyxv3hjleiytnvxcn7x32psn2kxcuid.onion/
-| Mail2Tor         | http://mail2tor2zyjdctd.onion/
 
 
 ## Leaks
@@ -261,18 +260,42 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 | SecureDrop       | https://secrdrop5wyphb5x.onion/
 
 
-## eMail Services and Tools
+## eMail Services
 | clearnet/name    | onion address
 |------------------|:--------------
+| danwin1210       | http://danielas3rtn54uwmofdo3x2bsdifr47huasnmbgqzfrec5ubupvtpid.onion/mail/index.php
 | ProtonMail.com   | https://protonirockerxow.onion
 | Confidant        | http://cwu7eglxcabwttzf.onion/
 | Cock.li          | http://cockmailwwfvrtqj.onion/
 | Cock.li (Webmail) | http://mail.cockmailwwfvrtqj.onion/
 | Daniel Email     | http://tt3j2x4k5ycaa5zt.onion/mail/
-| Elude            | http://eludemaillhqfkh5.onion/
-| GuerrillaMail    | http://grrmailb3fxpjbwm.onion/
 | Mailpile         | http://clgs64523yi2bkhz.onion/
+| OnionMail        | http://en.onionmail.info/
+| Systemli         | http://h2qkxasmmqdmyiov.onion/
+| Paranoid         | https://paranoid.email/
+| bitmessage.ch    | http://bitmailendavkbec.onion/
 | Riseup           | http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/
+| Mail2Tor         | http://mail2tor2zyjdctd.onion/
+| SecMail          | http://secmailw453j7piv.onion/
+| CTemplar         | http://ctemplar42u6fulx.onion/
+| TorBox           | http://torbox3uiot6wchz.onion/
+| SCRYPTMail       | https://scryptmail.com/
+
+
+### Paid eMail services
+| clearnet/name    | onion address
+|------------------|:--------------
+| Elude            | http://eludemaillhqfkh5.onion/
+| RayServers       | https://nmf6cg7tiyqlhsg3.onion/
+| Mailbox          | https://userforum-en.mailbox.org/knowledge-base/article/the-tor-exit-node-of-mailbox-org
+| Mail City        | http://eozm6j6i4mmme2p5.onion/
+
+
+### Temp eMail services
+| clearnet/name    | onion address
+|------------------|:--------------
+| GuerrillaMail    | http://grrmailb3fxpjbwm.onion/
+| TempMailAddress  | https://www.tempmailaddress.com/
 
 
 ## Learn new languages
@@ -318,4 +341,5 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 
 
 
-
+# ToDo
+- Ban every tool/script/website which requires JavaScript. JS is known to cause security problems. Or mention NoScript/uMatrix. 
