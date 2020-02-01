@@ -1,5 +1,10 @@
+## Android reverse engineering scripts
+- [android-scripts](https://anonym.to/?https://github.com/strazzere/android-scripts) - Collection of open source Android reverse engineering scripts.
+
+**[`^        back to top        ^`](#)**
+
 ## Browser Script Engines (required to run browser-/ or user-css scripts)
-- [Firemonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) - Can handle both user Scripts and user CSS.
+- [Firemonkey](https://anonym.to/?https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) - Can handle both user Scripts and user CSS.
 - [Greasemonkey](https://anonym.to/?https://www.greasespot.net/) - Greasemonkey is a Firefox extension that allows you to customize the way webpages look and function.
 - [Violentmonkey](https://anonym.to/?https://violentmonkey.github.io/) - An open source userscript manager for Chrome, Firefox, Opera etc.
 
@@ -16,7 +21,7 @@
 **[`^        back to top        ^`](#)**
 
 
-## Browser based Video & Downloader 
+## Browser based Video Downloader 
 - [Media Reaper - Privacy 1st, Audio & Video Download](https://anonym.to/?https://sasrip.cf/) + ([addon](https://anonym.to/?https://addons.mozilla.org/en-US/firefox/addon/media-reaper/))
 
 
@@ -141,8 +146,13 @@ All other extensions **do not** adding any benefit over the integrated Browser "
 **[`^        back to top        ^`](#)**
 
 
-## Python scripts
+## Firefox Scripts
 - [firefox_bookmarkscraper.py](https://anonym.to/?https://github.com/ZeroOne010101/firefox_bookmarkscraper.py) - Querys the html of all Firefox bookmarks in a specific folder for a keyword, and prints the url's of sites the keyword was found in.
+
+**[`^        back to top        ^`](#)**
+
+
+## Udemy Scrips
 - [udemy-dl](https://anonym.to/?https://github.com/r0oth3x49/udemy-dl) - Udemy course downloader script.
 
 **[`^        back to top        ^`](#)**
@@ -153,7 +163,7 @@ All other extensions **do not** adding any benefit over the integrated Browser "
 **[`^        back to top        ^`](#)**
 
 
-## Movies & Play Scripts
+## Movies & TV Shows Scripts
 - [Script Download Links](https://anonym.to/?https://gointothestory.blcklst.com/script-download-links-9313356d361c?gi=3903aa2fdebf) - 100+ scripts made available by studios and production companies.
 - [Script Slug](https://anonym.to/?https://www.scriptslug.com/) - Browse hundreds of screenplays.
 - [Springfield! Springfield!](https://anonym.to/?https://www.springfieldspringfield.co.uk/) - Movie Transcript Database for iOS and Android.
