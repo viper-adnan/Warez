@@ -65,6 +65,8 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## Liability for Contents
+- [Burn, drown, or smash your phone: Forensics can extract data anyway](https://anonym.to/?https://www.zdnet.com/article/burn-drown-or-smash-your-phone-forensics-can-extract-data-anyway/)
+- [A new bill could punish web platforms for using end-to-end encryption](https://anonym.to/?https://www.theverge.com/2020/1/31/21116788/earn-it-act-section-230-lindsey-graham-draft-bill-encryption)
 - [French court rules that Steam’s ban on reselling used games is contrary to European law](https://anonym.to/?https://www.polygon.com/2019/9/19/20874384/french-court-steam-valve-used-games-eu-law) 
 - [MEPs approve sweeping changes to copyright law](https://anonym.to/?https://www.theguardian.com/media/2019/mar/26/meps-approve-sweeping-changes-to-copyright-law-european-copyright-directive)
 - [The Legalities of Linking](https://anonym.to/?https://www.lifewire.com/legalities-of-linking-3468972)
@@ -972,10 +974,11 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 
-### Premium Link Hoster
+### Free and Premium Link Hoster
 - [4shared](https://anonym.to/?https://www.4shared.com/) (_privacy concerns_)
 - [DBREE](https://anonym.to/?https://dbr.ee/)
 - [K!M](https://anonym.to/?https://k.im/) - Might replaces the original Megaupload (_one day_).
+- [LinkSnappy](https://anonym.to/?https://linksnappy.com/)
 - [Mediafire](https://anonym.to/?https://www.mediafire.com/)
 - [Mega.nz](https://anonym.to/?https://mega.nz/) (_privacy concerns_)
 - [OpenLoad](https://anonym.to/?https://openload.co/)
