@@ -1847,6 +1847,13 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 
+## College Textbooks
+- [Z-Libary](https://anonym.to/?https://b-ok.cc/) - A lot textbooks which hosts books directly.
+- [epdf](https://anonym.to/?https://epdf.pub/) - Write a book, elevate your profile, build a business - Upload ideas and beginner tips to get you started.
+
+**[`^        back to top        ^`](#)**
+
+
 ## Courses
 - [0Day releases](https://anonym.to/?https://0dayreleases.com/category/video-tutorial/) - 0Day releases for Games, Video Tutorials, TV Shows & more.
 - [CG Persia Forum](https://anonym.to/?https://cgpersia.com/) - EBooks, tutorials & courses.
@@ -2780,6 +2787,9 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## Google product & services alternatives
+
+### Guides
+- [How to deGoogle LineageOS in 2019](https://anonym.to/?https://old.reddit.com/r/privacy/comments/cldrym/how_to_degoogle_lineageos_in_2019/)
 
 ### Android: "Google Free" systems - privacy respecting & hardened OS
 - [GraphenOS](https://anonym.to/?https://grapheneos.org/) - Hardened OS for e.g. Google Pixel.
