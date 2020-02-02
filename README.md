@@ -227,6 +227,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ### Self-hosted VPN
 - [Cloudron](https://anonym.to/?https://cloudron.io/get.html) - A solution that allows anybody to create private clouds instantaneously.
+- [DSVPN](https://anonym.to/?https://github.com/jedisct1/dsvpn) - `Linux` - DSVPN is a dead simple VPN, designed to address the most common use case for using a VPN.
 - [n2n](https://anonym.to/?https://github.com/ntop/n2n) - A Peer-to-peer VPN.
 - [OpenVPN](https://anonym.to/?https://openvpn.net/) - OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
 - [PeerVPN](https://anonym.to/?https://peervpn.net/) - PeerVPN is a software that builds virtual ethernet networks between multiple computers.
