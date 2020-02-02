@@ -2641,6 +2641,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 An overview of Telegram Bots, Channels and scripts can be found via the [telegram-list](https://anonym.to/?https://github.com/goq/telegram-list).
 
+- [Crackwatch tracker](https://anonym.to/?https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) CrackWatch trackers Telegram channels for CrachWatch.com games & cracks provided by `/u/SHADOWSLIFER`.
 - [@DeezerMusicBot](https://anonym.to/?https://t.me/DeezerMusicBot) - Music bot which downloads tracks from Deezer.
 - [@iMediaShare](https://anonym.to/?https://t.me/iMediaShare) - Provides links to Movies, TV shows, apps & and more.
 - [@intermedia](https://anonym.to/?https://t.me/intermedia) - Channel for movies.
