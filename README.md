@@ -114,8 +114,8 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## Social Media Alternatives
-- [Framapiaf](https://anonym.to/?https://framapiaf.org/about/) Mastodon instance of [Framasoft](https://anonym.to/?https://framasoft.org), a nonprofit organization focusing on free-software alorisation.
-- [Mamot](https://anonym.to/?https://mamot.fr/about/) Mastodon instance of the [La Quadrature du Net](https://anonym.to/?https://www.laquadrature.net/en/), a French advocacy group that promotes digital rights and freedoms of citizens.
+- [Framapiaf](https://anonym.to/?https://framapiaf.org/about/) - Mastodon instance of [Framasoft](https://anonym.to/?https://framasoft.org) - A nonprofit organization focusing on free-software alorisation.
+- [Mamot](https://anonym.to/?https://mamot.fr/about/) - Mastodon instance of the [La Quadrature du Net](https://anonym.to/?https://www.laquadrature.net/en/) - A French advocacy group that promotes digital rights and freedoms of citizens.
 - [Mastodon](https://anonym.to/?https://joinmastodon.org/) - Mastodon is an open-source self-hosted, federated social media networking service.
 - [MeWe](https://anonym.to/?https://mewe.com/) - Google+ replacement.
 - [Movim](https://anonym.to/?https://freedif.org/movim-the-decentralized-social-network) - Movim is a social network, based on XMPP, with Chat and chatrooms, news & communities features.
@@ -2637,28 +2637,26 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 **[`^        back to top        ^`](#)**
 
-### Telegram Piracy Discussion Channels
+### Telegram Discussion Channels
 
 An overview of Telegram Bots, Channels and scripts can be found via the [telegram-list](https://anonym.to/?https://github.com/goq/telegram-list).
 
-- [@bestwarez](https://anonym.to/?https://t.me/bestwarez) - Maybe one of the biggest warez telegram channel.
 - [@DeezerMusicBot](https://anonym.to/?https://t.me/DeezerMusicBot) - Music bot which downloads tracks from Deezer.
-- [@fullalbums](https://anonym.to/?https://t.me/fullalbums) - Download full Music Albums.
 - [@iMediaShare](https://anonym.to/?https://t.me/iMediaShare) - Provides links to Movies, TV shows, apps & and more.
 - [@intermedia](https://anonym.to/?https://t.me/intermedia) - Channel for movies.
-- [@itorrentsearchbot](https://anonym.to/?https://t.me/itorrentsearchbot) - Searchbot which finds torrent and magnet links on 1337x.to by keyword search
 - [@movies_inc](https://anonym.to/?https://t.me/movies_inc) - Another Telegram channel for downloading several movies in different quality.
 - [@Moviezworldz](https://anonym.to/?https://t.me/Moviezworldz) - Official Moviezworldz channel.
-- [@MusicHuntersBot](https://anonym.to/?https://t.me/MusicHuntersBot) - Another music downloader bot for Telegram.
-- [@piracy](https://anonym.to/?https://t.me/joinchat/JSoye0ykWKGZc_jueXqlcg) - A well known telegram group with over 500 pirates.
 - [@piracylinks](https://anonym.to/?https://t.me/piracylinks) - A link sharing community.
 - [@piratebazaar](https://anonym.to/?https://t.me/piratebazaar) - Telegram Channel which provides warez information, lists & more.
 - [@Qualitymovies](https://anonym.to/?https://t.me/Qualitymovies) - Lots of 720p Blu-Ray movie releases.
 - [@RickyChristanto Chan](https://anonym.to/?https://t.me/RickyChristanto) - Movie releases channel provides usually stuff from YTS.
 - [@SMLoadrCommuntiy](https://anonym.to/?https://t.me/SMLoadrCommunity) - Telegram community for SMLoadr.
-- [@UretPatcherByJasi2169](https://anonym.to/?https://t.me/UretPatcherByJasi2169) - The official Uret Android patcher group.
+
+
+### Telegram Bots
 - [@vkmusic_bot](https://anonym.to/?https://t.me/vkmusic_bot) - Find and download pretty much any song (uses vkmusic search engine).
-- [@warez](https://anonym.to/?https://t.me/warez) - Yet another warez channel on Telegram.
+- [@MusicHuntersBot](https://anonym.to/?https://t.me/MusicHuntersBot) - Another music downloader bot for Telegram.
+- [@itorrentsearchbot](https://anonym.to/?https://t.me/itorrentsearchbot) - Searchbot which finds torrent and magnet links on 1337x.to by keyword search.
 
 **[`^        back to top        ^`](#)**
 
