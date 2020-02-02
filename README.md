@@ -2640,11 +2640,37 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 
-## Telegram Discussion Channels
+## Telegram Piracy Discussion Channels
+- [Telegram Channels](https://anonym.to/?https://telegramchannels.me/channels) - A telegram channel indexer with over 1500 channels.
 - [@piratebazaar](https://anonym.to/?https://t.me/piratebazaar) - Telegram Channel which provides warez information, lists & more.
 
+
+## Telegram Coding Channels
+- [Mozilla Browser / develper telegram and IRC Channels](https://anonym.to/?https://wiki.mozilla.org/Telegram) - The overview page aims to list all mozilla groups and channels (and the linked IRC channels).
+
+
+### Telegram Hacking Channels
+- [Hacker News](https://anonym.to/?https://telegram.me/hacker_news_feed) - Get the latest Top stories from Hacker News.
+- [Hack+](https://anonym.to/?https://t.me/hacking_group_channel) - Clan hacking related discussions via Telegram.
+- [Hacker's {HUB}](https://anonym.to/?https://t.me/hackershub007) + [Website](https://anonym.to/?https://jadugarjag.gq/) - Orignal & Useful Content.
+- [Ethical Hacking](https://anonym.to/?https://t.me/ethhackers) - World Biggest Hacking Channel.
+- [Hack Everything](https://anonym.to/?http://t.me/An0nymous_hackerzz) - Claims to be the best Tech channel on Telegram.
+- [Premium Hacking™️](https://anonym.to/?https://telegram.me/premium_hacking) - Tech, Hacking, tips and tricks.
+
+### Telegram Cracking Channels
+- [The404Cracking](https://anonym.to/?https://t.me/The404Cracking) - Claims to be the best cracking channel on Telegram.
+- [King_of_cracking](https://anonym.to/?https://t.me/king_0f_cracking) - Free daily cracking tools, proxies and more.
+
+### Telegram channel for Udemy courses
+- [@udemyfree4u](https://anonym.to/?https://ttttt.me/udemyfree4u) - This Is The No. 1 Biggest Channel In Telegram Which Provides Paid Udemy Courses For Free, daily updated.
+- [Free Udemy Courses](https://anonym.to/?https://t.me/Freecoursefinder) - We provide paid premium online courses for free! 
+- [@freexonlinexcourse](https://anonym.to/?https://t.me/freexonlinexcourse) - Free udemy courses.
+- [Free Udemy Courses](https://anonym.to/?https://t.me/joinchat/AAAAAEOVydKcDYcTQPbvYg) 
+- [Udemy deals](https://anonym.to/?https://telegram.me/udemydeals) - Free udemy courses!!
+
 ### Telegram channel for APK's
-- [Premium APKs Only](https://anonym.to/?hhttps://t.me/apkpremiumonly) - Patched / modded android apps, updated daily.
+- [APK4free](https://anonym.to/?https://t.me/Apk4Free) - Cracked Android apps.
+- [Premium APKs Only](https://anonym.to/?https://t.me/apkpremiumonly) - Patched / modded android apps, updated daily.
 - [InstaMod](https://anonym.to/?https://t.me/instagram_mod) - Regularly updated & feature rich modified Instagram app (Android only).
 - [APKs Apps](https://anonym.to/?https://t.me/DroidApks) - Patched & modded android apps, updated daily.
 - [@ModdedCentral](https://anonym.to/?https://t.me/ModdedCentral) - Patched & modded android apps, updated regularly, 50+ shared daily. Request group currently closed.
@@ -2665,8 +2691,10 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [@RickyChristanto](https://anonym.to/?https://t.me/RickyChristanto) - Movie releases channel provides usually stuff from YTS.
 
 ### Telegram channels for Software
+- [Adobe CRack channel](https://anonym.to/?tg://resolve?domain=adobecracks&post=17) - A channel for all Adobe cracks.
+- [@piratechannel](https://anonym.to/?https://t.me/piratechannel) - Free Netflix, Spotify & Other Premium Accounts, Window & Other Software License Keys.
 - [Keygen Fortress](https://anonym.to/?https://t.me/keygen_fortress) - Wide range of keygens for various apps, downloadable in Telegram.
-- [Crackwatch tracker](https://anonym.to/?https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) CrackWatch trackers Telegram channels for CrachWatch.com games & cracks provided by `/u/SHADOWSLIFER`.
+- [Crackwatch tracker](https://anonym.to/?https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - CrackWatch trackers Telegram channels for CrachWatch.com games & cracks provided by `/u/SHADOWSLIFER`.
 - [@vpnusername](https://anonym.to/?https://t.me/vpnusername) - Free NordVPN leech account logins. Sometimes posts other VPN services too.
 - [@piracylinks](https://anonym.to/?https://t.me/piracylinks) - A link sharing community.
 - [@raymondfreesoftware](https://t.me/raymondfreesoftware/166702)
@@ -2674,6 +2702,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Piracy Main](https://anonym.to/?https://t.me/joinchat/KNhdrlJyuDhsJy5dNEBoAg) - Intended to be the main chat for all piracy discussion, but very inactive - use this group for that instead.
 - [CGPersia Downloads](https://anonym.to/?https://t.me/CGPERS) - Free ripped courses from Udemy, Skillshare and other educational websites.
 - [AIOSetup](https://anonym.to/?https://t.me/aiosetup) - Wide range of pre-cracked software, downloadable in Telegram.
+- [Windows_Software](https://tele.me/telegram/groups/windows_softwares) - Windows software, cracked.
 
 ### Telegram channels for eBooks & PDF's
 - [Books N All](https://anonym.to/?https://t.me/joinchat/EG43XkPhHFup2w7kTl44AA) - Request eBooks and audio books, as well as reviews in this group with ~3.5k members & generally a fast response time.
@@ -2694,6 +2723,10 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [BOOK_HOUSE_INTERNATIONAL](http://t.me/BOOK_HOUSE_INTERNATIONAL)
 - [@booksmania](https://anonym.to/?http://t.me/booksmania)
 - [SciHub](https://anonym.to/?http://t.me/scihubot) - Similar to the original Sci-Hub website, sharing is caring!
+
+
+### Telegram Bot (Moderation)
+- [Miss Rose](https://anonym.to/?https://missrose.org/guide/getting-started/adding-rose/) - Manage your group easily with the Rose bot. 
 
 
 ### Telegram Bots
