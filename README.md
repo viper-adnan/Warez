@@ -95,7 +95,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 
-## ISPs you should avoid
+## ISPs you should avoid!
 - AT&T
 - CenturyLink
 - Comcast/Xfinity
@@ -108,7 +108,9 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## Public DMCA complaints 
-- [Lumendatabase.org](https://anonym.to/?https://www.lumendatabase.org/) - Database Google uses for their blacklist, it provides hundreds of links with movie and tv shows
+- [Lumendatabase.org](https://anonym.to/?https://www.lumendatabase.org/) - Database Google uses for their blacklist, it provides hundreds of links with movie and tv shows.
+- [UK ISP Court Orders](https://anonym.to/?http://www.ukispcourtorders.co.uk/) - A incomplete list of websites recently taken down in the UK by the High Court.
+- [Counterfeit and Piracy Watch List (.PDF)](https://anonym.to/https://torrentfreak.com/images/tradoc_157564.pdf) - A EU Commion list from 2018 provided by Europol and others to watch the current piracy status.
 
 **[`^        back to top        ^`](#)**
 
@@ -2641,23 +2643,39 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 An overview of Telegram Bots, Channels and scripts can be found via the [telegram-list](https://anonym.to/?https://github.com/goq/telegram-list).
 
-- [Crackwatch tracker](https://anonym.to/?https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) CrackWatch trackers Telegram channels for CrachWatch.com games & cracks provided by `/u/SHADOWSLIFER`.
 - [@DeezerMusicBot](https://anonym.to/?https://t.me/DeezerMusicBot) - Music bot which downloads tracks from Deezer.
 - [@iMediaShare](https://anonym.to/?https://t.me/iMediaShare) - Provides links to Movies, TV shows, apps & and more.
 - [@intermedia](https://anonym.to/?https://t.me/intermedia) - Channel for movies.
-- [@movies_inc](https://anonym.to/?https://t.me/movies_inc) - Another Telegram channel for downloading several movies in different quality.
+- [@ModdedCentral](https://anonym.to/?https://t.me/ModdedCentral) - Patched & modded android apps, updated regularly, 50+ shared daily. Request group currently closed.
 - [@Moviezworldz](https://anonym.to/?https://t.me/Moviezworldz) - Official Moviezworldz channel.
 - [@piracylinks](https://anonym.to/?https://t.me/piracylinks) - A link sharing community.
 - [@piratebazaar](https://anonym.to/?https://t.me/piratebazaar) - Telegram Channel which provides warez information, lists & more.
 - [@Qualitymovies](https://anonym.to/?https://t.me/Qualitymovies) - Lots of 720p Blu-Ray movie releases.
-- [@RickyChristanto Chan](https://anonym.to/?https://t.me/RickyChristanto) - Movie releases channel provides usually stuff from YTS.
+- [@RickyChristanto](https://anonym.to/?https://t.me/RickyChristanto) - Movie releases channel provides usually stuff from YTS.
 - [@SMLoadrCommuntiy](https://anonym.to/?https://t.me/SMLoadrCommunity) - Telegram community for SMLoadr.
-
+- [@vpnusername](https://anonym.to/?https://t.me/vpnusername)  Sometimes posts other VPN services too. - Free NordVPN leech account logins. Sometimes posts other VPN services too.
+- [AIOSetup](https://anonym.to/?https://t.me/aiosetup) - Wide range of pre-cracked software, downloadable in Telegram.
+- [APKs Apps](https://anonym.to/?https://t.me/DroidApks) - Patched & modded android apps, updated daily.
+- [Books N All](https://anonym.to/?https://t.me/joinchat/EG43XkPhHFup2w7kTl44AA) - Request eBooks and audio books, as well as reviews in this group with ~3.5k members & generally a fast response time.
+- [CGPersia Downloads](https://anonym.to/?https://t.me/CGPERS) - Free ripped courses from Udemy, Skillshare and other educational websites.
+- [Crackwatch tracker](https://anonym.to/?https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) CrackWatch trackers Telegram channels for CrachWatch.com games & cracks provided by `/u/SHADOWSLIFER`.
+- [Full Music Albums](https://anonym.to/?https://t.me/joinchat/AAAAAFkG6jV0RNRuY8eDnw) - A large collection of music albums, directly downloadable in Telegram, updated daily!
+- [InstaMod](https://anonym.to/?https://t.me/instagram_mod) - Regularly updated & feature rich modified Instagram app (Android only).
+- [Keygen Fortress](https://anonym.to/?https://t.me/keygen_fortress) - Wide range of keygens for various apps, downloadable in Telegram.
+- [List of eBook websites, channels & bots](https://anonym.to/?https://t.me/raymondfreesoftware/166702) - Large collection of websites, bots and channels with a wide range of eBooks.
+- [Melodic Musics](https://anonym.to/?https://t.me/MelodicMusics) - A large collection of music, downloadable within Telegram.
+- [Music Archive](https://anonym.to/?https://t.me/MArchive) - A large collection of music, downloadable within Telegram.
+- [Piracy Main](https://anonym.to/?https://t.me/joinchat/KNhdrlJyuDhsJy5dNEBoAg) - Intended to be the main chat for all piracy discussion, but very inactive - use this group for that instead.
+- [Premium APKs Only](https://anonym.to/?hhttps://t.me/apkpremiumonly) - Patched / modded android apps, updated daily.
+- [Raymond's Piracy Group](https://anonym.to/?https://t.me/raymondfreesoftware) - A group of 7000+ pirates chatting.
+- [The Hindu](https://anonym.to/?https://t.me/The_Hindu1) - PDFs of every Indian newspaper every day.
+- [TV Updates](https://anonym.to/?https://telegram.me/joinchat/ACzuljvGFUjzJf4ambpzTA) - A large collection of TV shows, downloadable in Telegram, updated daily!
 
 ### Telegram Bots
-- [@vkmusic_bot](https://anonym.to/?https://t.me/vkmusic_bot) - Find and download pretty much any song (uses vkmusic search engine).
-- [@MusicHuntersBot](https://anonym.to/?https://t.me/MusicHuntersBot) - Another music downloader bot for Telegram.
 - [@itorrentsearchbot](https://anonym.to/?https://t.me/itorrentsearchbot) - Searchbot which finds torrent and magnet links on 1337x.to by keyword search.
+- [@MusicHuntersBot](https://anonym.to/?https://t.me/MusicHuntersBot) - Another music downloader bot for Telegram.
+- [@vkmusic_bot](https://anonym.to/?https://t.me/vkmusic_bot) - Find and download pretty much any song (uses vkmusic search engine).
+- [aria-telegram-mirror-bot](https://anonym.to/?https://github.com/out386/aria-telegram-mirror-bot) - A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
 
 **[`^        back to top        ^`](#)**
 
