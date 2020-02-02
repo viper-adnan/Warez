@@ -47,6 +47,9 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - Pirate.ws
 - Moonwalk.cc
 
+## Manga Reader
+- mangarock.com
+
 ## Anime
 - AnimeHeaven.eu
 - Masterani.me
