@@ -2637,6 +2637,9 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 ### Telegram Piracy Discussion Channels
+
+An overview of Telegram Bots, Channels and scripts can be found via the [telegram-list](https://anonym.to/?https://github.com/goq/telegram-list).
+
 - [@bestwarez](https://anonym.to/?https://t.me/bestwarez) - Maybe one of the biggest warez telegram channel.
 - [@DeezerMusicBot](https://anonym.to/?https://t.me/DeezerMusicBot) - Music bot which downloads tracks from Deezer.
 - [@fullalbums](https://anonym.to/?https://t.me/fullalbums) - Download full Music Albums.
