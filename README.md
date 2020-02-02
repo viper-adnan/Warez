@@ -1043,8 +1043,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Hi10Anime](https://anonym.to/?https://hi10anime.com/) - High Quality 10-bit Animes.
 - [KickAssAnime](https://anonym.to/?https://www11.kickassanime.io/) - Subs and dubs, banner ads, some sources.
 - [KimCartoon](https://anonym.to/?https://kimcartoon.to/)
-- [Mangarock](https://anonym.to/?https://mangarock.com/)
-- [MangaRock](https://anonym.to/?https://mangarock.com)
 - [MoviesEver](https://anonym.to/?https://moviesever.com/)
 - [NineAnime](https://anonym.to/?https://www.nineanime.com/)
 - [OtakuStream](https://anonym.to/?https://otakustream.unblocker.cc/) - Subs only, banner and pop-up ads, downloadable, multiple sources.
