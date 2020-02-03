@@ -1,5 +1,7 @@
 ## Audio Quality Analyzer
 - [Spek](https://anonym.to/?http://spek.cc/) - Determine the quality of your audio files.
+- [REW](https://anonym.to/?https://www.roomeqwizard.com/) - Free room acoustics analysis software for measuring and analysing room and loudspeaker responses (needs Java).
+- [RightMark Audio Analyzer (RMAA)](https://anonym.to/?https://www.softpedia.com/get/System/Benchmarks/RightMark-Audio-Analyzer.shtml) - Check sound quality of your audio hardware.
 
 **[`^        back to top        ^`](#)**
 
