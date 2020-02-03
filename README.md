@@ -2503,6 +2503,12 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 **[`^        back to top        ^`](#)**
 
+## Decentralized local GIT
+- [git-ssb (Git over Secure-Scuttlebutt)](https://anonym.to/?https://github.com/noffle/git-ssb-intro) - Learn git-ssb: a decentralized GitHub alternative, you could also [combine it with Tor](https://anonym.to/?https://handbook.scuttlebutt.nz/faq/misc/tor).
+- [Radicle](https://anonym.to/?https://www.radicle.xyz/) - A decentralized alternative to GitHub built on IPFS.
+- [Mango](https://anonym.to/?https://github.com/axic/mango) - Cmbines Ethereum with IPFS or Swarm as a backend for Git.
+
+**[`^        back to top        ^`](#)**
 
 ## HTCP
 - [Anonmasky](https://anonym.to/?https://github.com/Anonmasky/anonmasky.github.io) - Anonmasky is a beautiful startpage for geeks out there. Clone of weboas.is.
