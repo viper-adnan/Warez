@@ -125,6 +125,18 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Pleroma](https://anonym.to/?https://pleroma.social/) - Host your own social media.
 - [social.privacytools.io](https://anonym.to/?https://social.privacytools.io/about/) Mastodon instance of [PrivacyTools](https://anonym.to/?https://www.privacytools.io/), a volunteer-run privacy centered collective.
 - [Stream.io](https://anonym.to/?https://Stream.io) - Tries to combine all social networks into one place (_currently beta_).
+- [Shodan.io](https://anonym.to/?https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices.
+
+**[`^        back to top        ^`](#)**
+
+
+## Data leak checking (eMail, Accounts, etc)
+- [I Got Phished](https://anonym.to/?https://igotphished.abuse.ch/) - Collecting information regarding users that became victims of a phishing attack by entering their password on a phishing website
+- [Have I been pwned?](https://anonym.to/?https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach.
+- [Firefox Monitor](https://anonym.to/?https://monitor.firefox.com/) - Have your accounts been leaked or stolen in a data breach? Find out at Firefox Monitor.
+- [LeakCheck](https://anonym.to/?https://leakcheck.net/) - Paid database engine to check if your eMail, online accounts have been compromised.
+- [Snusbase](https://anonym.to/?https://snusbase.com/) - Paid Database Search Engine to check for latest database breaches.
+- [GhostProject.fr](https://anonym.to/?https://ghostproject.fr/) - Free Database Lookup of Recent 1.4 billion password breach compilation, GhostProject allows you to Search by email or username.
 
 **[`^        back to top        ^`](#)**
 
