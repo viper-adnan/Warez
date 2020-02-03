@@ -179,11 +179,11 @@ Downloads albums in bulk.
 ## File Sharing Tools
 - [1337x Win App](https://anonym.to/?https://github.com/sakshatshinde/1337x_WinApp/) & [Wrapper for FitGirl Repacks](https://anonym.to/?https://github.com/sakshatshinde/Fitgirl_Repacks_WinApp/releases) - A simple 1337x windows app created using nativefier, basically a fan made 1337x tool for the official website.
 - [AutoRclone](https://anonym.to/?https://github.com/xyou365/AutoRclone/) - AutoRclone is a FOSS project that uses [rclone](https://rclone.org/), [folderclone](https://github.com/Spazzlo/folderclone) + service accounts to upload/copy resources to Google Team Drive.
+- [File & Image Uploader](https://anonym.to/?http://z-o-o-m.eu/) - The most comprehensive program to upload files and images to different file-/image-hoster.
 - [CrossFTP](https://anonym.to/?http://www.crossftp.com/ftp-client.htm) - CrossFTP makes it extremely simple to manage the FTP related tasks.
 - [D-lan](https://anonym.to/?http://www.d-lan.net/) - A free LAN file sharing software.
 - [DBREE](https://anonym.to/?http://dbr.ee/) - DBREE is a simplistic and easy way to upload and share any type of file.
 - [Envelop](https://anonym.to/?https://github.com/envelop-app) - Decentralized file sharing app via [Web](https://envelop.app/)/[Android](https://play.google.com/store/apps/details?id=app.envelop).
-- [File & Image Uploader](https://anonym.to/?http://z-o-o-m.eu/) - The most comprehensive program to upload files and images to different file-/image-hoster.
 - [FilePizza](https://anonym.to/?http://file.pizza/) - Free peer-to-peer file transfers in your browser.
 - [Filezilla](https://anonym.to/?http://filezilla-project.org/) - The free & open source (S)FTP solution.
 - [Flareget](https://anonym.to/?http://flareget.com/) - Full featured, multi-threaded download manager and accelerator.
@@ -211,6 +211,7 @@ Downloads albums in bulk.
 - [ownCloud](https://anonym.to/?http://owncloud.com/client/) - The goal of ownCloud is to give you access to your files wherever you are.
 - [uGet](https://anonym.to/?http://ugetdm.com/) - A download manager that can monitor the clipboard for downloadable links, and can create a list of downloads, and run them in parallel.
 - [uds - Unlimited Google Drive Storage by splitting binary files into base64](https://anonym.to/?http://github.com/stewartmcgown/uds) - Open source utility to split your files into babse64 parts which are small enough to be uploaded to Google Doc's.
+- [Uppy](https://anonym.to/?https://github.com/transloadit/uppy)- JavaScript file uploader that integrates seamlessly with any application.
 
 **[`^        back to top        ^`](#)**
 
