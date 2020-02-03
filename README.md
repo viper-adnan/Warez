@@ -1557,6 +1557,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Checkra1n](https://anonym.to/?https://checkra.in/) - Semi-tethered Jailbreak for iOS 12.3+.
 - [EtasonATV](https://anonym.to/?https://etasonatv.tihmstar.net/) - AppleTV jailbreak.
 - [IPSW](https://anonym.to/?https://ipsw.me/?_escaped_fragment_=/version) - Provides Jailbreak firmware.
+- [Fugu](https://anonym.to/?https://github.com/LinusHenze/Fugu) - Fugu is the first open source jailbreak based on the checkm8 exploit.
 - [ipwndfu](https://github.com/axi0mX/ipwndfu) - Open-source jailbreaking tool for many iOS devices.
 - [s0meiyoshino](https://anonym.to/?https://github.com/dora2-iOS/s0meiyoshino) - This tool enables exploit of iBoot.
 - [Unc0ver](https://anonym.to/?https://twitter.com/Pwn20wnd/) - Official Twitter Account from the developer of Unc0ver.
