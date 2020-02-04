@@ -433,6 +433,8 @@
 * rainbownationsharing.net
 * sci-hub.ac
 * site.telecharger-ebook-gratuit.org
+* ebooks.wtf
+
 
 ## Manga
 * MangaRock
