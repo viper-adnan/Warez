@@ -405,9 +405,10 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - MioMio
 - AniTube!
 
-## Books / PDFs
+## eBooks / PDFs
 - Oceanofpdf.com
 - ebook.farm
+- ebooklogin.com
 
 ## Hoster
 - ArkaHosting
