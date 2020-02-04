@@ -1803,7 +1803,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Apprentice Alf's Blog](https://anonym.to/?https://apprenticealf.wordpress.com/) - Everything you ever wanted to know about DRM and ebooks, but were afraid to ask.
 - [Authorama](https://anonym.to/?https://www.authorama.com/) - This public domain book site has a wide variety of ebooks for free, by Lewis Carroll, Emerson, Kafka, and more.
 - [AvaxHome](https://anonym.to/?https://avxhm.se/) + [(mirror)](https://anonym.to/?https://avxhome.in/ebooks) - eBooks, movies & more.
-- [b-ok](http://b-ok.xyz/) - (`insecure`) - Free ebook library.
 - [Baen](http://www.baen.com/catalog/category/view/s/free-library/) - You can download ebooks for HTML, RTF, Microsoft Reader and for Palm, Psion, and Window CE.
 - [Bartleby](http://www.bartleby.com/ebook/) - (`insecure`) - While Bartleby charges for some titles, it has a free ebook store here.
 - [Bibliomania](http://www.bibliomania.com/) - (`insecure`) - You will find over 2,000 classic texts from bibliomania, plus study guides, reference material and more.
@@ -2347,7 +2346,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 ## Real time monitoring of secrets on github, gitlab and bitbucket
-- [shhgit](https://anonym.to/?hhttps://shhgit.darkport.co.uk/) + [Source Code](https://anonym.to/?https://github.com/eth0izzle/shhgit) - Watch real-time stream and pull out any accidentally committed secrets.
+- [shhgit](https://anonym.to/?https://shhgit.darkport.co.uk/) + [Source Code](https://anonym.to/?https://github.com/eth0izzle/shhgit) - Watch real-time stream and pull out any accidentally committed secrets.
 
 **[`^        back to top        ^`](#)**
 
