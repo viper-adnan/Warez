@@ -65,6 +65,11 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 | XNet Activism    | http://ztjn5gcdsqeqzmw4.onion/
 
 
+## Filesharing 
+| clearnet/name    | onion address
+|------------------|:--------------
+| OnionShare | http://lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion/
+
 ## Blogs
 | clearnet/name    | onion address
 |------------------|:--------------
