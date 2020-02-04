@@ -2346,6 +2346,10 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 **[`^        back to top        ^`](#)**
 
+## Real time monitoring of secrets on github, gitlab and bitbucket
+- [shhgit](https://anonym.to/?hhttps://shhgit.darkport.co.uk/) + [Source Code](https://anonym.to/?https://github.com/eth0izzle/shhgit) - Watch real-time stream and pull out any accidentally committed secrets.
+
+**[`^        back to top        ^`](#)**
 
 ## Discord alternatives (without logging or telemetry)
 - [Ripcord](https://anonym.to/?https://cancel.fm/ripcord/) - A closed source no tracking or analytics Discord client (without electron framework part).
