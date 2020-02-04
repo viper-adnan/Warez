@@ -540,6 +540,7 @@ Downloads albums in bulk.
 
 ## eBook Downloader
 - [dlfeb](https://anonym.to/?http://dlfeb.com/) - A website which downloads eBooks from AvaxHome.
+- [GoBooDo](https://anonym.to/?https://github.com/vaibhavk97/GoBooDo) - A open source google books downloader with proxy support.
 - [LibGen](https://anonym.to/?http://libgen.is/) - The website has now an app which lets you search their database and download the books via their desktop app.
 
 **[`^        back to top        ^`](#)**
