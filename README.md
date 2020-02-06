@@ -285,6 +285,9 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Posteo](https://anonym.to/?https://posteo.de/) - Email green, secure, simple and ad-free!
 - [ProtonMail](https://anonym.to/?https://protonmail.com/) - Secure Email Based made in Switzerland.
 
+### Self-hostable email alias/forwarding service
+- [Simple Login](https://anonym.to/?https://github.com/simple-login/app) - Email alias/forwarding and identity provider service.
+
 **[`^        back to top        ^`](#)**
 
 
