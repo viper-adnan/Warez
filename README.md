@@ -3066,8 +3066,10 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [WePay](https://anonym.to/?https://go.wepay.com/)
 - [WorldPay](https://anonym.to/?https://www.worldpay.com/)
 
-### PayPal alternatives (crypto based)
+### PayPal alternatives (cryptocurrencies)
 - [Monero](https://anonym.to/?https://www.getmonero.org/)
+- [DeepOnion](https://anonym.to/?https://deeponion.org/)
+- [Pirate Chain](https://anonym.to/?https://pirate.black/)
 - [Zcash](https://anonym.to/?https://github.com/adityapk00/zecwallet-lite/releases/latest)
 
 ### PayPal alternatives (donation based)
