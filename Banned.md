@@ -1,6 +1,6 @@
 ## Insecure (unencrypted/mixed content) - soft-ban!
 - [Canna Power](http://uu.canna.to/) - Was once the biggest music piracy platform, but since years only their own users uploading mp3 music.
-- [Exystence](http://exystence.net) - Downloads via sharehoster, a lot of music info, text and links. 
+- [Exystence](http://exystence.net) - Downloads via sharehoster, a lot of music info, text and links.
 - [New Album Releases](http://newalbumreleases.net/) - New Album Releases.
 - [Slyck News](http://www.slyck.com) - Old web news around the scene.
 - [magent2torrent.me](http://magnet2torrent.me/) - Converts magnet links to torrent files.
@@ -22,7 +22,7 @@
 - [ZXCFiles](http://www.zxcfiles.net) - A similar service that allows you to paste magnet links or upload torrent files and get a DDL. First 20GB are free.
 - [Boxopus](http://www.boxopus.com/) - Fast and easy online torrent downloader. Download torrents to Dropbox or Google Drive.
 - [Bruzzy.com](http://www.bruzzy.com/#login) - (RU) - Similar to ZBIgZ.
-- [bytebx](http://bytebx.com/) - Free user will be given 2.5 GB of free storage space for a starter and the downloaded file will be kept available for 5 days before being removed from the server. 
+- [bytebx](http://bytebx.com/) - Free user will be given 2.5 GB of free storage space for a starter and the downloaded file will be kept available for 5 days before being removed from the server.
 - [Hive.IM](http://hive.im/) - Hive.im is a social network that enables file sharing and offers free unlimited cloud storage.
 - [JustSeedIt](http://justseed.it/) - JustSeedIt is a new seedbox service which is new to the scene and currently in its early beta stages therefore the site may be a little unstable and are prone to bugs and error.
 - [UsenetExpress](http://usenetexpress.com/) - UsenetExpress is a powerful new tier-1 Usenet provider which offers strong security, a 10GB uplink per server and up to 150 streams for an excellent price.
@@ -208,7 +208,7 @@
 * howtofixgame.com
 * igg-games.com
 * magnet2torrent.com
-* mkvcage.site 
+* mkvcage.site
 * nosteamgames.ro
 * oceanofgames.com
 * pcgamestorrents.com
@@ -258,7 +258,7 @@
 * cafehulu.com
 * cartoonson.tv
 * cartoonsons.com
-* CotoMovies 
+* CotoMovies
 * chia-anime.tv
 * cinesilip.su
 * cinesilipsu.net
@@ -404,8 +404,8 @@
 * mkvcage.me
 * mkvcage.net
 * mkvcage.online
-* mkvcage.org	
-* mkvcage.site	
+* mkvcage.org
+* mkvcage.site
 * mkvcage.top
 * mkvcage.tv
 * mkvcage.us
@@ -454,6 +454,9 @@
 
 ## Windows/Browser Themes
 * VestaThemes.com
+
+## Browser
+* [Watferfox](https://old.reddit.com/r/privacy/comments/f3gqoc/privacy_browser_waterfox_appears_to_be_sold_to/)
 
 ## Apps
 * [Comet TV](https://www.comettv.com/)
@@ -568,7 +571,7 @@
 - [Stingle Photos](https://play.google.com/store/apps/details?id=org.stingle.photos)
 
 ## Android Apps
-- Ponydroid 
+- Ponydroid
 
 ## Tools
 - [FlashFXP](http://www.whig.com/20171021/quincy-man-faces-federal-exploitation-of-a-minor-charges#//)
@@ -587,4 +590,4 @@
 - [Yes! Movies](https://anonym.to/?https://yesmovies.to) - Watch movies full HD online free. Watch latests episode series online. Over 9000 free streaming movies, documentaries & TV shows.
 
 ## Reddit
-- /r/modpiracy 
+- /r/modpiracy
