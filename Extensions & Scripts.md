@@ -21,7 +21,7 @@
 **[`^        back to top        ^`](#)**
 
 
-## Browser based Video Downloader 
+## Browser based Video Downloader
 - [Media Reaper - Privacy 1st, Audio & Video Download](https://anonym.to/?https://sasrip.cf/) + ([addon](https://anonym.to/?https://addons.mozilla.org/en-US/firefox/addon/media-reaper/))
 
 
@@ -33,18 +33,18 @@
 - [GitHub-userscripts](https://anonym.to/?https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub.
 - [Gitlab Mods](https://anonym.to/?https://greasyfork.org/scripts/377122) - Adds colored sections, extra functionality, and avatars to Gitlab.
 - [Google Drive Direct Links](https://anonym.to/?https://greasyfork.org/en/scripts/10052-google-drive-direct-links/feedback) - Direct link functionality for Google Drive.
-- [Google Image "View Image" button](https://anonym.to/?https://greasyfork.org/en/scripts/38953-google-image-view-image-button) - Add "View Image" button.
+- [Google Image "View Image" button](https://anonym.to/?https://greasyfork.org/en/scripts/392076-google-images-direct-link-fix) - Add "View Image" button.
 - [IMDb Scout](https://anonym.to/?https://greasyfork.org/en/scripts/3967-imdb-scout) - Add links from IMDb pages to torrent sites, easy downloading from IMDb
 - [MAL-Sync](https://anonym.to/?https://greasyfork.org/en/scripts/372847-mal-sync) - Integrates MyAnimeList into various sites, with auto episode tracking.
 - [openload](https://anonym.to/?https://greasyfork.org/scripts/17665) - Remove anti-adblock, ads, popups and timer waits, and show direct download link.
-- [RARBG - torrent and magnet links](https://anonym.to/?https://greasyfork.org/scripts/23493) - 
+- [RARBG - torrent and magnet links](https://anonym.to/?https://greasyfork.org/scripts/23493) -
 - [RARBG Advanced Filters](https://anonym.to/?https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters) - Provides additional filtes for RARBG.
 - [RYM google current album](https://anonym.to/?https://greasyfork.org/en/scripts/5966-rym-google-current-album) - Places buttons and dropdowns below the album title on a release page that will conduct searches in many warez, torrent, and music info sites.
 - [Sci-hub button](https://anonym.to/?https://greasyfork.org/en/scripts/370246-sci-hub-button) - Add sci-hub button after article link. Support Google scholar, bing academic and baidu xueshu. Jump CNKI English article to Chinese article.
 - [Scribd downloader](https://anonym.to/?https://greasyfork.org/scripts/14503) - Downloads from Scribd.
 - [ThePirateBay Cleaner](https://anonym.to/?https://greasyfork.org/en/scripts/1573-the-pirate-bay-cleaner) - Auto Sorting, Torrentifying, Theme Change, Search Change, SSL/HTTPS & more.
 - [Torrentz2 Magnet](https://anonym.to/?https://greasyfork.org/en/scripts/21547-torrentz2-magnet) - Add magnet link to torrentz2.
-- [XZ Pixiv Batch Downloader](https://anonym.to/?https://greasyfork.org/scripts/24252) - Batch download original works of artists such as artists, bookmarks, leaderboards, search pages, etc.; view popular works; create folders; convert moving images... 
+- [XZ Pixiv Batch Downloader](https://anonym.to/?https://greasyfork.org/scripts/24252) - Batch download original works of artists such as artists, bookmarks, leaderboards, search pages, etc.; view popular works; create folders; convert moving images...
 
 **[`^        back to top        ^`](#)**
 
@@ -62,7 +62,7 @@
 - [ClearURLs](https://anonym.to/?https://gitlab.com/KevinRoebert/ClearUrls) - Remove tracking fields from URLs.
 - [CSS Exfil Protection](https://anonym.to/?https://github.com/mlgualtieri/CSS-Exfil-Protection) - Fixes several holes regarding [CSS manipulation](https://www.mike-gualtieri.com/css-exfil-vulnerability-tester).
 - [Decentraleyes](https://anonym.to/?https://git.synz.io/Synzvato/decentraleyes) - Local emulation of Content Delivery Networks.
-- [Enterprise Policy Generator](https://anonym.to/?https://github.com/cadeyrn/enterprise-policy-generator) - A Firefox WebExtension for generating Enterprise Policies. 
+- [Enterprise Policy Generator](https://anonym.to/?https://github.com/cadeyrn/enterprise-policy-generator) - A Firefox WebExtension for generating Enterprise Policies.
 - [Header Editor](https://anonym.to/?https://addons.mozilla.org/firefox/addon/header-editor/) - Protects you from e.g. ETag tracking, an alternative is [ETag Stoppa](https://addons.mozilla.org/firefox/addon/etag-stoppa/)
 - [Replace zero-width characters with emojis](https://anonym.to/?https://github.com/chpmrc/zero-width-chrome-extension) - Google Chrome extension that can detect attempts to fingerprint text using the ["zero-width character"](https://www.bleepingcomputer.com/news/security/google-chrome-extension-detects-zero-width-character-fingerprinting-attacks/) technique.
 - [Site Bleacher](https://anonym.to/?https://github.com/wooque/site-bleacher) - Firefox/Chrome addon/extension which removes automatically cookies, local storages, IndexedDBs, service workers, cache storages, filesystems and webSQLs.
@@ -210,13 +210,13 @@ All other extensions **do not** adding any benefit over the integrated Browser "
 
 ## MagisK Modules
 
-**Important**: There are lots of misinformation that modules like XPrivacyLua, Device ID Maske, XPosed & Co. "hardening" your OS or parts of your apps in order to make them more "secure" or "private". This is wrong, as explained over [here](https://anonym.to/?https://old.reddit.com/r/GrapheneOS/comments/ch5kv8/is_magisk_and_edxposedxprivacylua_working/). Such FUD and scam modules/apps do not offer any privacy nor security layer (keep also in mind that "underground" and dangerous modules are not listed officially on the official repositories). Please keep in mind that if you like a secure and private OS then stay away from all rooting methods, scripts or engines and use the naked (hardened) OS with only the apps which are regularily getting audited e.g. Threema, Riot etc. The modules which are listed here are "helpful" in a sense that they "add" xyz (missing) function to the OS itself and not meant to secure/hardening something. 
+**Important**: There are lots of misinformation that modules like XPrivacyLua, Device ID Maske, XPosed & Co. "hardening" your OS or parts of your apps in order to make them more "secure" or "private". This is wrong, as explained over [here](https://anonym.to/?https://old.reddit.com/r/GrapheneOS/comments/ch5kv8/is_magisk_and_edxposedxprivacylua_working/). Such FUD and scam modules/apps do not offer any privacy nor security layer (keep also in mind that "underground" and dangerous modules are not listed officially on the official repositories). Please keep in mind that if you like a secure and private OS then stay away from all rooting methods, scripts or engines and use the naked (hardened) OS with only the apps which are regularily getting audited e.g. Threema, Riot etc. The modules which are listed here are "helpful" in a sense that they "add" xyz (missing) function to the OS itself and not meant to secure/hardening something.
 
-That been said, there are no apps listed which altering your HOSTS file or apps which claim to somehow "optimize" your battery life. For ad-blocking use AdGuard/Blokada on Android (it's better than messing around with your HOSTS file) and (in general) use as less as possible on apps/modules resources compared to other solutions. 
+That been said, there are no apps listed which altering your HOSTS file or apps which claim to somehow "optimize" your battery life. For ad-blocking use AdGuard/Blokada on Android (it's better than messing around with your HOSTS file) and (in general) use as less as possible on apps/modules resources compared to other solutions.
 
 
-There is a universal rule for Android: 
-* More apps -> more background processes/traffic (startups etc.) + cpu cycles consumption = more battery drain, it's really that simple!. 
+There is a universal rule for Android:
+* More apps -> more background processes/traffic (startups etc.) + cpu cycles consumption = more battery drain, it's really that simple!.
 
 - [ADB & Fastboot for Android NDK](https://anonym.to/?https://forum.xda-developers.com/showthread.php?t=2239421) - Static ARM adb and fastboot binaries for Android built with the NDK.
 - [Adreno GPU Developer Preview Drivers](https://anonym.to/?https://forum.xda-developers.com/google-nexus-5/themes-apps/marshmallow-qualcomm-adreno-gpu-drivers-t3228002/post67117557#post67117557) - Replace ROM Adreno GPU drivers from Qualcomm.
@@ -240,9 +240,9 @@ There is a universal rule for Android:
 - [Overview of all official and maintained modules](https://anonym.to/?https://forum.xda-developers.com/apps/magisk/collection-magisk-modules-v2-t3575758)
 - [Secure I/F](https://anonym.to/?https://github.com/Magisk-Modules-Repo/secure-if) - Designed to disable data delivery through USB. It can protect your data when you are charging in public area. Some ROMs do this automatically (or via an option) but most do not!
 - [Systemless TZData](https://anonym.to/?https://github.com/Magisk-Modules-Repo/Systemless_TZData) - Update your ROM's TZData systemlessly.
-- [Viper4Android FX Legacy Materialized](https://anonym.to/?https://forum.xda-developers.com/apps/magisk/module-viper4android-fx-2-5-0-5-t3577058) - It's not placebo! 
+- [Viper4Android FX Legacy Materialized](https://anonym.to/?https://forum.xda-developers.com/apps/magisk/module-viper4android-fx-2-5-0-5-t3577058) - It's not placebo!
 - [Wireless Firmware for Nethunter](https://anonym.to/?https://github.com/Magisk-Modules-Repo/wirelessFirmware) - Adds the required firmware for external wireless adapters to be used with Nethunter.
-- [YouTube Vanced](https://anonym.to/?https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) - A well known modded version of YouTube with many features such as adblocking and background playback. Or use [NewPipe app](https://anonym.to/?https://newpipe.schabi.org/). 
+- [YouTube Vanced](https://anonym.to/?https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) - A well known modded version of YouTube with many features such as adblocking and background playback. Or use [NewPipe app](https://anonym.to/?https://newpipe.schabi.org/).
 - ~~[FDE](https://anonym.to/?https://github.com/Magisk-Modules-Repo/FDE) - Ultimate Android Optimizer.~~ (see warning!)
 
 **[`^        back to top        ^`](#)**
