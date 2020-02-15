@@ -591,3 +591,57 @@
 
 ## Reddit
 - /r/modpiracy
+- /r/girlsfinishingthejob
+
+## Hentai Telegram Channels
+- @selfiru
+- @Nudes
+- @NovinhasPeladas
+- @amorzinhobr
+- @Moephilia Largest hentai channel
+- @Real- pornz 
+- @imaginarygf (images pack)
+- @FaptimexD (direct fpa heaven)
+- @pornrippers (porn ddl channel)
+- @nhentai (hentai doujinshi channel)
+- @WorkForSafeNo (Hentai,pics,gifs,episodes channel)
+- @CCHENTAII (hanime alternative for tg)
+- @hentaination (hentai pics)
+- @HentaiGif18 (gifs)
+- @brazzers_prem (brazzers)
+- @cumfetish (fetish)
+- @JapanSex (jav and cute asian lads)
+- @uncensored_channel (hentai pics)
+- @FutomomoChannel (thigh heaven)
+- @pornodrive (pornhub in tg)
+- @nudesxxx1 (nudes)
+- @pornhyype  (pornhub in tg.2)
+- @sexygirls29 (nudes+shots)
+- @PrimePorn (full porn)
+- @humor18 (adult meme)
+- @sexygif (gifs)
+- @lesbian (females nudes)
+- @CelebrityNude (nudes but mostly pics)
+- @telepornogram (direct videos from many premium sites)
+- @pretty6k (nudes and photos)
+- @upsssx (nudes and photos)
+- @OnlyGuys (gay porn)
+- @femdomru (bdsm)
+- @nude_photos
+- @sexyasian (asian bitches)
+- @coitusworld 
+- @adultlinks (channels hub)
+- @JAVtoTaste (Jav heaven)
+- @TruePerv (All weird fetishes)
+- @brazzers_prem (another Brazzers)
+- @celebnsfw (celebs leaks)
+- @porn24
+- @inked_wow
+- @love_n_lust
+- @b_grad
+- @brazzersworldwide
+- @celebsgalery
+- @eeerous
+- @bdsmitaly_official
+- @india_xxx
+- @savitabhabi
