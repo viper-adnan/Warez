@@ -643,17 +643,6 @@ Downloads albums in bulk.
 **[`^        back to top        ^`](#)**
 
 
-## Telegram Tools & Scripts
-- [Be careful using bots on telegram](https://anonym.to/?http://www.wired.com/story/telegram-bots-tls-encryption/) - Wired article about Telegram Bots and encryption.
-- [Manybot](https://anonym.to/?http://manybot.io/) - Create your own telegram bot without coding skills.
-- [Overview of Telegram Bots](https://anonym.to/?http://www.qwasap.com/en/bots.php) - There are many Telegram bots, but here are only the best.
-- [TelegramBotsList](https://anonym.to/?http://danyspin97.github.io/TelegramBotsList/) - A list of Telegram bots with open source code in alphabetical order.
-- [Telegram XP Bot](https://anonym.to/?http://github.com/terorie/xpbot-telegram) - Block spam + XP leaderboard for Telegram.
-- [Telegram CrackWatch tracker Bot](https://anonym.to/?http://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - Tracks CrackWatch website.
-
-**[`^        back to top        ^`](#)**
-
-
 ### FTP Deamons
 - [glFTPd](https://anonym.to/?http://glftpd.io/) - A great FTP server for anyone on a *NIX platform.
 - [DrFTPD](https://anonym.to/?http://github.com/drftpd-ng/drftpd3) - Distributed Daemon FTP Server v3.

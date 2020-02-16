@@ -435,3 +435,7 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 
 ## File Hoster
 - Firedrop.com
+
+## Telegram
+- @Music_High_Resolution
+- @kumarsanu0789
