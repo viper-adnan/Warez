@@ -92,7 +92,7 @@
 - [Nefarious](https://anonym.to/?http://lardbit.github.io/nefarious/) - Nefarious is a web application that helps you download movies and TV shows.
 - [Piracy and automation, an overview](https://anonym.to/?http://www.reddit.com/r/Piracy/comments/9ft4xx/piracy_and_automation_an_overview/) - Guide by /u/JukeCity101 on how to improve your experience pirating with automation tools.
 - [Pulsarr](https://anonym.to/?http://github.com/roboticsound/Pulsarr) - Browser extension (currently Chrome & Firefox) - for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
-- [Ripme](https://anonym.to/?https://github.com/RipMeApp/ripme) - 
+- [Ripme](https://anonym.to/?https://github.com/RipMeApp/ripme) -
 Downloads albums in bulk.
 - [SickRage](https://anonym.to/?http://www.sickrage.ca/) - Automatic Video Library Manager for TV Shows.
 - [Snahp tool](https://anonym.to/?http://github.com/Rawnly/snahp-tool) - Client for download movies from snahp lists.
@@ -151,6 +151,7 @@ Downloads albums in bulk.
 
 
 ### Music Automation
+- [Athame](https://anonym.to/?https://github.com/fuzzybabybunny/Athame) - An extensible music download tool written in C#.
 - [Headphones](https://anonym.to/?http://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd.
 - [Lidarr](https://anonym.to/?http://github.com/lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
 
@@ -196,13 +197,13 @@ Downloads albums in bulk.
 - [NitroShare](https://anonym.to/?http://nitroshare.net/) - Cross-Platform network file transfer application.
 - [OnionShare](https://anonym.to/?http://onionshare.org/) - Securely and anonymously share a file of any size.
 - [Magnetissimo](https://anonym.to/?https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
-- [Muwire](https://anonym.to/?https://muwire.com/) - I2P based file-sharing program. 
+- [Muwire](https://anonym.to/?https://muwire.com/) - I2P based file-sharing program.
 - [Plowshare](https://anonym.to/?http://github.com/mcrapet/plowshare) - Command-line tool and engine for managing sharing websites.
 - [PushBullet for desktop](https://anonym.to/?http://sidneys.github.io/pb-for-desktop/) - The missing Desktop application for Pushbullet.
 - [PushBullet](https://anonym.to/?http://www.pushbullet.com/) - Pushbullet connects your devices, making them feel like one.
 - [Quazaa](https://anonym.to/?http://sourceforge.net/projects/quazaa/) - A cross platform multi-network peer-to-peer (P2P) file-sharing client.
 - [Seafile](https://anonym.to/?http://www.seafile.com/en/home/) - Seafile is an enterprise file hosting platform with high reliability and performance. Put files on your own server. Sync and share files across different devices, or access all the files as a virtual disk.
-- [Snark](https://privacytutorials.wordpress.com/2015/01/05/anonymous-torrenting-with-i2p-snark-installing/) - 
+- [Snark](https://privacytutorials.wordpress.com/2015/01/05/anonymous-torrenting-with-i2p-snark-installing/) -
 - [Syncthing](https://anonym.to/?http://syncthing.net/) - Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
 - [Teamviewer](https://anonym.to/?http://www.teamviewer.com/ ) - PC remote control/remote access software, free for personal use.
 - [Tixati](https://anonym.to/?http://www.tixati.com/) - Freeware, advanced featured torrent client, a web user interface is included.
@@ -268,7 +269,7 @@ Downloads albums in bulk.
 ## Password Managers (Mobile)
 - [Keepass2Android](https://anonym.to/?https://github.com/PhilippC/keepass2android) - Android KeePass version with a nice GUI!
 - [MiniKeePass](https://anonym.to/?https://minikeepass.github.io/) - iOS version of KeePass (_unofficial_).
-- [Tusk](https://anonym.to/?https://subdavis.com/Tusk/) - For Chrome and Firefox. 
+- [Tusk](https://anonym.to/?https://subdavis.com/Tusk/) - For Chrome and Firefox.
 
 **[`^        back to top        ^`](#)**
 
@@ -359,7 +360,7 @@ Downloads albums in bulk.
 
 ## YouTube Downloader (tools AND websites)
 - [QDownloader.net](https://anonym.to/?http://qdownloader.net/youtube-video-downloader) - Download videos from YouTube in MP4, FLV, 3GP, and other formats.
-- [FLVTO](https://anonym.to/?https://www.flvto.biz/) - Another YouTube ripper website. 
+- [FLVTO](https://anonym.to/?https://www.flvto.biz/) - Another YouTube ripper website.
 - [Sconverter.com](https://anonym.to/?http://sconverter.com/) - Online Youtube Video Downloader.
 - [YouTubeNow.com](https://anonym.to/?http://www.youtubnow.com/) - Claims to be the best online YouTube downloader 2019.
 - [onlinevideoconverter](https://anonym.to/?http://www.onlinevideoconverter.com/youtube-converter) - Convert YouTube video links to MP4, MP3, AVI with our YouTube Converter & Downloader.
@@ -368,7 +369,7 @@ Downloads albums in bulk.
 - [youtube-dl](https://anonym.to/?http://ytdl-org.github.io/youtube-dl/index.html) - youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
 - [TheFrenchGhostys YouTube-DL Archivist Scripts](https://gitlab.com/TheFrenchGhosty/TheFrenchGhostys-YouTube-DL-Archivist-Scripts) - The ultimate collection of scripts for YouTube-DL.
 - [YoutubeDownloader](https://anonym.to/?https://github.com/ShimmyMySherbet/YoutubeDownloader) -  A Music downloader with Spotify integration for automatic metadata application.
-        
+
 
 ### YouTube Channel Blocker
 - [YouTube Cleaner](https://anonym.to/?https://addons.mozilla.org/firefox/addon/youtube-cleaner/) - (Firefox) - YouTube cleaner offers the ability to block specific user defined channels.
@@ -405,7 +406,7 @@ Downloads albums in bulk.
 - [Usenetic](https://anonym.to/?http://www.usenetic.com/) - The full-featured Usenet client for Mac OSX.
 
 
-## usenet Tools 
+## usenet Tools
 - [ngPost](https://anonym.to/?https://github.com/mbruel/ngPost) - Command Line (or minimalist GUI) usenet poster for binaries developped in C++/QT.
 
 **[`^        back to top        ^`](#)**
@@ -492,8 +493,8 @@ Downloads albums in bulk.
 
 
 ### Skillshare Downloader
-- [skillshare-dl](https://anonym.to/?https://github.com/mrwnwttk/skillshare-dl) - Download courses from Skillshare.com, works on all platforms! 
-  
+- [skillshare-dl](https://anonym.to/?https://github.com/mrwnwttk/skillshare-dl) - Download courses from Skillshare.com, works on all platforms!
+
 **[`^        back to top        ^`](#)**
 
 
@@ -536,7 +537,7 @@ Downloads albums in bulk.
 
 ## ePub Editor
 - [Sigil](https://github.com/Sigil-Ebook) - [Sigil](https://sigil-ebook.com/) is a multi-platform EPUB ebook editor
-        
+
 
 ## eBook Downloader
 - [dlfeb](https://anonym.to/?http://dlfeb.com/) - A website which downloads eBooks from AvaxHome.
@@ -729,7 +730,7 @@ Downloads albums in bulk.
 
 ## Windows product key finder and validation checker
 * [ShowKeyPlus](https://anonym.to/?https://github.com/Superfly-Inc/ShowKeyPlus) - Windows product key finder and validation checker.
-        
+
 **[`^        back to top        ^`](#)**
 
 
@@ -774,7 +775,7 @@ Downloads albums in bulk.
 ## Wifi Penetration Testing Tools
 - [Fern Wifi Cracker](https://anonym.to/?http://github.com/savio-code/fern-wifi-cracker) - Crack and recover WEP/WPA/WPS keys.
 - [Maltego](https://anonym.to/?http://paterva.com/web6/products/maltego.php) - (commercial) -  A program that can be used to determine the relationships and real world links between people, groups, companies, web sitesc& more.
-- [mdk3](https://anonym.to/?http://github.com/charlesxsh/mdk3-master) - Inject data into wireless networks. 
+- [mdk3](https://anonym.to/?http://github.com/charlesxsh/mdk3-master) - Inject data into wireless networks.
 - [Pupy](https://anonym.to/?http://github.com/n1nj4sec/pupy) - Remote administration and post-exploitation tool.
 - [Router Scan](https://anonym.to/?http://stascorp.com/load/1-1-0-56) - Receives information about the WAN connection among other information such as SSID, passphrase etc.
 - [sqlmap](https://anonym.to/?http://sqlmap.org/) - Automates the process of detecting and exploiting SQL injection flaws and taking over of database servers
@@ -789,7 +790,7 @@ Downloads albums in bulk.
 **[`^        back to top        ^`](#)**
 
 
-## Open Directory 
+## Open Directory
 - [Andesite](https://anonym.to/?https://github.com/nektro/andesite) - Easily manage access to your open directory through OAuth2.
 - [OpenDirectoryDownloader](https://anonym.to/?https://github.com/KoalaBear84/OpenDirectoryDownloader) Indexes open directories.
 
@@ -817,23 +818,23 @@ Downloads albums in bulk.
 ### Atari
 - [Stella](https://anonym.to/?http://stella-emu.github.io/) - Atari 2600 game console emulator.
 
-### xBox 360 
-- [Xenia](https://anonym.to/?http://github.com/xenia-project/xenia) - Xbox 360 emulator. 
+### xBox 360
+- [Xenia](https://anonym.to/?http://github.com/xenia-project/xenia) - Xbox 360 emulator.
 
 ### SNES
 - [Mesen](https://anonym.to/?http://github.com/SourMesen/Mesen-S) - Mesen-S is a cross-platform (Windows & Linux) SNES emulator built in C++ and C#. Mesen claims to be the most accurate SNES emulator.
 - [Snes9x](https://anonym.to/?http://github.com/snes9xgit/snes9x) - SNES emulator written in C++ with official ports for DOS, Linux, Microsoft Windows, AmigaOS 4, macOS, MorphOS, Xbox, PSP, PS3, Nintendo GameCube, Nintendo Wii, iOS, and Android.[
 
-### NES (Super NES/Famicom) 
+### NES (Super NES/Famicom)
 - [fceux](https://anonym.to/?http://github.com/TASVideos/fceux) - FCEUX, a NES Emulator
 - [nes](https://anonym.to/?http://github.com/fogleman/nes) - NES emulator written in Go.
-- [JsNES](https://anonym.to/?http://github.com/bfirsh/jsnes) - A JavaScript NES emulator. 
+- [JsNES](https://anonym.to/?http://github.com/bfirsh/jsnes) - A JavaScript NES emulator.
 
 ### Nintendo 64
 - [1964](https://anonym.to/?http://github.com/schibo/1964js) - One of the oldest and most popular N64 emulators written in C++.
 - [Mupen64Plus (Mupen64-64bit/Mupen64-amd64)](https://anonym.to/?http://mupen64plus.org/) - Written in C, C++, allows users to play Nintendo 64 games on a computer by reading ROM images.
 - [parallel-n64](https://anonym.to/?https://github.com/libretro/parallel-n64) - Optimized/rewritten Nintendo 64 emulator made specifically for Libretro. Originally based on Mupen64 Plus.
-       
+
 ### GameCube/Wii
 - [Dolphin](https://anonym.to/?http://github.com/dolphin-emu/dolphin) - Supports Windows, Linux, macOS and Android.
 
@@ -841,13 +842,13 @@ Downloads albums in bulk.
 - [Cemu](https://anonym.to/?http://cemu.info/) - Closed source Wii U video game console emulator.
 
 ### Game Boy
-- [Wzonka-Lad](https://anonym.to/?http://www.villehelin.com/wzonka-lad.html) - Well known emulator for amiga series of home computers. 
+- [Wzonka-Lad](https://anonym.to/?http://www.villehelin.com/wzonka-lad.html) - Well known emulator for amiga series of home computers.
 
 ### Game Boy Advance
 - [VBA](https://anonym.to/?http://sourceforge.net/projects/vba/) - VisualBoyAdvance supports Game Boy, Game Boy Color, and Game Boy Advance handheld game consoles.
 
 ### Nintendo 3DS
-- [Citra](https://anonym.to/?http://citra-emu.org/) - C++ developed for Nintendo 3DS and is the first of his kind. Citra does not work very well with older PCs and needs a x64 CPU. 
+- [Citra](https://anonym.to/?http://citra-emu.org/) - C++ developed for Nintendo 3DS and is the first of his kind. Citra does not work very well with older PCs and needs a x64 CPU.
 
 ### Nintendo Switch
 - [Yuzu](https://anonym.to/?http://yuzu-emu.org/) - The first and (only) C++ emulator for Nintendo Switch. From the developer(s) of Citra.
@@ -914,7 +915,7 @@ Downloads albums in bulk.
 - [detectem](https://anonym.to/?https://github.com/spectresearch/detectem) - Detect software and its version on websites.
 - [dhcpf](https://anonym.to/?https://github.com/elceef/dhcpf) - Passive DHCP fingerprinting implementation.
 - [dnsmap](https://anonym.to/?http://dnsmap.googlecode.com/) - Passive DNS network mapper.
-- [Ettercap](https://anonym.to/?hhttps://www.ettercap-project.org/) - Is a comprehensive suite for man in the middle attacks, sniffing of live connections, content filtering on the fly and many other interesting tricks... 
+- [Ettercap](https://anonym.to/?hhttps://www.ettercap-project.org/) - Is a comprehensive suite for man in the middle attacks, sniffing of live connections, content filtering on the fly and many other interesting tricks...
 - [fingerprinter](https://anonym.to/?https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library etc Versions Fingerprinter.
 - [fl0p](https://anonym.to/?http://lcamtuf.coredump.cx/) - A passive L7 flow fingerprinter that examines TCP/UDP/ICMP packet sequences, can peek into cryptographic tunnels, can tell human beings and robots apart, and performs a couple of other infosec-related tricks.
 - [fpdns](https://anonym.to/?https://github.com/kirei/fpdns) - Program that remotely determines DNS server versions.
@@ -933,7 +934,7 @@ Downloads albums in bulk.
 - [operative](https://anonym.to/?https://github.com/graniet/operative-framework) - Framework based on fingerprint action, this tool is used for get information on a website or a enterprise target with multiple modules.
 - [p0f](https://anonym.to/?https://github.com/p0f/p0f) - Passive TCP/IP stack fingerprinting tool.
 - [PacketFence](https://anonym.to/?https://packetfence.org) - Free and Open Source network access control (NAC) solution, it provides abnormal network activities detection and many more.
-- [PRADS](https://anonym.to/?https://github.com/gamelinux/prads) - Passive Real-time Asset Detection System. 
+- [PRADS](https://anonym.to/?https://github.com/gamelinux/prads) - Passive Real-time Asset Detection System.
 - [propecia](https://anonym.to/?http://www.redlevel.org/) - A fast class scanner that scans for a specified open port with banner grabbing.
 - [Satori](https://anonym.to/?https://github.com/xnih/satori) - Basically listens on the wire for all traffic and does OS Identification based on what it sees.
 - [scannerl](https://anonym.to/?https://github.com/kudelskisecurity/scannerl) - The modular distributed fingerprinting engine.
@@ -955,8 +956,8 @@ Downloads albums in bulk.
 
 ## Router based software Firewalls
 - [GufW](https://anonym.to/?http://gufw.org/)
-- [FlatPak](https://anonym.to/?https://www.flatpak.org/) 
-- [IPFire](https://anonym.to/?https://www.ipfire.org) 
+- [FlatPak](https://anonym.to/?https://www.flatpak.org/)
+- [IPFire](https://anonym.to/?https://www.ipfire.org)
 - [Endian Firewall](https://anonym.to/?https://www.endian.com)
 - [pfSense](https://anonym.to/?https://www.pfsense.org)
 - [LibreCMC](https://anonym.to/?https://librecmc.org/)
@@ -966,7 +967,7 @@ Downloads albums in bulk.
 **[`^        back to top        ^`](#)**
 
 
-## Spotify 
+## Spotify
 - [MuteSpotifyAds](https://anonym.to/?https://github.com/simonmeusel/MuteSpotifyAds) - A efficent MacOS application automatically silencing ads on the spotify desktop app.
 
 

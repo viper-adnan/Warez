@@ -1743,7 +1743,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [KaranPC](https://anonym.to/?https://karanpc.com) - Yet another community around Windows software.
 - [Nulled](https://anonym.to/?https://www.nulled.to/) - Nulled is a cracking community where you can find links to cracked software.
 - [PirateCity](https://anonym.to/?https://www.piratecity.cc) - Softwares, Performance Optimizing Tools, Antivirus Softwares , Image Editing Tools, Video Editing Softwares, Data Recovery Softwares & more.
-- [Sanet.st](https://anonym.to/?https://sanet.st/windows/) - Also known as "SoftArchive", is a portal to provide Windows software cracks.
+- [Sanet.st](https://anonym.to/?https://sanet) - Also known as "SoftArchive", is a portal to provide Windows software cracks.
 - [Softlay](https://anonym.to/?https://softlay.net) - Windows software mirrors.
 - [Team-OS HKRG](https://anonym.to/?https://www.teamos-hkrg.com/index.php) - Windows software and various activation tools.
 
@@ -2076,6 +2076,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [rclone-gdrive](https://anonym.to/?https://bytesized-hosting.com/pages/rclone-gdrive) - Wiki page on setting up Google Drive with rclone cache and crypt
 - [rclone](https://anonym.to/?https://rclone.org/) - Rsync for cloud storage.
 - [Zippyshare.sh](https://anonym.to/?https://github.com/myspaghetti/zippyshare) - Allows you to bash script download files from ZippyShare.
+- [folderclone](https://anonym.to/?https://github.com/Spazzlo/folderclone) - A project that allows you copy large folders to Shared Drives.
 
 **[`^        back to top        ^`](#)**
 

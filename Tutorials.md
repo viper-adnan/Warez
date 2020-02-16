@@ -1,10 +1,10 @@
-## Adobe 
-- [Guide: Adobe Acrobat Pro Installation and Patching (Working 18-06-2019)](https://anonym.to/?https://raddle.me/f/Piracy/81445/guide-adobe-acrobat-pro-installation-and-patching-working-18) 
+## Adobe
+- [Guide: Adobe Acrobat Pro Installation and Patching (Working 18-06-2019)](https://anonym.to/?https://raddle.me/f/Piracy/81445/guide-adobe-acrobat-pro-installation-and-patching-working-18)
 
 **[`^        back to top        ^`](#)**
 
 
-## Blizzard 
+## Blizzard
 - [For anyone looking for the actual classic Warcraft 3 installers (not Battle.net launcher nor Reforged)](https://www.removeddit.com/r/Piracy/comments/ewdlnd/for_anyone_looking_for_the_actual_classic/)
 
 
@@ -62,13 +62,14 @@
 - [MIC028_Piracy Guide.indd - Microsoft (.PDF)](https://anonym.to/?http://download.microsoft.com/documents/australia/PIRACY/PiracyGuide.pdf) - Microsoft's anti software piracy guide.
 - [What are the risks of using pirated Windows 10?](https://anonym.to/?https://windowsreport.com/pirated-windows-10-risks/)
 - [Unofficial Reddit Guides to software piracy](https://anonym.to/?https://reddit.guide/r/Piracy/) - A list with subreddits connected to software piracy, it also lists which community was banned from Reddit.
+- [How to download snahp zippy files without using your computer space and bandwidth!!!](https://anonym.to/?https://telegra.ph/How-to-download-snahp-zippy-files-without-using-your-computer-space-and-bandwidth-08-25)
 
 **[`^        back to top        ^`](#)**
 
 
 ## ISP
 - [How to start your own ISP](https://anonym.to/?https://startyourownisp.com/) - Start your own ISP, lists tools which you need and lots of background information.
-  
+
 **[`^        back to top        ^`](#)**
 
 ## Self-hosting
@@ -151,7 +152,7 @@
 
 ## Windows 10 Hardening
 - [Windows 10 Privacy Guide](https://anonym.to/?https://github.com/adolfintel/Windows10-Privacy) - An in-depth guide on purging Windows 10 of Microsoft's attempts to track you.
-- [Windows 10 hardening by CHEF-KOCH](https://anonym.to/?https://github.com/CHEF-KOCH/Windows-10-hardening) - Windows 10 hardening without gimmicks. 
+- [Windows 10 hardening by CHEF-KOCH](https://anonym.to/?https://github.com/CHEF-KOCH/Windows-10-hardening) - Windows 10 hardening without gimmicks.
 
 **[`^        back to top        ^`](#)**
 
@@ -186,7 +187,7 @@
 
 
 ## Baidu
-- [Guide to baidu account creation/downloading from pan.baidu](https://anonym.to/?https://old.reddit.com/r/Piracy/comments/by70qt/guide_to_baidu_account_creationdownloading_from/) 
+- [Guide to baidu account creation/downloading from pan.baidu](https://anonym.to/?https://old.reddit.com/r/Piracy/comments/by70qt/guide_to_baidu_account_creationdownloading_from/)
 
 **[`^        back to top        ^`](#)**
 
@@ -237,11 +238,11 @@
 **[`^        back to top        ^`](#)**
 
 
-## Spotify 
+## Spotify
 * [Dockerized Spotify downloader with metadataOC](https://anonym.to/?hhttps://www.removeddit.com//r/Piracy/comments/ew5cus/dockerized_spotify_downloader_with_metadata/)
 
 
-## Wii 
+## Wii
 * [Wii Hacking Guide](https://anonym.to/?https://wii.guide/) - Provides hacking guidance for the Wii console.
 
 **[`^        back to top        ^`](#)**
