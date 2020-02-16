@@ -11,11 +11,11 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - [MKVCage](http://mkvcage.com/) ([source](https://torrentfreak.com/popular-torrent-site-mkvcage-faces-lawsuit-and-goes-offline/))
 - [Mangamura.org](https://twitter.com/ABSCBNNews/status/1148449826155057152?ref_src=twsrc%5Etfw)
 - Freetutorials.us
-- [TUTSGALAXY](https://anonym.to/?https://tutsgalaxy.com/) 
+- [TUTSGALAXY](https://anonym.to/?https://tutsgalaxy.com/)
 
 ## Android Apps
 - Terrarium TV
-- SMLoader (also Windows/Linux) 
+- SMLoader (also Windows/Linux)
 
 ## predb
 - dats.romshepherd.com
@@ -107,7 +107,7 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - ww1.load-it.cc
 - ww1.musicboerse.org
 - xd-movie.nl
-- novaDedi 
+- novaDedi
 - btracs.com
 
 ## NFO
@@ -156,6 +156,7 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - oload.download
 - openload.pw
 - oloadcdn.net
+- Warez Heaven
 
 
 ## TV / Torrent

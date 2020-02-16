@@ -190,7 +190,6 @@
 - torrentsafe.com
 
 ## Imposter, crypto mining etc.
-* fitgirlrepacks.co
 * CMRG
 * cpygames
 * cracked-games.org
@@ -198,6 +197,7 @@
 * CRAVERS
 * downloadscracks.info
 * downloadsnew.ru
+* fitgirlrepacks.co
 * fixpatchforgame.ru
 * FRY!TV + Cinemax Mov - Free HD Movies Online (same dev)
 * game01-com.ru
@@ -225,6 +225,7 @@
 * sunlord.website
 * sunlordis.pw
 * sunlotus.ru
+* torrent.x.gp
 * tvmuse.com
 * watchdl.com
 
@@ -485,79 +486,79 @@
 
 ## VPN provider
 - [NordVPN](https://www.theverge.com/2019/10/21/20925065/nordvpn-server-breach-vpn-traffic-exposed-encryption), see [here](https://torrentfreak.com/nordvpn-had-private-keys-stolen-after-server-breach-191022/) for more information.
+- [Private Internet Access](https://www.techradar.com/news/cyberghost-owner-buys-pia-for-dollar955m-to-create-vpn-giant), also see [here](https://www.proactiveinvestors.co.uk/companies/news/907357/kape-turns-privacy-crusader-with-purchase-of-vpn-provider-pia-907357.html)
 - [TorGuard](https://torguard.net/blog/why-torguards-network-is-secure-after-an-isolated-2017-server-breach/)
 - [VikingVPN](https://web.archive.org/web/20180504001844/https://8ch.net/b/res/7948898.html)
-- TurboVPN
-- [Private Internet Access](https://www.techradar.com/news/cyberghost-owner-buys-pia-for-dollar955m-to-create-vpn-giant), also see [here](https://www.proactiveinvestors.co.uk/companies/news/907357/kape-turns-privacy-crusader-with-purchase-of-vpn-provider-pia-907357.html)
-- TouchVPN
-- Opera VPN
-- Hoxx VPN
-- Betternet
-- Hola VPN
-- SecureVPN
 - Ace VPN
-- VPN Unlimited
-- Ra4w VPN
-- Speedify
-- AzireVPN
-- Ivacy
-- BTGuard VPN
-- Zenmate
-- DotVPN
-- VPN.ht
-- F-Secure Freedome
-- Kaspersky VPN
-- Anonymizer VPN
-- Norton Wifi Privacy
-- SurfEasy
-- Encrypt Me
-- TigerVPN
-- AVG VPN
-- PureVPN
-- HideMyAss!
-- Hide My IP
-- Hide Me VPN
-- Browsec VPN
-- BitDefender VPN
-- Hide All IP
-- ProxPN
-- ZoogVPN
-- VPN ac
-- OneVPN
-- Cactus VPN
-- SaferVPN
-- SpyOFF
-- VPNTunnel
-- SwitchVPN
-- VyprVPN
-- Buffered
-- BolehVPN
-- Avira Phantom
-- PrivateTunnel
-- HotSpot Shield
-- LiquidVPN
-- TunnelBear
-- PrivateVPN
-- StrongVPN
-- SlickVPN
-- Astrill VPN
-- FrootVPN
-- VPNArea
-- Goose VPN
-- Celo VPN
-- PersonalVPN
 - AirVPN
+- Anonymizer VPN
 - AnonymousVPN.org
+- Astrill VPN
 - Avast Secureline
-- IVPN
-- TorGuard
-- FastestVPN
+- AVG VPN
+- Avira Phantom
+- AzireVPN
+- Betternet
+- BitDefender VPN
 - BlackVPN
-- VPNSecure Me
-- WindScribe
-- ibVPN (almost no servers)
-- Trust Zone
+- BolehVPN
+- Browsec VPN
+- BTGuard VPN
+- Buffered
+- Cactus VPN
+- Celo VPN
 - CyberGhost
+- DotVPN
+- Encrypt Me
+- F-Secure Freedome
+- FastestVPN
+- FrootVPN
+- Goose VPN
+- Hide All IP
+- Hide Me VPN
+- Hide My IP
+- HideMyAss!
+- Hola VPN
+- HotSpot Shield
+- Hoxx VPN
+- ibVPN (almost no servers)
+- Ivacy
+- IVPN
+- Kaspersky VPN
+- LiquidVPN
+- Norton Wifi Privacy
+- OneVPN
+- Opera VPN
+- PersonalVPN
+- PrivateTunnel
+- PrivateVPN
+- ProxPN
+- PureVPN
+- Ra4w VPN
+- SaferVPN
+- SecureVPN
+- SlickVPN
+- Speedify
+- SpyOFF
+- StrongVPN
+- SurfEasy
+- SwitchVPN
+- TigerVPN
+- TorGuard
+- TouchVPN
+- Trust Zone
+- TunnelBear
+- TurboVPN
+- VPN ac
+- VPN Unlimited
+- VPN.ht
+- VPNArea
+- VPNSecure Me
+- VPNTunnel
+- VyprVPN
+- WindScribe
+- Zenmate
+- ZoogVPN
 
 ## Social media alternatives
 - [Gab Social](https://anonym.to/?https://gab.com/) - Gab is a fork of Mastodon, open-source self-hosted, federated social media networking service.
@@ -565,6 +566,7 @@
 
 ## eMail provider
 - [Tutanota](http://anonym.es/?https://tutanota.com) - A secure and open source eMail provider, Tutanota is forced (by law) to hand over all data in plain text, read the [german article](https://www.sueddeutsche.de/digital/tutanota-verschluesselung-e-mail-ueberwachung-polizei-1.4676988)
+- [Apple eMail](https://www.forbes.com/sites/thomasbrewster/2020/02/11/how-apple-intercepts-and-reads-emails-when-it-finds-child-abuse/)
 
 
 ## Google Photos Alternative
@@ -594,54 +596,54 @@
 - /r/girlsfinishingthejob
 
 ## Hentai Telegram Channels
-- @selfiru
-- @Nudes
-- @NovinhasPeladas
-- @amorzinhobr
-- @Moephilia Largest hentai channel
-- @Real- pornz 
-- @imaginarygf (images pack)
-- @FaptimexD (direct fpa heaven)
-- @pornrippers (porn ddl channel)
-- @nhentai (hentai doujinshi channel)
-- @WorkForSafeNo (Hentai,pics,gifs,episodes channel)
-- @CCHENTAII (hanime alternative for tg)
-- @hentaination (hentai pics)
-- @HentaiGif18 (gifs)
-- @brazzers_prem (brazzers)
-- @cumfetish (fetish)
-- @JapanSex (jav and cute asian lads)
-- @uncensored_channel (hentai pics)
-- @FutomomoChannel (thigh heaven)
-- @pornodrive (pornhub in tg)
-- @nudesxxx1 (nudes)
-- @pornhyype  (pornhub in tg.2)
-- @sexygirls29 (nudes+shots)
-- @PrimePorn (full porn)
-- @humor18 (adult meme)
-- @sexygif (gifs)
-- @lesbian (females nudes)
-- @CelebrityNude (nudes but mostly pics)
-- @telepornogram (direct videos from many premium sites)
-- @pretty6k (nudes and photos)
-- @upsssx (nudes and photos)
-- @OnlyGuys (gay porn)
-- @femdomru (bdsm)
-- @nude_photos
-- @sexyasian (asian bitches)
-- @coitusworld 
 - @adultlinks (channels hub)
-- @JAVtoTaste (Jav heaven)
-- @TruePerv (All weird fetishes)
-- @brazzers_prem (another Brazzers)
-- @celebnsfw (celebs leaks)
-- @porn24
-- @inked_wow
-- @love_n_lust
+- @amorzinhobr
 - @b_grad
-- @brazzersworldwide
-- @celebsgalery
-- @eeerous
 - @bdsmitaly_official
+- @brazzers_prem (another Brazzers)
+- @brazzers_prem (brazzers)
+- @brazzersworldwide
+- @CCHENTAII (hanime alternative for tg)
+- @celebnsfw (celebs leaks)
+- @CelebrityNude (nudes but mostly pics)
+- @celebsgalery
+- @coitusworld
+- @cumfetish (fetish)
+- @eeerous
+- @FaptimexD (direct fpa heaven)
+- @femdomru (bdsm)
+- @FutomomoChannel (thigh heaven)
+- @HentaiGif18 (gifs)
+- @hentaination (hentai pics)
+- @humor18 (adult meme)
+- @imaginarygf (images pack)
 - @india_xxx
+- @inked_wow
+- @JapanSex (jav and cute asian lads)
+- @JAVtoTaste (Jav heaven)
+- @lesbian (females nudes)
+- @love_n_lust
+- @Moephilia Largest hentai channel
+- @nhentai (hentai doujinshi channel)
+- @NovinhasPeladas
+- @nude_photos
+- @Nudes
+- @nudesxxx1 (nudes)
+- @OnlyGuys (gay porn)
+- @porn24
+- @pornhyype  (pornhub in tg.2)
+- @pornodrive (pornhub in tg)
+- @pornrippers (porn ddl channel)
+- @pretty6k (nudes and photos)
+- @PrimePorn (full porn)
+- @Real- pornz
 - @savitabhabi
+- @selfiru
+- @sexyasian (asian bitches)
+- @sexygif (gifs)
+- @sexygirls29 (nudes+shots)
+- @telepornogram (direct videos from many premium sites)
+- @TruePerv (All weird fetishes)
+- @uncensored_channel (hentai pics)
+- @upsssx (nudes and photos)
+- @WorkForSafeNo (Hentai,pics,gifs,episodes channel)

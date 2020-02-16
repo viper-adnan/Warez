@@ -2,7 +2,7 @@
   <img width="600" height="200" src="https://i.imgur.com/OTA2IhM.png">
 </p>
 
-[![HitCount](http://hits.dwyl.io/CHEF-KOCH/Warez.svg)](http://hits.dwyl.io/CHEF-KOCH/Warez) 
+[![HitCount](http://hits.dwyl.io/CHEF-KOCH/Warez.svg)](http://hits.dwyl.io/CHEF-KOCH/Warez)
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 
@@ -67,7 +67,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 ## Liability for Contents
 - [Burn, drown, or smash your phone: Forensics can extract data anyway](https://anonym.to/?https://www.zdnet.com/article/burn-drown-or-smash-your-phone-forensics-can-extract-data-anyway/)
 - [A new bill could punish web platforms for using end-to-end encryption](https://anonym.to/?https://www.theverge.com/2020/1/31/21116788/earn-it-act-section-230-lindsey-graham-draft-bill-encryption)
-- [French court rules that Steam’s ban on reselling used games is contrary to European law](https://anonym.to/?https://www.polygon.com/2019/9/19/20874384/french-court-steam-valve-used-games-eu-law) 
+- [French court rules that Steam’s ban on reselling used games is contrary to European law](https://anonym.to/?https://www.polygon.com/2019/9/19/20874384/french-court-steam-valve-used-games-eu-law)
 - [MEPs approve sweeping changes to copyright law](https://anonym.to/?https://www.theguardian.com/media/2019/mar/26/meps-approve-sweeping-changes-to-copyright-law-european-copyright-directive)
 - [The Legalities of Linking](https://anonym.to/?https://www.lifewire.com/legalities-of-linking-3468972)
 - [COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING - Klaris Law (.PDF)](https://anonym.to/?https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf)
@@ -107,13 +107,17 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 
-## Public DMCA complaints 
-- [Lumendatabase.org](https://anonym.to/?https://www.lumendatabase.org/) - Database Google uses for their blacklist, it provides hundreds of links with movie and tv shows.
+## Public DMCA complaints
+- [Lumendatabase.org](https://anonym.to/?https://www.lumendatabase.org/) - A database e.g. Google uses for their blacklist, it provides hundreds of links with movie and tv shows.
 - [UK ISP Court Orders](https://anonym.to/?http://www.ukispcourtorders.co.uk/) - A incomplete list of websites recently taken down in the UK by the High Court.
-- [Counterfeit and Piracy Watch List (.PDF)](https://anonym.to/https://torrentfreak.com/images/tradoc_157564.pdf) - A EU Commion list from 2018 provided by Europol and others to watch the current piracy status.
+- [Counterfeit and Piracy Watch List (.PDF)](https://anonym.to/https://torrentfreak.com/images/tradoc_157564.pdf) - A list from 2018 provided by Europol and others, to watch the current piracy status.
 
 **[`^        back to top        ^`](#)**
 
+## Team Drives
+- [Google Team Drive](https://anonym.to/https://teamdrive.mfoxx.workers.dev/) - Create Google Team Drive where you can share your files with others.
+
+**[`^        back to top        ^`](#)**
 
 ## Social Media Alternatives
 - [Framapiaf](https://anonym.to/?https://framapiaf.org/about/) - Mastodon instance of [Framasoft](https://anonym.to/?https://framasoft.org) - A nonprofit organization focusing on free-software alorisation.
@@ -174,9 +178,15 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ### General Filesharing Discussions
 - [MVGroup.org](https://anonym.to/?https://www.mvgroup.org/) - BitTorrent-Tracking- and Filesharing-Community.
+- [Szenebox](https://anonym.to/?https://www.szenebox.org/) - `Ger` - SzeneBox.org (szb.to) is a german scene forum for discussions around warez and the scene.
 
 **[`^        back to top        ^`](#)**
 
+
+### Cardsharing
+- [TV-Lounge.eu](https://www.tv-lounge.eu) - `Ger` -  IPTV, OSCAM, SKY, CCAM, Kabel-Receiver, IPTV & Co.
+
+**[`^        back to top        ^`](#)**
 
 ## NFO Viewers & KeyGen Music
 - [Corrupt Net](https://anonym.to/?https://twitter.com/CorruptNET) - NFO-Site (linked on Twitter)
@@ -226,9 +236,9 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Mullvad VPN](https://anonym.to/?https://mullvad.net/) - Provides OpenVPN/Wireguard support.
 - [Perfect Privacy VPN](https://anonym.to/?https://www.perfect-privacy.com/) - Known in the business since over 10 years.
 - [ProtonVPN](https://anonym.to/?https://protonvpn.com/) - High-speed Swiss made VPN that safeguards your privacy.
-- [Safing.io](https://anonym.to/?https://safing.io/) - `beta` Project who tries to "take back control". 
+- [Safing.io](https://anonym.to/?https://safing.io/) - `beta` Project who tries to "take back control".
 - [SurfShark](http://anonym.es/https://surfshark.com/) - Surfshark is an award-winning, secure VPN that encrypts your online data to help you stay private & protected every day, hassle-free.
-        
+
 **[`^        back to top        ^`](#)**
 
 
@@ -260,7 +270,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ## Ad-Blocker
 - [An Overview of Ad Blocking Technology](https://anonym.to/?https://www.techotopia.com/index.php/An_Overview_of_Ad_Blocking_Technology) - Basically explains how an Ad-Blocker works.
-- [AdBlock Radio](https://anonym.to/?https://github.com/adblockradio/adblockradio) - Block ads on live radio streams and podcasts. Machine learning meets Shazam! 
+- [AdBlock Radio](https://anonym.to/?https://github.com/adblockradio/adblockradio) - Block ads on live radio streams and podcasts. Machine learning meets Shazam!
 - [AdGuard](https://anonym.to/?https://adguard.com/en/welcome.html) - Claims to be the worlds most advance ad-blocker.
 - [Filterlists](https://anonym.to/?https://filterlists.com/) - Provides an overview of Ad blocking filters/projects.
 - [uBlock origin](https://anonym.to/?https://github.com/gorhill/uBlock) - A fast and efficient Ad Blocker.
@@ -331,7 +341,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ## Audio
 - [1 Gabba.net](https://anonym.to/?https://1gabba.pw) - Drum & Bass, Hardcore & Hardstyle, most downloads via Rapidgator.
-- [albumdabster](https://anonym.to/?https://albumdabster.com) - (needs ad-blocker + GeoIP (VPN) block) - Mixtapes & other tapes. 
+- [albumdabster](https://anonym.to/?https://albumdabster.com) - (needs ad-blocker + GeoIP (VPN) block) - Mixtapes & other tapes.
 - [Bestmusik6](https://anonym.to/?https://bestmusik6.org) - (Tr) - Türkiye music.
 - [BestDJmix](https://anonym.to/?https://bestdjmix.com) - (Ger) - (needs ad-blocker) - German Top 100  albums, download mostly via Turbobit.
 - [Livingelectro](https://anonym.to/?http://www.livingelectro.com/) - (`insecure`) - Provides techno & remixes.
@@ -350,7 +360,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [NewAlbumReleases](https://anonym.to/?hhttps://newalbumreleases.net/) - A big place for music, various artists and genre.
 - [tut-audio](https://anonym.to/?https://tut-audio.ru) - (RU) - A popular Russian website to get MP3 files.
 - [MinimalFreaks](https://anonym.to/?https://minimalfreaks.pw/) - As the website url tells, Minimal Music.
-- [Xoamoelmosh Blogspot](https://anonym.to/?https://yoamoelmosh.blogspot.com/) - Hardcore, Metal & Beatdown etc. 
+- [Xoamoelmosh Blogspot](https://anonym.to/?https://yoamoelmosh.blogspot.com/) - Hardcore, Metal & Beatdown etc.
 
 **[`^        back to top        ^`](#)**
 
@@ -506,7 +516,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ### Torrent Search Engines
 - [Search Torrents](https://anonym.to/?https://search.torrents.io/)
-- [Toorgle](https://anonym.to/?http://www.toorgle.com/) - `insecure` 
+- [Toorgle](https://anonym.to/?http://www.toorgle.com/) - `insecure`
 
 
 ### Torrent Trackers
@@ -589,9 +599,9 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Idope (Clone)](https://anonym.to/?https://idope.top/) - iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
 - [Isohunt2](https://anonym.to/?https://isohunt2.net/) - Clone of the original ISOHunt torrent index and repository.
 - [KickAss Torrents](https://anonym.to/?https://katcr.co/) - Community-made reincarnation launched in 2016.
-- [LBRY](https://anonym.to/?https://beta.lbry.tv/) & [source code](https://anonym.to/?https://github.com/lbryio/lbrytv) - Search engine for games, videos, music & more. 
+- [LBRY](https://anonym.to/?https://beta.lbry.tv/) & [source code](https://anonym.to/?https://github.com/lbryio/lbrytv) - Search engine for games, videos, music & more.
 - [LimeTorrents](https://anonym.to/?https://www.limetorrents.info/) - LimeTorrents has been around for more than half a decade.
-- [MagnetDL](https://anonym.to/https://www.magnetdl.com) - Find your download by searching thousands of magnet links using our search engine. 
+- [MagnetDL](https://anonym.to/https://www.magnetdl.com) - Find your download by searching thousands of magnet links using our search engine.
 - [Monitor Shodan](https://anonym.to/?https://monitor.shodan.io/) - Keep track of the devices that you have exposed to the Internet. Setup notifications, launch scans and gain complete visibility into what you have connected.
 - [MKVCage](https://anonym.to/?https://www.mkvcage.nl/) - (warning) - Rebooted (unofficial) MKVCage website. It's not in any relationship with the original _project_.
 - [Mp4ba.cc](https://anonym.to/?http://mp4ba.cc/) - (CN _insecure_) - Videos, TV series and animes.
@@ -801,7 +811,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 ### Usenet Forums
 - [Revenge of Usenet](https://anonym.to/?https://revenge-of-usenet.com) - (Ger) - Forum for usenet related news, and download discussions.
 - [House-Of-Usenet](https://anonym.to/?https://house-of-usenet.com) - (Ger) - Yet another german forum for usenet discussions.
-- [Brothers of Usenet](https://anonym.to/?https://www.brothers-of-usenet.net) - The original board went down, so this is a mirror for the well known forum which discusses stuff around the scene. 
+- [Brothers of Usenet](https://anonym.to/?https://www.brothers-of-usenet.net) - The original board went down, so this is a mirror for the well known forum which discusses stuff around the scene.
 - [Fileleechers](https://anonym.to/?https://fileleechers.info) - (Ger) - A young forum around Usenet.
 - [House of Usenet](https://anonym.to/?https://house-of-usenet.com) - New provider, new url, a reboot of the well known forum.
 - [omgwtfnzbs](https://anonym.to/?https://omgwtfnzbs.me) - (paid) - A paid usenet indexer.
@@ -848,7 +858,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ### The-Eye
-- [/public/Piracy/](https://anonym.to/?https://the-eye.eu/public/Piracy/) 
+- [/public/Piracy/](https://anonym.to/?https://the-eye.eu/public/Piracy/)
 - [exodos.the-eye.eu](https://exodos.the-eye.eu/)
 - [In progress subreddit archive](https://anonym.to/?https://the-eye.eu/r)
 - [All DOS games](https://anonym.to/?https://exodos.the-eye.eu)
@@ -887,7 +897,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Free GOG PC Games](http://freegogpcgames.com/) - (`insecure`) - Yet another GOG alternative.
 - [Good-Old-Downloads/gg](https://anonym.to/?https://github.com/MachineGunnur/GOG-Games) - A fork of Good Old Downloads' "GOG Games" hosted on Tor.
 - [Good-Old-Downloads (GitHub source code)](https://anonym.to/?https://github.com/Good-Old-Downloads) - - Good-Old-Downloads is shooting down, see [here](https://anonym.to/?https://goodolddownloads.com/static/Investigation_into_igg_games_and_gamestorrent.pdf) - why. There is a full encrypted dump avbl. [here](https://anonym.to/?https://mega.nz/#!UccmySQK!N099Mjn9pe7PNYKJDOTdAAOSHpV1ZwpA8CT_wp2CNbw), make sure you read the integrated readme file!
-- [MachineGunnur/GOG-Games](https://github.com/MachineGunnur/GOG-Games) - Source Code & Tor Mirror (goggamespc7v6z5e.onion or goggamespc7v6z5e.onion.ws) for GOG Games. 
+- [MachineGunnur/GOG-Games](https://github.com/MachineGunnur/GOG-Games) - Source Code & Tor Mirror (goggamespc7v6z5e.onion or goggamespc7v6z5e.onion.ws) for GOG Games.
 - [Torminatorr.com](http://www.forum.torrminatorr.com/viewforum.php?f=13) - (`insecure`) - Good-Old-Downloads mirror page.
 
 **[`^        back to top        ^`](#)**
@@ -1036,7 +1046,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Anime Streams](https://anonym.to/?https://www.anime2you.de/streams/) - Sub and dub, banner ads.
 - [Anime8](https://anonym.to/?https://anime8.me/) - Watch & download online in high quality.
 - [AnimeRam](https://anonym.to/?https://ww2.animeram.cc/) A streaming website for dubbed/subbed anime.
-- [Animepahe](https://anonym.to/?https://animepahe.com/) A minimilistic anime streaming/download website, subs only. 
+- [Animepahe](https://anonym.to/?https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
 - [AnimeBam](https://anonym.to/?https://www.animebam.net/) - Subs only, banner ads, only one source.
 - [AnimeDao](https://anonym.to/?https://animedao.com/) - No ads, subs only, multiple sources, videos hosted by Google.
 - [Animeflv](https://anonym.to/?https://animeflv.net/)
@@ -1132,7 +1142,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Qwemovies](https://anonym.to/?https://www3.qwemovies.com/) - Watch HD Movies Online For Free and Download the latest movies without Registration at qwemovies.to.
 - [Rainierland](https://anonym.to/?https://rainierland.is/) - Official home of rainierland - no ads and only good movies.
 - [Series9](https://anonym.to/?https://www2.series9.io/) - Unique design, HD server with additional hosts.
-- [Soap2day](https://anonym.to/?https://www.soap2day.com/) - Unique design, very nice speeds, HD server with subtitles. 
+- [Soap2day](https://anonym.to/?https://www.soap2day.com/) - Unique design, very nice speeds, HD server with subtitles.
 - [Sokrostream.vip](https://anonym.to/?https://sokrostream.vip/) - (FR) - 2019 Films · 2018 Films · Action · Science-Fiction · Comédie · Horreur · Rapport
 - [Solarmovie](https://anonym.to/?https://solarmoviez.ru/) - Watch Movies Online and Watch Tv-Series online On Solarmovie without Registration.
 - [StreamCR](https://anonym.to/?https://scr.cr/) - Watch movies and TV series online for free. Stream episodes of Game of Thrones, Breaking Bad, Stranger Things and more!
@@ -1142,7 +1152,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Streamcomplete](https://anonym.to/?https://streamcomplet.me/) - (FR) - Streaming gratuit des films en VF, Regarder les meilleurs sélections des films complets en version française a voir online.
 - [TakiART](https://anonym.to/?https://www.takiartmovies.ga/) - Watch and download latest Hollywood movies for free.
 - [Time2Watch](https://anonym.to/?https://time2watch.in/) - (FR) - Films, séries et mangas en streaming et téléchargement gratuit pour PC, iPhone, iPad et autres Smartphones.
-- [Tubeninja](https://anonym.to/?https://tubeninja.net) - All-in-one audio and video downloader that doesn't require any installation. 
+- [Tubeninja](https://anonym.to/?https://tubeninja.net) - All-in-one audio and video downloader that doesn't require any installation.
 - [VF-Streaming](https://anonym.to/?https://www.vf-stream.org/) - (FR) - Voir Les Meilleurs Films, Séries Et Manga En Streaming HD Gratuit Sans inscription Sur VF Stream Venez découvrir les derniers films complet en français.
 - [Vidcloud](https://anonym.to/?https://vidcloud.icu/) - Basic streaming site layout, HD server with additional hosts.
 - [VodLocker](https://anonym.to/?https://vodlocker.tv/) - Official home of vodlocker - no ads and only good movies.
@@ -1331,7 +1341,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Allgamesforyou](https://anonym.to/?https://www.allgamesforyou.com) - Popular Games, updated every week!
 - [gazellegames](https://anonym.to/?https://gazellegames.net/) - Another xBox 360 collection.
 - [NoPayStation](https://anonym.to/?https://nopaystation.com) - A Database for PSN Content including Vita, PS3, PSX, and PSP.
-- [OVAGames](http://www.ovagames.com/) - (`insecure`) - Yet another database with console and pc games. 
+- [OVAGames](http://www.ovagames.com/) - (`insecure`) - Yet another database with console and pc games.
 - [PleasureDome Tracker](https://anonym.to/?https://www.pleasuredome.org.uk/) - MAME torrents.
 - [SPEEDLounge](http://speedlounge.in/) - (Ger) - (`insecure`) - XBox360, XBox, PlayStation and other Games.
 - [Up2date list for Xbox 360](https://anonym.to/?https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml) - An up2date list for Xbox 360 games.
@@ -1394,7 +1404,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [MEga.nz](https://anonym.to/?https://mega.nz/#F!33AhDa4T!awOqr7lhZYFgjXoMMu6_8w) - DS Best of Collection
 - [Mega.nz](https://anonym.to/?https://mega.nz/#F!yLBiwApZ!JlecejkP1KK8jZujzHUbwQ) - 3DS Virtual Console
 - [ziperto.com](https://anonym.to/?https://www.ziperto.com/nintendo/3ds-roms/3ds-cia/) - 3DS CIA collection.
-- [3DS-Paradise](https://anonym.to/?https://3ds-paradise.com/) - (FR) - One of the biggest 3DS forums in france. 
+- [3DS-Paradise](https://anonym.to/?https://3ds-paradise.com/) - (FR) - One of the biggest 3DS forums in france.
 
 **[`^        back to top        ^`](#)**
 
@@ -1440,7 +1450,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [GDrive](https://anonym.to/?https://drive.google.com/drive/folders/0B7H6hIZDxNXeQW9uODA5UkM0ZG8) - Wii Scrubbed ISOs retail Collection NTSC
 - [GDrive](https://anonym.to/?https://drive.google.com/drive/folders/1UM6ZIhtWtIuwHo2rJunTTtW6sMxkTSQ0) - Mirror from abolve link.
 
-### Wii Hacking 
+### Wii Hacking
 - [r/WiiHacking](https://www.removeddit.com/r/WiiHacking) - Community dedicated for Wii Roms, Firmwares, Discussions and links around the Wii hacking topic.
 
 **[`^        back to top        ^`](#)**
@@ -1683,7 +1693,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Serialreactor](https://anonym.to/?https://www.serialreactor.com) - Looking for serials?
 - [Serials](http://serialz.cracks.me.uk) - (insecue) - Yet another serials page.
 - [SerialShack](http://www.serialshack.com) - (`insecure`) - One of the oldest serial websites which are still online.
-- [Smart Serials](https://anonym.to/?https://www.smartserials.com) - (needs VPN) - Forum + serials. 
+- [Smart Serials](https://anonym.to/?https://www.smartserials.com) - (needs VPN) - Forum + serials.
 
 **[`^        back to top        ^`](#)**
 
@@ -1699,8 +1709,8 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## Spotify
-- [Block Spotify Updates on MacOS](https://anonym.to/?https://donotupdatespotify.sh/) - A guide is avbl. [here](https://anonym.to/?https://old.reddit.com/r/Piracy/comments/d2z6kc/guide_spotify_free_without_ads_for_mac_os/). 
-- [BlockTheSpot](https://anonym.to/?https://github.com/master131/BlockTheSpot) - Video, Audio & Banner ad-block/skip for Spotify. 
+- [Block Spotify Updates on MacOS](https://anonym.to/?https://donotupdatespotify.sh/) - A guide is avbl. [here](https://anonym.to/?https://old.reddit.com/r/Piracy/comments/d2z6kc/guide_spotify_free_without_ads_for_mac_os/).
+- [BlockTheSpot](https://anonym.to/?https://github.com/master131/BlockTheSpot) - Video, Audio & Banner ad-block/skip for Spotify.
 - [MuteSpotifyAds](https://anonym.to/?https://github.com/simonmeusel/MuteSpotifyAds) - Mutes audio/video ads, however you still need to wait 30 sec.
 - [Spotifree](https://anonym.to/?https://github.com/ArtemGordinsky/Spotifree) - An OS X app that automatically mutes ads on Spotify (not supported).
 - [Spotify Ad-Free](https://anonym.to/?https://github.com/CHEF-KOCH/Spotify-Ad-free) - Modified Client(s), Information, etc.
@@ -1730,7 +1740,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [CrackingPatching.com](https://anonym.to/?https://crackingpatching.com/) - Cracked software
 - [CracksNow](https://anonym.to/?https://cracksnow.com/) - Cracks for Android, Windows, and macOS applications.
 - [gallery-dl](https://anonym.to/?https://github.com/mikf/gallery-dl) - Command-line program to download image-galleries and -collections from several image hosting sites
-- [KaranPC](https://anonym.to/?https://karanpc.com) - Yet another community around Windows software. 
+- [KaranPC](https://anonym.to/?https://karanpc.com) - Yet another community around Windows software.
 - [Nulled](https://anonym.to/?https://www.nulled.to/) - Nulled is a cracking community where you can find links to cracked software.
 - [PirateCity](https://anonym.to/?https://www.piratecity.cc) - Softwares, Performance Optimizing Tools, Antivirus Softwares , Image Editing Tools, Video Editing Softwares, Data Recovery Softwares & more.
 - [Sanet.st](https://anonym.to/?https://sanet.st/windows/) - Also known as "SoftArchive", is a portal to provide Windows software cracks.
@@ -1790,7 +1800,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ### Windows 10 Downloads (Mirrors) & Verification Tools
-- [Microsoft .iso DDLs](https://anonym.to/?https://tb.rg-adguard.net/index.php) - Web interface for Microsoft's own "TechBench" site to provide mirrors for everyone. Latest releases are avbl. [here](https://anonym.to/?https://tb.rg-adguard.net/products.html). 
+- [Microsoft .iso DDLs](https://anonym.to/?https://tb.rg-adguard.net/index.php) - Web interface for Microsoft's own "TechBench" site to provide mirrors for everyone. Latest releases are avbl. [here](https://anonym.to/?https://tb.rg-adguard.net/products.html).
 - [Microsoft .iso torrents on Digitalriver](https://anonym.to/?https://mirror.corenoc.de/digitalrivercontent.net/) - Mirrors for official Windows & Office ISO's.
 - [Windows 10 1903 Build 18362.30 Final (May Update '19)](https://anonym.to/?https://gist.github.com/CHEF-KOCH/64fed5431b57a43b4a70ed510b56cba1) - Download + checksum links.
 - [Windows and Office Genuine ISO Verifier](https://anonym.to/?https://genuineisoverifier.weebly.com/) - Freeware tool to verify Windows & Office images.
@@ -2010,7 +2020,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ## Documentaries
 - [/r/Documentaries](https://anonym.to/?https://www.removeddit.com/r/documentaries) - Popular documentaries subreddit.
-- [Documentary](https://anonym.to/?http://documentary.su/) - (`insecure`) - International board for audiobooks & documentaries. 
+- [Documentary](https://anonym.to/?http://documentary.su/) - (`insecure`) - International board for audiobooks & documentaries.
 - [DocuWiki-net](https://anonym.to/?http://docuwiki.net/index.php?title=Main_Page) - (`insecure`) - DocuWiki.net serves as an index of documentary films on the Edonkey Network.
 - [MVGroup](http://forums.mvgroup.org/) - (`insecure`) - A forum which shares documentaries via P2P.
 - [whatwhat888 big list of documentary sites (streaming and download)](https://anonym.to/?https://www.removeddit.com/r/Documentaries/comments/h9pu7/my_big_list_of_documentary_sites_streaming_and/) - An old post by /u/whatwhat888 that may still be useful.
@@ -2094,7 +2104,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Android Zone](https://anonym.to/?https://android-zone.ws/) - koumkouat website for Android APK's/Games/GPS.
 - [Android-1](https://anonym.to/?https://android-1.com/en/programmy/) - Provides apps & app mods.
 - [AnYme](https://anonym.to/?https://github.com/zunjae/anYme) - Unofficial Anime App for MyAnimeList.
-- [APK Mania](https://anonym.to/?https://apkmaniafull.com) - (needs adblocker) - Apps, Games, Themes, Wallpapers & Widgets. 
+- [APK Mania](https://anonym.to/?https://apkmaniafull.com) - (needs adblocker) - Apps, Games, Themes, Wallpapers & Widgets.
 - [APK4Free](https://anonym.to/?https://apk4free.net/) - Android apk mirrors and patches.
 - [APKDot](https://anonym.to/?https://apkdot.com/) - APKMirror clone website.
 - [Apkmos](https://anonym.to/?https://apkmos.com/) - The Best App Store For Download Android Apps, Android Games, Android Themes, Android Wallpapers And Much More For Your Android Smartphone.
@@ -2120,7 +2130,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## Android calling apps
-- [dPhone](https://anonym.to/?https://dphone.app/) - Claims to be the most secure calling app. 
+- [dPhone](https://anonym.to/?https://dphone.app/) - Claims to be the most secure calling app.
 
 
 ### Android License Verification Patcher
@@ -2322,7 +2332,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ### Wrestling & MMA specifc
 - [Fight-BB](https://anonym.to/?http://fight-bb.com/) - (`insecure`)
-- [MMA Releaselog](https://anonym.to/?http://mma-releaselog.com/) - (`insecure`) 
+- [MMA Releaselog](https://anonym.to/?http://mma-releaselog.com/) - (`insecure`)
 - [WWE-TV](https://anonym.to/?http://www.wwe-tv.com/) - (Ger) - (`insecure`)
 
 **[`^        back to top        ^`](#)**
@@ -2575,6 +2585,12 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 
+## Google sheets "Create a copy" bypass
+- [MATLAB](https://anonym.to/?https://de.mathworks.com/matlabcentral/fileexchange/39915-getgooglespreadsheet)
+
+**[`^        back to top        ^`](#)**
+
+
 ## DNS based Ad-Blockers
 - [AdGuard Home](https://anonym.to/?https://github.com/AdguardTeam/AdGuardHome) - AdGuard Home is a network-wide software for blocking ads & tracking.
 - [Pi-hole](https://anonym.to/?https://pi-hole.net/) - Pi-Hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole.
@@ -2627,7 +2643,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [SMS Privacy](https://anonym.to/?https://smsprivacy.org/) - Send & recieve SMS securely.
 
 ### SMS Bomber
-- [SMS Bomber](https://anonym.to/?https://github.com/An0nUD4Y/smsbomber) - SMSBomber, lets you flood (bomb) others with SMS. 
+- [SMS Bomber](https://anonym.to/?https://github.com/An0nUD4Y/smsbomber) - SMSBomber, lets you flood (bomb) others with SMS.
 - [TBomb](https://anonym.to/?https://github.com/TheSpeedX/TBomb) - This is a SMS and call Bomber for Linux and Termux.
 - [YetAnotherSMSBomber](https://anonym.to/?https://github.com/AvinashReddy3108/YetAnotherSMSBomber) - A fast and reliable SMS Bomber which works on all platforms.
 
@@ -2637,7 +2653,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [FreePhoneNum](https://anonym.to/?https://freephonenum.com/us) - The service offers a very temporary number for verification or any other purpose.
 - [Receive SMS](https://anonym.to/?https://www.receivesms.org/) - Free service to verify your membership without giving out my own number.
 - [ReceiveSMS](https://anonym.to/?https://www.receivesms.co/) - Receive Your SMS Online With Our Virtual Numbers For Free! Without Registration!
-- [MyTrashmobile](https://anonym.to/?https://www.mytrashmobile.com/) -  Receive text messages for online verifications as in WhatsApp or Facebook. 
+- [MyTrashmobile](https://anonym.to/?https://www.mytrashmobile.com/) -  Receive text messages for online verifications as in WhatsApp or Facebook.
 - [SMSToolsOnline](https://anonym.to/?https://smstools.online/) - Yet another free SMS service.
 - [SMS.INK](https://anonym.to/?https://sms.ink/) - `RU` - Share SMS.
 - [hs3x](https://anonym.to/?https://hs3x.com/) - Receive SMS Online For Free
@@ -2664,15 +2680,25 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 **[`^        back to top        ^`](#)**
 
+## Telegram Bot lists
 
-## Telegram Piracy Discussion Channels
+An overview of Telegram Bots, Channels and scripts can be found via the [telegram-list](https://anonym.to/?https://github.com/goq/telegram-list).
+
+- [telegram-list](https://anonym.to/?https://github.com/goq/telegram-list/) - `RU` - GitHub overview list of useful Telgram Bots.
+- [Botlist](https://anonym.to/?hhttps://botlist.co/) - A botlist for various messenger (including Telegram).
+
+
+### Telegram Piracy Discussion Channels
 - [Telegram Channels](https://anonym.to/?https://telegramchannels.me/channels) - A telegram channel indexer with over 1500 channels.
 - [@piratebazaar](https://anonym.to/?https://t.me/piratebazaar) - Telegram Channel which provides warez information, lists & more.
+- [Piracy • Main Discussion](https://anonym.to/?https://t.me/joinchat/KNhdrlJyuDhsJy5dNEBoAg) - Intended to be the main chat for all piracy discussion at Raymond's Piracy Group, but very inactive - use this group for that instance.
+- [Piracy • Off Topic Discussion](https://anonym.to/?https://t.me/joinchat/Djvt9BVVrrjQ_D_6L9XZxQ) - Off Topic chat for Raymond's Piracy Telegram group.
 
-
-## Telegram Coding Channels
+### Telegram Coding Channels
 - [Mozilla Browser / develper telegram and IRC Channels](https://anonym.to/?https://wiki.mozilla.org/Telegram) - The overview page aims to list all mozilla groups and channels (and the linked IRC channels).
 
+### Telegram channel for Login data
+- [vpnusername](https://t.me/vpnusername) - Free NordVPN leech account logins. Sometimes other VPN services too.
 
 ### Telegram Hacking Channels
 - [Hacker News](https://anonym.to/?https://telegram.me/hacker_news_feed) - Get the latest Top stories from Hacker News.
@@ -2688,10 +2714,17 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ### Telegram channel for Udemy courses
 - [@udemyfree4u](https://anonym.to/?https://ttttt.me/udemyfree4u) - This Is The No. 1 Biggest Channel In Telegram Which Provides Paid Udemy Courses For Free, daily updated.
-- [Free Udemy Courses](https://anonym.to/?https://t.me/Freecoursefinder) - We provide paid premium online courses for free! 
+- [Free Udemy Courses](https://anonym.to/?https://t.me/Freecoursefinder) - We provide paid premium online courses for free!
 - [@freexonlinexcourse](https://anonym.to/?https://t.me/freexonlinexcourse) - Free udemy courses.
-- [Free Udemy Courses](https://anonym.to/?https://t.me/joinchat/AAAAAEOVydKcDYcTQPbvYg) 
+- [Free Udemy Courses](https://anonym.to/?https://t.me/joinchat/AAAAAEOVydKcDYcTQPbvYg)
 - [Udemy deals](https://anonym.to/?https://telegram.me/udemydeals) - Free udemy courses!!
+
+### Telgram channel for file sharing
+- [@itorrentsearchbot](https://anonym.to/?https://t.me/itorrentsearchbot) - Searchbot which finds torrent and magnet links on 1337x.to by keyword search.
+- [@teletransferxbot](https://anonym.to/?https://t.me/teletransferxbot) - TeleTransferX (_currently not working due to lack of support from the community_) down/uploader and search bot.
+- [aria-telegram-mirror-bot](https://anonym.to/?https://github.com/out386/aria-telegram-mirror-bot) - A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
+- [AutoRcloneEng](https://anonym.to/?https://t.me/AutoRcloneEng) - The official Rclone Telegram channel.
+- [Torrent Drive](https://anonym.to/?https://t.me/torrentdrive_bot?do=open_link) - Gives you Google Drive link for the torrent files you send.
 
 ### Telegram channel for APK's
 - [APK4free](https://anonym.to/?https://t.me/Apk4Free) - Cracked Android apps.
@@ -2701,73 +2734,80 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [@ModdedCentral](https://anonym.to/?https://t.me/ModdedCentral) - Patched & modded android apps, updated regularly, 50+ shared daily. Request group currently closed.
 
 ### Telegram channels for Music
-- [Full Music Albums](https://anonym.to/?https://t.me/joinchat/AAAAAFkG6jV0RNRuY8eDnw) - A large collection of music albums, directly downloadable in Telegram, updated daily!
+- [@DeezerMusicBot](https://anonym.to/?https://t.me/DeezerMusicBot) - Music bot which downloads tracks from Deezer.
+- [@MusicHuntersBot](https://anonym.to/?https://t.me/MusicHuntersBot) - Another large music downloader bot for Telegram.
 - [@SMLoadrCommuntiy](https://anonym.to/?https://t.me/SMLoadrCommunity) - Telegram community for SMLoadr.
+- [@vkmusic_bot](https://anonym.to/?https://t.me/vkmusic_bot) - Find and download pretty much any song (uses vkmusic search engine).
+- [Full Music Albums](https://anonym.to/?https://t.me/joinchat/AAAAAFkG6jV0RNRuY8eDnw) - A large collection of music albums, directly downloadable in Telegram, updated daily!
 - [Melodic Musics](https://anonym.to/?https://t.me/MelodicMusics) - A large collection of music, downloadable within Telegram.
 - [Music Archive](https://anonym.to/?https://t.me/MArchive) - A large collection of music, downloadable within Telegram.
-- [@DeezerMusicBot](https://anonym.to/?https://t.me/DeezerMusicBot) - Music bot which downloads tracks from Deezer.
 
 ### Telegram channels for Movies & TV shows
-- [TV Updates](https://anonym.to/?https://telegram.me/joinchat/ACzuljvGFUjzJf4ambpzTA) - A large collection of TV shows, downloadable in Telegram, updated daily!
-- [@Qualitymovies](https://anonym.to/?https://t.me/Qualitymovies) - Lots of 720p Blu-Ray movie releases.
+- [@beyondHD](https://anonym.to/?https://t.me/beyondHD) - HD movies shared from the community to the community.
 - [@iMediaShare](https://anonym.to/?https://t.me/iMediaShare) - Provides links to Movies, TV shows, apps & and more.
 - [@intermedia](https://anonym.to/?https://t.me/intermedia) - Channel for movies.
 - [@Moviezworldz](https://anonym.to/?https://t.me/Moviezworldz) - Official Moviezworldz channel.
+- [@offstream_media](https://anonym.to/?https://t.me/offstream_media) - TV Shows, Movies and more!
+- [@Qualitymovies](https://anonym.to/?https://t.me/Qualitymovies) - Lots of 720p Blu-Ray movie releases.
 - [@RickyChristanto](https://anonym.to/?https://t.me/RickyChristanto) - Movie releases channel provides usually stuff from YTS.
+- [TV Updates](https://anonym.to/?https://telegram.me/joinchat/ACzuljvGFUjzJf4ambpzTA) - A large collection of TV shows, downloadable in Telegram, updated daily!
 
 ### Telegram channels for Software
-- [Adobe CRack channel](https://anonym.to/?tg://resolve?domain=adobecracks&post=17) - A channel for all Adobe cracks.
-- [@piratechannel](https://anonym.to/?https://t.me/piratechannel) - Free Netflix, Spotify & Other Premium Accounts, Window & Other Software License Keys.
-- [Keygen Fortress](https://anonym.to/?https://t.me/keygen_fortress) - Wide range of keygens for various apps, downloadable in Telegram.
-- [Crackwatch tracker](https://anonym.to/?https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - CrackWatch trackers Telegram channels for CrachWatch.com games & cracks provided by `/u/SHADOWSLIFER`.
-- [@vpnusername](https://anonym.to/?https://t.me/vpnusername) - Free NordVPN leech account logins. Sometimes posts other VPN services too.
 - [@piracylinks](https://anonym.to/?https://t.me/piracylinks) - A link sharing community.
+- [@piratechannel](https://anonym.to/?https://t.me/piratechannel) - Free Netflix, Spotify & Other Premium Accounts, Window & Other Software License Keys.
 - [@raymondfreesoftware](https://t.me/raymondfreesoftware/166702)
-- [Raymond's Piracy Group](https://anonym.to/?https://t.me/raymondfreesoftware) - A group of 7000+ pirates chatting.
-- [Piracy Main](https://anonym.to/?https://t.me/joinchat/KNhdrlJyuDhsJy5dNEBoAg) - Intended to be the main chat for all piracy discussion, but very inactive - use this group for that instead.
-- [CGPersia Downloads](https://anonym.to/?https://t.me/CGPERS) - Free ripped courses from Udemy, Skillshare and other educational websites.
+- [@vpnusername](https://anonym.to/?https://t.me/vpnusername) - Free NordVPN leech account logins. Sometimes posts other VPN services too.
+- [Adobe CRack channel](https://anonym.to/?tg://resolve?domain=adobecracks&post=17) - A channel for all Adobe cracks.
 - [AIOSetup](https://anonym.to/?https://t.me/aiosetup) - Wide range of pre-cracked software, downloadable in Telegram.
+- [CGPersia Downloads](https://anonym.to/?https://t.me/CGPERS) - Free ripped courses from Udemy, Skillshare and other educational websites.
+- [Crackwatch tracker](https://anonym.to/?https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - CrackWatch trackers Telegram channels for CrachWatch.com games & cracks provided by `/u/SHADOWSLIFER`.
+- [Keygen Fortress](https://anonym.to/?https://t.me/keygen_fortress) - Wide range of keygens for various apps, downloadable in Telegram.
+- [Piracy Main](https://anonym.to/?https://t.me/joinchat/KNhdrlJyuDhsJy5dNEBoAg) - Intended to be the main chat for all piracy discussion, but very inactive - use this group for that instead.
+- [Raymond's Piracy Group](https://anonym.to/?https://t.me/raymondfreesoftware) - A group of 7000+ pirates chatting.
 - [Windows_Software](https://tele.me/telegram/groups/windows_softwares) - Windows software, cracked.
 
 ### Telegram channels for eBooks & PDF's
-- [Books N All](https://anonym.to/?https://t.me/joinchat/EG43XkPhHFup2w7kTl44AA) - Request eBooks and audio books, as well as reviews in this group with ~3.5k members & generally a fast response time.
-- [The Hindu](https://anonym.to/?https://t.me/The_Hindu1) - PDFs of every Indian newspaper every day.
-- [List of eBook websites, channels & bots](https://anonym.to/?https://t.me/raymondfreesoftware/166702) - Large collection of websites, bots and channels with a wide range of eBooks.
-- [Ebooks254](https://anonym.to/?hhttp://t.me/Ebooks254)
-- [eBooks English](https://anonym.to/?http://t.me/EbooksEnglish)
-- [@mfmixebooks](https://anonym.to/?hhttp://t.me/mfmixebooks)
-- [BookThief](https://anonym.to/?http://t.me/BooksThief)
-- [@OxfordBookworms](https://anonym.to/?http://t.me/OxfordBookworms)
-- [@bookz4u](https://anonym.to/?http://t.me/bookz4u)
-- [best_bookshelf](https://anonym.to/?http://t.me/best_bookshelf)
-- [@BooksFree4U](https://anonym.to/?http://t.me/BooksFree4U)
-- [@BooksBag](https://anonym.to/?http://t.me/BooksBag)
-- [@booksnow](https://anonym.to/?http://t.me/booksnow)
-- [@BooksLog](https://anonym.to/?http://t.me/BooksLog)
 - [@BookCafe](https://anonym.to/?http://t.me/eBookCafe)
-- [BOOK_HOUSE_INTERNATIONAL](http://t.me/BOOK_HOUSE_INTERNATIONAL)
+- [@BooksBag](https://anonym.to/?http://t.me/BooksBag)
+- [@BooksFree4U](https://anonym.to/?http://t.me/BooksFree4U)
+- [@BooksLog](https://anonym.to/?http://t.me/BooksLog)
 - [@booksmania](https://anonym.to/?http://t.me/booksmania)
+- [@booksnow](https://anonym.to/?http://t.me/booksnow)
+- [@bookz4u](https://anonym.to/?http://t.me/bookz4u)
+- [@mfmixebooks](https://anonym.to/?hhttp://t.me/mfmixebooks)
+- [@OxfordBookworms](https://anonym.to/?http://t.me/OxfordBookworms)
+- [best_bookshelf](https://anonym.to/?http://t.me/best_bookshelf)
+- [BOOK_HOUSE_INTERNATIONAL](http://t.me/BOOK_HOUSE_INTERNATIONAL)
+- [Books N All](https://anonym.to/?https://t.me/joinchat/EG43XkPhHFup2w7kTl44AA) - Request eBooks and audio books, as well as reviews in this group with ~3.5k members & generally a fast response time.
+- [BookThief](https://anonym.to/?http://t.me/BooksThief)
+- [eBooks English](https://anonym.to/?http://t.me/EbooksEnglish)
+- [Ebooks254](https://anonym.to/?hhttp://t.me/Ebooks254)
+- [List of eBook websites, channels & bots](https://anonym.to/?https://t.me/raymondfreesoftware/166702) - Large collection of websites, bots and channels with a wide range of eBooks.
 - [SciHub](https://anonym.to/?http://t.me/scihubot) - Similar to the original Sci-Hub website, sharing is caring!
+- [The Hindu](https://anonym.to/?https://t.me/The_Hindu1) - PDFs of every Indian newspaper every day.
 
+### Telegram Bridge Bots
+- [Telegram to Discord Bridge](https://anonym.to/?https://github.com/TediCross/TediCross) - Self-hosted bot to forward your Telegram messages to Discord.
 
 ### Telegram Bot (Moderation)
-- [Miss Rose](https://anonym.to/?https://missrose.org/guide/getting-started/adding-rose/) - Manage your group easily with the Rose bot. 
+- [Combot](https://anonym.to/?https://combot.org/) - Moderation, analytics, anti-spam, the best trigger system in Telegram and more.
+- [Controller](https://anonym.to/?https://t.me/ControllerBot) - ControllerBot is a feature-rich bot for Telegram channel (not group!) owners.
+- [Miss Rose](https://anonym.to/?https://missrose.org/guide/getting-started/adding-rose/) - Manage your group easily with the Rose bot.
+- [Protectron](https://anonym.to/?https://www.protectronbot.com/) - Telegram anti-spam and group management bot.
+- [Shieldy](https://anonym.to/?https://t.me/shieldy_bot) - A zero-config Telegram bot that fights spam in chats.
+
+**[`^        back to top        ^`](#)**
 
 
-### Telegram Bots
-An overview of Telegram Bots, Channels and scripts can be found via the [telegram-list](https://anonym.to/?https://github.com/goq/telegram-list).
-
-- [@itorrentsearchbot](https://anonym.to/?https://t.me/itorrentsearchbot) - Searchbot which finds torrent and magnet links on 1337x.to by keyword search.
-- [@MusicHuntersBot](https://anonym.to/?https://t.me/MusicHuntersBot) - Another music downloader bot for Telegram.
-- [@vkmusic_bot](https://anonym.to/?https://t.me/vkmusic_bot) - Find and download pretty much any song (uses vkmusic search engine).
-- [aria-telegram-mirror-bot](https://anonym.to/?https://github.com/out386/aria-telegram-mirror-bot) - A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
+## All-in-One (electron based) Messenger Apps (all services in one app!)
+- [Ferdi](https://anonym.to/?hhttps://github.com/getferdi/ferdi) - Ferdi is a messaging browser that allows you to combine your favorite messaging services into one application.
 
 **[`^        back to top        ^`](#)**
 
 ## VPS Hosting Providers ([Bulletproof Hosting](https://en.wikipedia.org/wiki/Bulletproof_hosting))
 - [BlueAngelHost](https://anonym.to/?https://www.blueangelhost.com/) - Ignores DMCA requests, starts with 2,50€ a month, servers are based in Sofia.
 - [CyberHour](https://anonym.to/?https://www.cyberhour.com/) - Rusian based host provider which allows Warez.
-- [FlokiNET](https://anonym.to/?https://flokinet.is/) - Designed for Whistleblower, ignores DMCA requests, starts with 2,99€ a month, servers are located in Bukarest, Reykjavik or Helsinki. Servers are known to be slow.  
+- [FlokiNET](https://anonym.to/?https://flokinet.is/) - Designed for Whistleblower, ignores DMCA requests, starts with 2,99€ a month, servers are located in Bukarest, Reykjavik or Helsinki. Servers are known to be slow.
 - [Hostkey](https://anonym.to/?https://www.hostkey.com/) - Dedicated Servers & more.
 - [HostPlay](https://anonym.to/?https://www.hostplay.com/) - Russian based VPS, starting for 15,44€ a month.
 - [KnownSRV.com](https://anonym.to/?https://knownsrv.com/) - They use offshore data centers in Romania, Luxembourg and the Netherlands.
@@ -2873,7 +2913,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 ## Tidal (Music) Downloader
 - [Athame](https://anonym.to/?https://github.com/fuzzybabybunny/Athame) - (Premium account required) - An extensible music download tool written in C#.
 - [Chimera](https://anonym.to/?https://notabug.org/Aesir/chimera) - Supports: Deezer, Tidal, Qobuz, Napster, GooglePlayMusic, Soundcloud (Limited Support) and works across almost every OS.
-- [RedSea](https://anonym.to/?https://github.com/redsudo/RedSea) - (Premium account required) - Music downloader for Tidal, revived. 
+- [RedSea](https://anonym.to/?https://github.com/redsudo/RedSea) - (Premium account required) - Music downloader for Tidal, revived.
 
 **[`^        back to top        ^`](#)**
 
@@ -2903,12 +2943,12 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 ### Google Translate
 - [DeepL](https://anonym.to/?hhttps://www.deepl.com/) - A privacy friendly alternative to Google's translation engine.
-- [PROMPT Online](https://anonym.to/?https://www.online-translator.com/) - Pretty new service, but aims to provide a privacy friendly translation engine. 
+- [PROMPT Online](https://anonym.to/?https://www.online-translator.com/) - Pretty new service, but aims to provide a privacy friendly translation engine.
 
 
 ### Google reCAPTCHA
-- [TextCaptcha](https://anonym.to/?http://textcaptcha.com/) - A privacy respecting reCAPTCHA alternative. 
-- [SecureImage](https://anonym.to/?https://www.phpcaptcha.org/) - Yet another alternative to Google's reCAPTCHA system which is open source. 
+- [TextCaptcha](https://anonym.to/?http://textcaptcha.com/) - A privacy respecting reCAPTCHA alternative.
+- [SecureImage](https://anonym.to/?https://www.phpcaptcha.org/) - Yet another alternative to Google's reCAPTCHA system which is open source.
 - [PrivacyPass](https://anonym.to/?https://privacypass.github.io/team/) - A privacy-preserving and frustration-reducing alternative to CAPTCHAs which uses [Trust API](https://anonym.to/?https://github.com/dvorak42/trust-token-api) principles. A standalone API is planned.
 
 
@@ -2920,7 +2960,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [DTube](https://anonym.to/?https://d.tube) - D.Tube aims to become an alternative to YouTube that allows you to watch or upload videos on IPFS and share or comment about it on STEEM.
 - [Hooktube](https://anonym.to/?https://hooktube.com/) - Similar to invidio.us.
 - [Minds](https://anonym.to/?https://www.minds.com) - Minds is a open source and decentralized platform for Internet freedom.
-- [INVIDIOUS](https://anonym.to/?https://invidio.us/) - Open source alternative to YouTube. 
+- [INVIDIOUS](https://anonym.to/?https://invidio.us/) - Open source alternative to YouTube.
 - [PeerTube](https://anonym.to/?https://joinpeertube.org/) - A decentralized video hosting network, based on free/libre software.
 - [Vimeo](https://anonym.to/?https://vimeo.com/) - Alternative platform to YouTube.
 - [YouTube MP3 Rip](https://anonym.to/?hhttps://ytmp3.cc/en9/) - Download YouTube music & videos as .MP3 files without registration.
@@ -2938,13 +2978,13 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 ### Google Hangouts
 - [NextCloudTalk](https://anonym.to/?https://nextcloud.com/talk/) - Basically, Hangouts via NextCloud.
-- [Jitsi](https://anonym.to/?https://jitsi.org/) - Decrentralized chat, eMail platform. 
+- [Jitsi](https://anonym.to/?https://jitsi.org/) - Decrentralized chat, eMail platform.
 
 
 ### Google Analytics
 - [Mamoto](https://anonym.to/?https://matomo.org/) - Open source alternative to Google's Analytics.
 - [Open Web Analytics](https://anonym.to/?http://www.openwebanalytics.com/) - Yet another open alternative to Google's analytics.
-- [Go Access](https://anonym.to/?https://goaccess.io/) - Yet another open source alternative. 
+- [Go Access](https://anonym.to/?https://goaccess.io/) - Yet another open source alternative.
 
 
 ### Google form builder
@@ -2967,14 +3007,14 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 
 ### Google Calendar
-- [Radicale](https://anonym.to/?https://radicale.org/) - Open source alternative to Google's Calendar. 
+- [Radicale](https://anonym.to/?https://radicale.org/) - Open source alternative to Google's Calendar.
 - [Baikal](https://anonym.to/?https://github.com/sabre-io/Baikal) - Similar like Posteo, open source and provides calendar functions.
 
 
 #### Google Maps
 - [Maps Metagear](https://anonym.to/?https://maps.metager.de/) - MetaGear also offers a maps service. Fully transparent and foss.
-- [OpenStreetMap](https://anonym.to/?https://www.openstreetmap.org/) - One of the biggest and well-known maps provider, maintained by a large community. 
-- [OSMAnd](https://anonym.to/?https://osmand.net/) - For Android, iOS and basically all platforms. Provides free maps maintained by the community. 
+- [OpenStreetMap](https://anonym.to/?https://www.openstreetmap.org/) - One of the biggest and well-known maps provider, maintained by a large community.
+- [OSMAnd](https://anonym.to/?https://osmand.net/) - For Android, iOS and basically all platforms. Provides free maps maintained by the community.
 - [Maps](https://anonym.to/?https://f-droid.org/packages/com.github.axet.maps/) - An Android app, which is open source and maintained by the community.
 
 
@@ -3002,7 +3042,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 
 ### Google Voice
-- [JMP.chat](https://anonym.to/?https://jmp.chat/) 
+- [JMP.chat](https://anonym.to/?https://jmp.chat/)
 
 **[`^        back to top        ^`](#)**
 
@@ -3018,7 +3058,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 
-### Multi file hoster 
+### Multi file hoster
 - [Premiumize.me](https://anonym.to/?https://www.premiumize.me/) - (_free/paid_) - Handsfree fetching and storing of any file directly into your cloud.
 - [Oboom](https://anonym.to/?https://www.oboom.com/) - (_free/paid_) - Provides up to 50 GB free space, Swiss made!
 - [Smoozed](https://anonym.to/?https://www.smoozed.biz/) - Claims to be the biggest multihoster, encrypted files and fast up-downloads.
@@ -3063,7 +3103,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [Pyline](https://anonym.to/?https://paylinedata.com/) (_US only so far_)
 - [Shopify Payments](https://anonym.to/?https://www.shopify.com/)
 - [Skrill](https://anonym.to/?hhttps://www.skrill.com/)
-- [Square](https://anonym.to/?https://www.ojrq.net) 
+- [Square](https://anonym.to/?https://www.ojrq.net)
 - [Stripe](https://anonym.to/?hhttps://stripe.com/)
 - [TransferWise](https://anonym.to/?https://transferwise.com/)
 - [WePay](https://anonym.to/?https://go.wepay.com/)
@@ -3083,7 +3123,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 ## Anonymous Cryptocurrency Exchanges (without KYC Verification!)
 - [Binance](https://anonym.to/?https://www.binance.com/) - Hong Kong-based exchange.
-- [Changelly](https://anonym.to/?https://itunes.apple.com/us/app/stratis/id1250824734?mt=8) - (_iOS app_) - Cryptocurrency exchange service that allows for instant transfers from 
+- [Changelly](https://anonym.to/?https://itunes.apple.com/us/app/stratis/id1250824734?mt=8) - (_iOS app_) - Cryptocurrency exchange service that allows for instant transfers from
 one cryptocurrency wallet to another across various cryptocurrencies
 - [ShapeShift](https://anonym.to/?https://itunes.apple.com/us/app/shapeshift-crypto-converter/id996569075?mt=8) - (_iOS App_) -  Claims to not collect any data!
 - [Tornado](https://anonym.to/?https://tornado.cash/) - (_Beta!_) - Audit but still in beta!
@@ -3093,7 +3133,7 @@ one cryptocurrency wallet to another across various cryptocurrencies
 
 ## Router Firmware
 - [List of router formware projects](https://anonym.to/?https://en.wikipedia.org/wiki/List_of_router_firmware_projects)
-- [FreshTomato](https://anonym.to/?https://exotic.se/freshtomato/) - [source code ARM](https://anonym.to/?https://bitbucket.org/pedro311/freshtomato-arm) + [source code MIPS](https://anonym.to/?https://bitbucket.org/pedro311/freshtomato-mips) - 
+- [FreshTomato](https://anonym.to/?https://exotic.se/freshtomato/) - [source code ARM](https://anonym.to/?https://bitbucket.org/pedro311/freshtomato-arm) + [source code MIPS](https://anonym.to/?https://bitbucket.org/pedro311/freshtomato-mips) -
 - [OpenWRT OPEN Wireless RouTer (LEDGE)](https://anonym.to/?https://openwrt.org/) - The OpenWrt Project is a Linux operating system targeting embedded devices.
 - [VyOS.io](https://anonym.to/?https://www.vyos.io/) - VyOS is a Linux-based network operating system that provides software-based network routing, firewall, and VPN functionality.
 
@@ -3102,6 +3142,6 @@ one cryptocurrency wallet to another across various cryptocurrencies
 
 
 ## VST plugins
-- [Kvraudio](https://anonym.to/?https://www.kvraudio.com/plugins/newest) 
+- [Kvraudio](https://anonym.to/?https://www.kvraudio.com/plugins/newest)
 
 **[`^        back to top        ^`](#)**
