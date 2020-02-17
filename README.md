@@ -110,14 +110,22 @@ I do not accept any donations or add a sponsorship button for this repository. I
 ## Public DMCA complaints
 - [Lumendatabase.org](https://anonym.to/?https://www.lumendatabase.org/) - A database e.g. Google uses for their blacklist, it provides hundreds of links with movie and tv shows.
 - [UK ISP Court Orders](https://anonym.to/?http://www.ukispcourtorders.co.uk/) - A incomplete list of websites recently taken down in the UK by the High Court.
-- [Counterfeit and Piracy Watch List (.PDF)](https://anonym.to/https://torrentfreak.com/images/tradoc_157564.pdf) - A list from 2018 provided by Europol and others, to watch the current piracy status.
+- [Counterfeit and Piracy Watch List (.PDF)](https://anonym.to/?https://torrentfreak.com/images/tradoc_157564.pdf) - A list from 2018 provided by Europol and others, to watch the current piracy status.
 
 **[`^        back to top        ^`](#)**
 
 ## Team Drives
-- [Google Team Drive](https://anonym.to/https://teamdrive.mfoxx.workers.dev/) - Create Google Team Drive where you can share your files with others.
+- [Google Team Drive](https://anonym.to/?https://teamdrive.mfoxx.workers.dev/) - Create Google Team Drive where you can share your files with others.
 
 **[`^        back to top        ^`](#)**
+
+
+## Checksum verification
+- [OpenHashTab](https://anonym.to/?https://github.com/namazso/OpenHashTab) - File hashing shell extension for Windows.
+- [GtkHash](https://anonym.to/?https://github.com/tristanheaven/gtkhash) - A cross-platform desktop utility for computing message digests or checksums
+
+**[`^        back to top        ^`](#)**
+
 
 ## Social Media Alternatives
 - [Framapiaf](https://anonym.to/?https://framapiaf.org/about/) - Mastodon instance of [Framasoft](https://anonym.to/?https://framasoft.org) - A nonprofit organization focusing on free-software alorisation.
@@ -146,7 +154,10 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## Penetration Testing Distributions
-* [Android Tamer](https://anonym.to/?https://androidtamer.com/) - OS for Android Security Professionals. Includes all the tools required for Android security testing.
+* [Android Tamer](https://anonym.to/?https://androidtamer.com/) - OS for Android Security Professionals. Includes all the tools required for
+
+
+ security testing.
 * [ArchStrike](https://anonym.to/?https://archstrike.org/) - Arch GNU/Linux repository for security professionals and enthusiasts.
 * [AttifyOS](https://anonym.to/?https://github.com/adi0x90/attifyos) - GNU/Linux distribution focused on tools useful during Internet of Things (IoT) security assessments.
 * [BackBox](https://anonym.to/?https://backbox.org/) - Ubuntu-based distribution for penetration tests and security assessments.
@@ -244,7 +255,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ### Decentralized VPN
 - [radvpn](https://anonym.to/?https://github.com/mehrdadrad/radvpn) - Decentralized VPN
-- [Mysterium Network](https://anonym.to/?hhttps://mysterium.network/vpn/) - [source code](https://anonym.to/?https://github.com/Mysterium) Claims to be world’s 1st decentralized free VPN which uses OpenVPN & WireGuard.
+- [Mysterium Network](https://anonym.to/?https://mysterium.network/vpn/) - [source code](https://anonym.to/?https://github.com/Mysterium) Claims to be world’s 1st decentralized free VPN which uses OpenVPN & WireGuard.
 
 **[`^        back to top        ^`](#)**
 
@@ -357,7 +368,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Alexdang](https://anonym.to/?https://alexdang.info/) - MP3 & lossless music.
 - [mp3ogg](https://anonym.to/?https://mp3ogg.ru/) - (GeoIP check) - (RU) - Russian music, Electronic, Pop, Rock, Metal, Jazz & Charts you name it!
 - [Clubbers](https://anonym.to/?https://clubbers.pl/) - (PL) - Various music.
-- [NewAlbumReleases](https://anonym.to/?hhttps://newalbumreleases.net/) - A big place for music, various artists and genre.
+- [NewAlbumReleases](https://anonym.to/?https://newalbumreleases.net/) - A big place for music, various artists and genre.
 - [tut-audio](https://anonym.to/?https://tut-audio.ru) - (RU) - A popular Russian website to get MP3 files.
 - [MinimalFreaks](https://anonym.to/?https://minimalfreaks.pw/) - As the website url tells, Minimal Music.
 - [Xoamoelmosh Blogspot](https://anonym.to/?https://yoamoelmosh.blogspot.com/) - Hardcore, Metal & Beatdown etc.
@@ -401,7 +412,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Cuckoo](https://anonym.to/?https://github.com/cuckoosandbox/cuckoo) - Open source automated malware analysis system.
 - [Qubes OS](https://anonym.to/?https://www.qubes-os.org/) - Qubes OS is a security-oriented operating system.
 - [SIFT](https://anonym.to/?https://digital-forensics.sans.org/community/downloads) - Forensic workstation made by SANS.
-- [Security related Operating Systems @ Rawsec](https://anonym.to/?hhttp://list.rawsec.ml/operating_systems.html) - (`insecure`) - Complete list of security related operating systems.
+- [Security related Operating Systems @ Rawsec](https://anonym.to/?http://list.rawsec.ml/operating_systems.html) - (`insecure`) - Complete list of security related operating systems.
 - [Security @ Distrowatch](http://distrowatch.com/search.php?category=Security) - (`insecure`) - Website dedicated to talking about, reviewing, and keeping up to date with open source operating systems.
 - [Tails](https://anonym.to/?https://tails.boum.org/) - Tails is a live operating system that you can start on almost any computer from a USB stick or a DVD.
 
@@ -962,7 +973,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [SceneSource](https://anonym.to/?https://scnsrc.me/) - WordPress powered website dedicated to bringing you the latest info on new scene releases
 - [Snahp Forum](https://anonym.to/?https://forum.snahp.it/) - (registration disabled) - A popular forum which provides links to HD rips & software (mostly mega & zippyshare).
 - [Soft98.iR](https://anonym.to/?https://soft98.ir/software/) - (IR) - All Software Download in Only One Website.
-- [SolidShare](https://anonym.to/?https://www.solidshare.net/) - (TR) - Software Portal.
+- [SoftArchive – SANET](https://anonym.to/?http://sanet.ws/) - SoftArchive is the oldest and most reliable resource for direct downloa- [SolidShare](https://anonym.to/?https://www.solidshare.net/) - (TR) - Software Portal.
 - [Tekspert](https://anonym.to/?https://tekspert.se/) - (EN/US) - Software forum.
 - [TNCTR](https://anonym.to/?https://www.tnctr.com/) - (TR) - Turkish Network Community for software, ebooks, apps, portable, AIO & coding.
 - [UpTown](https://anonym.to/?https://en.uptodown.com/) - Software portal.
@@ -1530,7 +1541,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## Music
-- [ddl-music.to](https://anonym.to/?http://ddl-music.to/) - (_Cloudflare german IP block/check_) - `Ger` - German music platform to share music.
+- [ddl-music.to](https://anonym.to/?http://ddl-music.to/) - (_Cloudflare german IP block/check_) - `Ger` - German music platform to share
 - [94hiphop](https://anonym.to/?http://94hiphop.com/) - (`insecure`) - Download Free Hip Hop Albums!
 - [Bandcamp](https://anonym.to/?https://www.bandcamp.com/) - Spotify alternative, some free + paid (flac) music (DRM free).
 - [Balaton Sound aka per-fect](https://anonym.to/?https://per-fect.nl) - Listen to songs (no directl dl!).
@@ -1795,7 +1806,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [W10-Digital-License-Activation-Script-4](https://anonym.to/?https://github.com/trungx/W10-Digital-License-Activation-Script-4) - Activate the Windows 10 permanently with digital License.
 
 ### Bypass Windows 7 ESU
-- [Bypass Windows 7 Extended Security Updates Eligibility](https://anonym.to/?hhttps://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606/) another alternative is to work with [micro patches](https://anonym.to/?https://blog.0patch.com/2019/09/keeping-windows-7-and-windows-server.html)
+- [Bypass Windows 7 Extended Security Updates Eligibility](https://anonym.to/?https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606/) another alternative is to work with [micro patches](https://anonym.to/?https://blog.0patch.com/2019/09/keeping-windows-7-and-windows-server.html)
 
 **[`^        back to top        ^`](#)**
 
@@ -1885,7 +1896,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [0Day releases](https://anonym.to/?https://0dayreleases.com/category/video-tutorial/) - 0Day releases for Games, Video Tutorials, TV Shows & more.
 - [CG Persia Forum](https://anonym.to/?https://cgpersia.com/) - EBooks, tutorials & courses.
 - [CGPeers](https://anonym.to/?https://www.cgpeers.com/) - Ebooks, courses and trainings.
-- [Coderprog](https://anonym.to/?hhttps://coderprog.com/) - Developer courses, trainings and books among some tutorial related books.
+- [Coderprog](https://anonym.to/?https://coderprog.com/) - Developer courses, trainings and books among some tutorial related books.
 - [CourseClub.me](https://anonym.to/?https://courseclub.me/) - CourseClub provides courses which you can download for e.g. Lynda, Pluralsight, CBG Nuggets & more.
 - [CourseHunter](https://anonym.to/?https://coursehunters.net/) - Free tutorials and video tutorials.
 - [DownDuck](https://anonym.to/?https://downduck.eu/video-tutorials/) - Various video tutorials for developers.
@@ -1893,10 +1904,10 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Ebizcourses.com](https://anonym.to/?https://ebizcourses.com) -  A membership site that sharing all the MMO courses from big authors around of the world, all in one place.
 - [eLearning](https://anonym.to/?https://www.torontopubliclibrary.ca) - Cisco, Mango, HSTalks and other eBook courses for free.
 - [ForCoder.su](https://anonym.to/?https://forcoder.su/) - Coding related courses and tutorials.
-- [FreeCourseLab](https://anonym.to/?https://freecourselab.com/) + ([Mirror](https://www.freecoursesonline.me/?1))- Download Paid Udemy Courses Free.
+- [FreeCourseLab](https://anonym.to/?https://freecourselab.com/) + ([Mirror](https://www.freecoursesonline.me/?1)) - Download Paid Udemy Courses Free.
 - [FreeCourses](https://anonym.to/?http://freecoursesite.com/) - Alternative to freetutorials.us, provides similar service.
 - [FreeCourseSite.com](https://anonym.to/?https://freecoursesite.com/) - Provides Udemy courses for free.
-- [FTU Forum](https://anonym.to/?https://ftuforum.com/) - Forum for eBooks, courses and tutorials.
+- [FTU Forum](https://anonym.to/?https://ftuforum.com/) - Forum for eBooks, Udemy courses and tutorials.
 - [NulledPremium](https://anonym.to/?https://nulledpremium.com/) - Paid Graphics, Themes, Plugins, Music For Free – Premium Graphics, Themes, Plugins, Music for free.
 - [O’Reilly](https://anonym.to/?http://www.oreilly.com/?cmp=af-npa--home_cj_11246204_7018660) - (`insecure`) - A platform to download books, magazines, and tutorials for free.
 - [RealMVP](https://anonym.to/?https://realmvp.org/) - New eBooks, video and written tutorials.
@@ -2041,22 +2052,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 
-## P2P-Networks & IPTV Apps
-- [eDonkey network](https://anonym.to/?https://en.wikipedia.org/wiki/EDonkey_network) - A decentralized, mostly server-based, peer-to-peer file sharing network + [Server Status](https://anonym.to/?https://edk.peerates.net/servers/online-servers-list)
-- [FastTrack](https://anonym.to/?https://en.wikipedia.org/wiki/FastTrack) - Protocol used by the Kazaa, Grokster, iMesh, and Morpheus file sharing programs
-- [Fildo](https://anonym.to/?https://fildo.net/android/en/#) - Android music streaming app which fetches files from third party MP3 search engines.
-- [Gnutella](https://anonym.to/?https://en.wikipedia.org/wiki/Gnutella) - P2P network behind the popular LimeWire file sharing app
-- [IPFS - Distributed Web](https://anonym.to/?https://en.wikipedia.org/wiki/InterPlanetary_File_System) - Peer-to-peer distributed file system that seeks to connect all computing devices with the same system of files
-- [Kad](https://anonym.to/?https://en.wikipedia.org/wiki/Kad_network) - The Kad network is a peer-to-peer (P2P) - network which implements the Kademlia P2P overlay protocol.
-- [Napster](https://anonym.to/?https://en.wikipedia.org/wiki/Napster) - Peer-to-peer file sharing Internet service that emphasized sharing digital audio files, typically audio songs, encoded in MP3 format.
-- [Peer-to-peer file sharing](https://anonym.to/?https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing) - Detailed Wikipedia page about file sharing
-- [TiviMate IPTV player](https://anonym.to/?https://play.google.com/store/apps/details?id=ar.tvplayer.tv) - A popular Android app for watching IPTV on Android set-top boxes.
-- [YouTube Vanced](https://anonym.to/?https://vanced.app/) - Vanced is a well known modded version of YouTube with many features such as adblocking and background playback and many more.
-- [Xtream Codes](https://play.google.com/store/apps/details?id=com.nst.iptvsmarterstvbox) - Smarters App allows Android users to use IPTV, it offers free and paid content.
-
-**[`^        back to top        ^`](#)**
-
-
 ## Ripping, Transcoding, Converting, Encoding
 - [Automatic Ripping Machine](https://anonym.to/?https://b3n.org/automatic-ripping-machine/) - The A.R.M. (Automatic Ripping Machine) - detects the insertion of an optical disc, identifies the type of media and autonomously performs the appropriate action
 - [DVDFab](https://anonym.to/?https://www.dvdfab.cn/) - DVD/Blu-ray ripping tool, alternative use AnyDVD HD.
@@ -2100,49 +2095,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 
-## Android - Mobile App Websites
-- [4PDA.ru](https://anonym.to/?https://4pda.ru/forum/index.php?act=idx) - 4PDA is the biggest Russian forum about mobile devices. You can find endless amount of APKs and Mobile software there. For download registration is required, [this might help you to solve the captchas](https://anonym.to/?https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html).
-- [AiOwares.com](https://anonym.to/?https://www.aiowares.com/) - RePacks, mods and other software.
-- [Android Republic](https://anonym.to/?https://androidrepublic.org/forums/public-mods.24/) - Android Republic is similar to Mobilism, provides mirrors to various apks.
-- [Android Zone](https://anonym.to/?https://android-zone.ws/) - koumkouat website for Android APK's/Games/GPS.
-- [Android-1](https://anonym.to/?https://android-1.com/en/programmy/) - Provides apps & app mods.
-- [AnYme](https://anonym.to/?https://github.com/zunjae/anYme) - Unofficial Anime App for MyAnimeList.
-- [APK Mania](https://anonym.to/?https://apkmaniafull.com) - (needs adblocker) - Apps, Games, Themes, Wallpapers & Widgets.
-- [APK4Free](https://anonym.to/?https://apk4free.net/) - Android apk mirrors and patches.
-- [APKDot](https://anonym.to/?https://apkdot.com/) - APKMirror clone website.
-- [Apkmos](https://anonym.to/?https://apkmos.com/) - The Best App Store For Download Android Apps, Android Games, Android Themes, Android Wallpapers And Much More For Your Android Smartphone.
-- [AppCake](https://anonym.to/?https://www.appcake.net/) - AppCake is also known as AC Market and provides free apks.
-- [Baltagy's Website](https://anonym.to/?https://baltagy1.blogspot.com/) - Apps, Mods, RePacks and portable releases.
-- [Cygery AdSkip for YouTube](https://anonym.to/?https://labs.xda-developers.com/store/app/com.cygery.adskip.xda) - Automatically click on the "Skip ad" button in the YouTube™ app when it appears.
-- [FilePursuit Pro](https://anonym.to/?https://play.google.com/store/apps/details?id=com.filepursuit.filepursuitpro) - FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
-- [Haxoff](https://anonym.to/?https://haxoff.net/) - Haxoff provides cracked games & Android APK's.
-- [HiAppHere](https://anonym.to/?https://www.hiapphere.com/app/index/index?sort=update)
-- [MyJDownloader](https://anonym.to/?https://play.google.com/store/apps/details?id=org.appwork.myjdandroid&hl=en_US) - Allows you to remote control your desktop JDownloader from your pocket while you're on the go.
-- [nzb360](http://nzb360.com/) - (`insecure`) - "Android's nzb360" is a full-featured NZB manager that focuses on providing the best experience possible for controlling all of your usenet needs.
-- [Ombi](https://anonym.to/?https://play.google.com/store/apps/details?id=com.tidusjar.Ombi) - Companion app for Ombi to request Plex content
-- [Perfect Player](https://anonym.to/?https://play.google.com/store/apps/details?id=com.niklabs.pp) - Perfect Player is set-top box style IPTV/Media player for watching videos on TVs, tablets and smartphones.
-- [Platin Mods](https://anonym.to/?https://platinmods.com/) - As the name says, provides several mods for apks's & games.
-- [ProSmart](http://prosmart.by/) - (`insecure`) - ProSmart is a russian site which provides several apks, mods and games.
-- [Release-APK](https://anonym.to/?https://release-apk.com/) - Balatan's APK page.
-- [Tachiyomi](https://anonym.to/?https://github.com/inorichi/tachiyomi) - Tachiyomi is a free and open source manga reader for Android.
-- [Tautulli Remote](https://anonym.to/?https://play.google.com/store/apps/details?id=com.williamcomartin.plexpyremote) - Mobile version of Tautilli for monitoring Plex on the go
-- [Trashbox](https://anonym.to/?https://trashbox.ru/) - Trashbox is the russian Mobilism.
-- [YMusic](https://anonym.to/?https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) - YouTube Music Player & Downloader.
-
-**[`^        back to top        ^`](#)**
-
-
-## Android calling apps
-- [dPhone](https://anonym.to/?https://dphone.app/) - Claims to be the most secure calling app.
-
-
-### Android License Verification Patcher
-- [LuckyPatcher](https://anonym.to/?https://www.luckypatchers.com/download/) - Patch applications, remove ads and install a modded Google Play Store to bypass Google's license verification.
-- [Jasi Patcher (also known as Uret Patcher)](https://anonym.to/?https://jaspreetsingh.store/jasi-patcher/) + [[ToolKit](https://anonym.to/?https://jaspreetsingh.store/index.php/jasi-toolkit/)] - Patching tool for android intended to bypass restrictions in the apps & games, it includes custom patches, support patches, universal patches, offline emulation, spoof, hooks, tools and utilities.
-
-**[`^        back to top        ^`](#)**
-
-
 ### Streaming Apps
 - [99kubo](https://anonym.to/?http://www.99kubo.tv) - (needs ad-blocker) - (`insecure`) - 99Kubo is a paradise for movie buffs,couch potatoes & social networkers.
 - [Anime Molecules](https://anonym.to/?https://animemolecules.com/) - (needs ad-blocker) - Yet another anime streaming app.
@@ -2165,10 +2117,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Liveflix](https://anonym.to/?https://store.ioob.pw/) - The app allows to watch your favorite channels easily, with a very simple UI.
 - [MediaBox HD](https://anonym.to/?https://mediaboxhd.net/) - Provides tv shows, movies & more on Android + iOS.
 - [Mega Shows](https://anonym.to/?https://megashowsapk.com/) - Watch & Download your favorite movies and TV shows.
-- [Mobdro](https://anonym.to/?https://forum.mobilism.org/viewtopic.php?f=429&t=2720792&hilit=mobdro) - Mobdro constantly searches the web for the best free video streams and brings them to your device.
-- [Orion TV](https://anonym.to/?https://play.google.com/store/apps/details?id=rs.maketv.oriontv) - (SH) - Allows you to watch live TV channels and recorded selected shows (72h Catch-up TV).
-- [PhoenixTV](https://anonym.to/?https://www.phoenixtv-distribution.com/) - Morpheus Fork
-- [RevTV](https://anonym.to/?https://lotstv.com/) - (es-ES) - Live TV, Movies, TV Shows in Spanish
+- [Mobdro](https://anonym.to/?https://forum.mobilism.org/viewtopic.php?f=429&t=2720792&hilit=mobdro) - Mobdro constantly searches the web for the best free video streams and brings them to your- [RevTV](https://anonym.to/?https://lotstv.com/) - (es-ES) - Live TV, Movies, TV Shows in Spanish
 - [Streaming Apps Official Links / How to use Trakt & Real Debrid (self.TTVreborn)](https://old.reddit.com/r/TTVreborn/comments/9xxng0/streaming_apps_official_links_how_to_use_trakt/)
 - [TeaTV](https://anonym.to/?https://teatv.net/) - App for Android, Windows, and macOS for watching 1080p movies and TV shows for free.
 - [Terrarium TV Reborn sub reddit](https://anonym.to/?https://old.reddit.com/r/TTVreborn) - A place to talk about streaming apps.
@@ -2661,7 +2610,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [SMSToolsOnline](https://anonym.to/?https://smstools.online/) - Yet another free SMS service.
 - [SMS.INK](https://anonym.to/?https://sms.ink/) - `RU` - Share SMS.
 - [hs3x](https://anonym.to/?https://hs3x.com/) - Receive SMS Online For Free
-- [Receive-SMS-Now](https://anonym.to/?hhttps://receive-sms-now.com/) - Receive SMS Online for FREE and with NO Registration.
+- [Receive-SMS-Now](https://anonym.to/?https://receive-sms-now.com/) - Receive SMS Online for FREE and with NO Registration.
 - [Online SIM](https://anonym.to/?https://onlinesim.ru/) - `RU` - Russian SMS service.
 - [Receive-sms-online.com](https://anonym.to/?https://receive-sms-online.com/) - Another free sms provider.
 - [GetFreeSMSNumber](https://anonym.to/?https://getfreesmsnumber.com/) - Free Receive SMS Online.
@@ -2686,7 +2635,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## All-in-One (electron based) Messenger Apps (all services in one app!)
-- [Ferdi](https://anonym.to/?hhttps://github.com/getferdi/ferdi) - Ferdi is a messaging browser that allows you to combine your favorite messaging services into one application.
+- [Ferdi](https://anonym.to/?https://github.com/getferdi/ferdi) - Ferdi is a messaging browser that allows you to combine your favorite messaging services into one application.
 
 **[`^        back to top        ^`](#)**
 
@@ -2861,11 +2810,11 @@ I do not accept any donations or add a sponsorship button for this repository. I
 ### Android: "Google Free" systems - privacy respecting & hardened OS
 - [GraphenOS](https://anonym.to/?https://grapheneos.org/) - Hardened OS for e.g. Google Pixel.
 - [LineageOS](https://anonym.to/?https://lineageos.org/) - LineageOS, one of the biggest an well maintained alternative to Google's AOSP. Google apps (short: gapps) can be optionally installed.
-- [Replicaant](https://anonym.to/?hhttps://replicant.us/) - Replicant is a fully free Android distribution running on several devices, a free software mobile operating system putting the emphasis on freedom and privacy/security.
+- [Replicaant](https://anonym.to/?https://replicant.us/) - Replicant is a fully free Android distribution running on several devices, a free software mobile operating system putting the emphasis on freedom and privacy/security.
 
 
 ### Google Translate
-- [DeepL](https://anonym.to/?hhttps://www.deepl.com/) - A privacy friendly alternative to Google's translation engine.
+- [DeepL](https://anonym.to/?https://www.deepl.com/) - A privacy friendly alternative to Google's translation engine.
 - [PROMPT Online](https://anonym.to/?https://www.online-translator.com/) - Pretty new service, but aims to provide a privacy friendly translation engine.
 
 
@@ -2886,7 +2835,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [INVIDIOUS](https://anonym.to/?https://invidio.us/) - Open source alternative to YouTube.
 - [PeerTube](https://anonym.to/?https://joinpeertube.org/) - A decentralized video hosting network, based on free/libre software.
 - [Vimeo](https://anonym.to/?https://vimeo.com/) - Alternative platform to YouTube.
-- [YouTube MP3 Rip](https://anonym.to/?hhttps://ytmp3.cc/en9/) - Download YouTube music & videos as .MP3 files without registration.
+- [YouTube MP3 Rip](https://anonym.to/?https://ytmp3.cc/en9/) - Download YouTube music & videos as .MP3 files without registration.
 
 ### Google Domains
 - [Namecheap](https://anonym.to/?https://www.namecheap.com/) - Namecheap accepts Bitcoin and offers domain registration, hosting, email, SSL certs, and a variety of other products.
@@ -2915,7 +2864,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ### Google GMail
-- [Dismail](https://anonym.to/?hhttps://dismail.de/) - Dismail provides a reliable eMail service wich is cheap.
+- [Dismail](https://anonym.to/?https://dismail.de/) - Dismail provides a reliable eMail service wich is cheap.
 - [mailbox.org](https://anonym.to/?https://mailbox.org/) - First of his kind, fully transparent eMail provider.
 - [Posteo](https://anonym.to/?https://posteo.de/) - A german eMail service which offers a transparent eMail service.
 
@@ -3025,9 +2974,9 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Payoneer](https://anonym.to/?https://www.payoneer.com/)
 - [Pyline](https://anonym.to/?https://paylinedata.com/) (_US only so far_)
 - [Shopify Payments](https://anonym.to/?https://www.shopify.com/)
-- [Skrill](https://anonym.to/?hhttps://www.skrill.com/)
+- [Skrill](https://anonym.to/?https://www.skrill.com/)
 - [Square](https://anonym.to/?https://www.ojrq.net)
-- [Stripe](https://anonym.to/?hhttps://stripe.com/)
+- [Stripe](https://anonym.to/?https://stripe.com/)
 - [TransferWise](https://anonym.to/?https://transferwise.com/)
 - [WePay](https://anonym.to/?https://go.wepay.com/)
 - [WorldPay](https://anonym.to/?https://www.worldpay.com/)

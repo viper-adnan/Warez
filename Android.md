@@ -68,6 +68,7 @@ DoH: https://doh.dnswarden.com/uncensored
 ````
 
 *⚠️ Do not use Cloudflare, Quad9, Google or your ISP's DNS, as they're run by big corporations | [SOURCE](https://old.reddit.com/r/sevengali/comments/8fy15e/dns_cloudflare_quad9_etc) ⚠️
+
 *⚠️ Don't trust TorstenJahnke and nor his spyware DNS (Keweon DNS) | [SOURCE](https://t.me/NoGoolag/786) ⚠️
 
 
@@ -82,8 +83,79 @@ DoH: https://doh.dnswarden.com/uncensored
 - [Nebulo DNS](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen&hl=en) + [F-Droid Repo](https://fdroid.frostnerd.com/fdroid/repo)
 
 
+## File splitter
+- [B1 Archiver zip rar unzip](https://play.google.com/store/apps/details?id=org.b1.android.archiver)
+
+
+
 ## F-Droid
 
 ## Known Repositories
 - [Official Collection](https://forum.f-droid.org/t/known-repositories/721)
 - [IzzyonDroid Collection](https://android.izzysoft.de/applists.php)
+
+
+
+## Android - Mobile App Websites
+- [4PDA.ru](https://anonym.to/?https://4pda.ru/forum/index.php?act=idx) - 4PDA is the biggest Russian forum about mobile devices. You can find endless amount of APKs and Mobile software there. For download registration is required, [this might help you to solve the captchas](https://anonym.to/?https://doorsgeek.blogspot.com/2015/08/4pdaru-loginregister-captcha-tutorial.html).
+- [AiOwares.com](https://anonym.to/?https://www.aiowares.com/) - RePacks, mods and other software.
+- [Android Republic](https://anonym.to/?https://androidrepublic.org/forums/public-mods.24/) - Android Republic is similar to Mobilism, provides mirrors to various apks.
+- [Android Zone](https://anonym.to/?https://android-zone.ws/) - koumkouat website for Android APK's/Games/GPS.
+- [Android-1](https://anonym.to/?https://android-1.com/en/programmy/) - Provides apps & app mods.
+- [AnYme](https://anonym.to/?https://github.com/zunjae/anYme) - Unofficial Anime App for MyAnimeList.
+- [APK Mania](https://anonym.to/?https://apkmaniafull.com) - (needs adblocker) - Apps, Games, Themes, Wallpapers & Widgets.
+- [APK4Free](https://anonym.to/?https://apk4free.net/) - Android apk mirrors and patches.
+- [APKDot](https://anonym.to/?https://apkdot.com/) - APKMirror clone website.
+- [Apkmos](https://anonym.to/?https://apkmos.com/) - The Best App Store For Download Android Apps, Android Games, Android Themes, Android Wallpapers And Much More For Your Android Smartphone.
+- [AppCake](https://anonym.to/?https://www.appcake.net/) - AppCake is also known as AC Market and provides free apks.
+- [Baltagy's Website](https://anonym.to/?https://baltagy1.blogspot.com/) - Apps, Mods, RePacks and portable releases.
+- [Cygery AdSkip for YouTube](https://anonym.to/?https://labs.xda-developers.com/store/app/com.cygery.adskip.xda) - Automatically click on the "Skip ad" button in the YouTube™ app when it appears.
+- [FilePursuit Pro](https://anonym.to/?https://play.google.com/store/apps/details?id=com.filepursuit.filepursuitpro) - FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
+- [Haxoff](https://anonym.to/?https://haxoff.net/) - Haxoff provides cracked games & Android APK's.
+- [HiAppHere](https://anonym.to/?https://www.hiapphere.com/app/index/index?sort=update)
+- [MyJDownloader](https://anonym.to/?https://play.google.com/store/apps/details?id=org.appwork.myjdandroid&hl=en_US) - Allows you to remote control your desktop JDownloader from your pocket while you're on the go.
+- [nzb360](http://nzb360.com/) - (`insecure`) - "Android's nzb360" is a full-featured NZB manager that focuses on providing the best experience possible for controlling all of your usenet needs.
+- [Ombi](https://anonym.to/?https://play.google.com/store/apps/details?id=com.tidusjar.Ombi) - Companion app for Ombi to request Plex content
+- [Perfect Player](https://anonym.to/?https://play.google.com/store/apps/details?id=com.niklabs.pp) - Perfect Player is set-top box style IPTV/Media player for watching videos on TVs, tablets and smartphones.
+- [Platin Mods](https://anonym.to/?https://platinmods.com/) - As the name says, provides several mods for apks's & games.
+- [ProSmart](http://prosmart.by/) - (`insecure`) - ProSmart is a russian site which provides several apks, mods and games.
+- [Release-APK](https://anonym.to/?https://release-apk.com/) - Balatan's APK page.
+- [Tachiyomi](https://anonym.to/?https://github.com/inorichi/tachiyomi) - Tachiyomi is a free and open source manga reader for Android.
+- [Tautulli Remote](https://anonym.to/?https://play.google.com/store/apps/details?id=com.williamcomartin.plexpyremote) - Mobile version of Tautilli for monitoring Plex on the go
+- [Trashbox](https://anonym.to/?https://trashbox.ru/) - Trashbox is the russian Mobilism.
+- [YMusic](https://anonym.to/?https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) - YouTube Music Player & Downloader.
+
+
+**[`^        back to top        ^`](#)**
+
+## Streaming apps (_needs ad-blocker and/or Ad-Free APK version!_)
+- [KingoTV](https://anonym.to/?https://kingotv.net/) - Your Portable Entertainment Gateway! Watch 500+ Live HD Channels and 10,000+ Hours of Movies Series Shows for Free!
+- [Orion TV](https://anonym.to/?https://play.google.com/store/apps/details?id=rs.maketv.oriontv) - (SH) - Allows you to watch live TV channels and recorded selected shows (72h Catch-up TV).
+- [PhoenixTV](https://anonym.to/?https://www.phoenixtv-distribution.com/) - Morpheus Fork
+- [ZippyTV](http://www.zippytv.mobi/) - (_Needs adblock/ad-free version_) - Watch 500+ Live HD Channels, Movies & Tv Series for Free! Start Streaming Now!
+- [airy.tv](https://airy.tv/) - Wireless TV you can access ANYTIME, ANYWHERE, for FREE.
+
+## Android calling apps
+- [dPhone](https://anonym.to/?https://dphone.app/) - Claims to be the most secure calling app.
+
+
+### Android License Verification Patcher
+- [LuckyPatcher](https://anonym.to/?https://www.luckypatchers.com/download/) - Patch applications, remove ads and install a modded Google Play Store to bypass Google's license verification.
+- [Jasi Patcher (also known as Uret Patcher)](https://anonym.to/?https://jaspreetsingh.store/jasi-patcher/) + [[ToolKit](https://anonym.to/?https://jaspreetsingh.store/index.php/jasi-toolkit/)] - Patching tool for android intended to bypass restrictions in the apps & games, it includes custom patches, support patches, universal patches, offline emulation, spoof, hooks, tools and utilities.
+
+**[`^        back to top        ^`](#)**
+
+## P2P-Networks & IPTV Apps
+- [eDonkey network](https://anonym.to/?https://en.wikipedia.org/wiki/EDonkey_network) - A decentralized, mostly server-based, peer-to-peer file sharing network + [Server Status](https://anonym.to/?https://edk.peerates.net/servers/online-servers-list)
+- [FastTrack](https://anonym.to/?https://en.wikipedia.org/wiki/FastTrack) - Protocol used by the Kazaa, Grokster, iMesh, and Morpheus file sharing programs
+- [Fildo](https://anonym.to/?https://fildo.net/android/en/#) - Android music streaming app which fetches files from third party MP3 search engines.
+- [Gnutella](https://anonym.to/?https://en.wikipedia.org/wiki/Gnutella) - P2P network behind the popular LimeWire file sharing app
+- [IPFS - Distributed Web](https://anonym.to/?https://en.wikipedia.org/wiki/InterPlanetary_File_System) - Peer-to-peer distributed file system that seeks to connect all computing devices with the same system of files
+- [Kad](https://anonym.to/?https://en.wikipedia.org/wiki/Kad_network) - The Kad network is a peer-to-peer (P2P) - network which implements the Kademlia P2P overlay protocol.
+- [Napster](https://anonym.to/?https://en.wikipedia.org/wiki/Napster) - Peer-to-peer file sharing Internet service that emphasized sharing digital audio files, typically audio songs, encoded in MP3 format.
+- [Peer-to-peer file sharing](https://anonym.to/?https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing) - Detailed Wikipedia page about file sharing
+- [TiviMate IPTV player](https://anonym.to/?https://play.google.com/store/apps/details?id=ar.tvplayer.tv) - A popular Android app for watching IPTV on Android set-top boxes.
+- [YouTube Vanced](https://anonym.to/?https://vanced.app/) - Vanced is a well known modded version of YouTube with many features such as adblocking and background playback and many more.
+- [Xtream Codes](https://play.google.com/store/apps/details?id=com.nst.iptvsmarterstvbox) - Smarters App allows Android users to use IPTV, it offers free and paid content.
+
+**[`^        back to top        ^`](#)**

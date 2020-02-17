@@ -711,6 +711,12 @@ Downloads albums in bulk.
 **[`^        back to top        ^`](#)**
 
 
+## Video Cutting
+- [lossless-cut](https://anonym.to/?https://github.com/mifi/lossless-cut) - Save space by quickly and losslessly trimming video and audio files.
+
+**[`^        back to top        ^`](#)**
+
+
 ## Whistleblower ultilities
 - [Secure Connect by Tutanota](https://anonym.to/?http://secureconnect.tutao.de/contactform/demo) - Encrypts your documents local.
 - [SecureDrop](https://anonym.to/?http://securedrop.org/) - Share documents securely with these organizations.

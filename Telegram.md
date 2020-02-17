@@ -66,12 +66,26 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 ### Telgram channel for file sharing
-- [@gdriveupme_bot](https://anonym.to/?https://github.com/aryanvikash/Google-Drive-Uploader)
 - [@itorrentsearchbot](https://anonym.to/?https://t.me/itorrentsearchbot) - Searchbot which finds torrent and magnet links on 1337x.to by keyword search.
 - [@teletransferxbot](https://anonym.to/?https://t.me/teletransferxbot) - TeleTransferX (_currently not working due to lack of support from the community_) down/uploader and search bot.
 - [aria-telegram-mirror-bot](https://anonym.to/?https://github.com/out386/aria-telegram-mirror-bot) - A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
 - [AutoRcloneEng](https://anonym.to/?https://t.me/AutoRcloneEng) - The official Rclone Telegram channel.
+
+**[`^        back to top        ^`](#)**
+
+## Telegram Google Drive Bots
+- [@gdriveupme_bot](https://anonym.to/?https://github.com/aryanvikash/Google-Drive-Uploader)
+- [@botxupdates](https://anonym.to/?https://t.me/botxupdates) - Uploads files to your Google Drive. Just send file or direct download link.
+- [@gduploadbot](https://anonym.to/?https://t.me/gduploadbot) - Remote uploads a link/file and mirrors it to you.
+
+
+## Telegram Torrent Bots
 - [Torrent Drive](https://anonym.to/?https://t.me/torrentdrive_bot?do=open_link) - Gives you Google Drive link for the torrent files you send.
+
+**[`^        back to top        ^`](#)**
+
+## Telegram Subtitle Bots
+- [@piracy_bot](https://anonym.to/?https://t.me/piracy_bot) - A imple bot which will give you subtitles from various Streaming sites e.g. Zee5.com and Jiocinema.com.
 
 **[`^        back to top        ^`](#)**
 
@@ -95,20 +109,28 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@HDaudio](https://anonym.to/?hhttps://t.me/hdaudio) - High Definition Audio, 24 bit 48 kHz and up.
 - [@highreschannell](https://anonym.to/?https://t.me/highreschannell) - High resolution music!
 - [@indianflacsongs](https://anonym.to/?https://t.me/indianflacsongs) - `HI` - Flac Songs Of Telugu, Malayalam, Hindi, Kannada & Many Other Languages Will Be Posted Here.
+- [@lastfmrobot](https://anonym.to/?https://t.me/lastfmrobot) - Share lastFM scrobbles, artist collage and music compatibility scores.
 - [@losslessaudio](https://anonym.to/?https://t.me/losslessaudio) - Lossless Audio (FLAC, ALAC, APE).
 - [@LosslessHive](https://anonym.to/?https://t.me/LosslessHive) - Collection of various Hi-Res Audio Files in FLAC Format. Use the Search Feature to look up for your favorite songs. Also you will find multiple versions of a single song- that means download the largest file to get better Quality (Vinyls).
 - [@losslessmusicmenu](https://anonym.to/?https://t.me/losslessmusicmenu) - `RU` - Russian music channel for quality music.
 - [@MusicHuntersBot](https://anonym.to/?https://t.me/MusicHuntersBot) - Another large music downloader bot for Telegram.
 - [@musicshark](https://anonym.to/?https://t.me/musicshark) - `RU` - Russian and other Flac Music.
 - [@SMLoadrCommuntiy](https://anonym.to/?https://t.me/SMLoadrCommunity) - Telegram community for SMLoadr.
+- [@The_Trimmer_bot](https://anonym.to/?https://t.me/The_Trimmer_bot) - Send th bot a streamable link or telegram video and he cuts it.
 - [@vkmusic_bot](https://anonym.to/?https://t.me/vkmusic_bot) - Find and download pretty much any song (uses vkmusic search engine).
 - [Full Music Albums](https://anonym.to/?https://t.me/joinchat/AAAAAFkG6jV0RNRuY8eDnw) - A large collection of music albums, directly downloadable in Telegram, updated daily!
 - [Melodic Musics](https://anonym.to/?https://t.me/MelodicMusics) - A large collection of music, downloadable within Telegram.
 - [Music Archive](https://anonym.to/?https://t.me/MArchive) - A large collection of music, downloadable within Telegram.
 - [ppmusicbot - Spotify playlist bot](https://anonym.to/?https://github.com/kimmobrunfeldt/ppmusicbot) - Telegram bot which adds all linked Spotify track links to a shared playlist.
-- [@lastfmrobot](https://anonym.to/?https://t.me/lastfmrobot) - Share lastFM scrobbles, artist collage and music compatibility scores.
 
 **[`^        back to top        ^`](#)**
+
+
+### Telegram channels for seedbox discussion
+- [丂ㄥ乃ㄖㄒ丂 ✪ 丂乇乇ᗪ乃ㄖ乂](https://anonym.to/?https://t.me/joinchat/IbIIb0Yga4pKYCOu7LajYg) - Seedbox fan have a home here.
+
+**[`^        back to top        ^`](#)**
+
 
 ### Telegram channels for Movies & TV shows
 - [@beyondHD](https://anonym.to/?https://t.me/beyondHD) - HD movies shared from the community to the community.
@@ -118,6 +140,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@offstream_media](https://anonym.to/?https://t.me/offstream_media) - TV Shows, Movies and more!
 - [@Qualitymovies](https://anonym.to/?https://t.me/Qualitymovies) - Lots of 720p Blu-Ray movie releases.
 - [@RickyChristanto](https://anonym.to/?https://t.me/RickyChristanto) - Movie releases channel provides usually stuff from YTS.
+- [Antrips](https://anonym.to/?hhttps://t.me/antrips) - Anthrapper's Encoding Library.
 - [TV Updates](https://anonym.to/?https://telegram.me/joinchat/ACzuljvGFUjzJf4ambpzTA) - A large collection of TV shows, downloadable in Telegram, updated daily!
 
 **[`^        back to top        ^`](#)**
@@ -135,7 +158,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [Piracy Main](https://anonym.to/?https://t.me/joinchat/KNhdrlJyuDhsJy5dNEBoAg) - Intended to be the main chat for all piracy discussion, but very inactive - use this group for that instead.
 - [Raymond's Piracy Group](https://anonym.to/?https://t.me/raymondfreesoftware) - A group of 7000+ pirates chatting.
 - [Windows_Software](https://tele.me/telegram/groups/windows_softwares) - Windows software, cracked.
-
+-
 **[`^        back to top        ^`](#)**
 
 ### Telegram channels for eBooks & PDF's
@@ -168,6 +191,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 ### Telegram Bot (Moderation)
 - [Combot](https://anonym.to/?https://combot.org/) - Moderation, analytics, anti-spam, the best trigger system in Telegram and more.
 - [Controller](https://anonym.to/?https://t.me/ControllerBot) - ControllerBot is a feature-rich bot for Telegram channel (not group!) owners.
+- [GroupHelpBot](https://anonym.to/?https://t.me/GroupHelpBot) - This is the most complete Bot to help you manage your groups easily and safely!
 - [Miss Rose](https://anonym.to/?https://missrose.org/guide/getting-started/adding-rose/) - Manage your group easily with the Rose bot.
 - [Protectron](https://anonym.to/?https://www.protectronbot.com/) - Telegram anti-spam and group management bot.
 - [Shieldy](https://anonym.to/?https://t.me/shieldy_bot) - A zero-config Telegram bot that fights spam in chats.
