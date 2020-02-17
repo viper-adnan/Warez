@@ -5,7 +5,7 @@
 [![HitCount](http://hits.dwyl.io/CHEF-KOCH/Warez.svg)](http://hits.dwyl.io/CHEF-KOCH/Warez)
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
-
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Telegram-blue)](https://t.me/CKKSK)
 
 # Warez
 This list is the biggest [Warez](https://anonym.to/?https://en.wikipedia.org/wiki/Warez_scene) overview on the entire internet! It contains links to Warez related topics, discussions, tools etc. It also provides some background information about the scene.
@@ -2827,7 +2827,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [leechweb.herokuapp](https://anonym.to/?http://leechweb.herokuapp.com)
 - [loverksleech.herokuapp](https://anonym.to/?http://loverksleech.herokuapp.com)
 - [madahi313](https://anonym.to/?https://madahi313.ir/leech/)
-- [maj8588.herokuapp.](https://anonym.to/?http://maj8588.herokuapp.com)
+- [maj8588.herokuapp](https://anonym.to/?http://maj8588.herokuapp.com)
 - [oyrenci-sesi.info](https://anonym.to/?http://oyrenci-sesi.info/leech)
 - [r3dliz4rdstorage.herokuapp](https://anonym.to/?http://r3dliz4rdstorage.herokuapp.com)
 - [rapidleech-tr.herokuapp](https://anonym.to/?http://rapidleech-tr.herokuapp.com)
@@ -2838,7 +2838,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [shabakehparvaresh](https://anonym.to/?https://shabakehparvaresh.ir/index.php)
 - [simberia.prv.pl](https://anonym.to/?http://simberia.prv.pl/index.php)
 - [ss-leech.herokuapp](https://anonym.to/?http://ss-leech.herokuapp.com)
-- [sstuptoboxuc.herokuapp]https://anonym.to/?http://sstuptoboxuc.herokuapp.com
+- [sstuptoboxuc.herokuapp](https://anonym.to/?http://sstuptoboxuc.herokuapp.com)
 - [thanhcavietnam](https://anonym.to/?https://thanhcavietnam.org/DownHost/)
 - [tweetuleech.herokuapp](https://anonym.to/?http://tweetuleech.herokuapp.com)
 - [ukstorage.herokuapp](https://anonym.to/?http://ukstorage.herokuapp.com)
