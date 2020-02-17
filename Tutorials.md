@@ -218,6 +218,10 @@
 **[`^        back to top        ^`](#)**
 
 
+## Music Downloader tools
+- [How to use Chimera multi music downloader](https://anonym.to/https://www.youtube.com/watch?v=5y8rtsLw7Rc)
+
+
 ## Misc Tutorials
 - [How to get free Rock Band 1, 2 & 3 DLC without RGH/JTAG](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/d4lohq/how_to_get_free_rock_band_1_2_3_dlc_without/) - Get Rock Band 1-3 working on PS3 and Wii/U & Xbox 360 without the need of using RGH/JTAG.
 - [How to get ti-nspire CX student software for free, even after the free trial.](https://anonym.to/?https://old.reddit.com/r/Piracy/comments/d5e70k/how_to_get_tinspire_cx_student_software_for_free/)

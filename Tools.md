@@ -150,10 +150,18 @@ Downloads albums in bulk.
 **[`^        back to top        ^`](#)**
 
 
-### Music Automation
+## Music Automation
 - [Athame](https://anonym.to/?https://github.com/fuzzybabybunny/Athame) - An extensible music download tool written in C#.
+- [Chimera](https://anonym.to/?https://notabug.org/Aesir/chimera) - Download music from Deezer, Tidal, Qobuz, Napster, Spotify (sourced from Tidal or Deezer), Google Play Music, SoundCloud.
 - [Headphones](https://anonym.to/?http://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd.
 - [Lidarr](https://anonym.to/?http://github.com/lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
+
+**[`^        back to top        ^`](#)**
+
+
+ ## Tidal Music Downloader
+- [Tidal-Media-Downloader](https://anonym.to/?https://github.com/yaronzz/Tidal-Media-Downloader) - Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#).
+- [Ti-DL](https://anonym.to/?https://github.com/Sorrow446/Ti-DL) - Tool written in Python to download AACs & FLACs from Tidal for Windows, macOS & Linux. Sister of Qo-DL and GPM-DL.
 
 **[`^        back to top        ^`](#)**
 

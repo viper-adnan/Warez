@@ -45,8 +45,9 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 ### Telegram Cracking Channels
-- [The404Cracking](https://anonym.to/?https://t.me/The404Cracking) - Claims to be the best cracking channel on Telegram.
+- [Keygen Fortress](https://anonym.to/?https://t.me/keygen_fortress) - Keygens and cracks only.
 - [King_of_cracking](https://anonym.to/?https://t.me/king_0f_cracking) - Free daily cracking tools, proxies and more.
+- [The404Cracking](https://anonym.to/?https://t.me/The404Cracking) - Claims to be the best cracking channel on Telegram.
 
 **[`^        back to top        ^`](#)**
 
@@ -89,7 +90,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@highreschannell](https://anonym.to/?https://t.me/highreschannell) - High resolution music!
 - [@indianflacsongs](https://anonym.to/?https://t.me/indianflacsongs) - `HI` - Flac Songs Of Telugu, Malayalam, Hindi, Kannada & Many Other Languages Will Be Posted Here.
 - [@losslessaudio](https://anonym.to/?https://t.me/losslessaudio) - Lossless Audio (FLAC, ALAC, APE).
-- [@LosslessHive](https://anonym.to/?https://t.me/LosslessHive) - Collection of various Hi-Res Audio Files in FLAC Format. Use the Search Feature to look up for your favourite songs. Also you will find multiple versions of a single song- that means download the largest file to get better Quality (Vinyls).
+- [@LosslessHive](https://anonym.to/?https://t.me/LosslessHive) - Collection of various Hi-Res Audio Files in FLAC Format. Use the Search Feature to look up for your favorite songs. Also you will find multiple versions of a single song- that means download the largest file to get better Quality (Vinyls).
 - [@losslessmusicmenu](https://anonym.to/?https://t.me/losslessmusicmenu) - `RU` - Russian music channel for quality music.
 - [@MusicHuntersBot](https://anonym.to/?https://t.me/MusicHuntersBot) - Another large music downloader bot for Telegram.
 - [@musicshark](https://anonym.to/?https://t.me/musicshark) - `RU` - Russian and other Flac Music.
@@ -98,6 +99,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [Full Music Albums](https://anonym.to/?https://t.me/joinchat/AAAAAFkG6jV0RNRuY8eDnw) - A large collection of music albums, directly downloadable in Telegram, updated daily!
 - [Melodic Musics](https://anonym.to/?https://t.me/MelodicMusics) - A large collection of music, downloadable within Telegram.
 - [Music Archive](https://anonym.to/?https://t.me/MArchive) - A large collection of music, downloadable within Telegram.
+- [ppmusicbot - Spotify playlist bot](https://anonym.to/?https://github.com/kimmobrunfeldt/ppmusicbot) - Telegram bot which adds all linked Spotify track links to a shared playlist.
 
 **[`^        back to top        ^`](#)**
 
