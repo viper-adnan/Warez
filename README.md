@@ -517,7 +517,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 ### Torrent Search Engines
 - [Search Torrents](https://anonym.to/?https://search.torrents.io/)
 - [Toorgle](https://anonym.to/?http://www.toorgle.com/) - `insecure`
-
+- [The Pirate Bay Search](https://anonym.to/?https://thepiratebay1.herokuapp.com/) - Searches the pirate bay (even if the official website is down or under maintainance).
 
 ### Torrent Trackers
 - [/r/trackers](https://anonym.to/?https://www.removeddit.com/r/trackers) - A subreddit for discussing public & private trackers.
