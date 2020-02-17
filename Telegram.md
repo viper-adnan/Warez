@@ -60,7 +60,13 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 **[`^        back to top        ^`](#)**
 
+### Telegram Like Bot (add like/vote buttons under your posts)
+- [@ChannelLikeBot](https://anonym.to/?https://t.me/ChannelLikeBot) - Add voting buttons to posts in channels and groups.
+
+**[`^        back to top        ^`](#)**
+
 ### Telgram channel for file sharing
+- [@gdriveupme_bot](https://anonym.to/?https://github.com/aryanvikash/Google-Drive-Uploader)
 - [@itorrentsearchbot](https://anonym.to/?https://t.me/itorrentsearchbot) - Searchbot which finds torrent and magnet links on 1337x.to by keyword search.
 - [@teletransferxbot](https://anonym.to/?https://t.me/teletransferxbot) - TeleTransferX (_currently not working due to lack of support from the community_) down/uploader and search bot.
 - [aria-telegram-mirror-bot](https://anonym.to/?https://github.com/out386/aria-telegram-mirror-bot) - A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
