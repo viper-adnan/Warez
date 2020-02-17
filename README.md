@@ -1530,6 +1530,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## Music
+- [ddl-music.to](https://anonym.to/?http://ddl-music.to/) - (_Cloudflare german IP block/check_) - `Ger` - German music platform to share music.
 - [94hiphop](https://anonym.to/?http://94hiphop.com/) - (`insecure`) - Download Free Hip Hop Albums!
 - [Bandcamp](https://anonym.to/?https://www.bandcamp.com/) - Spotify alternative, some free + paid (flac) music (DRM free).
 - [Balaton Sound aka per-fect](https://anonym.to/?https://per-fect.nl) - Listen to songs (no directl dl!).
@@ -1963,7 +1964,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [HDencode](https://anonym.to/?https://hdencode.com/) - Download Movies and TV Shows - #1 Source for High Definition Releases.
 - [Movie Files](https://anonym.to/?https://moviefiles.org/) - Download Movies For free.
 - [Movies "R" Us](https://anonym.to/?https://moviesrus.tk) - The newest movies in 1080p. Available with DDL through MediaFire and streaming through Anonfile.
-- [Dr. Warez Forums](https://anonym.to/?https://dr.warezforums.com/) - Direct downloads and direct streaming, movies, files & more.
+-(https://anonym.to/?https://dr.warezforums.com/) - Direct downloads and direct streaming, movies, files & more.
 
 **[`^        back to top        ^`](#)**
 

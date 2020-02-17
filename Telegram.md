@@ -106,6 +106,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [Melodic Musics](https://anonym.to/?https://t.me/MelodicMusics) - A large collection of music, downloadable within Telegram.
 - [Music Archive](https://anonym.to/?https://t.me/MArchive) - A large collection of music, downloadable within Telegram.
 - [ppmusicbot - Spotify playlist bot](https://anonym.to/?https://github.com/kimmobrunfeldt/ppmusicbot) - Telegram bot which adds all linked Spotify track links to a shared playlist.
+- [@lastfmrobot](https://anonym.to/?https://t.me/lastfmrobot) - Share lastFM scrobbles, artist collage and music compatibility scores.
 
 **[`^        back to top        ^`](#)**
 
