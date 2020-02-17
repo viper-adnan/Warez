@@ -1962,7 +1962,8 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Catchvideo.net](https://anonym.to/?https://catchvideo.net/) - Catchvideo.net is a free online website, which allows you to download a video url from YouTube, Facebook, Dailymotion, Vimeo and more.
 - [HDencode](https://anonym.to/?https://hdencode.com/) - Download Movies and TV Shows - #1 Source for High Definition Releases.
 - [Movie Files](https://anonym.to/?https://moviefiles.org/) - Download Movies For free.
-- [Movies "R" Us](https://anonym.to/?https://moviesrus.tk) - The newest movies in 1080p. Available with DDL through MediaFire and streaming through AnonFile.
+- [Movies "R" Us](https://anonym.to/?https://moviesrus.tk) - The newest movies in 1080p. Available with DDL through MediaFire and streaming through Anonfile.
+- [Dr. Warez Forums](https://anonym.to/?https://dr.warezforums.com/) - Direct downloads and direct streaming, movies, files & more.
 
 **[`^        back to top        ^`](#)**
 
@@ -2314,7 +2315,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [HD Multireddit](https://anonym.to/?https://old.reddit.com/user/nbatman/m/streaming2/) - 1080p Openload, Google Video & Vimeo,..
 - [Kodi](https://anonym.to/?https://kodi.tv/) - + ([Setup guide](https://anonym.to/?https://www.removeddit.com/r/Addons4Kodi/comments/93porc/requests_recommendations_basics_august_2018/e3f6i12/))
 - [LeonFlix](https://anonym.to/?https://leonflix.net/)
-- [OpenloadMovies.ac](https://anonym.to/?https://openloadmovies.ac/) - `needs adblocker`
+- [OpenloadMovies.ac](https://anonym.to/?https://openloadmovies.ac/) - `needs adblocker[](https://anonym.to/?)
 - [MovieJagg](https://anonym.to/?https://www.coolmoviejagg.pro/)
 - [MovieStreams](https://anonym.to/?https://moviestreams.org/)
 - [OneMov](https://anonym.to/?https://onemov.net/)
