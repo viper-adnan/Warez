@@ -621,6 +621,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [OTorrents](https://anonym.to/?https://otorrents.com/) - Yet another public torrent tracker.
 - [Pirateiro](https://anonym.to/?https://pirateiro.unblocked.gdn/) - Pirateiro is a torrent index for Brazilian and Portuguese torrents.
 - [RARBG](https://anonym.to/?https://rarbg.to/) - Public tracker with its own release group, RARBG was founded in 2008 and specializes in high quality video releases.
+- [RARBG Rarbg Index page](https://anonym.to/?https://rarbgprx.org/) - Web Analysis and indexer for Rarbgprx.
 - [Saavn](https://anonym.to/?https://saavn.tomato.to/) - A search engine designed to find old and new music releases.
 - [Shodan](https://anonym.to/?https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices.
 - [Shaanig](https://anonym.to/?https://shaanig.se/) - Small-size HD TV episodes & movies.
