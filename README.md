@@ -862,6 +862,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ### Custom "Google" Search Engines
 - [FileChef](https://anonym.to/?http://filechef.com/) - (`insecure`) - Get direct download links for almost anything!
+- [Strixx](https://maximousblk.github.io/strixx) - An open directory search tool. 
 - [Jimmyr](https://anonym.to/?http://www.jimmyr.com/mp3_search.php) - (`insecure`) - Yet abother Music search engine.
 - [lumpySoft.com](https://anonym.to/?https://lumpysoft.com/) - A Google index search with predefined tags.
 - [mattpalm.com/search](https://anonym.to/?https://mattpalm.com/search/) - Get direct download links for almost anything.
