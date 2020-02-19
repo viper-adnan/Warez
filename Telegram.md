@@ -105,6 +105,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 ### Telegram channels for Music
 - [@DeezerMusicBot](https://anonym.to/?https://t.me/DeezerMusicBot) - Music bot which downloads tracks from Deezer.
+- [@DeezloaderAn0n_bot](https://anonym.to/?https://github.com/An0nimia/DeezloaderAn0n_bot) - Download songs from Deezer and if they are now avbl. in Deezer it downloads it from YouTube.
 - [@flacaudio](https://anonym.to/?https://t.me/flacaudio) - `AR` - Arabish flac music.
 - [@flacmu5ic](https://anonym.to/?https://t.me/flacmu5ic) - This channel is maded 4 listening the best music from whole world.
 - [@flacmusicalbumfree](https://anonym.to/?https://t.me/flacmusicalbumfree) - FLAC Music Album for Free.
@@ -114,6 +115,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@HDaudio](https://anonym.to/?hhttps://t.me/hdaudio) - High Definition Audio, 24 bit 48 kHz and up.
 - [@highreschannell](https://anonym.to/?https://t.me/highreschannell) - High resolution music!
 - [@indianflacsongs](https://anonym.to/?https://t.me/indianflacsongs) - `HI` - Flac Songs Of Telugu, Malayalam, Hindi, Kannada & Many Other Languages Will Be Posted Here.
+- [@JioDLBot](https://anonym.to/?https://t.me/JioDLBot) - Search and Download Music inside Telegram.
 - [@lastfmrobot](https://anonym.to/?https://t.me/lastfmrobot) - Share lastFM scrobbles, artist collage and music compatibility scores.
 - [@losslessaudio](https://anonym.to/?https://t.me/losslessaudio) - Lossless Audio (FLAC, ALAC, APE).
 - [@LosslessHive](https://anonym.to/?https://t.me/LosslessHive) - Collection of various Hi-Res Audio Files in FLAC Format. Use the Search Feature to look up for your favorite songs. Also you will find multiple versions of a single song- that means download the largest file to get better Quality (Vinyls).
