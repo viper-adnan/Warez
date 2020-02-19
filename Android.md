@@ -129,6 +129,7 @@ DoH: https://doh.dnswarden.com/uncensored
 **[`^        back to top        ^`](#)**
 
 ## Streaming apps (_needs ad-blocker and/or Ad-Free APK version!_)
+- [Thoptv](https://anonym.to/?https://thoptv.one) - Top movies and TV shows.
 - [KingoTV](https://anonym.to/?https://kingotv.net/) - Your Portable Entertainment Gateway! Watch 500+ Live HD Channels and 10,000+ Hours of Movies Series Shows for Free!
 - [Orion TV](https://anonym.to/?https://play.google.com/store/apps/details?id=rs.maketv.oriontv) - (SH) - Allows you to watch live TV channels and recorded selected shows (72h Catch-up TV).
 - [PhoenixTV](https://anonym.to/?https://www.phoenixtv-distribution.com/) - Morpheus Fork
@@ -156,6 +157,10 @@ DoH: https://doh.dnswarden.com/uncensored
 - [Peer-to-peer file sharing](https://anonym.to/?https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing) - Detailed Wikipedia page about file sharing
 - [TiviMate IPTV player](https://anonym.to/?https://play.google.com/store/apps/details?id=ar.tvplayer.tv) - A popular Android app for watching IPTV on Android set-top boxes.
 - [YouTube Vanced](https://anonym.to/?https://vanced.app/) - Vanced is a well known modded version of YouTube with many features such as adblocking and background playback and many more.
-- [Xtream Codes](https://play.google.com/store/apps/details?id=com.nst.iptvsmarterstvbox) - Smarters App allows Android users to use IPTV, it offers free and paid content.
+- [Xtream Codes](https://anonym.to/?https://play.google.com/store/apps/details?id=com.nst.iptvsmarterstvbox) - Smarters App allows Android users to use IPTV, it offers free and paid content.
 
 **[`^        back to top        ^`](#)**
+
+## Streaming player apps
+- [TVF Play App](https://anonym.to/?https://tvfplay.com/)
+- [MX Player Pro](https://anonym.to/?https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.pro)

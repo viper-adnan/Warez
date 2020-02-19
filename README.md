@@ -621,7 +621,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [OTorrents](https://anonym.to/?https://otorrents.com/) - Yet another public torrent tracker.
 - [Pirateiro](https://anonym.to/?https://pirateiro.unblocked.gdn/) - Pirateiro is a torrent index for Brazilian and Portuguese torrents.
 - [RARBG](https://anonym.to/?https://rarbg.to/) - Public tracker with its own release group, RARBG was founded in 2008 and specializes in high quality video releases.
-- [RARBG Rarbg Index page](https://anonym.to/?https://rarbgprx.org/) - Web Analysis and indexer for Rarbgprx.
+- [RARBG Index page](https://anonym.to/?https://rarbgprx.org/) - Web Analysis and indexer for Rarbgprx.
 - [Saavn](https://anonym.to/?https://saavn.tomato.to/) - A search engine designed to find old and new music releases.
 - [Shodan](https://anonym.to/?https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices.
 - [Shaanig](https://anonym.to/?https://shaanig.se/) - Small-size HD TV episodes & movies.
@@ -1048,6 +1048,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [/r/AnimePiracy BCSE Search](https://anonym.to/?https://ui.customsearch.ai/hosted-page?customconfig=12619b8a-0cac-4a38-b20b-04c79ddb616d&version=latest&market=en-US&q=) - A custom search engine for Anime content.
 - [The /r/AnimePiracy Index](https://anonym.to/?https://docs.zoho.com.au/sheet/open/stzn58acc24611fea414e8901724ff4510fe8/sheets/Anime/ranges/A1) - A Google Docs sheet for Anime websites including background information if page x contains ads, anti-adblock & more.
 - [AnimeKisa](https://anonym.to/?https://animekisa.com/) - Subs and dubs, no ads, funded by donations, self-hosted.
+- [AnimeWatch](https://anonym.to/?https://aniwatch.me/) - We are Aniwatch and here you will find an anime haven, including the best user experience you will ever have.
 - [Animelon](https://anonym.to/?https://animelon.com/) - Subs only, multilingual, no ads, funded by donations, only one source, videos hosted by Google, aimed for Japanese learners.
 - [Aniwatcher](https://anonym.to/?https://aniwatcher.com/) - Subs and dubs, pop-up ads on video player, downloadable, multiple sources.
 - [AnimeFreak.TV](https://anonym.to/?https://www.animefreak.tv/) - Subs and sometimes dubs, banner and pre-roll ads, one source.
@@ -2254,7 +2255,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 **[`^        back to top        ^`](#)**
 
-### 1080p Streaming
+ Streaming
 - [0123movies](https://anonym.to/?https://www.0123moviesback.com/)
 - [CineBloom](https://anonym.to/?https://www2.cinebloom.com/)
 - [Crackle](https://anonym.to/?https://www.sonycrackle.com/out-of-region.html)
@@ -2282,6 +2283,8 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Vmovee](https://anonym.to/?https://vmovee.ws/)
 - [Ymovies](https://anonym.to/?https://ymovies.tv/)
 - [PSARips One](https://anonym.to/?https://psarips.one/)
+- [BonsaidHD](https://anonym.to/?https://bonsaihd.site/) - Quality that Matters, Hindi and Bollywood movies.
+
 
 **[`^        back to top        ^`](#)**
 

@@ -154,6 +154,7 @@ All other extensions **do not** adding any benefit over the integrated Browser "
 
 ## Udemy Scrips
 - [udemy-dl](https://anonym.to/?https://github.com/r0oth3x49/udemy-dl) - Udemy course downloader script.
+- [www.icourse163.org Downloader](https://anonym.to/?https://greasyfork.org/en/scripts/389496-%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6mooc%E6%85%95%E8%AF%BE-www-icourse163-org-%E4%B8%8B%E8%BD%BD%E5%99%A8) - Add download button on www.icourse163.org to download videos
 
 **[`^        back to top        ^`](#)**
 
