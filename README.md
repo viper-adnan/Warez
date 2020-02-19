@@ -50,6 +50,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ## Project structure
 - `.github` - Documents, Todo etc.
+- [Android.md](https://github.com/CHEF-KOCH/Warez/blob/master/Android.md) - Android apps, tools & more.
 - [Homepage](https://chef-koch.github.io/Warez/) - General Overview (_which gets a search (it's on the to-do)_)
 - [Readme.md](https://github.com/CHEF-KOCH/Warez/blob/master/README.md) - _This file_, provides a smaller overview (includes only website links and no tutorials etc).
 - [Scene Info.md](https://github.com/CHEF-KOCH/Warez/blob/master/Scene%20Info.md) - Beginner Info to get into the scene and warez.
@@ -59,6 +60,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Banned.md](https://github.com/CHEF-KOCH/Warez/blob/master/Banned.md) - Lists all banned groups, programs and topics
 - [Offline.md](https://github.com/CHEF-KOCH/Warez/blob/master/Offline.md) - Lists all offline or compromised websites.
 - [Open Source hardware.md](https://github.com/CHEF-KOCH/Warez/blob/master/Open%20Source%20Hardware.md) - Lists privacy and FOSS hardware alternatives.
+- [Telegram.md](https://github.com/CHEF-KOCH/Warez/blob/master/Telegram.md) - Telegram channels, bots, scripts, tools & more.
 - [Trusted.md](https://github.com/CHEF-KOCH/Warez/blob/master/Trusted.md) - Lists trusted groups or people which are known to crack or upload stuff.
 - [Tor.md](https://github.com/CHEF-KOCH/Warez/blob/master/Tor.md) - Tor 🧅 list.
 - [Code-of-Conduct.md](https://github.com/CHEF-KOCH/Warez/blob/master/CODE_OF_CONDUCT.md) - A list which provides our current project standards.
