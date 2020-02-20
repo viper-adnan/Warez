@@ -243,7 +243,7 @@
 
 
 ## Spotify
-* [Dockerized Spotify downloader with metadataOC](https://anonym.to/?hhttps://www.removeddit.com//r/Piracy/comments/ew5cus/dockerized_spotify_downloader_with_metadata/)
+* [Dockerized Spotify downloader with metadataOC](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/ew5cus/dockerized_spotify_downloader_with_metadata/)
 
 
 ## Wii
