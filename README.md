@@ -1754,7 +1754,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 ## Software
 - [/r/piracy/wiki/tools](https://anonym.to/?https://www.removeddit.com/r/piracy/wiki/tools) - Windows/Office activation tools, and images/installers for Windows, Office, and Adobe
 - [Appked](https://anonym.to/?https://www.macbed.com/) - MacOS application sharing website.
-- [Blackpearl](https://anonym.to/?http://darkpearl.tech) - (TEMP!) - Provides similar services like S.
+- [Blackpearl](https://anonym.to/?https://blackpearl.biz/) - Provides similar services like Shnap forum.
 - [Cloud-Droid](https://anonym.to/?https://www.cloud-droid.com) - Cloud-Droid offers (mostly) downloads via sharehoster.
 - [CrackingPatching.com](https://anonym.to/?https://crackingpatching.com/) - Cracked software
 - [CracksNow](https://anonym.to/?https://cracksnow.com/) - Cracks for Android, Windows, and macOS applications.
