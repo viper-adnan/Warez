@@ -7,6 +7,7 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 
 
 🔥 **WARNING** 🔥
+
 **Do NOT submitt pull request for this category, even if the link is e.g. wrong/outdated or replaced, create a issue ticket instead! This category is special and I need to review it in-depth before I post/update something (_this is due to GitHub restriction_).**
 
 
@@ -345,6 +346,23 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 | VisiTOR          | http://visitorfi5kl7q7i.onion/search/
 
 
+
+## List of onion sites seized/deanonymised
+* 2012 - Operation Torpedo (Pedobook, Pedoboard, TB3) - The 3 sites were hosted by Aaron McGrath at his home and work. Real IP was found because the admin account on Pedoboard had a blank password. Agents logged in and were able to get the real IP. Police took over the sites and used a simple flash exploit from metasploit. (First use of NIT on onion sites)
+* 2013 - Freedom Hosting / Tormail - Freedom Hosting was a free hosting site that allowed anyone to host a site. It hosted half of all onion sites in 2013. The admin Eric Eoin Marques didn't moderate sites so many illegal sites were hosted. The FBI took over Freedom Hosting and embedded a javascript [exploit](https://www.mozilla.org/en-US/security/advisories/mfsa2013-53/) on all FH sites. 
+* 2013 - Silk Road - Ross Ulbricht made many OPSEC mistakes, still unknown how server was found
+* 2014 - Utopia Marketplace Seized
+* 2014 - Operation Onymous (Tor RELAY_EARLY exploit) Silk Road 2, Hydra, Cloud 9 and dozens of onions seized
+* 2014 - Australian's Task Force Argos arrests the admin of The Love Zone because of OPSEC mistakes (Shannon McCoole), Argos takes over and and run the onion for 8 months. (hundreds arrested)
+* 2014 - [Operation Roundtable](https://www.dvidshub.net/feature/iceoperationroundtable)
+* 2015 - Hurt 2 The Core / Pedo Empire seized by Task Force Argos. Admin Matthew David Graham (Lux) arrested.
+* 2015 - Operation Pacifier. Playpen took over by FBI for 2 weeks (misconfiguration allowed direct connections to real IP), unknown Tor Brower exploit used, thousands arrested.
+* 2016 - [0day JS+SVG exploit](https://www.mozilla.org/en-US/security/advisories/mfsa2016-92/) used on Giftbox Exchange after admin Patrick Falte arrested
+* 2016-2017 - Task Force Argos runs Child's Play for 11 months.
+* 2017 - Alphabay and Hansa Market Seized
+* 2017 - BKA seized child abuse forum Elysium
+* 2018 - [Finnish imageboard Sipulikanava](https://www.mtv.fi/uutiset/rikos/artikkeli/tor-verkon-sipulikanava-on-suljettu-salatulla-sivustolla-keskusteltiin-rikollisuudesta-ja-kaytiin-avointa-huumekauppaa/6640776#gs.7zsIccw)
+* 2018 - [Russian DNM R.A.M.P](http://tass.ru/proisshestviya/4572560)
 
 # ToDo
 - Ban every tool/script/website which requires JavaScript. JS is known to cause security problems. Or mention NoScript/uMatrix. 
