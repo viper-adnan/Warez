@@ -436,6 +436,15 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 ## File Hoster
 - Firedrop.com
 
+## Cracking Groups
+- [Team FOFF](http://foff.astalavista.ms/)
+- [Team Desperate](http://zor.org/desperate) and [Backup](http://dtcg.mtct.org/)
+- [Team CDS](http://teamcds.blogspot.de/) + [Backup](http://www.teamlogic.co.nr/) and [Backup](http://www.shiveshkumar.co.nr/)
+- [Team Bokiv](http://bokiv.astalavista.ms/)
+- [Team Re](http://reteam.org/)
+- [Team TLG](http://www.tlg.astalavista.ms/)
+
+
 ## Telegram
 - @Music_High_Resolution
 - @kumarsanu0789

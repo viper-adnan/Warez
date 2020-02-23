@@ -395,7 +395,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Mobilism Forum](https://anonym.to/?https://forum.mobilism.org/index.php) - Large forum of mobile apps and books.
 - [RevDl](https://anonym.to/?https://www.revdl.com/) - Direct download site for Android apps & games.
 - [RexDL](https://anonym.to/?https://rexdl.com/) - Similar like RevDL, download free Android apps & games.
-- [Sbenny](https://anonym.to/?https://forum.sbenny.com/forums/apps.14/) - Modded games and apps. 
+- [Sbenny](https://anonym.to/?https://forum.sbenny.com/forums/apps.14/) - Modded games and apps.
 
 **[`^        back to top        ^`](#)**
 
@@ -863,7 +863,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ### Custom "Google" Search Engines
 - [FileChef](https://anonym.to/?http://filechef.com/) - (`insecure`) - Get direct download links for almost anything!
-- [Strixx](https://maximousblk.github.io/strixx) - An open directory search tool. 
+- [Strixx](https://maximousblk.github.io/strixx) - An open directory search tool.
 - [Jimmyr](https://anonym.to/?http://www.jimmyr.com/mp3_search.php) - (`insecure`) - Yet abother Music search engine.
 - [lumpySoft.com](https://anonym.to/?https://lumpysoft.com/) - A Google index search with predefined tags.
 - [mattpalm.com/search](https://anonym.to/?https://mattpalm.com/search/) - Get direct download links for almost anything.
@@ -1753,7 +1753,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ## Software
 - [/r/piracy/wiki/tools](https://anonym.to/?https://www.removeddit.com/r/piracy/wiki/tools) - Windows/Office activation tools, and images/installers for Windows, Office, and Adobe
-- [Appked](https://anonym.to/?https://www.macbed.com/) - MacOS application sharing website.
 - [Blackpearl](https://anonym.to/?https://blackpearl.biz/) - Provides similar services like Shnap forum.
 - [Cloud-Droid](https://anonym.to/?https://www.cloud-droid.com) - Cloud-Droid offers (mostly) downloads via sharehoster.
 - [CrackingPatching.com](https://anonym.to/?https://crackingpatching.com/) - Cracked software
@@ -1770,6 +1769,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## MacOS
+- [CMacA](https://anonym.to/?https://cmacapps.com/) - A nice website for MacOS software.
 - [APPKED](https://anonym.to/?https://www.macbed.com) - Links to share-hosters, provides serials, cracks & more.
 - [CrackSoft](https://anonym.to/?https://crackzsoft.com/) - Latest Crack Softwares For Windows and MacOS.
 - [Imojado](https://anonym.to/?https://www.imojado.org) - (needs ad-blocker) - Android, MacOS X and other things.
@@ -1777,6 +1777,8 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Mac Torrent Download](https://anonym.to/?https://mac-torrent-download.net/) - (needs ad-blocker) - Provides cracks for MacOS. Be careful, each click triggers an ad.
 - [Mac Torrents](http://mactorrent.co) - (`insecure`) - Lots of MacOS Warez.
 - [nMac.to](https://anonym.to/?https://nmac.to) - Tutorials, Apps, Games via P2P or sharehoster for MacOS.
+- [Sanet](https://anonym.to/?https://sanet.st/) - Windows and uncracked software as well as MacOS cracked software.
+- [GetIntoPC](https://anonym.to/?https://getintopc.com/) - Last place to look for MacOS software.
 
 **[`^        back to top        ^`](#)**
 

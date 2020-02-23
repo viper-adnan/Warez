@@ -1,6 +1,6 @@
 **Disclaimer**:
 
-I'm not responsible for the links, domains, it's content or if the provided .onion links are really the ones advertised ("clearname"). It's imposdsible for me as individual person to check every single page every second and monitor it's content. 
+I'm not responsible for the links, domains, it's content or if the provided .onion links are really the ones advertised ("clearname"). It's impossible for me as individual person to check every single page every second and monitor it's content.
 
 
 Table below contains a list of `.onion` addresses for some more popular clearnet services.
@@ -8,7 +8,7 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 
 🔥 **WARNING** 🔥
 
-**Do NOT submitt pull request for this category, even if the link is e.g. wrong/outdated or replaced, create a issue ticket instead! This category is special and I need to review it in-depth before I post/update something (_this is due to GitHub restriction_).**
+**Do NOT submit pull request for this category, even if the link is e.g. wrong/outdated or replaced, create a issue ticket instead! This category is special and I need to review it in-depth before I post/update something (_this is due to GitHub restriction_).**
 
 
 ## News
@@ -66,7 +66,7 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 | XNet Activism    | http://ztjn5gcdsqeqzmw4.onion/
 
 
-## Filesharing 
+## Filesharing
 | clearnet/name    | onion address
 |------------------|:--------------
 | OnionShare | http://lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion/
@@ -111,7 +111,7 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 ## Exploit Database
 | clearnet/name    | onion address (_space on purpose!_)
 |------------------|:--------------
-| 0day             | mvfjfugdwgc5uwho. onion 
+| 0day             | mvfjfugdwgc5uwho. onion
 
 
 ## SMS
@@ -134,7 +134,7 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 | TPB              | http://uj3wazyk5u4hnvtk.onion/
 
 
-### Tor Network Search Engines 
+### Tor Network Search Engines
 | clearnet/name    | onion address
 |------------------|:--------------
 | Candle           | http://gjobqjj7wyczbqie.onion/
@@ -148,7 +148,7 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 ## B. Market
 | clearnet/name    | onion address (_space on purpose!_)
 |------------------|:--------------
-| DNM Avengers     | avengersdutyk3xf. onion 
+| DNM Avengers     | avengersdutyk3xf. onion
 | Dread            | readditevelidot. onion
 | TheHub           | thehub7xbw4dc5r2. onion
 
@@ -227,13 +227,13 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 | Dark Web Links & Talk | https://darkwebtalk.com/index.php/board,3.0.html
 
 
-## Malware database 
+## Malware database
 | clearnet/name    | onion address
 |------------------|:--------------
 | Crew | iec56w4ibovnb4wc. onion/Library/
 
 
-### Messenger 
+### Messenger
 | clearnet/name    | onion address
 |------------------|:--------------
 | Cyph Messenger   | https://www.cyphdbyhiddenbhs.onion/
@@ -323,7 +323,7 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 | ThePirateBay.org | http://uj3wazyk5u4hnvtk.onion
 
 
-## Code/Text sharing 
+## Code/Text sharing
 | clearnet/name    | onion address
 |------------------|:--------------
 | DeepPaste        | http://4m6omb3gmrmnwzxi.onion/
@@ -349,7 +349,7 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 
 ## List of onion sites seized/deanonymised
 * 2012 - Operation Torpedo (Pedobook, Pedoboard, TB3) - The 3 sites were hosted by Aaron McGrath at his home and work. Real IP was found because the admin account on Pedoboard had a blank password. Agents logged in and were able to get the real IP. Police took over the sites and used a simple flash exploit from metasploit. (First use of NIT on onion sites)
-* 2013 - Freedom Hosting / Tormail - Freedom Hosting was a free hosting site that allowed anyone to host a site. It hosted half of all onion sites in 2013. The admin Eric Eoin Marques didn't moderate sites so many illegal sites were hosted. The FBI took over Freedom Hosting and embedded a javascript [exploit](https://www.mozilla.org/en-US/security/advisories/mfsa2013-53/) on all FH sites. 
+* 2013 - Freedom Hosting / Tormail - Freedom Hosting was a free hosting site that allowed anyone to host a site. It hosted half of all onion sites in 2013. The admin Eric Eoin Marques didn't moderate sites so many illegal sites were hosted. The FBI took over Freedom Hosting and embedded a javascript [exploit](https://www.mozilla.org/en-US/security/advisories/mfsa2013-53/) on all FH sites.
 * 2013 - Silk Road - Ross Ulbricht made many OPSEC mistakes, still unknown how server was found
 * 2014 - Utopia Marketplace Seized
 * 2014 - Operation Onymous (Tor RELAY_EARLY exploit) Silk Road 2, Hydra, Cloud 9 and dozens of onions seized
@@ -365,4 +365,4 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 * 2018 - [Russian DNM R.A.M.P](http://tass.ru/proisshestviya/4572560)
 
 # ToDo
-- Ban every tool/script/website which requires JavaScript. JS is known to cause security problems. Or mention NoScript/uMatrix. 
+- Ban every tool/script/website which requires JavaScript. JS is known to cause security problems. Or mention NoScript/uMatrix.
