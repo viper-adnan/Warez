@@ -443,6 +443,45 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - [Team Bokiv](http://bokiv.astalavista.ms/)
 - [Team Re](http://reteam.org/)
 - [Team TLG](http://www.tlg.astalavista.ms/)
+- [0777 DISTRO](http://www.http://0777.ir/) + [Mirror](http://distro.0777.ir/) + [Mirror](http://distro.assassin.ir/)
+- [ROCKAXE DISTRO](https://www.rockaxe.net/) + [Backup](https://www.rockaxe.net/index.php?dir=)
+- [Team RES/Appznet](http://www.appznet.com/) + [Mirror](http://appznet.info/) + [Mirror](http://appznet.biz/) + [Mirror](http://appznet.ws)
+- [Team REiS](http://www.teamreis.altervista.org) + [Mirror](http://teamreis.pixub.com/)
+- [Team RIF](http://www.rifup.tk/) + [Mirror](http://rifkr.tk/) + [Blog](http://rif2k.blog.me/) + [Backup](http://rif.vv.gg/)
+- [Team EDGE](http://distro.0777.ir/index.php?dir=EDGE/) + [Dir](https://www.rockaxe.net/index.php?dir=EDGE/)
+- TEAM NBR - Same like Team EDGE, they never had their own forum, blog or website.
+- [Team PNX](http://www.phoenixrelease.org/)
+- [Team DGT](http://teamdgt.org/)
+- [Team CAP](http://www.team-capreleases.co.nr/) + [Mirror](http://www.teamcapforums.co.nr/)
+- [Team TRH](http://teamredhot.forumotions.in/) + [Mirror](http://trh.ip4you.in/)
+- [Team RCG](http://www.recodegroup.org/)
+- [Team RNDD](http://rndd.0777.ir/)
+- [Team Irec](http://teamirec.forumotions.in/) + [Mirror](http://irec.0fees.net/)
+- [Team Tpodt](http://tpodt.hj.cx/)
+- [Arteam](http://arteam.accessroot.com/arteam/site/news.php)
+- [Team ASA](http://www.assassin.ir/) + [Release](http://release.assassin.ir/) + [Forum](http://forum.assassin.ir/)
+- [Team Cin1](http://www.cin1team.biz/) + [Release Forum](http://release.cin1team.biz/forum.php)
+- [Team SND](http://www.snd.astalavista.ms/)
+- [Team at4tre](http://www.at4re.com/)
+- [Team Nohk](http://nohk.astalavista.ms/?rs)
+- [Team AORE](http://www.aoreteam.com/)
+- [Team x-factor](http://www.x-factor.in/)
+- [Team RED](http://redcrew.astalavista.ms/home/)
+- [Team tcct](http://www.tcct.us/)
+- [Team REA](http://reaonline.net/forum.php)
+- [Team Revenge](http://www.revenge-crew.com/)
+- Team VLF
+- [Team TLG](http://www.tlg.astalavista.ms/)
+- [Team Ret](http://reteam.org/)
+- [Team Bokiv](http://bokiv.astalavista.ms/)
+- [Team CDS](http://teamcds.blogspot.de/) + [Mirror](http://www.teamlogic.co.nr/) + [Mirror](http://www.shiveshkumar.co.nr/)
+- [Team Desperate](http://zor.org/desperate)
+- [Team FOFF](http://foff.astalavista.ms/)
+- Digital Insanity" (DI)
+
+
+
+
 
 
 ## Telegram

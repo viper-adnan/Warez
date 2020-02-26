@@ -118,7 +118,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ## Team Drives
 - [Google Team Drive](https://anonym.to/?https://teamdrive.mfoxx.workers.dev/) - Create Google Team Drive where you can share your files with others.
-
+- [GDIndex](https://anonym.to/?https://github.com/ParveenBhadooOfficial/GDIndex) - Team drive for _googledri.ve.workers.dev_ . You also can create your own TeamDriv[[](https://anonym.to/?)](https://anonym.to/?)
 **[`^        back to top        ^`](#)**
 
 
@@ -187,6 +187,10 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Team-IRA [TIRA]](https://anonym.to/?https://team-ira.com/) - TIRA Team International Reversers Alliance ([needs invite code](http://forum.crack.vc/?thread-22.htm))
 - [Tuts 4 You](https://anonym.to/?https://tuts4you.com) - One of the oldest forums to discuss reversing related stuff.
 - [Webscene.ir](https://anonym.to/?https://webscene.ir/) - Can you crack it?!
+
+
+**[`^        back to top        ^`](#)**
+
 
 
 ### General Filesharing Discussions
@@ -857,6 +861,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [PiratedHub](https://anonym.to/?https://piratedhub.com/) - Internation Repack website.
 - [RePack Club](https://anonym.to/?https://repacks.club/) - (RU) - Russian repack portal.
 - [Repacks.NET](https://anonym.to/?https://repacks.net/) - A well-known repack website mostly for Windows software.
+- [monkrus](https://anonym.to/?http://w13.monkrus.ws) - (RU) - Russian repacker website by monkrus.
 
 **[`^        back to top        ^`](#)**
 
@@ -992,6 +997,12 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [watchepisodeseries](https://anonym.to/?https://watchepisodeseries.bypassed.wtf/) - Watch Episode Series provides TV Shows releases from the scene.
 - [WatchTVSeries](https://anonym.to/?https://watchtvseries.unblocked.krd/) - Watch TV shows online.
 - [ZeroBoard](https://anonym.to/?https://zeroboard.org/) - A board which provides Windows related stuff.
+
+**[`^        back to top        ^`](#)**
+
+
+### Content Aggregators
+- [LinkSnappy](https://anonym.to/?https://linksnappy.com/) - Aggregator to download from over 75 file hosters with one paid account only.
 
 **[`^        back to top        ^`](#)**
 
@@ -1288,12 +1299,12 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - ["A simple script for easily downloading emulator.games ROMs"](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/aytutr/a_simple_script_for_easily_downloading/) - Reddit guide and userscript created by /u/estel_smith to allow you to easily download ROMs from Emulator.Games.
 - [BlackBox](https://anonym.to/?http://www.blackboxrepack.com/) - (`insecure`) - A well known forum/site for game repacks.
 - [Dark Umbra](https://anonym.to/?https://darkumbra.net/) - A forum for sourcing games.
-- [DODI](http://dodi-repacks.site/) - (`insecure`) - Similar like fit-girl repacks, known and trusted by thousend of peoples around the world.
+- [DODI](https://anonym.to/?http://dodi-repacks.site/) - (`insecure`) - Similar like fit-girl repacks, known and trusted by thousend of peoples around the world.
 - [ElAmigos Games](https://anonym.to/?https://www.elamigos-games.com/) - Premium links to cracked PC games.
 - [Emulator.Games](https://anonym.to/?https://emulator.games/) - Download or play ROMs on your PC, Mobile, Mac, iOS and Android devices.
-- [FitGirl Repacks](http://fitgirl-repacks.site/) - (`insecure`) - Popular DDL and torrent site for game repacks.
-- [Kaoskrew](http://kaoskrew.org/) - (`insecure`) Repacks from popular repacker SKIDROW, CPY, Razor1911, PLAZA etc.
-- [Kapital Sin](http://www.kapitalsin.com/forum/) - (`insecure`)
+- [FitGirl Repacks](https://anonym.to/?http://fitgirl-repacks.site/) - (`insecure`) - Popular DDL and torrent site for game repacks.
+- [Kaoskrew](https://anonym.to/?http://kaoskrew.org/) - (`insecure`) Repacks from popular repacker SKIDROW, CPY, Razor1911, PLAZA etc.
+- [Kapital Sin](https://anonym.to/?http://www.kapitalsin.com/forum/) - (`insecure`)
 - [Nicoblog](https://anonym.to/?https://nicoblog.org/) - (`insecure`) - Plenty of ISOs, ROMs & repacks.
 - [qoob.name](http://qoob.name/) - (`insecure`) - Repacker site of popular cracker teams like CPY, PLEX etc.
 - [R.G Mechanics](https://anonym.to/?https://rg-mechanics.org/) - Various repacks.
@@ -1890,6 +1901,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [The idiot proof guide to downloading ebooks off IRC](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) - Posted by /u/Servaplur
 - [TheGeeks](https://anonym.to/?https://thegeeks.click/) - Ebook tutorials mostly Udemy, but not limted to it.
 - [Twirpx](https://anonym.to/?https://www.twirpx.com/) - (RU) - Fiction/Non-fiction, books in multiple languages.
+- [BookTracker](https://anonym.to/?https://booktracker.org/) - (RU) - Book collections, discussions and torrents + IRC.
 
 **[`^        back to top        ^`](#)**
 

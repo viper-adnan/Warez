@@ -252,6 +252,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 ### Telegram Movie Bot
 - [@utubebot](https://anonym.to/?hhttps://t.me/utubebot) - Video Downloader with MP3 Conversion support.
+- [[@JaredMovieRuBot](https://anonym.to/?https://t.me/JaredMovieRuBot) - Movie monitoring bot.
 
 **[`^        back to top        ^`](#)**
 
