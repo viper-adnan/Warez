@@ -116,9 +116,13 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 **[`^        back to top        ^`](#)**
 
+
 ## Team Drives
 - [Google Team Drive](https://anonym.to/?https://teamdrive.mfoxx.workers.dev/) - Create Google Team Drive where you can share your files with others.
-- [GDIndex](https://anonym.to/?https://github.com/ParveenBhadooOfficial/GDIndex) - Team drive for _googledri.ve.workers.dev_ . You also can create your own TeamDriv[[](https://anonym.to/?)](https://anonym.to/?)
+- [GDIndex](https://anonym.to/?https://github.com/ParveenBhadooOfficial/GDIndex) - Team drive for _googledri.ve.workers.dev_ . You also can create your own TeamDrive.
+- [TeamDrive Software for Win, Linux, Android and iOS](https://anonym.to/?https://forum.teamdrive.net/viewforum.php?f=2) - Software with AES encryption to work across multiple PC's and keep your files update
+
+
 **[`^        back to top        ^`](#)**
 
 
@@ -404,6 +408,11 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 
+
+### Apple
+- [Beta Profiles](https://anonym.to/?https://betaprofiles.com/) - Download Apple Beta Software without an account or developer ID.
+
+
 ## Decentralized Network Projects
 - [Freenet](https://anonym.to/?https://freenetproject.org) - Lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) - and chat on forums, without fear of censorship.
 - [I2P](https://anonym.to/?https://geti2p.net/en/) - I2P is an anonymous overlay network - a network within a network. It's intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
@@ -651,6 +660,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Xiepp](https://anonym.to/?https://www.xiepp.com/) (CN _insecure_) - Chinese movies, TV-Shows and other torrents.
 - [Zonatorrent](https://anonym.to/?https://zonatorrent.tv/) - Spanish tracker.
 - [Zooqle](https://anonym.to/?https://zooqle.com/) - Zooqle is a relatively new torrent index providing a huge database of verified torrents.
+- [monova.to](https://anonym.to/?https://monova.to/)
 
 **[`^        back to top        ^`](#)**
 
@@ -862,13 +872,14 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [RePack Club](https://anonym.to/?https://repacks.club/) - (RU) - Russian repack portal.
 - [Repacks.NET](https://anonym.to/?https://repacks.net/) - A well-known repack website mostly for Windows software.
 - [monkrus](https://anonym.to/?http://w13.monkrus.ws) - (RU) - Russian repacker website by monkrus.
+- [Diakov](https://anonym.to/?https://diakov.net/) - (RU) - Russian repacker for Adobe and other applications.
 
 **[`^        back to top        ^`](#)**
 
 
 ### Custom "Google" Search Engines
 - [FileChef](https://anonym.to/?http://filechef.com/) - (`insecure`) - Get direct download links for almost anything!
-- [Strixx](https://maximousblk.github.io/strixx) - An open directory search tool.
+- [Strixx](https://maximousblk.github.io/strixx) + [Website](https://anonym.to/?https://opendirsearch.abifog.com/) - An open directory search tool.
 - [Jimmyr](https://anonym.to/?http://www.jimmyr.com/mp3_search.php) - (`insecure`) - Yet abother Music search engine.
 - [lumpySoft.com](https://anonym.to/?https://lumpysoft.com/) - A Google index search with predefined tags.
 - [mattpalm.com/search](https://anonym.to/?https://mattpalm.com/search/) - Get direct download links for almost anything.
@@ -997,6 +1008,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [watchepisodeseries](https://anonym.to/?https://watchepisodeseries.bypassed.wtf/) - Watch Episode Series provides TV Shows releases from the scene.
 - [WatchTVSeries](https://anonym.to/?https://watchtvseries.unblocked.krd/) - Watch TV shows online.
 - [ZeroBoard](https://anonym.to/?https://zeroboard.org/) - A board which provides Windows related stuff.
+- [up4pc](https://anonym.to/?https://up4pc.com/) - Download PC Software including cracks via ZippyShare, GDrive etc.
 
 **[`^        back to top        ^`](#)**
 
@@ -1901,7 +1913,8 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [The idiot proof guide to downloading ebooks off IRC](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) - Posted by /u/Servaplur
 - [TheGeeks](https://anonym.to/?https://thegeeks.click/) - Ebook tutorials mostly Udemy, but not limted to it.
 - [Twirpx](https://anonym.to/?https://www.twirpx.com/) - (RU) - Fiction/Non-fiction, books in multiple languages.
-- [BookTracker](https://anonym.to/?https://booktracker.org/) - (RU) - Book collections, discussions and torrents + IRC.
+- [BookTracker](https://anonym.to/?https://booktracker.org/) - (RU) - Book collections, discussions and torrents + IRC
+- [Z-Lib.org](https://anonym.to/?https://z-lib.org/) - Programmig and educational eBooks.
 
 **[`^        back to top        ^`](#)**
 
@@ -2342,9 +2355,11 @@ I do not accept any donations or add a sponsorship button for this repository. I
 ## Discord alternatives (without logging or telemetry)
 - [Ripcord](https://anonym.to/?https://cancel.fm/ripcord/) - A closed source no tracking or analytics Discord client (without electron framework part).
 
+
 ### Discord Client (Mods)
 - [EnhancedDiscord](https://anonym.to/?https://github.com/joe27g/EnhancedDiscord) - A lightweight Discord client mod.
 - [Quarrel]https://anonym.to/?(https://github.com/UWPCommunity/Quarrel) - A UWP discord client for Windows 10.
+- [PowerCord](https://anonym.to/?https://github.com/powercord-org/powercord) - A lightweight discordapp client mod focused on simplicity and performance.
 
 **[`^        back to top        ^`](#)**
 

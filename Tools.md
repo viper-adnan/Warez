@@ -457,8 +457,14 @@ Downloads albums in bulk.
 
 ## Netflix Downloader
 - [FlixGrab](https://anonym.to/?http://freegrabapp.com/product/flixgrab/) - Unique and powerful application for downloading NetFlix videos fast and for free.
-- [Netflix-proxy](https://github.com/ab77/netflix-proxy/) - Smart DNS proxy to bypass Netflix GeoIP restriction.
+- [Netflix-proxy](https://anonym.to/?https://github.com/ab77/netflix-proxy/) - Smart DNS proxy to bypass Netflix GeoIP restriction.
 
+
+**[`^        back to top        ^`](#)**
+
+
+## Proxy
+- [v2rayN](https://anonym.to/?https://github.com/2dust/v2rayN) - A proxy wrapper for Android and Windows.
 
 **[`^        back to top        ^`](#)**
 
@@ -972,6 +978,7 @@ Downloads albums in bulk.
 
 ## Spotify
 - [MuteSpotifyAds](https://anonym.to/?https://github.com/simonmeusel/MuteSpotifyAds) - A efficent MacOS application automatically silencing ads on the spotify desktop app.
+- [spotify-dl](https://anonym.to/?https://github.com/SwapnilSoni1999/spotify-dl) - Spotify Downloader and alternative of Spotdl(python) tool made in NodeJS based on youtube-dl.
 
 
 ## RSS link generation
@@ -982,6 +989,28 @@ Downloads albums in bulk.
 
 ## Rename scene releases
 - [TheRenamer.com](https://anonym.to/?http://therenamer.com/) - Automatically organize, move, and rename downloaded TV shows and movies.
+
+**[`^        back to top        ^`](#)**
+
+
+### Windows Domain Hardening Tools
+- [PingCastle](https://anonym.to/?https://www.pingcastle.com/) - an Active Directory audit tool (and free!) with pretty good metrics.
+- [Responder](https://anonym.to/?https://github.com/lgandx/Responder) - A LLMNR, NBT-NS and MDNS poisoner.
+- [BloodHound](https://anonym.to/?https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin.
+- [AD Control Path](https://anonym.to/?https://github.com/ANSSI-FR/AD-control-paths) - Active Directory Control Paths auditing and graphing tools
+- [PowerSploit](https://anonym.to/?https://github.com/PowerShellMafia/PowerSploit/) - A PowerShell Post-Exploitation Framework
+- [PowerView](https://anonym.to/?https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon) - Situational Awareness PowerShell framework
+- [Empire](https://anonym.to/?https://github.com/EmpireProject/Empire) - PowerShell and Python post-exploitation agent
+- [Mimikatz](https://anonym.to/?https://github.com/gentilkiwi/mimikatz) - Utility to extract plaintexts passwords, hash, PIN code and kerberos tickets from memory but also perform pass-the-hash, pass-the-ticket or build Golden tickets.
+- [Tools Cheatsheets](https://anonym.to/?https://github.com/HarmJ0y/CheatSheets) - (Beacon, PowerView, PowerUp, Empire)
+- [UACME](https://anonym.to/?https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
+- [Windows System Internals](https://anonym.to/?https://technet.microsoft.com/en-us/sysinternals/bb545021.aspx) - (Including Sysmon etc.)
+- [Hardentools](https://anonym.to/?https://github.com/securitywithoutborders/hardentools) - Collection of simple utilities designed to disable a number of "features" exposed by Windows
+- [CrackMapExec](https://anonym.to/?https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting Windows/Active Directory environments
+- [SharpSploit](https://anonym.to/?https://github.com/cobbr/SharpSploit) - SharpSploit is a .NET post-exploitation library written in C#
+- [Rubeus](https://anonym.to/?https://github.com/GhostPack/Rubeus/) - Rubeus is a C# toolset for raw Kerberos interaction and abuses
+- [Koadic](https://anonym.to/?https://github.com/zerosum0x0/koadic) - Koadic, or COM Command & Control, is a Windows post-exploitation rootkit
+- [SILENTTRINITY](https://anonym.to/?https://github.com/byt3bl33d3r/SILENTTRINITY) - A post-exploitation agent powered by Python, IronPython, C#/.NET
 
 **[`^        back to top        ^`](#)**
 

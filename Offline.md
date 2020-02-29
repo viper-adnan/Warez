@@ -1,6 +1,6 @@
 ## Offline but never forgotten
 
-Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedowns](https://torrentfreak.com/scammers-hit-pirate-game-sites-with-irreversible-google-takedowns-181130/)"
+Based on "[Scammers Hit Pirate Game Sites With â€˜Irreversibleâ€™ Google Takedowns](https://torrentfreak.com/scammers-hit-pirate-game-sites-with-irreversible-google-takedowns-181130/)"
 
 - Good-Old-Downloads
 - MovieBox
@@ -435,6 +435,9 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 
 ## File Hoster
 - Firedrop.com
+- reep.io
+- dot.tk
+
 
 ## Cracking Groups
 - [Team FOFF](http://foff.astalavista.ms/)
@@ -478,10 +481,8 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - [Team Desperate](http://zor.org/desperate)
 - [Team FOFF](http://foff.astalavista.ms/)
 - Digital Insanity" (DI)
-
-
-
-
+- Centropy
+- CLAS
 
 
 ## Telegram
