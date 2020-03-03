@@ -270,6 +270,14 @@ There is a universal rule for Android:
 
 
 ## ZippyShare automation
-- [Zippyshare.sh](https://anonym.to/?hhttps://github.com/myspaghetti/zippyshare) - Bash script for batch downloading files from Zippyshare.
+- [Zippyshare.sh](https://anonym.to/?https://github.com/myspaghetti/zippyshare) - Bash script for batch downloading files from Zippyshare.
 
 **[`^        back to top        ^`](#)**
+
+
+
+### Discord History
+-[cache-monkey](https://anonym.to/?https://github.com/jamiepine/cache-monkey) - Cachemonkey, for viewing images stored in the discord cache, works for recovering images that were loaded by the discord client but were deleted. It also was a feature to purge the cache too
+
+
+

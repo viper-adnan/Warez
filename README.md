@@ -258,7 +258,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Perfect Privacy VPN](https://anonym.to/?https://www.perfect-privacy.com/) - Known in the business since over 10 years.
 - [ProtonVPN](https://anonym.to/?https://protonvpn.com/) - High-speed Swiss made VPN that safeguards your privacy.
 - [Safing.io](https://anonym.to/?https://safing.io/) - `beta` Project who tries to "take back control".
-- [SurfShark](http://anonym.es/https://surfshark.com/) - Surfshark is an award-winning, secure VPN that encrypts your online data to help you stay private & protected every day, hassle-free.
+- [SurfShark](http://anonym.to/?https://surfshark.com/) - Surfshark is an award-winning, secure VPN that encrypts your online data to help you stay private & protected every day, hassle-free.
 
 **[`^        back to top        ^`](#)**
 
@@ -307,9 +307,19 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Nintendo Games Collection](http://web.archive.org/web/20190429144531/https://anonym.to/?https://docs.google.com/spreadsheets/d/e/2PACX-1vSSmcqtzUguH-tlJ2sr6_v5rTwnlZI1wlsjnyH3Zyy4VKo-TbkHFuW_m3FjpTc3ApQxAL13lOWY9gkm/pubhtml)
 - [Nintendo Update Server (NUS) Backup](https://anonym.to/?https://drive.google.com/drive/folders/1miUUsBt7oJ3nJ0x_V1d6Pnz1OevtnrWn)
 - [Microsoft Games Collection](https://anonym.to/?http://web.archive.org/web/20190429144409/https://anonym.to/?https://docs.google.com/spreadsheets/d/e/2PACX-1vRs56u1DiQy4EBB8rWrk1r-yvkYgatv9h0IbKKDh1HyPXueiaS06aVdovdF_nHe9SJrPwfkYRMif_mG/pubhtml)
-- [LibGen & Sci-Hub torrent archive](http://libgen.lc/stat.php) - Entire collection via BitTorrent, a Reddit discussion can be found over [here](https://anonym.to/?https://www.removeddit.com/r/seedboxes/comments/e129yi/charitable_seeding_for_nonprofit_scientific/)
+- [LibGen & Sci-Hub torrent archive](https://anonym.to/?http://libgen.lc/stat.php) - Entire collection via BitTorrent, a Reddit discussion can be found over [here](https://anonym.to/?https://www.removeddit.com/r/seedboxes/comments/e129yi/charitable_seeding_for_nonprofit_scientific/)
+- [emuparadise-mirror](https://anonym.to/?https://github.com/Mz49/emuparadise-mirror) - A Cloudflare Worker script that mirrors EmuParadise and alters download pages to include a working link.
+
 
 **[`^        back to top        ^`](#)**
+
+
+## Website archiving tools
+- [SingleFile](https://anonym.to/?https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete web page as a single HTML file.
+- [ArchiveBox](https://anonym.to/?https://github.com/pirate/ArchiveBox) - The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [monolith](https://anonym.to/?https://github.com/Y2Z/monolith) - CLI tool for saving complete web pages as a single HTML file.
+
+**[`^        back to top        ^`](#)*
 
 
 ## Email Service Providers
@@ -383,6 +393,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [tut-audio](https://anonym.to/?https://tut-audio.ru) - (RU) - A popular Russian website to get MP3 files.
 - [MinimalFreaks](https://anonym.to/?https://minimalfreaks.pw/) - As the website url tells, Minimal Music.
 - [Xoamoelmosh Blogspot](https://anonym.to/?https://yoamoelmosh.blogspot.com/) - Hardcore, Metal & Beatdown etc.
+- [24Flac](https://anonym.to/?https://24flac.net/) - FLAC Music including .CUE.
 
 **[`^        back to top        ^`](#)**
 
@@ -661,6 +672,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Zonatorrent](https://anonym.to/?https://zonatorrent.tv/) - Spanish tracker.
 - [Zooqle](https://anonym.to/?https://zooqle.com/) - Zooqle is a relatively new torrent index providing a huge database of verified torrents.
 - [monova.to](https://anonym.to/?https://monova.to/)
+- [PaHe.me](https://anonym.to/?https://pahe.me/) - HQ Movies at Affordable Size.
 
 **[`^        back to top        ^`](#)**
 
@@ -1008,7 +1020,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [watchepisodeseries](https://anonym.to/?https://watchepisodeseries.bypassed.wtf/) - Watch Episode Series provides TV Shows releases from the scene.
 - [WatchTVSeries](https://anonym.to/?https://watchtvseries.unblocked.krd/) - Watch TV shows online.
 - [ZeroBoard](https://anonym.to/?https://zeroboard.org/) - A board which provides Windows related stuff.
-- [up4pc](https://anonym.to/?https://up4pc.com/) - Download PC Software including cracks via ZippyShare, GDrive etc.
+- [up4pc](https://anonym.to/?https://up4pc.com/) - Download PC Software including cracks via ZippyShare, GDrive and Mega.
 
 **[`^        back to top        ^`](#)**
 

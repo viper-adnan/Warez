@@ -401,6 +401,7 @@ Based on "[Scammers Hit Pirate Game Sites With â€˜Irreversibleâ€™ Googl
 - libgen.unblocked.pet (Austria)
 - scihub.unblocked.lc (Austria)
 - scihub.unblocked.vet (Austria)
+- ZippyShare (Germany)
 
 ## Anime
 - MioMio
@@ -431,7 +432,9 @@ Based on "[Scammers Hit Pirate Game Sites With â€˜Irreversibleâ€™ Googl
 - TCNHosting
 - UMaxHosting
 - WelcomeHosting
-- X4Servers
+- VS- X4Servers
+
+
 
 ## File Hoster
 - Firedrop.com
@@ -481,10 +484,17 @@ Based on "[Scammers Hit Pirate Game Sites With â€˜Irreversibleâ€™ Googl
 - [Team Desperate](http://zor.org/desperate)
 - [Team FOFF](http://foff.astalavista.ms/)
 - Digital Insanity" (DI)
-- Centropy
+- Centrop
 - CLAS
 
 
 ## Telegram
 - @Music_High_Resolution
 - @kumarsanu0789
+
+
+## Forums
+- Pahe.in
+
+## Porn
+- YesPornPlease
