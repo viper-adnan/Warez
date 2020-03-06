@@ -1134,7 +1134,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [SGAnime](https://anonym.to/?https://sganime.org/) - Subs only, no ads, few sources.
 - [TVBox](https://anonym.to/?https://tvbox.unblocked.gdn/)
 - [TVRaven](https://anonym.to/?https://www.onetvraven.pro/)
-- [WatchCartoon](https://anonym.to/?https://www.watchcartoononline.io/)
+- [WatchCartoon](https://anonym.to/?https://www.watchcartoononline.io/) - English dubbed, subbed (german).
 - [WatchCartoonsOnline](https://anonym.to/?https://watchcartoonsonline.la/)
 - [WatchSeries 2.0](https://anonym.to/?https://watch-series.io/)
 
@@ -1536,7 +1536,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 
-## Anime (Hentai is not allowed!)
+## Anime (Hentai is NOT allowed!)
 - [/r/animepiracy wiki](https://anonym.to/?https://www.removeddit.com/r/animepiracy/wiki/index) - Lists for sourcing Anime streaming sites, manga sites, and more.
 - [/r/animepiracy](https://anonym.to/?https://www.removeddit.com/r/animepiracy) - This sub is about streaming and torrent websites for anime.
 - [/r/sjain_guides](https://anonym.to/?https://www.removeddit.com/r/sjain_guides/) - Guides and downloads for CS:GO, Windows 10 gaming optimisations, and more
@@ -1560,6 +1560,9 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Nyaa](https://anonym.to/?https://nyaa.si/) - BitTorrent software for cats [(Repo)](https://anonym.to/?https://github.com/nyaadevs/nyaa).
 - [NyaaPantsu](https://anonym.to/?https://nyaa.pantsu.cat/) - Primarily Anime torrents but includes an open directory of DDL links too.
 - [Series9](https://anonym.to/?https://www2.series9.io/) - Search engine for movies and tv shows (incl. animes).
+- [SittingonClouds](https://anonym.to/?https://www.sittingonclouds.net/) - Game- & Anime-Soundtracks.
+- [Anime OST Packages](http://koe.anime-sharing.com/Packlist/) - provides anime soundtracks and series.
+- [Anime OST search](https://anonym.to/?https://themes.moe/) - A search engine for anime stuff.
 
 **[`^        back to top        ^`](#)**
 
@@ -1609,7 +1612,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 ### Music Streaming
 - [datmusic](https://anonym.to/?https://datmusic.xyz/) - Search engine with a clean UI for streaming music in your browser
 - [GoSong](https://anonym.to/?https://gosong.unblocked.gdn/) - Streamable MP3s
-- [Hikarinoakariost](https://anonym.to/?https://hikarinoakariost.info/) - Site with Japanese music
+- [Hikarinoakariost](https://anonym.to/?https://hikarinoakariost.info/) - Site with Japanese music and soundtracks.
 - [MP3Juices](https://anonym.to/?https://mp3juices.unblocked.gdn/) - MP3 search engine tool which uses YouTube
 - [MusicPleer](https://anonym.to/?https://musicpleer.la/) - Another music streaming site with a decent search engine.
 - [Muxiv Music](https://anonym.to/?https://muxiv.com/) - Stream 45 million songs on all your devices, online or offline. Primarily Chinese content.
