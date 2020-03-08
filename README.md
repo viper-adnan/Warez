@@ -2869,11 +2869,12 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 ## Subtitles
+- [ASS / SSA to SRT Subtitles Converter](https://anonym.to/?https://sorz.github.io/asstosrt-wasm/) - Encode ASS/SRT files
 - [Addic7ed](https://anonym.to/?https://www.addic7ed.com/) - Quality Subtitles for TV Shows and movies.
 - [HorribleSubs](https://anonym.to/?https://horriblesubs.info/) - Schedule for upcoming Anime releases, Subs, IRC, Show Info.
 - [RenameThemSubs](https://anonym.to/?https://github.com/Eshaan7/RenameThemSubs) - Rename subtitles files according to TV show names found in a directory.
 - [Subscene](https://anonym.to/?https://subscene.com/) - Quality Subtitles for Movies.
-- [WonderfulSubs](https://anonym.to/?https://www.wonderfulsubs.com/)
+- [WonderfulSubs](https://anonym.to/?https://www.wonderfulsubs.com/) - The best place on the web for all things Anime!
 
 **[`^        back to top        ^`](#)**
 
