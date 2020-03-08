@@ -1084,65 +1084,75 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## Anime & Cartoon Streaming (720p+)
-- [9anime.nl](https://anonym.to/?hhttps://9anime.nl/) - Provides HQ animes and has almost no ads. large libary of animes.
-- [AnimeFlix](https://anonym.to/?https://animeflix.io/nimeflix.io) - Zero ads, streams, background info.
-- [AtTwist.moe](https://anonym.to/?https://atwitst.moe) - ALmost no ads.
 - [/r/AnimePiracy BCSE Search](https://anonym.to/?https://ui.customsearch.ai/hosted-page?customconfig=12619b8a-0cac-4a38-b20b-04c79ddb616d&version=latest&market=en-US&q=) - A custom search engine for Anime content.
-- [The /r/AnimePiracy Index](https://anonym.to/?https://docs.zoho.com.au/sheet/open/stzn58acc24611fea414e8901724ff4510fe8/sheets/Anime/ranges/A1) - A Google Docs sheet for Anime websites including background information if page x contains ads, anti-adblock & more.
-- [AnimeKisa](https://anonym.to/?https://animekisa.com/) - Subs and dubs, no ads, funded by donations, self-hosted.
-- [AnimeWatch](https://anonym.to/?https://aniwatch.me/) - We are Aniwatch and here you will find an anime haven, including the best user experience you will ever have.
-- [Animelon](https://anonym.to/?https://animelon.com/) - Subs only, multilingual, no ads, funded by donations, only one source, videos hosted by Google, aimed for Japanese learners.
-- [Aniwatcher](https://anonym.to/?https://aniwatcher.com/) - Subs and dubs, pop-up ads on video player, downloadable, multiple sources.
-- [AnimeFreak.TV](https://anonym.to/?https://www.animefreak.tv/) - Subs and sometimes dubs, banner and pre-roll ads, one source.
 - [4Anime](https://anonym.to/?https://4anime.to/) - Subs and dubs, many ads, many player alternatives, videos hosted by Google.
+- [9anime.nl](https://anonym.to/?hhttps://9anime.nl/) - Provides HQ animes and has almost no ads. large libary of animes.
 - [9Anime](https://anonym.to/?https://www2.9anime.to/) - Subs and dubs, many ads, many player alternatives, videos hosted by Google.
 - [All-animes](https://anonym.to/?https://all-animes.com) - Watch Online Anime in HD, English, subbed and dubbed.
-- [Animeboys](https://anonym.to/?https://www.kaze-online.de/) - (Ger) - Subs and dubs, banner and pop-up ads, multiple sources.
-- [Animefever](https://anonym.to/?https://www.animefever.tv/) - Subs only, multilingual, banner ads, self-hosted.
+- [Anime Kisa](https://anonym.to/?https://animekisa.tv/) - Subs and dubs, no ads, funded by donations, self-hosted.
+- [Anime Simple](https://anonym.to/?https://ww1.animesimple.com/) - (`needs ads-blocker`) -  Subs and dubs, banner ads, multiple sources.
 - [Anime Streams](https://anonym.to/?https://www.anime2you.de/streams/) - Sub and dub, banner ads.
+- [Anime Take](https://anonym.to/?https://animetake.tv/) - Subs and sometimes dubs, banner and pre-roll ads, one source.
 - [Anime8](https://anonym.to/?https://anime8.me/) - Watch & download online in high quality.
-- [AnimeRam](https://anonym.to/?https://ww2.animeram.cc/) A streaming website for dubbed/subbed anime.
-- [AnimePahe](https://anonym.to/?https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
 - [AnimeBam](https://anonym.to/?https://www.animebam.net/) - Subs only, banner ads, only one source.
+- [animebam](https://anonym.to/?https://www.animebam.se/) - Subs only, banner ads, only one source.
+- [AnimeBorn](https://anonym.to/?http://www.animereborn.io/) - Subs only, banner ads, pop-ins, pop-ups, videos hosted by Google (proxy), only 1 source, downloadable.
+- [AnimeBoys](https://anonym.to/?https://animeboys.net/) - Sometimes offline - Subs and sometimes dubs, banner and pre-roll ads, one source.
+- [Animeboys](https://anonym.to/?https://www.kaze-online.de/) - (Ger) - Subs and dubs, banner and pop-up ads, multiple sources.
 - [AnimeDao](https://anonym.to/?https://animedao.com/) - No ads, subs only, multiple sources, videos hosted by Google.
-- [Animeflv](https://anonym.to/?https://animeflv.net/)
+- [Animefever](https://anonym.to/?https://www.animefever.tv/) - Subs only, multilingual, banner ads, self-hosted.
+- [AnimeFlix](https://anonym.to/?https://animeflix.io/nimeflix.io) - Zero ads, streams, background info.
+- [Animeflv](https://anonym.to/?https://animeflv.net/) - (`SP`) - Spanish anime site, subs, dubs and other lewd stuff.
+- [AnimeFreak.TV](https://anonym.to/?https://www.animefreak.tv/) - Subs and sometimes dubs, banner and pre-roll ads, one source.
 - [AnimeHub](https://anonym.to/?https://animehub.ac/) - Sub and dub, banner ads.
-- [AnimePie](https://anonym.to/?https://www.animepie.to/index) - Subs and dubs, no ads, multiple sources(including from other anime sites).
+- [AnimeKisa](https://anonym.to/?https://animekisa.com/) - Subs and dubs, no ads, funded by donations, self-hosted.
+- [Animelon](https://anonym.to/?https://animelon.com/) - Subs only, multilingual, no ads, funded by donations, only one source, videos hosted by Google, aimed for Japanese learners.
+- [AnimePahe](https://anonym.to/?https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
+- [AnimeRam](https://anonym.to/?https://ww2.animeram.cc/) A streaming website for dubbed/subbed anime.
 - [AnimeRush](https://anonym.to/?https://www.animerush.tv/genres/) - Subs only, pop-ins, one source.
 - [AnimeSeries](https://anonym.to/?https://animeseries.co/) - Yet another anime streaming provider website.
-- [Anime Simple](https://anonym.to/?https://ww1.animesimple.com/) - (`needs ads-blocker`) -  Subs and dubs, banner ads, multiple sources.
 - [AnimeTV](https://anonym.to/?https://animetv.ge/) - Subs and dubs, banner ads, many player alternatives.
+- [AnimeTV](https://anonym.to/?https://www3.animeseries.io/) - Subs and dubs, banner ads, many player alternatives.
+- [animeultima](https://anonym.to/?https://animeultima.eu/) - Subs and dubs, banner and pop-up ads, multiple sources.
 - [animeultima](https://anonym.to/?https://twitter.com/animeultimav2?lang=en) - Subs and dubs, banner and pop-up ads, multiple sources.
 - [AnimeVibe](https://anonym.to/?https://animevibe.xyz/) - Subs and dubs, no ads, multiple sources, downloadable, funded by donations.
+- [AnimeWatch](https://anonym.to/?https://aniwatch.me/) - We are Aniwatch and here you will find an anime haven, including the best user experience you will ever have.
 - [AnimeWorldBD](https://anonym.to/?https://animeworldbd.com/) - Banner ads, some videos can only be downloaded, small list.
+- [Aniwatcher](https://anonym.to/?https://aniwatcher.com/) - Subs and dubs, pop-up ads on video player, downloadable, multiple sources.
+- [AtTwist.moe](https://anonym.to/?https://atwitst.moe) - The website has almost no ads.
 - [Cartoon Crazy](https://anonym.to/?https://www.cartooncrazy.tv/)
 - [CartoonWire](https://anonym.to/?https://cartoonwire.to/)
+- [Chia-anime](https://anonym.to/?https://www2.chia-anime.cc/) 
 - [DaiWEEB](https://anonym.to/?https://www.daiweeb.org/) - Subs only (EN and JP), no ads, only one source, self-hosted, aimed for Japanese learners.
 - [DarkAnime.stream](https://anonym.to/?https://darkanime.stream/) - Subs, no ads, downloadable, some sources.
+- [DubbedAnime](https://anonym.to/?https://dubbedanime.biz/) - Dubbed animes, large collecction.
 - [DubbedAnime](https://anonym.to/?https://ww5.dubbedanime.net/) - Subs and dubs, banner and pop-up ads, multiple sources.
+- [EyeOnAnime](https://anonym.to/?http://eyeonanime.tv/) - Subs and dubs, banner ads, uses multiple uploaders/players.
 - [EyeOnAnime](https://anonym.to/?https://eyeonanime.tv/) - Subs and dubs, banner ads, uses multiple uploaders/players.
 - [GoGoAnime](https://anonym.to/?https://www1.gogoanime.sh/) - Subs and dubs, many ads, many player alternatives.
 - [HakuNeko](https://anonym.to/?https://github.com/manga-download/hakuneko) - A cross-platform downloader for manga and anime from +400 websites. Manga and anime in multiple languages and formats (cbz, folder with images, epub).
+- [HotAnime](https://anonym.to/?http://hotanime.me/) - Subs and dubs, lots of banner ads, pop-ins, possibly self-hosted videos, downloadable (via OpenLoad).Banner ads, multiple sources, eng & german subs, captcha.
+- [JustDubs](https://anonym.to/?http://justdubs.org/) - Dubs only, popup ads, not enough sources, downloadable.
+- [Kawaiifu](https://anonym.to/?https://kawaiifu.com/) - Videos hosted by Google, only one source, style similar to niconico, missing multiple anime.
+- [KickAssAnime.rs](https://anonym.to/?https://www.kickassanime.rs/) - (`RU`) 
 - [KickAssAnime](https://anonym.to/?https://www11.kickassanime.io/) - Subs and dubs, banner ads, some sources.
 - [KimCartoon](https://anonym.to/?https://kimcartoon.to/)
 - [MoviesEver](https://anonym.to/?https://moviesever.com/)
 - [NineAnime](https://anonym.to/?https://www.nineanime.com/)
-- [OtakuStream](https://anonym.to/?https://otakustream.unblocker.cc/) - Subs only, banner and pop-up ads, downloadable, multiple sources.
 - [Online WatchCartoon](https://anonym.to/?https://www.watchcartoononline.com/)
-- [Otakustream](https://anonym.to/?https://otakustream.tv/)
+- [OtakuStream](https://anonym.to/?https://otakustream.unblocker.cc/) - Subs only, banner and pop-up ads, downloadable, multiple sources.
+- [Randaris Anime](https://anonym.to/?http://randaris.app) - (`Ger`) - Banner ads, multiple sources, eng & german subs, captcha.
 - [RyuAnime](https://anonym.to/?https://www4.ryuanime.com/) - Dubbed animes.
 - [Serienjunkies](http://serienjunkies.org/) - (GER) - (`insecure`) - Provides german tv episodes.
 - [SGAnime](https://anonym.to/?https://sganime.org/) - Subs only, no ads, few sources.
+- [The /r/AnimePiracy Index](https://anonym.to/?https://docs.zoho.com.au/sheet/open/stzn58acc24611fea414e8901724ff4510fe8/sheets/Anime/ranges/A1) - A Google Docs sheet for Anime websites including background information if page x contains ads, anti-adblock & more.
 - [TVBox](https://anonym.to/?https://tvbox.unblocked.gdn/)
 - [TVRaven](https://anonym.to/?https://www.onetvraven.pro/)
+- [WatchAnime.info](https://anonym.to/?https://www9.watchanime.info/) - Subs and dubs, banner and pop-up ads, multiple sources.
 - [WatchCartoon](https://anonym.to/?https://www.watchcartoononline.io/) - English dubbed, subbed (german).
 - [WatchCartoonsOnline](https://anonym.to/?https://watchcartoonsonline.la/)
 - [WatchSeries 2.0](https://anonym.to/?https://watch-series.io/)
-- [DubbedAnime](https://anonym.to/?https://dubbedanime.biz/) - Dubbed animes, large collecction.
 - [Your-Anime](https://anonym.to/?https://www.your-anime.com/) - (`AR`) - Arabish animes dubbed.
-- [Chia-anime](https://anonym.to/?https://www2.chia-anime.cc/) 
-- [KickAssAnime.rs](hhttps://anonym.to/?https://www.kickassanime.rs/) - (`RU`) 
-
 
 **[`^        back to top        ^`](#)**
 
@@ -1564,7 +1574,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [AniDex](https://anonym.to/?https://anidex.info) - Torrent tracker and indexer, primarily for English fansub groups of anime.
 - [AniLinkz](https://anonym.to/?https://anilinkz.to/) - Large database of streaming anime episodes.
 - [Anime Kaizoku](https://anonym.to/?https://www2.animekaizoku.com/) - Up to 1080p DDL links, mostly delivered via Google Drive.
-- [Anime Kayo](https://anonym.to/?https://animekayo.com/) -  1080p DDL links, mostly delivered via Google Drive
+- [Anime Kayo](https://anonym.to/?https://animekayo.com/) - 1080p DDL links, mostly delivered via Google Drive
 - [Anime Twist](https://anonym.to/?https://twist.moe/) - An anime direct streaming site with a decent UI and video player.
 - [animEncodes](https://anonym.to/?https://www.animencodes.com/) - Anime sharing page.
 - [Anime-Loards.org](ttps://www.anime-loads.org) - Anime sharing page.
@@ -1583,6 +1593,12 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Mangaseeonline](https://anonym.to/?angaseeonline.net) - Typically uploads official scans.
 - [Mangabat](https://anonym.to/?https://mangabat.com/) - (`needs ads-blocker`) - Read Manga Online for free.
 - [Animeheaven.eu](https://anonym.to/?http://animeheaven.eu/) - (`needs ads-blocker`) - Read Manga Online for free.
+- [AnimeVibe Lite v3](https://anonym.to/?https://animevibe.tv/) - Subs and dubs, no ads, multiple sources, downloadable, funded by donations.
+- [GoGo Anime](https://anonym.to/?https://gogoanimes.co/) - Subs and dubs, many ads, many player alternatives.
+
+
+
+
 
 **[`^        back to top        ^`](#)**
 
