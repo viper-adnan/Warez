@@ -1364,7 +1364,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Romulation.net](https://anonym.to/?https://www.romulation.net/) - Collection of over ~28,000 console game ROMs.
 - [Romsmania](https://anonym.to/?https://romsmania.cc/) - Another great ROMs collection with a decent UI to find stuff quick.
 - [ROMNation](https://anonym.to/https://www.romnation.net/) - Lots of ROMs.
-- [ROM Center](https://anonym.to/https://docs.google.com/spreadsheets/d/17XOCs-KWKOwtxWwyTsAH887GlkJ7DcCMv6cL9FoMOKM/htmlview?usp=sharing&sle=true) - Newer games tracker, links and downloads via GDrive.
+- [ROM Center](https://anonym.to/https://docs.google.com/spreadsheets/d/17XOCs-KWKOwtxWwyTsAH887GlkJ7DcCMv6cL9FoMOKM/htmlview?usp=sharing&sle=true) + [Mirror](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRTnwzumAjDe_H2anN8DSS3L-DCvxW7v1yqD6VcnmsSdN2FW0Jb71mRTwEympjCpA/pubhtm- Newer games tracker, links and downloads via GDrive.
 - [Retro Archive](https://anonym.to/https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed) - Collection of all retro based ROM's.
 - [The ROM Depot](https://anonym.to/?https://theromdepot.com/roms/) - Around 3 TB of ROMs (requires a VPN).
 - [Vimm's Lair](https://anonym.to/?https://vimm.net/?p=vault) - Large collection of ROMs.
@@ -2360,10 +2360,20 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [VOSTFRSerie](https://anonym.to/?(https://vostfrserie.biz/) - (FR)
 - [Wikiserie](https://anonym.to/?https://www.wikiserie.biz/) - (FR)
 
-### 4k streaming
+
+### 4k/HDR TV/Movie
 - [HDSS](https://anonym.to/?https://hdss.watch/) - (FR)
+- [nima4k](https://anonym.to/?https://nima4k.org/) - (Ger) Movies and TV shows via DDL.to and Rapidgator.
+- [Rarbg BD remux](https://rarbg.to/torrents.php?category=42;46&search=2160p&order=seeders&by=DESC) - Remuxes from Rarbg
+- [BeyondHD](https://anonym.to/?https://beyond-hd.me/login) (login needed) - 4K remuxes and 4K movies.
+- [PrivateHD](https://anonym.to/?https://privatehd.to/)  - (login needed) - HD, 4k Movies and TV shows.
+- [UHDBits](https://anonym.to/?https://uhdbits.org/) - (needs login) - HD, HDR and 4K tv shows and movies.
+- [Zamunda](https://anonym.to/?hhttps://zamunda.net/catalogs/) - (needs login) - HDR, 4 tv shows and movies. 
+- [MoviesFiles](https://anonym.to/?https://moviefiles.org/) - High quality MKV files which you can stream e.g. via MPV.
+- [Fake or real 4k](https://anonym.to/?https://4kmedia.org/real-or-fake-4k/) - Check if the website provides a real or upscaled release, list is updated monthly, a alternative is a [predb check](https://anonymhttps://predb.me/?search=2160p+BluRay+x265).
 
 **[`^        back to top        ^`](#)**
+
 
 ### Wrestling & MMA specifc
 - [Fight-BB](https://anonym.to/?http://fight-bb.com/) - (`insecure`)
