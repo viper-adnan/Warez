@@ -2376,11 +2376,12 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Daxiv](https://anonym.to/?https://daxiv.com/)
 - [Fembed](https://anonym.to/?https://fembed.com/)
 - [Filmxy](https://anonym.to/?https://www.filmxy.one/)
+- [Goldesel.to](https://anonym.to/?https://goldesel.to/) - (`Ger`) - You can ignore the Google Safe Bbrowsing warning. Movies, TV shows & more since over 15 years.
 - [HD Europix](https://anonym.to/?https://europixhd.net/) + [Mirror](https://anonym.to/?https://topeuropix.net/)
 - [HD Multireddit](https://anonym.to/?https://old.reddit.com/user/nbatman/m/streaming2/) - 1080p Openload, Google Video & Vimeo,..
 - [Kodi](https://anonym.to/?https://kodi.tv/) - + ([Setup guide](https://anonym.to/?https://www.removeddit.com/r/Addons4Kodi/comments/93porc/requests_recommendations_basics_august_2018/e3f6i12/))
 - [LeonFlix](https://anonym.to/?https://leonflix.net/)
-- [OpenloadMovies.ac](https://anonym.to/?https://openloadmovies.ac/) - `needs adblocker[](https://anonym.to/?)
+- [OpenloadMovies.ac](https://anonym.to/?https://openloadmovies.ac/) - (`needs adblocker`) 
 - [MovieJagg](https://anonym.to/?https://www.coolmoviejagg.pro/)
 - [MovieStreams](https://anonym.to/?https://moviestreams.org/)
 - [OneMov](https://anonym.to/?https://onemov.net/)
