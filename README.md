@@ -1084,6 +1084,9 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## Anime & Cartoon Streaming (720p+)
+- [9anime.nl](https://anonym.to/?hhttps://9anime.nl/) - Provides HQ animes and has almost no ads. large libary of animes.
+- [AnimeFlix](https://anonym.to/?https://animeflix.io/nimeflix.io) - Zero ads, streams, background info.
+- [AtTwist.moe](https://anonym.to/?https://atwitst.moe) - ALmost no ads.
 - [/r/AnimePiracy BCSE Search](https://anonym.to/?https://ui.customsearch.ai/hosted-page?customconfig=12619b8a-0cac-4a38-b20b-04c79ddb616d&version=latest&market=en-US&q=) - A custom search engine for Anime content.
 - [The /r/AnimePiracy Index](https://anonym.to/?https://docs.zoho.com.au/sheet/open/stzn58acc24611fea414e8901724ff4510fe8/sheets/Anime/ranges/A1) - A Google Docs sheet for Anime websites including background information if page x contains ads, anti-adblock & more.
 - [AnimeKisa](https://anonym.to/?https://animekisa.com/) - Subs and dubs, no ads, funded by donations, self-hosted.
@@ -1099,16 +1102,15 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Anime Streams](https://anonym.to/?https://www.anime2you.de/streams/) - Sub and dub, banner ads.
 - [Anime8](https://anonym.to/?https://anime8.me/) - Watch & download online in high quality.
 - [AnimeRam](https://anonym.to/?https://ww2.animeram.cc/) A streaming website for dubbed/subbed anime.
-- [Animepahe](https://anonym.to/?https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
+- [AnimePahe](https://anonym.to/?https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
 - [AnimeBam](https://anonym.to/?https://www.animebam.net/) - Subs only, banner ads, only one source.
 - [AnimeDao](https://anonym.to/?https://animedao.com/) - No ads, subs only, multiple sources, videos hosted by Google.
 - [Animeflv](https://anonym.to/?https://animeflv.net/)
 - [AnimeHub](https://anonym.to/?https://animehub.ac/) - Sub and dub, banner ads.
-- [AnimePahe](https://anonym.to/?https://animepahe.com/) - Subs only, pop-up ads, doesn't show videos with adblocker on, downloadable, only one source.
 - [AnimePie](https://anonym.to/?https://www.animepie.to/index) - Subs and dubs, no ads, multiple sources(including from other anime sites).
 - [AnimeRush](https://anonym.to/?https://www.animerush.tv/genres/) - Subs only, pop-ins, one source.
-- [AnimeSeries](https://anonym.to/?https://animeseries.co/)
-- [Anime Simple](https://anonym.to/?https://ww1.animesimple.com/) - Subs and dubs, banner ads, multiple sources.
+- [AnimeSeries](https://anonym.to/?https://animeseries.co/) - Yet another anime streaming provider website.
+- [Anime Simple](https://anonym.to/?https://ww1.animesimple.com/) - (`needs ads-blocker`) -  Subs and dubs, banner ads, multiple sources.
 - [AnimeTV](https://anonym.to/?https://animetv.ge/) - Subs and dubs, banner ads, many player alternatives.
 - [animeultima](https://anonym.to/?https://twitter.com/animeultimav2?lang=en) - Subs and dubs, banner and pop-up ads, multiple sources.
 - [AnimeVibe](https://anonym.to/?https://animevibe.xyz/) - Subs and dubs, no ads, multiple sources, downloadable, funded by donations.
@@ -1121,7 +1123,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [EyeOnAnime](https://anonym.to/?https://eyeonanime.tv/) - Subs and dubs, banner ads, uses multiple uploaders/players.
 - [GoGoAnime](https://anonym.to/?https://www1.gogoanime.sh/) - Subs and dubs, many ads, many player alternatives.
 - [HakuNeko](https://anonym.to/?https://github.com/manga-download/hakuneko) - A cross-platform downloader for manga and anime from +400 websites. Manga and anime in multiple languages and formats (cbz, folder with images, epub).
-- [Hi10Anime](https://anonym.to/?https://hi10anime.com/) - High Quality 10-bit Animes.
 - [KickAssAnime](https://anonym.to/?https://www11.kickassanime.io/) - Subs and dubs, banner ads, some sources.
 - [KimCartoon](https://anonym.to/?https://kimcartoon.to/)
 - [MoviesEver](https://anonym.to/?https://moviesever.com/)
@@ -1129,7 +1130,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [OtakuStream](https://anonym.to/?https://otakustream.unblocker.cc/) - Subs only, banner and pop-up ads, downloadable, multiple sources.
 - [Online WatchCartoon](https://anonym.to/?https://www.watchcartoononline.com/)
 - [Otakustream](https://anonym.to/?https://otakustream.tv/)
-- [RyuAnime](https://anonym.to/?https://www4.ryuanime.com/)
+- [RyuAnime](https://anonym.to/?https://www4.ryuanime.com/) - Dubbed animes.
 - [Serienjunkies](http://serienjunkies.org/) - (GER) - (`insecure`) - Provides german tv episodes.
 - [SGAnime](https://anonym.to/?https://sganime.org/) - Subs only, no ads, few sources.
 - [TVBox](https://anonym.to/?https://tvbox.unblocked.gdn/)
@@ -1137,8 +1138,24 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [WatchCartoon](https://anonym.to/?https://www.watchcartoononline.io/) - English dubbed, subbed (german).
 - [WatchCartoonsOnline](https://anonym.to/?https://watchcartoonsonline.la/)
 - [WatchSeries 2.0](https://anonym.to/?https://watch-series.io/)
+- [DubbedAnime](https://anonym.to/?https://dubbedanime.biz/) - Dubbed animes, large collecction.
+- [Your-Anime](https://anonym.to/?https://www.your-anime.com/) - (`AR`) - Arabish animes dubbed.
+- [Chia-anime](https://anonym.to/?https://www2.chia-anime.cc/) 
+- [KickAssAnime.rs](hhttps://anonym.to/?https://www.kickassanime.rs/) - (`RU`) 
+
 
 **[`^        back to top        ^`](#)**
+
+
+### Anime Torrent Websites
+- [Nyaa.si](hhttps://anonym.to/?https://nyaa.si/) - Anime torrent search engine with many fansub/fandub groups actively sharing torrents. No ads, no malware, nothing.
+- [AniDex](hhttps://anonym.to/?https://anidex.info/) - Another anime torrent search engine. No ads/popups.
+- [Tokyo Tosho](https://anonym.to/?https://www.tokyotosho.info/) - Referral banner ads.
+- [Nyaa Pantsu](https://anonym.to/?https://nyaa.net/) - No ads. Very similar to nyaa website.
+- [animetosho](https://anonym.to/?https://animetosho.org/) - AnimeTosho (AT) is an automated service that mirrors torrents posted on Tokyo Tosho and Nyaa Torrents AniDex onto various file hosting services.
+- [Hi10Anime](https://anonym.to/?https://hi10anime.com/) - High Quality 10-bit Animes.
+- [Anime Kaizoku](https://anonym.to/?https://animekaizoku.com/) - Onclick pop-up ads (NSFW), banner ads, no torrents, GDrive as download source (encodes for donators), has torrent version on nyaa.si tagged as `[AnimeKaizoku]`.
+- [Shana Project](https://anonym.to/?https://www.anirena.com/) - Anime torrent side, no ads.
 
 
 ### Specialty Sites
@@ -1340,9 +1357,10 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 
-### PlayStation (4)
+### PlayStation 
 - [Darksoftware Forum](https://anonym.to/?https://forum.darksoftware.net/forums/) - Number #1 forum for Playstation hacking topics.
 - [Download Game PS3](https://anonym.to/?https://downloadgameps3.com/) - Download game PS3, PS4, RPCS3, PC for free.
+- [PS3iso](http://www.ps3iso.net/) - (`insecure`) - Free PS3 games downloadable via filecrypt.cc.
 - [Ziperto](https://anonym.to/?https://www.ziperto.com/) - Nintendo, PC, Playstation and Emulator based games via GDrive & other hosters.
 
 **[`^        back to top        ^`](#)**
@@ -1536,11 +1554,10 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 
-## Anime (Hentai is NOT allowed!)
+## Anime (Hentai pages are NOT allowed!)
 - [/r/animepiracy wiki](https://anonym.to/?https://www.removeddit.com/r/animepiracy/wiki/index) - Lists for sourcing Anime streaming sites, manga sites, and more.
 - [/r/animepiracy](https://anonym.to/?https://www.removeddit.com/r/animepiracy) - This sub is about streaming and torrent websites for anime.
 - [/r/sjain_guides](https://anonym.to/?https://www.removeddit.com/r/sjain_guides/) - Guides and downloads for CS:GO, Windows 10 gaming optimisations, and more
-- [animetosho](https://anonym.to/?https://animetosho.org/) - AnimeTosho (AT) is an automated service that mirrors torrents posted on Tokyo Tosho and Nyaa Torrents AniDex onto various file hosting services.
 - [9Anime Downloader](https://anonym.to/?https://anonembed.xyz/9anime/) - Download Full Seasons from 9anime.
 - [Animes.so](https://anonym.to/?https://www.animes.so) - (needs registration to see content) - Downloads, DL-Links for all sorts of Animes.
 - [Alternatives to Kiss websites](https://anonym.to/?https://www.removeddit.com/r/KissCartoon/wiki/alternatives) - /r/KissCartoon wiki page with lots of anime sites.
@@ -1563,6 +1580,9 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [SittingonClouds](https://anonym.to/?https://www.sittingonclouds.net/) - Game- & Anime-Soundtracks.
 - [Anime OST Packages](http://koe.anime-sharing.com/Packlist/) - provides anime soundtracks and series.
 - [Anime OST search](https://anonym.to/?https://themes.moe/) - A search engine for anime stuff.
+- [Mangaseeonline](https://anonym.to/?angaseeonline.net) - Typically uploads official scans.
+- [Mangabat](https://anonym.to/?https://mangabat.com/) - (`needs ads-blocker`) - Read Manga Online for free.
+- [Animeheaven.eu](https://anonym.to/?http://animeheaven.eu/) - (`needs ads-blocker`) - Read Manga Online for free.
 
 **[`^        back to top        ^`](#)**
 
@@ -2093,7 +2113,17 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Mangareader.net](https://anonym.to/?https://www.mangareader.net) - Read your favorite manga scans and scanlations online at Manga Reader.
 - [Madokami R-Z](https://anonym.to/?https://archive.org/download/Madokami.Manga.R-Z) - Download manga titles named R to Z.
 - [MangaDex](https://anonym.to/?https://www.mangadex.org/) - MangaDex is an online manga reader that caters to all languages.
-- [MangaZone](http://mangazoneapp.com/) - (`insecure`) - A manga reader app.
+- [MangaZone](https://anonym.to/?http://mangazoneapp.com/) - (`insecure`) - A manga reader app.
+
+**[`^        back to top        ^`](#)**
+
+
+## Anime Light novel websites
+- [Armaell Library](https://anonym.to/?http://armaell-library.net/) - Free, fansubs and no ads.
+- [Baka Tsuki](https://anonym.to/?https://www.baka-tsuki.org/) - Free, multilangual, no ads.
+- [RektNovelCompilations](https://anonym.to/?https://rektnovelcompilations.wordpress.com/) - Free, fansubs, bannerads (Currently has many dead links).
+- [henkanepubs](https://anonym.to/?https://henkanepubs.wordpress.com/) - Free, fansubs, bannerads, every download has a redirrect to adfly.
+- [NovelPlanet](hhttps://anonym.to/?ttps://novelplanet.com/) - Free, english, bannerads.
 
 **[`^        back to top        ^`](#)**
 
@@ -2821,8 +2851,10 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ## Subtitles
 - [Addic7ed](https://anonym.to/?https://www.addic7ed.com/) - Quality Subtitles for TV Shows and movies.
+- [HorribleSubs](https://anonym.to/?https://horriblesubs.info/) - Schedule for upcoming Anime releases, Subs, IRC, Show Info.
 - [RenameThemSubs](https://anonym.to/?https://github.com/Eshaan7/RenameThemSubs) - Rename subtitles files according to TV show names found in a directory.
 - [Subscene](https://anonym.to/?https://subscene.com/) - Quality Subtitles for Movies.
+- [WonderfulSubs](https://anonym.to/?https://www.wonderfulsubs.com/)
 
 **[`^        back to top        ^`](#)**
 
