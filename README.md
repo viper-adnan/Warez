@@ -5,7 +5,7 @@
 [![HitCount](http://hits.dwyl.io/CHEF-KOCH/Warez.svg)](http://hits.dwyl.io/CHEF-KOCH/Warez)
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
-[![Telegram](https://img.shields.io/badge/Telegram-Join%20Telegram-blue)](https://t.me/CKKSK)
+[![Telegram](https://img.shields.io/badge/Telegram-t.me%2FCKKSK-blue)](https://t.me/CKKSK)
 
 # Warez
 This list is the biggest [Warez](https://anonym.to/?https://en.wikipedia.org/wiki/Warez_scene) overview on the entire internet! It contains links to Warez related topics, discussions, tools etc. It also provides some background information about the scene.
@@ -1790,18 +1790,36 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## Software
-- [/r/piracy/wiki/tools](https://anonym.to/?https://www.removeddit.com/r/piracy/wiki/tools) - Windows/Office activation tools, and images/installers for Windows, Office, and Adobe
+- [/r/piracy/wiki/tools](https://anonym.to/?https://www.removeddit.com/r/piracy/wiki/tools) - Windows/Office activation tools, and images/installers for Windows, Office + Adobe.
 - [Blackpearl](https://anonym.to/?https://blackpearl.biz/) - Provides similar services like Shnap forum.
+- [Bontersoft.cc](https://anonym.to/?https://www.bontersoft.cc/) - Windows software to various products, AV's, Music etc.
 - [Cloud-Droid](https://anonym.to/?https://www.cloud-droid.com) - Cloud-Droid offers (mostly) downloads via sharehoster.
 - [CrackingPatching.com](https://anonym.to/?https://crackingpatching.com/) - Cracked software
 - [CracksNow](https://anonym.to/?https://cracksnow.com/) - Cracks for Android, Windows, and macOS applications.
-- [gallery-dl](https://anonym.to/?https://github.com/mikf/gallery-dl) - Command-line program to download image-galleries and -collections from several image hosting sites
+- [DDGroupClub](https://anonym.to/?http://ddgroupclub.win/) - (`RU`)
+- [Fost.Club](https://anonym.to/?http://fost.club/) - (`RU`)
+- [Gallery-dl](https://anonym.to/?https://github.com/mikf/gallery-dl) - Command-line program to download image-galleries and -collections from several image hosting sites.
 - [KaranPC](https://anonym.to/?https://karanpc.com) - Yet another community around Windows software.
 - [Nulled](https://anonym.to/?https://www.nulled.to/) - Nulled is a cracking community where you can find links to cracked software.
+- [PiratBit](https://anonym.to/?https://pb.wtf/) - (`RU`)
 - [PirateCity](https://anonym.to/?https://www.piratecity.cc) - Softwares, Performance Optimizing Tools, Antivirus Softwares , Image Editing Tools, Video Editing Softwares, Data Recovery Softwares & more.
+- [RuTracker](https://anonym.to/?http://rutracker.ru/) - (`RU`)
 - [Sanet.st](https://anonym.to/?https://sanet) - Also known as "SoftArchive", is a portal to provide Windows software cracks.
 - [Softlay](https://anonym.to/?https://softlay.net) - Windows software mirrors.
+- [Softpilot](https://anonym.to/?https://softpilot.win/) - (`RU`) - A forum and website for various repacks and in general a good place for software discussions.
+- [Tapochek](https://anonym.to/?https://tapochek.net/) - (`RU`)
 - [Team-OS HKRG](https://anonym.to/?https://www.teamos-hkrg.com/index.php) - Windows software and various activation tools.
+- [trec.to](https://anonym.to/?http://trec.to/) - (`RU`)
+- [UltraTrack](https://anonym.to/?http://uraltrack.net/) - (`RU`) - A forum for various repacks and in general a good place for software discussions.
+- [Underver.se](https://anonym.to/?https://underver.se/) - (`RU`)
+- [Uniondht](https://anonym.to/?http://uniondht.org/) - (`RU`)
+
+
+### Software Repacks
+- [Diakov.net](https://anonym.to/?https://diakov.net/) - (`RU`) - Russian repacker provides various software repacks.
+- [M0nkrus'a](https://anonym.to/?http://w13.monkrus.ws/) - (`RU`) - Russian repacker, maindly known for Adobe repacks but also provides lot of other repacks.
+- [PoorShock](https://anonym.to/?http://pooshock.ru/) - (`RU`) - Russian repacker and website to various software products, Adobe, Sound Forge etc.
+- [Punsh](https://anonym.to/?https://punsh.at.ua/) - (`RU`) - Russian repacker, similar like PoorShock and M0nkrus.
 
 **[`^        back to top        ^`](#)**
 
