@@ -2364,15 +2364,21 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ### 4k/HDR TV/Movie
-- [HDSS](https://anonym.to/?https://hdss.watch/) - (FR)
-- [nima4k](https://anonym.to/?https://nima4k.org/) - (Ger) Movies and TV shows via DDL.to and Rapidgator.
-- [Rarbg BD remux](https://rarbg.to/torrents.php?category=42;46&search=2160p&order=seeders&by=DESC) - Remuxes from Rarbg
+
+[Fake or real 4k](https://anonym.to/?https://4kmedia.org/real-or-fake-4k/) - Check if the website provides a real or upscaled release, list is updated monthly, a alternative is a [predb check](https://anonymhttps://predb.me/?search=2160p+BluRay+x265).
+
+- [4k-hd.club](https://anonym.to/?https://4k-hd.club/) - Premium site with the highest quality of 4K ULTRA HD Movies.
+- [4K-HDR.org](https://anonym.to/?https://4k-hdr.org/) - 4K rips HDR movies download, Blu-ray ultra hd movies HDR 10 Bit. Download movies rip HDR in 4K Ultra HD 2160P. 4K-HDR.ORG best site of 4K HDR format.
 - [BeyondHD](https://anonym.to/?https://beyond-hd.me/login) (login needed) - 4K remuxes and 4K movies.
-- [PrivateHD](https://anonym.to/?https://privatehd.to/)  - (login needed) - HD, 4k Movies and TV shows.
-- [UHDBits](https://anonym.to/?https://uhdbits.org/) - (needs login) - HD, HDR and 4K tv shows and movies.
-- [Zamunda](https://anonym.to/?hhttps://zamunda.net/catalogs/) - (needs login) - HDR, 4 tv shows and movies. 
+- [Blu-ray.world](https://anonym.to/?https://blu-ray.world/) - Original blu-ray movies in format REMUX 4K, 3D, 1080P, 720P.
+- [HDSS](https://anonym.to/?https://hdss.watch/) - (FR)
 - [MoviesFiles](https://anonym.to/?https://moviefiles.org/) - High quality MKV files which you can stream e.g. via MPV.
-- [Fake or real 4k](https://anonym.to/?https://4kmedia.org/real-or-fake-4k/) - Check if the website provides a real or upscaled release, list is updated monthly, a alternative is a [predb check](https://anonymhttps://predb.me/?search=2160p+BluRay+x265).
+- [nima4k](https://anonym.to/?https://nima4k.org/) - (Ger) Movies and TV shows via DDL.to and Rapidgator.
+- [PrivateHD](https://anonym.to/?https://privatehd.to/)  - (login needed) - HD, 4k Movies and TV shows.
+- [Rarbg BD remux](https://rarbg.to/torrents.php?category=42;46&search=2160p&order=seeders&by=DESC) - Remuxes from Rarbg
+- [UHDBits](https://anonym.to/?https://uhdbits.org/) - (needs login) - HD, HDR and 4K tv shows and movies.
+- [UHDMV.org](https://anonym.to/?https://uhdmv.org/) - Download free, Ultra HD Bluray Movies, 4K Movies, HD Movies, Bluray Movies, REMUX, 2160p, 1080p, 720p, Free Ultra HD Movies.
+- [Zamunda](https://anonym.to/?hhttps://zamunda.net/catalogs/) - (needs login) - HDR, 4 tv shows and movies. 
 
 **[`^        back to top        ^`](#)**
 
