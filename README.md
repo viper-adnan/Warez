@@ -1153,6 +1153,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [WatchCartoonsOnline](https://anonym.to/?https://watchcartoonsonline.la/)
 - [WatchSeries 2.0](https://anonym.to/?https://watch-series.io/)
 - [Your-Anime](https://anonym.to/?https://www.your-anime.com/) - (`AR`) - Arabish animes dubbed.
+- [YMP4](https://anonym.to/?https://ymp4.download/) - Download videos from Youtube to mp4 & mp3 files, including from places like e.g. Crunchroll.
 
 **[`^        back to top        ^`](#)**
 
@@ -1167,6 +1168,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Anime Kaizoku](https://anonym.to/?https://animekaizoku.com/) - Onclick pop-up ads (NSFW), banner ads, no torrents, GDrive as download source (encodes for donators), has torrent version on nyaa.si tagged as `[AnimeKaizoku]`.
 - [Shana Project](https://anonym.to/?https://www.anirena.com/) - Anime torrent side, no ads.
 
+**[`^        back to top        ^`](#)**
 
 ### Specialty Sites
 - [1Liberty](https://anonym.to/?https://libertyvf.co/) - (fr-FR)
@@ -3184,5 +3186,12 @@ one cryptocurrency wallet to another across various cryptocurrencies
 
 ## VST plugins
 - [Kvraudio](https://anonym.to/?https://www.kvraudio.com/plugins/newest)
+
+**[`^        back to top        ^`](#)**
+
+
+## TDoS (CLIP - no screening/flood)
+- phonebomb.to + phonebomb.cz + phonebomb.net
+
 
 **[`^        back to top        ^`](#)**
