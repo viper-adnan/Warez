@@ -391,6 +391,7 @@
 * wstream.to
 * Share-Online.biz
 * Followerschmiede.de
+* Streamworld.co (GeoIP/Proxy/VPN block)
 
 ## MKVCage clones
 * mkvcage.best
