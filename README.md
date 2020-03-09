@@ -2366,6 +2366,9 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Yes! Movies](https://anonym.to/?https://yesmovies.to/)
 - [YesMovies.fun](https://anonym.to/?https://yesmovies.fun/)
 - [ZMovies](https://anonym.to/?https://zmovies.top/)
+- [Worldscinema](https://anonym.to/?https://worldscinema.org/)
+- [Rarfilm](https://anonym.to/?http://rarefilm.net/)
+
 
 **[`^        back to top        ^`](#)**
 
