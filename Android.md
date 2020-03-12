@@ -164,3 +164,11 @@ DoH: https://doh.dnswarden.com/uncensored
 ## Streaming player apps
 - [TVF Play App](https://anonym.to/?https://tvfplay.com/)
 - [MX Player Pro](https://anonym.to/?https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.pro)
+
+
+## WhatsApp Mods
+- [Foud Whatsapp](http://www.fouadmods.com/fouad-whatsapp/)
+
+**[`^        back to top        ^`](#)**
+
+
