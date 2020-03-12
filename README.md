@@ -1122,7 +1122,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [AtTwist.moe](https://anonym.to/?https://atwitst.moe) - The website has almost no ads.
 - [Cartoon Crazy](https://anonym.to/?https://www.cartooncrazy.tv/)
 - [CartoonWire](https://anonym.to/?https://cartoonwire.to/)
-- [Chia-anime](https://anonym.to/?https://www2.chia-anime.cc/) 
+- [Chia-anime](https://anonym.to/?https://www2.chia-anime.cc/)
 - [DaiWEEB](https://anonym.to/?https://www.daiweeb.org/) - Subs only (EN and JP), no ads, only one source, self-hosted, aimed for Japanese learners.
 - [DarkAnime.stream](https://anonym.to/?https://darkanime.stream/) - Subs, no ads, downloadable, some sources.
 - [DubbedAnime](https://anonym.to/?https://dubbedanime.biz/) - Dubbed animes, large collecction.
@@ -1134,7 +1134,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [HotAnime](https://anonym.to/?http://hotanime.me/) - Subs and dubs, lots of banner ads, pop-ins, possibly self-hosted videos, downloadable (via OpenLoad).Banner ads, multiple sources, eng & german subs, captcha.
 - [JustDubs](https://anonym.to/?http://justdubs.org/) - Dubs only, popup ads, not enough sources, downloadable.
 - [Kawaiifu](https://anonym.to/?https://kawaiifu.com/) - Videos hosted by Google, only one source, style similar to niconico, missing multiple anime.
-- [KickAssAnime.rs](https://anonym.to/?https://www.kickassanime.rs/) - (`RU`) 
+- [KickAssAnime.rs](https://anonym.to/?https://www.kickassanime.rs/) - (`RU`)
 - [KickAssAnime](https://anonym.to/?https://www11.kickassanime.io/) - Subs and dubs, banner ads, some sources.
 - [KimCartoon](https://anonym.to/?https://kimcartoon.to/)
 - [MoviesEver](https://anonym.to/?https://moviesever.com/)
@@ -1369,7 +1369,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 
-### PlayStation 
+### PlayStation
 - [Darksoftware Forum](https://anonym.to/?https://forum.darksoftware.net/forums/) - Number #1 forum for Playstation hacking topics.
 - [Download Game PS3](https://anonym.to/?https://downloadgameps3.com/) - Download game PS3, PS4, RPCS3, PC for free.
 - [PS3iso](http://www.ps3iso.net/) - (`insecure`) - Free PS3 games downloadable via filecrypt.cc.
@@ -2368,7 +2368,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [ZMovies](https://anonym.to/?https://zmovies.top/)
 - [Worldscinema](https://anonym.to/?https://worldscinema.org/)
 - [Rarfilm](https://anonym.to/?http://rarefilm.net/)
-
+- [AllTheStreams](https://anonym.to/?https://allthestreams.fm/) - Hulu, Disney+, Netflix, HBO, Prime Video or SHow Time as a stream which you can watch via Browser.
 
 **[`^        back to top        ^`](#)**
 
@@ -2386,7 +2386,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [HD Multireddit](https://anonym.to/?https://old.reddit.com/user/nbatman/m/streaming2/) - 1080p Openload, Google Video & Vimeo,..
 - [Kodi](https://anonym.to/?https://kodi.tv/) - + ([Setup guide](https://anonym.to/?https://www.removeddit.com/r/Addons4Kodi/comments/93porc/requests_recommendations_basics_august_2018/e3f6i12/))
 - [LeonFlix](https://anonym.to/?https://leonflix.net/)
-- [OpenloadMovies.ac](https://anonym.to/?https://openloadmovies.ac/) - (`needs adblocker`) 
+- [OpenloadMovies.ac](https://anonym.to/?https://openloadmovies.ac/) - (`needs adblocker`)
 - [MovieJagg](https://anonym.to/?https://www.coolmoviejagg.pro/)
 - [MovieStreams](https://anonym.to/?https://moviestreams.org/)
 - [OneMov](https://anonym.to/?https://onemov.net/)
@@ -2448,7 +2448,8 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Rarbg BD remux](https://rarbg.to/torrents.php?category=42;46&search=2160p&order=seeders&by=DESC) - Remuxes from Rarbg
 - [UHDBits](https://anonym.to/?https://uhdbits.org/) - (needs login) - HD, HDR and 4K tv shows and movies.
 - [UHDMV.org](https://anonym.to/?https://uhdmv.org/) - Download free, Ultra HD Bluray Movies, 4K Movies, HD Movies, Bluray Movies, REMUX, 2160p, 1080p, 720p, Free Ultra HD Movies.
-- [Zamunda](https://anonym.to/?hhttps://zamunda.net/catalogs/) - (needs login) - HDR, 4 tv shows and movies. 
+- [Zamunda](https://anonym.to/?hhttps://zamunda.net/catalogs/) - (needs login) - HDR, 4 tv shows and movies.
+- [VidFlix](https://anonym.to/?https://vidflix.net/) - No ads, clean Movies and TV shows in high quality.
 
 **[`^        back to top        ^`](#)**
 
@@ -3197,5 +3198,14 @@ one cryptocurrency wallet to another across various cryptocurrencies
 ## TDoS (CLIP - no screening/flood)
 - phonebomb.to + phonebomb.cz + phonebomb.net
 
+**[`^        back to top        ^`](#)**
+
+
+## Transcoding or stream sharing Services
+- [Furk.net](https://anonym.to/?https://www.furk.net/) - Personal secure storage that fetches media files and lets you stream them immediately
+- [Offcloud](https://anonym.to/?https://offcloud.com/) - Cloud-based download manager
+- [Bitport.io](https://anonym.to/?https://bitport.io/welcome) - Download files to a secured cloud. Anonymously. Fast. Online.
+- [Seedr](https://anonym.to/?https://www.seedr.cc/) - Stream on any device, anytime, anywhere!
 
 **[`^        back to top        ^`](#)**
+
