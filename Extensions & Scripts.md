@@ -92,7 +92,7 @@ All other extensions **do not** adding any benefit over the integrated Browser "
 
 
 ## URL shortener extensions
-- [Universal Bypass (for shortner links)](https://anonym.to/?https://chrome.google.com/webstore/detail/universal-bypass/aihomhdbhpnpmcnnbckjjcebjoikpihj)
+- [Universal Bypass (for shortner links)](https://anonym.to/?https://universal-bypass.org/)
 
 
 ## RSS Feed extensions
