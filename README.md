@@ -118,6 +118,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## Team Drives
+- [Create Free TeamDrive](https://ihaxk.com/2020/03/09/free-google-team-drive/) - Allows you to easily create a free Google Team Drive account.
 - [Google Team Drive](https://anonym.to/?https://teamdrive.mfoxx.workers.dev/) - Create Google Team Drive where you can share your files with others.
 - [GDIndex](https://anonym.to/?https://github.com/ParveenBhadooOfficial/GDIndex) - Team drive for _googledri.ve.workers.dev_ . You also can create your own TeamDrive.
 - [TeamDrive Software for Win, Linux, Android and iOS](https://anonym.to/?https://forum.teamdrive.net/viewforum.php?f=2) - Software with AES encryption to work across multiple PC's and keep your files update
