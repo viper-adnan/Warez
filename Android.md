@@ -72,6 +72,10 @@ DoH: https://doh.dnswarden.com/uncensored
 *⚠️ Don't trust TorstenJahnke and nor his spyware DNS (Keweon DNS) | [SOURCE](https://t.me/NoGoolag/786) ⚠️
 
 
+## Android reverse engineering scripts
+- [android-scripts](https://anonym.to/?https://github.com/strazzere/android-scripts) - Collection of open source Android reverse engineering scripts.
+
+**[`^        back to top        ^`](#)**
 
 ## Apps
 

@@ -1,8 +1,3 @@
-## Android reverse engineering scripts
-- [android-scripts](https://anonym.to/?https://github.com/strazzere/android-scripts) - Collection of open source Android reverse engineering scripts.
-
-**[`^        back to top        ^`](#)**
-
 ## Browser Script Engines (required to run browser-/ or user-css scripts)
 - [Firemonkey](https://anonym.to/?https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) - Can handle both user Scripts and user CSS.
 - [Greasemonkey](https://anonym.to/?https://www.greasespot.net/) - Greasemonkey is a Firefox extension that allows you to customize the way webpages look and function.
@@ -179,6 +174,11 @@ All other extensions **do not** adding any benefit over the integrated Browser "
 **[`^        back to top        ^`](#)**
 
 
+### Movie Streaming via Browser extensions
+- [Netflix Party](https://anonym.to/?hhttps://www.netflixparty.com/) - Netflix Party synchronizes video playback and adds group chat to your favorite Netflix shows.
+- [Discord Go Live](https://anonym.to/?https://support.discordapp.com/hc/en-us/articles/360040816151-Share-your-screen-with-Go-Live-Screen-Share) - Share your screen with Go Live directly in Discord (up to 50 people).
+
+
 ## Plex Scripts & Tools
 - ["I made my own Pseudo TV for Plex with Kodi and Nvidia Shield"](https://anonym.to/?https://old.reddit.com/r/PleX/comments/awsvp9/i_made_my_own_pseudo_tv_for_plex_with_kodi_and/ehox9zf/) - Guide from /u/nads84 on how to make your own "live" TV channels with a Plex library, Kodi and NVIDIA Shield.
 - [DocDownloader](https://anonym.to/?https://docdownloader.com/) - Scribd Downloader; Issuu Downloader; Slideshare Downloader; Academia Downloader. Scribd Downloader.
@@ -275,9 +275,8 @@ There is a universal rule for Android:
 **[`^        back to top        ^`](#)**
 
 
-
 ### Discord History
 -[cache-monkey](https://anonym.to/?https://github.com/jamiepine/cache-monkey) - Cachemonkey, for viewing images stored in the discord cache, works for recovering images that were loaded by the discord client but were deleted. It also was a feature to purge the cache too
 
-
+**[`^        back to top        ^`](#)**
 
