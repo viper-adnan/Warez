@@ -287,6 +287,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [vpn-at-home](https://anonym.to/?https://github.com/ezaquarii/vpn-at-home) - 1-click, self-hosted deployment of OpenVPN with DNS ad blocking sinkhole.
 - [WireGuard VPN](https://anonym.to/?https://www.wireguard.com/) - WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
 - [Tailscale](https://anonym.to/?https://github.com/tailscale/tailscal) - Tailscale is a mesh VPN that makes it easy to connect your devices, wherever they are. No more fighting configuration or firewall ports.
+- [algo](https://anonym.to/?https://github.com/trailofbits/algo) - Algo VPN is a set of Ansible scripts that simplify the setup of a personal WireGuard and IPsec VPN.
 
 **[`^        back to top        ^`](#)**
 
@@ -1613,6 +1614,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Toonova](https://anonym.to/?http://www.toonova.net/) - (`insecure`) - Another site for streaming cartoons.
 - [WatchCartoon](https://anonym.to/?https://www.watchcartoononline.io/) Outdated site layout, still active and Openload.
 - [watchcartoononline.com](https://anonym.to/?https://www.watchcartoononline.com/) + ([Mirror](https://anonym.to/?https://www.watchcartoononline.io)) - Cartoons, dubbed/subbed anime streaming site.
+- [KissCartoon.info](https://anonym.to/?https://kisscartoon.info) - Another site for streaming cartoons with a huge catalog
 
 **[`^        back to top        ^`](#)**
 
