@@ -2007,6 +2007,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Coderprog](https://anonym.to/?https://coderprog.com/) - Developer courses, trainings and books among some tutorial related books.
 - [CourseClub.me](https://anonym.to/?https://courseclub.me/) - CourseClub provides courses which you can download for e.g. Lynda, Pluralsight, CBG Nuggets & more.
 - [CourseHunter](https://anonym.to/?https://coursehunters.net/) - Free tutorials and video tutorials.
+- [Desire Course](https://anonym.to/?https://desirecourse.net/) - Download Premium Udemy Courses for free.
 - [DownDuck](https://anonym.to/?https://downduck.eu/video-tutorials/) - Various video tutorials for developers.
 - [DownTurk.eu](https://anonym.to/?https://downturk.eu/video-tutorials/) - Developer tutorials and other eBook related stuff.
 - [Ebizcourses.com](https://anonym.to/?https://ebizcourses.com) -  A membership site that sharing all the MMO courses from big authors around of the world, all in one place.
@@ -2016,6 +2017,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [FreeCourses](https://anonym.to/?http://freecoursesite.com/) - Alternative to freetutorials.us, provides similar service.
 - [FreeCourseSite.com](https://anonym.to/?https://freecoursesite.com/) - Provides Udemy courses for free.
 - [FTU Forum](https://anonym.to/?https://ftuforum.com/) - Forum for eBooks, Udemy courses and tutorials.
+- [Gigacourse](https://anonym.to/?https://gigacourse.com/) - Gigacourse provides coding courses.
 - [NulledPremium](https://anonym.to/?https://nulledpremium.com/) - Paid Graphics, Themes, Plugins, Music For Free – Premium Graphics, Themes, Plugins, Music for free.
 - [O’Reilly](https://anonym.to/?http://www.oreilly.com/?cmp=af-npa--home_cj_11246204_7018660) - (`insecure`) - A platform to download books, magazines, and tutorials for free.
 - [RealMVP](https://anonym.to/?https://realmvp.org/) - New eBooks, video and written tutorials.
