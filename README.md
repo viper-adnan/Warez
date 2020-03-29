@@ -2685,7 +2685,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 ## Unblock blocked Websites
 - [AvoidCensorship](https://anonym.to/?https://avoidcensorship.org/) - Unblock ThePirateBay (TPB).
 - [ByPassed](https://anonym.to/?https://bypassed.wtf/) - ByPassed is an all-in-one solution to unblock censored websites including thepiratebay, kickass, eztv, yts, extratorrent & more.
-- [hola-proxy](https://github.com/Snawoot/hola-proxy) -  A standalone Hola proxy client which allows access via residental proxies.
+- [hola-proxy](https://anonym.to/?https://github.com/Snawoot/hola-proxy) -  A standalone Hola proxy client which allows access via residental proxies.
 - [ProxySite.cc](https://anonym.to/?https://proxysite.cc/) + ([Mirror](https://anonym.to/?https://proxysite.site/)) + ([for Videos](https://anonym.to/?https://proxysite.video/)) - Free web proxy site to bypass filters and unblock blocked websites anonymously.
 - [Unblocked](https://anonym.to/?https://unblocked-pw.github.io/) - Proxy site for accessing your favourite blocked sites.
 - [netflix-proxy](https://anonym.to/?https://github.com/ab77/netflix-proxy/) Smart DNS proxy to unblock Netflix streams.
@@ -3107,6 +3107,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ### Google Voice
 - [JMP.chat](https://anonym.to/?https://jmp.chat/)
+- [Jitsi Meet - Free and open source online video chat](https://anonym.to/?https://meet.jit.si/)
 
 **[`^        back to top        ^`](#)**
 
