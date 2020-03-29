@@ -1029,6 +1029,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [WatchTVSeries](https://anonym.to/?https://watchtvseries.unblocked.krd/) - Watch TV shows online.
 - [ZeroBoard](https://anonym.to/?https://zeroboard.org/) - A board which provides Windows related stuff.
 - [up4pc](https://anonym.to/?https://up4pc.com/) - Download PC Software including cracks via ZippyShare, GDrive and Mega.
+- [CB01.uno](https://anonym.to/?https://cb01.gallery/) - (`IT`) Movies, TV Shows and Animes.
 
 **[`^        back to top        ^`](#)**
 
