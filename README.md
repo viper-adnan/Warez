@@ -679,6 +679,12 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 
+### Private Trackers
+- [PrivateHD](https://anonym.to/?https://privatehd.to)
+
+**[`^        back to top        ^`](#)**
+
+
 ### I2P Tracker
 - [killyourtv](http://mpc73okj7wq2xl6clofl64cn6v7vrvhpmi6d524nrsvbeuvjxalq.b32.i2p/) - Series and TV Shows.
 
@@ -2498,7 +2504,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ### Discord Client (Mods)
 - [EnhancedDiscord](https://anonym.to/?https://github.com/joe27g/EnhancedDiscord) - A lightweight Discord client mod.
-- [Quarrel]https://anonym.to/?(https://github.com/UWPCommunity/Quarrel) - A UWP discord client for Windows 10.
+- [Quarrel](https://anonym.to/?(https://github.com/UWPCommunity/Quarrel) - A UWP discord client for Windows 10.
 - [PowerCord](https://anonym.to/?https://github.com/powercord-org/powercord) - A lightweight discordapp client mod focused on simplicity and performance.
 
 **[`^        back to top        ^`](#)**
