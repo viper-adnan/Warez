@@ -103,6 +103,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - Comcast/Xfinity
 - Cox Communications
 - Spectrum/Charter
+- Telekom
 - Verizon
 - Vodafone
 
@@ -127,7 +128,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 ## Google Team Drives Groups and Discussions
-
 - [HKTeamDrive Group](https://anonym.to/?https://groups.google.com/d/forum/hkteamdrive1group)
 - [TD-Automation](https://anonym.to/?https://groups.google.com/d/forum/td-automation)
 - [TeamDrive 0](https://anonym.to/?https://groups.google.com/forum/m/#!forum/teamdrive0)
@@ -171,10 +171,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## Penetration Testing Distributions
-* [Android Tamer](https://anonym.to/?https://androidtamer.com/) - OS for Android Security Professionals. Includes all the tools required for
-
-
- security testing.
+* [Android Tamer](https://anonym.to/?https://androidtamer.com/) - OS for Android Security Professionals. Includes all the tools required for security testing.
 * [ArchStrike](https://anonym.to/?https://archstrike.org/) - Arch GNU/Linux repository for security professionals and enthusiasts.
 * [AttifyOS](https://anonym.to/?https://github.com/adi0x90/attifyos) - GNU/Linux distribution focused on tools useful during Internet of Things (IoT) security assessments.
 * [BackBox](https://anonym.to/?https://backbox.org/) - Ubuntu-based distribution for penetration tests and security assessments.
@@ -203,9 +200,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Tuts 4 You](https://anonym.to/?https://tuts4you.com) - One of the oldest forums to discuss reversing related stuff.
 - [Webscene.ir](https://anonym.to/?https://webscene.ir/) - Can you crack it?!
 
-
 **[`^        back to top        ^`](#)**
-
 
 
 ### General Filesharing Discussions
@@ -219,6 +214,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [TV-Lounge.eu](https://www.tv-lounge.eu) - `Ger` -  IPTV, OSCAM, SKY, CCAM, Kabel-Receiver, IPTV & Co.
 
 **[`^        back to top        ^`](#)**
+
 
 ## NFO Viewers & KeyGen Music
 - [Corrupt Net](https://anonym.to/?https://twitter.com/CorruptNET) - NFO-Site (linked on Twitter)
@@ -321,7 +317,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Microsoft Games Collection](https://anonym.to/?http://web.archive.org/web/20190429144409/https://anonym.to/?https://docs.google.com/spreadsheets/d/e/2PACX-1vRs56u1DiQy4EBB8rWrk1r-yvkYgatv9h0IbKKDh1HyPXueiaS06aVdovdF_nHe9SJrPwfkYRMif_mG/pubhtml)
 - [LibGen & Sci-Hub torrent archive](https://anonym.to/?http://libgen.lc/stat.php) - Entire collection via BitTorrent, a Reddit discussion can be found over [here](https://anonym.to/?https://www.removeddit.com/r/seedboxes/comments/e129yi/charitable_seeding_for_nonprofit_scientific/)
 - [emuparadise-mirror](https://anonym.to/?https://github.com/Mz49/emuparadise-mirror) - A Cloudflare Worker script that mirrors EmuParadise and alters download pages to include a working link.
-
+- [The-ROM.eu](https://anonym.to/?https://the-rom.eu/) - Archive with website links to ROM, BIOS & Game archives, some of the links are offline.
 
 **[`^        back to top        ^`](#)**
 
