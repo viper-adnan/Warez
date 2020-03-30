@@ -270,30 +270,33 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 
-### Decentralized VPN
+### Decentralized VPNs
 - [radvpn](https://anonym.to/?https://github.com/mehrdadrad/radvpn) - Decentralized VPN
 - [Mysterium Network](https://anonym.to/?https://mysterium.network/vpn/) - [source code](https://anonym.to/?https://github.com/Mysterium) Claims to be world’s 1st decentralized free VPN which uses OpenVPN & WireGuard.
 
 **[`^        back to top        ^`](#)**
 
 
-### Self-hosted VPN
+### Self-hosted VPNs
+- [algo](https://anonym.to/?https://github.com/trailofbits/algo) - Algo VPN is a set of Ansible scripts that simplify the setup of a personal WireGuard and IPsec VPN.
 - [Cloudron](https://anonym.to/?https://cloudron.io/get.html) - A solution that allows anybody to create private clouds instantaneously.
 - [DSVPN](https://anonym.to/?https://github.com/jedisct1/dsvpn) - `Linux` - DSVPN is a dead simple VPN, designed to address the most common use case for using a VPN.
+- [Mysterium Network](https://anonym.to/?https://mysterium.network/) - Yet another self-hosted VPN.
 - [n2n](https://anonym.to/?https://github.com/ntop/n2n) - A Peer-to-peer VPN.
+- [Nebula](https://anonym.to/?https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security.
+- [ocserv](https://anonym.to/?https://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server.
+- [OpenConnect](https://www.infradead.org/openconnect/) Multiplatform VPN compatible with Cisco's AnyConnect. Uses well-tested, standard TLS connections which easily bypass DPI.
 - [OpenVPN](https://anonym.to/?https://openvpn.net/) - OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
+- [Outline by Alphabet](https://anonym.to/?https://www.getoutline.org/) - Not a traditional VPN but it might work with Google Cloud, AWS & more.
 - [PeerVPN](https://anonym.to/?https://peervpn.net/) - PeerVPN is a software that builds virtual ethernet networks between multiple computers.
 - [Pritunl](https://anonym.to/?https://pritunl.com/) - Enterprise Distributed OpenVPN and IPsec Server.
-- [sshuttle](https://anonym.to/?https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
+- [Shadowsocks](https://shadowsocks.org/) Secure SOCKS proxy used in China for bypassing the Great Firewall.
 - [SoftEther VPN](https://anonym.to/?https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software.
-- [Mysterium Network](https://anonym.to/?https://mysterium.network/) - Yet another self-hosted VPN.
-- [Nebula](https://anonym.to/?https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security.
-- [Outline by Alphabet](https://anonym.to/?https://www.getoutline.org/) - Not a traditional VPN but it might work with Google Cloud, AWS & more.
-- [ocserv](https://anonym.to/?https://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server.
+- [sshuttle](https://anonym.to/?https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
+- [Tailscale](https://anonym.to/?https://github.com/tailscale/tailscal) - Tailscale is a mesh VPN that makes it easy to connect your devices, wherever they are. No more fighting configuration or firewall ports.
+- [tinc](https://tinc-vpn.org/) Peer-to-peer VPN software with mesh routing.
 - [vpn-at-home](https://anonym.to/?https://github.com/ezaquarii/vpn-at-home) - 1-click, self-hosted deployment of OpenVPN with DNS ad blocking sinkhole.
 - [WireGuard VPN](https://anonym.to/?https://www.wireguard.com/) - WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
-- [Tailscale](https://anonym.to/?https://github.com/tailscale/tailscal) - Tailscale is a mesh VPN that makes it easy to connect your devices, wherever they are. No more fighting configuration or firewall ports.
-- [algo](https://anonym.to/?https://github.com/trailofbits/algo) - Algo VPN is a set of Ansible scripts that simplify the setup of a personal WireGuard and IPsec VPN.
 
 **[`^        back to top        ^`](#)**
 
