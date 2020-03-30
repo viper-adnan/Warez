@@ -285,16 +285,16 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [n2n](https://anonym.to/?https://github.com/ntop/n2n) - A Peer-to-peer VPN.
 - [Nebula](https://anonym.to/?https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security.
 - [ocserv](https://anonym.to/?https://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server.
-- [OpenConnect](https://www.infradead.org/openconnect/) Multiplatform VPN compatible with Cisco's AnyConnect. Uses well-tested, standard TLS connections which easily bypass DPI.
+- [OpenConnect](https://anonym.to/?https://www.infradead.org/openconnect/) Multiplatform VPN compatible with Cisco's AnyConnect. Uses well-tested, standard TLS connections which easily bypass DPI.
 - [OpenVPN](https://anonym.to/?https://openvpn.net/) - OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
 - [Outline by Alphabet](https://anonym.to/?https://www.getoutline.org/) - Not a traditional VPN but it might work with Google Cloud, AWS & more.
 - [PeerVPN](https://anonym.to/?https://peervpn.net/) - PeerVPN is a software that builds virtual ethernet networks between multiple computers.
 - [Pritunl](https://anonym.to/?https://pritunl.com/) - Enterprise Distributed OpenVPN and IPsec Server.
-- [Shadowsocks](https://shadowsocks.org/) Secure SOCKS proxy used in China for bypassing the Great Firewall.
+- [Shadowsocks](https://anonym.to/?https://shadowsocks.org/) Secure SOCKS proxy used in China for bypassing the Great Firewall.
 - [SoftEther VPN](https://anonym.to/?https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software.
 - [sshuttle](https://anonym.to/?https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
 - [Tailscale](https://anonym.to/?https://github.com/tailscale/tailscal) - Tailscale is a mesh VPN that makes it easy to connect your devices, wherever they are. No more fighting configuration or firewall ports.
-- [tinc](https://tinc-vpn.org/) Peer-to-peer VPN software with mesh routing.
+- [tinc](https://anonym.to/?https://tinc-vpn.org/) Peer-to-peer VPN software with mesh routing.
 - [vpn-at-home](https://anonym.to/?https://github.com/ezaquarii/vpn-at-home) - 1-click, self-hosted deployment of OpenVPN with DNS ad blocking sinkhole.
 - [WireGuard VPN](https://anonym.to/?https://www.wireguard.com/) - WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
 
@@ -1098,7 +1098,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 ## Anime & Cartoon Streaming (720p+)
 - [/r/AnimePiracy BCSE Search](https://anonym.to/?https://ui.customsearch.ai/hosted-page?customconfig=12619b8a-0cac-4a38-b20b-04c79ddb616d&version=latest&market=en-US&q=) - A custom search engine for Anime content.
 - [4Anime](https://anonym.to/?https://4anime.to/) - Subs and dubs, many ads, many player alternatives, videos hosted by Google.
-- [9anime.nl](https://anonym.to/?hhttps://9anime.nl/) - Provides HQ animes and has almost no ads. large libary of animes.
+- [9anime.nl](https://anonym.to/?https://9anime.nl/) - Provides HQ animes and has almost no ads. large libary of animes.
 - [9Anime](https://anonym.to/?https://www2.9anime.to/) - Subs and dubs, many ads, many player alternatives, videos hosted by Google.
 - [All-animes](https://anonym.to/?https://all-animes.com) - Watch Online Anime in HD, English, subbed and dubbed.
 - [Anime Kisa](https://anonym.to/?https://animekisa.tv/) - Subs and dubs, no ads, funded by donations, self-hosted.
@@ -1171,8 +1171,8 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ### Anime Torrent Websites
-- [Nyaa.si](hhttps://anonym.to/?https://nyaa.si/) - Anime torrent search engine with many fansub/fandub groups actively sharing torrents. No ads, no malware, nothing.
-- [AniDex](hhttps://anonym.to/?https://anidex.info/) - Another anime torrent search engine. No ads/popups.
+- [Nyaa.si](https://anonym.to/?https://nyaa.si/) - Anime torrent search engine with many fansub/fandub groups actively sharing torrents. No ads, no malware, nothing.
+- [AniDex](https://anonym.to/?https://anidex.info/) - Another anime torrent search engine. No ads/popups.
 - [Tokyo Tosho](https://anonym.to/?https://www.tokyotosho.info/) - Referral banner ads.
 - [Nyaa Pantsu](https://anonym.to/?https://nyaa.net/) - No ads. Very similar to nyaa website.
 - [animetosho](https://anonym.to/?https://animetosho.org/) - AnimeTosho (AT) is an automated service that mirrors torrents posted on Tokyo Tosho and Nyaa Torrents AniDex onto various file hosting services.
@@ -2156,7 +2156,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Baka Tsuki](https://anonym.to/?https://www.baka-tsuki.org/) - Free, multilangual, no ads.
 - [RektNovelCompilations](https://anonym.to/?https://rektnovelcompilations.wordpress.com/) - Free, fansubs, bannerads (Currently has many dead links).
 - [henkanepubs](https://anonym.to/?https://henkanepubs.wordpress.com/) - Free, fansubs, bannerads, every download has a redirrect to adfly.
-- [NovelPlanet](hhttps://anonym.to/?ttps://novelplanet.com/) - Free, english, bannerads.
+- [NovelPlanet](https://anonym.to/?ttps://novelplanet.com/) - Free, english, bannerads.
 
 **[`^        back to top        ^`](#)**
 
@@ -2349,7 +2349,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [IWannaWatch](https://anonym.to/?https://www.iwannawatch.is/)
 - [Khaanflix](https://anonym.to/?https://khaanflix.com/)
 - [MegaDDL](https://anonym.to/?https://megaddl.co) - Various movies via Mega, 1Fitcher, Openload and other file-hoster.
-- [Megadede](https://anonym.to/?hhttps://www.megadede.com/) - (SP) - Yet another spanish streaming site with TV shows and movies.
+- [Megadede](https://anonym.to/?https://www.megadede.com/) - (SP) - Yet another spanish streaming site with TV shows and movies.
 - [Movidy](https://anonym.to/?https://movidy.co/) - (SP) - Spanish streaming website for movies and TV series.
 - [MovieGlide](https://anonym.to/?https://www.movieglide.com/)
 - [Movies24](https://anonym.to/?https://movies24.top/)
@@ -2436,7 +2436,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Papystreaming](https://anonym.to/?https://www.papy-streaming.fr/) - (FR)
 - [Planet-Streaming1](https://anonym.to/?https://wwvv.streaming-planet.com/) - (FR)
 - [Radego](https://anonym.to/?http://radego.com/rradego/) - (FR)
-- [Serie-Streaming](https://anonym.to/?hhttps://www.guardaserie.tube/) - (FR)
+- [Serie-Streaming](https://anonym.to/?https://www.guardaserie.tube/) - (FR)
 - [Seriecomplete](https://anonym.to/?https://w22.seriecomplete.com/series/) - (FR)
 - [SKStream](https://anonym.to/?https://launchpad.net/skstream) - (FR)
 - [Streamcomplet](https://anonym.to/?https://www.streamcomplet.page/fr/) - (FR) - _sometimes offline_
@@ -2463,7 +2463,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Rarbg BD remux](https://rarbg.to/torrents.php?category=42;46&search=2160p&order=seeders&by=DESC) - Remuxes from Rarbg
 - [UHDBits](https://anonym.to/?https://uhdbits.org/) - (needs login) - HD, HDR and 4K tv shows and movies.
 - [UHDMV.org](https://anonym.to/?https://uhdmv.org/) - Download free, Ultra HD Bluray Movies, 4K Movies, HD Movies, Bluray Movies, REMUX, 2160p, 1080p, 720p, Free Ultra HD Movies.
-- [Zamunda](https://anonym.to/?hhttps://zamunda.net/catalogs/) - (needs login) - HDR, 4 tv shows and movies.
+- [Zamunda](https://anonym.to/?https://zamunda.net/catalogs/) - (needs login) - HDR, 4 tv shows and movies.
 - [VidFlix](https://anonym.to/?https://vidflix.net/) - No ads, clean Movies and TV shows in high quality.
 
 **[`^        back to top        ^`](#)**
