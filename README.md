@@ -122,7 +122,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Create Free TeamDrive](https://anonym.to/?https://ihaxk.com/2020/03/09/free-google-team-drive/) - Allows you to easily create a free Google Team Drive account.
 - [Google Team Drive](https://anonym.to/?https://teamdrive.mfoxx.workers.dev/) - Create Google Team Drive where you can share your files with others.
 - [GDIndex](https://anonym.to/?https://github.com/ParveenBhadooOfficial/GDIndex) - Team drive for _googledri.ve.workers.dev_ . You also can create your own TeamDrive.
-- [TeamDrive Software for Win, Linux, Android and iOS](https://anonym.to/?https://forum.teamdrive.net/viewforum.php?f=2) - Software with AES encryption to work across multiple PC's and keep your files update
+- [TeamDrive Software for Win, Linux, Android and iOS](https://anonym.to/?https://forum.teamdrive.net/viewforum.php?f=2) - Software with AES encryption to work across multiple PC's and keep your files update.
 - [Get Free Google Shared Drive](https://anonym.to/?http://leon.educationhost.cloud) - Create your own TeamDrive for free.
 
 **[`^        back to top        ^`](#)**
@@ -139,7 +139,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ## Checksum verification
 - [OpenHashTab](https://anonym.to/?https://github.com/namazso/OpenHashTab) - File hashing shell extension for Windows.
-- [GtkHash](https://anonym.to/?https://github.com/tristanheaven/gtkhash) - A cross-platform desktop utility for computing message digests or checksums
+- [GtkHash](https://anonym.to/?https://github.com/tristanheaven/gtkhash) - A cross-platform desktop utility for computing message digests or checksums.
 
 **[`^        back to top        ^`](#)**
 
@@ -964,7 +964,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [/r/ZippyShare](https://anonym.to/?https://www.removeddit.com/r/ZippyShare) - (Multi) - DL links hosted on ZippyShare (_blocked in the UK_) (Zippy geoIp bypass via [Zippy Direct](https://anonym.to/?https://zippy.direct/)
 - [0DayDown](https://anonym.to/?https://www.0daydown.com/) (CN/EN) MacOS, Music & other links (works with JDownloader).
 - [3dl.tv](https://anonym.to/?https://3dl.tv/) - (Ger) - Music, Movies, TV Shows, apps & more.
-- [Adit-HD Forum](http://www.adit-hd.com/index.php) - (`insecure`) - Forum which provides links to HD rips.
+- [Adit-HD Forum](http://www.adit-hd.com/) - (`insecure`) - Forum which provides links to HD rips.
 - [AdiT-HD](http://adit-hd.com/) - (`insecure`) - Direct movie download database.
 - [AppNee Freeware Group](https://anonym.to/?https://appnee.com/) - Massive DDL site, eBooks, Programs, Games, Operating Systems, Adobe & more.
 - [Audioz](https://anonym.to/?https://audioz.download/) - Provides Audio related software like Cubase etc.
@@ -1026,7 +1026,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Vidics](https://anonym.to/?https://www.vidics.to/) - Vidics provides Tv shows and movie releases.
 - [Warez-BB-org](https://anonym.to/?https://warez-bb.org/) - Elite warez forum. [![(invite needed)][inviteneeded]](#)
 - [WarezBB.org](http://warezbb.org/) - (`insecure`) - Invite-only elite forum.
-- [Warezforum Asia](http://warezforum.asia/) - (`insecure`) - A website for PDF's & more.
 - [WarezForums](https://anonym.to/?https://warezforums.com/) - (EN/US) - Warez forum with films, TV shows, ebooks, anime, games, and more via G-Drive and Mega.
 - [watchepisodeseries](https://anonym.to/?https://watchepisodeseries.bypassed.wtf/) - Watch Episode Series provides TV Shows releases from the scene.
 - [WatchTVSeries](https://anonym.to/?https://watchtvseries.unblocked.krd/) - Watch TV shows online.
@@ -1263,7 +1262,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## Video Game Music (OST)
-- [FFShine Forum](http://forums.ffshrine.org/forumdisplay.php?f=72) - A place for game and video game music.
+- //
 
 **[`^        back to top        ^`](#)**
 
@@ -1406,7 +1405,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Romulation.net](https://anonym.to/?https://www.romulation.net/) - Collection of over ~28,000 console game ROMs.
 - [Romsmania](https://anonym.to/?https://romsmania.cc/) - Another great ROMs collection with a decent UI to find stuff quick.
 - [ROMNation](https://anonym.to/https://www.romnation.net/) - Lots of ROMs.
-- [ROM Center](https://anonym.to/https://docs.google.com/spreadsheets/d/17XOCs-KWKOwtxWwyTsAH887GlkJ7DcCMv6cL9FoMOKM/htmlview?usp=sharing&sle=true) + [Mirror](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRTnwzumAjDe_H2anN8DSS3L-DCvxW7v1yqD6VcnmsSdN2FW0Jb71mRTwEympjCpA/pubhtm- Newer games tracker, links and downloads via GDrive.
+- [ROM Center](https://anonym.to/https://docs.google.com/spreadsheets/d/17XOCs-KWKOwtxWwyTsAH887GlkJ7DcCMv6cL9FoMOKM/htmlview?usp=sharing&sle=true) - Newer games tracker, links and downloads via GDrive.
 - [Retro Archive](https://anonym.to/https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed) - Collection of all retro based ROM's.
 - [The ROM Depot](https://anonym.to/?https://theromdepot.com/roms/) - Around 3 TB of ROMs (requires a VPN).
 - [Vimm's Lair](https://anonym.to/?https://vimm.net/?p=vault) - Large collection of ROMs.
@@ -1949,7 +1948,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Bibliomania](http://www.bibliomania.com/) - (`insecure`) - You will find over 2,000 classic texts from bibliomania, plus study guides, reference material and more.
 - [BitSpyder](https://anonym.to/?https://www.bitspyder.net/) - E-Learning, tutorials & trainings.
 - [BookBoon](https://anonym.to/?http://bookboon.com/) - (`insecure`) - World’s largest publisher of online educational literature.
-- [Books Pics](http://bookspics.com/) - (`insecure`) - Download free eBooks and magazines.
 - [BookSC](https://anonym.to/?https://booksc.xyz/) - (blocked in some countries) - Z-Library is one of the largest online libraries in the world that contains over 4,800,000 books and 75,300,000 articles.
 - [BookStack](https://anonym.to/?https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.
 - [BookYards](http://www.bookyards.com/) - (`insecure`) - This online "library to the world" has over 17,000 ebooks, plus links to other digital libraries.
@@ -1960,7 +1958,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Custom Search Engine](https://anonym.to/?https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) - A Google custom search engine specifically for ebooks.
 - [DailyLit](http://www.dailylit.com/) - (`insecure`) - Get free downloads sent to your email by RSS feed.
 - [DeDRM_tools](https://anonym.to/?https://github.com/apprenticeharper/DeDRM_tools) A github repository of all the scripts and other tools for removing DRM from ebooks.
-- [DLEBook.me](http://dlebook.me/) - (`insecure`) - eBooks, Magazines & software.
 - [ebookee.org](https://anonym.to/?https://ebookee.org/) - PDF & eBooks trading, various categories.
 - [eBookLobby](http://www.ebooklobby.com/) - (`insecure`) - You'll find lost of self-help, hobby and reference books here, plus children's fiction and more.
 - [eLearning](https://anonym.to/?https://www.torontopubliclibrary.ca) - Cisco, Mango, HSTalks and other eBook courses for free.
@@ -1976,7 +1973,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Guide to Copy Kindle Content to PDF via Calibre](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/7vc3uv/guide_to_copy_kindle_content_to_pdf_using_calibre/) -
 - [Gutenberg](http://www.gutenberg.org/wiki/Main_Page) - (`insecure`) - Project Gutenberg was the first to supply free ebooks, and today they have over 30,000 free titles in stock.
 - [How can I remove DRM from my ebooks?](https://anonym.to/?https://github.com/apprenticeharper/DeDRM_tools/blob/master/FAQs.md#so-how-can-i-remove-drm-from-my-ebooks) - DeDRM tools provides a big FAQ and scripts, tools to remove DRM on eBooks.
-- [iBiblio](http://www.ibiblio.org/index.html) - (`insecure`) - Find archives, ebooks, tutorials, language books, and more from iBiblio.
+- [iBiblio](http://www.ibiblio.org/) - (`insecure`) - Find archives, ebooks, tutorials, language books, and more from iBiblio.
 - [Internet Archive](https://anonym.to/?https://archive.org/details/texts) - Over 15 mio free books & texts.
 - [Issuu](https://anonym.to/?https://issuu.com/) - Allows users to upload and distribute their publications worldwide.
 - [KnowFree](http://knowfree.tradepub.com/) - (`insecure`) - Access free research, white papers, reports, case studies, magazines, and eBooks.
@@ -2095,20 +2092,19 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [HDencode](https://anonym.to/?https://hdencode.com/) - Download Movies and TV Shows - #1 Source for High Definition Releases.
 - [Movie Files](https://anonym.to/?https://moviefiles.org/) - Download Movies For free.
 - [Movies "R" Us](https://anonym.to/?https://moviesrus.tk) - The newest movies in 1080p. Available with DDL through MediaFire and streaming through Anonfile.
--(https://anonym.to/?https://dr.warezforums.com/) - Direct downloads and direct streaming, movies, files & more.
+- [DL WarezForums](https://anonym.to/?https://dr.warezforums.com/) - Direct downloads and direct streaming, movies, files & more.
 
 **[`^        back to top        ^`](#)**
 
 
 ## Audiobooks
 - [AAXtoMP3](https://anonym.to/?https://github.com/KrumpetPirate/AAXtoMP3) - Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS.
-- [AudioBook Bay](http://audiobookbay.me/) - (`insecure`) - Download unabridged audiobook for free or share your audio books, safe, fast and high quality.
+- [AudioBook Bay (ABB)](https://anonym.to/?http://audiobookbayabb.com/) - (`insecure`) - Download unabridged audiobook for free or share your audio books, safe, fast and high quality.
 - [AudioBooks.Cloud](https://anonym.to/?https://audiobooks.cloud/) - DDL links to a lot of audiobooks.
 - [AudiobookReviews](https://anonym.to/?http://audiobookreviews.com/) - Yet another audiobook direct download site.
 - [BookFI](https://anonym.to/?http://en.bookfi.net/) - (`insecure`) - The largest ebook library.
 - [Booksonic](https://anonym.to/?http://booksonic.org/) - Booksonic is a server and an app for streaming your audiobooks to any pc or android phone.
 - [Ebooks Shares](http://ebooks-shares.org) - (`insecure`) - A lot of eBooks & audiobooks!
-- [Hoerspiele](https://www.hoerspiele.cc/) - (Ger) - A big german website which provides Audiobooks via sharehosters.
 - [MyAnonyMouse](https://www.myanonamouse.net) - Community sharing for Audiobooks & more.
 - [P2PEiite](https://anonym.to/?http://p2pelite.com) - (`insecure`) - Yet another oldschool eBook website.
 - [ThePirateBay](https://anonym.to/?https://www.thepiratebay.org/browse/102) - ThePirateBay's collection of AudioBooks.
@@ -2138,7 +2134,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ## Manga
 - [/r/manga](https://anonym.to/?https://www.removeddit.com/r/manga) - Everything and anything manga! (manhwa is okay too!)
-- [KissManga](http://kissmanga.com/) - (`insecure`) - Another manga website.
+- [KissManga](https://anonym.to/?https://kissmanga.com/) - (`insecure`) - Another manga website.
 - [Madokami 0-E](https://anonym.to/?https://archive.org/download/Madokami.Manga.0-E) - Download manga titles named 0 to E.
 - [Madokami F-K](https://anonym.to/?https://archive.org/download/Madokami.Manga.F-K) - Download manga titles named F to K.
 - [Madokami L-Q](https://anonym.to/?https://archive.org/download/Madokami.Manga.L-Q) - Download manga titles named L to Q.
@@ -2236,7 +2232,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Cinema HD](https://anonym.to/?https://cinemaapk.com/) - (Ads) - FireTV Stick, Nvidia Shield, support Real-Debird, external players, Trakt.tv, series Guide.
 - [CKay TV](https://anonym.to/?http://ckaytv.com/) - (needs ad-blocker) - (`insecure`) - Allows you to stream free videos from across the web directly on your Android and Firestick devices.
 - [CyberFlix 2.0](https://anonym.to/?https://cybermedia.cloud/downloads) - A rebooted version from the original Cyberflix app, good for movies & tv episodes.
-- [DreamTV (Terrarium Clone) - (now called Redline)](http://dream-tv.xyz/) - (`insecure`) - (needs invite) - Download various Movies.
 - [Exousia](https://anonym.to/?https://exousia.app) - Watch Live Tv & Movies, Sports.
 - [Fildo](https://anonym.to/?https://fildo.net/android/en/) - Yet another Music streaming app.
 - [Filmix](https://anonym.to/?https://filmix.site) - Watch movies and TV shows using AndroidTV or mobile devices.
@@ -2275,7 +2270,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [8Putlocker](https://anonym.to/?http://www1.8putlocker.com/) - (`insecure`) - Watch Movies HD Online for Free, you can watch all movies here. All TV Series, Asian Dramas, Anime & Cartoons.
 - [Afdah](https://anonym.to/?http://afdah.to/) - (`insecure`) - Afdah is a web scraper coded to crawl and index online movie sites.
 - [BS.to](https://anonym.to/?https://bs.to/) - (GER) - (`insecure`) - German Video-on-Demand-Website for TV-Shows, Cartoons & Movies.
-- [CafeHulu](http://cafehulu.com/) - (`insecure`) - Best Place To Watch FREE Tv Series And Cartoons.
+- [CafeHulu](https://anonym.to/?http://cafehulu.com/) - (`insecure`) - Best Place To Watch FREE Tv Series And Cartoons.
 - [dokujunkies](https://anonym.to/?https://dokujunkies.org) - Provides several documentations, movies etc. Links are shared via uploaded.
 - [EZTV (EZTV.AG)](https://anonym.to/?https://eztv.io/) - Well known group for movies and series.
 - [filechef](https://anonym.to/?http://filechef.com/) - (`insecure`) - Search Direct Downloads
@@ -2450,7 +2445,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ### 4k/HDR TV/Movie
 
-[Fake or real 4k](https://anonym.to/?https://4kmedia.org/real-or-fake-4k/) - Check if the website provides a real or upscaled release, list is updated monthly, a alternative is a [predb check](https://anonymhttps://predb.me/?search=2160p+BluRay+x265).
+[Fake or real 4k](https://anonym.to/?https://4kmedia.org/real-or-fake-4k/) - Check if the website provides a real or upscaled release, list is updated monthly, a alternative is a [predb check](https://anonym.to/?https://predb.me/?search=2160p+BluRay+x265).
 
 - [4k-hd.club](https://anonym.to/?https://4k-hd.club/) - Premium site with the highest quality of 4K ULTRA HD Movies.
 - [4K-HDR.org](https://anonym.to/?https://4k-hdr.org/) - 4K rips HDR movies download, Blu-ray ultra hd movies HDR 10 Bit. Download movies rip HDR in 4K Ultra HD 2160P. 4K-HDR.ORG best site of 4K HDR format.
@@ -3011,6 +3006,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ### Google reCAPTCHA
+- [HCaptcha.com](https://anonym.to/?https://hcaptcha.com/) - Yet another alternative to Google's reCAPTCHA system.
 - [TextCaptcha](https://anonym.to/?http://textcaptcha.com/) - A privacy respecting reCAPTCHA alternative.
 - [SecureImage](https://anonym.to/?https://www.phpcaptcha.org/) - Yet another alternative to Google's reCAPTCHA system which is open source.
 - [PrivacyPass](https://anonym.to/?https://privacypass.github.io/team/) - A privacy-preserving and frustration-reducing alternative to CAPTCHAs which uses [Trust API](https://anonym.to/?https://github.com/dvorak42/trust-token-api) principles. A standalone API is planned.
