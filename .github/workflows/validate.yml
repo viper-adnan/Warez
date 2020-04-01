@@ -1,17 +1,20 @@
+name: Check Markdown links
+# https://github.com/marketplace/actions/markdown-link-check
 on:
   push:
     branches:
-      - master
+    - master
   schedule:
-    - cron: 0 12 * * 0-5
+  - cron: 0 12 * * 0-5
 
 jobs:
-  build:
-    name: Validate links
+  markdown-link-check:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    - name: Validate links
-      uses: ad-m/report-link-action@master
+    - uses: gaurav-nelson/github-action-markdown-link-check@0.6.0
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        use-quiet-mode: 'yes'
+        use-verbose-mode: 'no'
+#        config-file: 'warez_config.json'
+#        folder-path: 'docs/markdown_files

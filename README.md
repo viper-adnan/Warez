@@ -461,7 +461,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 ## Domain Names
 - [Domainr](https://anonym.to/?https://domainr.com/) - Domainr allows you to find domain names and short URLs. Instantly check availability and register for all top-level domains.
 - [Njalla](https://anonym.to/?https://njal.la/) - A privacy-aware domain registration service.
-- [xip.io](http://xip.io/) - (`insecure`) - Magic domain name that provides wildcard DNS for any IP address.
+- [xip.io](https://anonym.to/?http://xip.io/) - (`insecure`) - Magic domain name that provides wildcard DNS for any IP address.
 
 **[`^        back to top        ^`](#)**
 
@@ -625,8 +625,8 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [ArenaBG](https://anonym.to/?https://arenabg.com/) - A Bulgarian tracker with an English translation available.
 - [NoNaMe Club](https://anonym.to/?https://nnmclub.to/) - Russian semi-private tracker and forum.
 - [ruTracker](https://anonym.to/?https://rutracker.org/forum/index.php) - RuTracker is a huge Russian torrent site with a thriving file-sharing community.
-- [MetalArea](https://metalarea.org/) - Russian tracker for obscure metal and dungeon synth.
-- [Zamunda.net](http://zamunda.net) - A Bulgarian tracker with English and Russian translations available.
+- [MetalArea](https://anonym.to/?https://metalarea.org/) - Russian tracker for obscure metal and dungeon synth.
+- [Zamunda.net](https://anonym.to/?https://zamunda.net/) - A Bulgarian tracker with English and Russian translations available.
 
 **[`^        back to top        ^`](#)**
 
@@ -687,10 +687,10 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 **[`^        back to top        ^`](#)**
 
-
+<!-- markdown-link-check-disable -->
 ### I2P Tracker
 - [killyourtv](http://mpc73okj7wq2xl6clofl64cn6v7vrvhpmi6d524nrsvbeuvjxalq.b32.i2p/) - Series and TV Shows.
-
+<!-- markdown-link-check-enable -->
 **[`^        back to top        ^`](#)**
 
 
@@ -961,11 +961,12 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ### DDL Link Sites
 - [/r/DataHoarder/](https://anonym.to/?https://old.reddit.com/r/DataHoarder/) - Share download links (similar to /r/opendirectories/).
-- [/r/ZippyShare](https://anonym.to/?https://www.removeddit.com/r/ZippyShare) - (Multi) - DL links hosted on ZippyShare (_blocked in the UK_) (Zippy geoIp bypass via [Zippy Direct](https://anonym.to/?https://zippy.direct/)
+- [/r/ZippyShare](https://anonym.to/?https://www.removeddit.com/r/ZippyShare) - (Multi) - DL links hosted on ZippyShare (_blocked in the UK, Germany and other countries_)
+- [Zippy Direct](https://anonym.to/?https://zippy.direct/) - ZippyShare proxy.
 - [0DayDown](https://anonym.to/?https://www.0daydown.com/) (CN/EN) MacOS, Music & other links (works with JDownloader).
 - [3dl.tv](https://anonym.to/?https://3dl.tv/) - (Ger) - Music, Movies, TV Shows, apps & more.
-- [Adit-HD Forum](http://www.adit-hd.com/) - (`insecure`) - Forum which provides links to HD rips.
-- [AdiT-HD](http://adit-hd.com/) - (`insecure`) - Direct movie download database.
+- [Adit-HD Forum]() - (`insecure`) - Forum which provides links to HD rips.
+- [AdiT-HD](https://adit-hd.com/) - Direct movie download database.
 - [AppNee Freeware Group](https://anonym.to/?https://appnee.com/) - Massive DDL site, eBooks, Programs, Games, Operating Systems, Adobe & more.
 - [Audioz](https://anonym.to/?https://audioz.download/) - Provides Audio related software like Cubase etc.
 - [AvaxHome](https://anonym.to/?https://avxhm.se) - Another DDL site with eBooks, TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
@@ -982,9 +983,9 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [DirtyWarez Forum](https://anonym.to/?https://forum.dirtywarez.com/) - (EN-US) - Popular warez forum with films, TV shows, ebooks, anime, games, and more.
 - [DL4All](http://dl4all.org/) - (`insecure`) - Various Games, Tutorials, TV Shows, Music and mobile stuff.
 - [Dospelis](https://anonym.to/?https://www.dospelis.net) - Spanish DDL indexer.
-- [DownArchive](http://downarchive.org/) - (`insecure`) - DDL blog with premium links on a number of hosts. Lots of software
-- [DownloadLY.IR](http://downloadly.ir/) - (IR) - (`insecure`) - Software download portal.
-- [DownTurk](https://anonym.to/?https://www.downturk.net/) - Software portal.
+- [DownArchive](https://anonym.to/?http://downarchive.org/) - (`insecure`) - DDL blog with premium links on a number of hosts. Lots of software
+- [DownloadLY.IR](https://anonym.to/?http://downloadly.ir/) - (IR) - (`insecure`) - Software download portal.
+- [DownTurk](https://anonym.to/?http/www.downturk.net/) - Software portal.
 - [ExeLab Forums](https://anonym.to/?https://exelab.ru/f/index.php?action=vtopic&forum=5)
 - [FilmRls](https://anonym.to/?https://filmrls.com/) Movies, Series and TV Shows.
 - [filewarez.tv](https://anonym.to/?https://filewarez.tv/) - Invite-only, hosts both Mega and Google Drive links for TV shows
@@ -997,7 +998,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [KickassWarez](https://anonym.to/?https://kickasswarez.info/) - (EN/RU) - Sometimes offline, hosts TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
 - [LavTeam](http://www.lavteam.org/) - (RU) - Another russian software portal. Like dust in the desert!
 - [Mawto](https://anonym.to/?https://www.mawtoload.com/) - (IR) - Android apps, Windows Software & Games.
-- [MaxRelease](http://max-rls.com/) - (`insecure`) - Games, software, magazines, movies, music & tv shows.
+- [MaxRelease](https://anonym.to/?http://max-rls.com/) - (`insecure`) - Games, software, magazines, movies, music & tv shows.
 - [Movie Glide](https://anonym.to/?https://www.movieglide.com/) - Videos/Movies & TV Shows in HD Quality.
 - [MovieFiles](https://anonym.to/?https://moviefiles.org/) - Direct download search engine which generates Google Drive links
 - [Moviesleak](https://anonym.to/?https://moviesleak.net/) - Yet another movie page, the focus is in IMDB annoucements.
@@ -1893,7 +1894,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [AME](https://anonym.to/?https://ameliorated.info/index.html) - Windows 10 AME aims at delivering a stable, non-intrusive yet fully functional build of Windows 10 to anyone, who requires the Windows operating system natively.
 - [Krakatoa](https://anonym.to/?https://krakatoa.www3.cz/) - Office, Windows, KMS and Key checkers.
 - [My Digital Life Forums](https://anonym.to/?https://forums.mydigitallife.net/) - Windows topics, hotfixes & self-made tools.
-- [Pro Design Tools](https://prodesigntools.com) Site focused on Adobe Development including cracked software and ebooks.
+- [Pro Design Tools](https://anonym.to/?https://prodesigntools.com) Site focused on Adobe Development including cracked software and ebooks.
 - [ShareAppsCrack](https://shareappscrack.com/) Website with a plethora of development tools and engineering focused software, including video tutorials, and some eBooks.
 - [Microsoft Build Overview](https://anonym.to/?https://msbuilds.rg-adguard.net/) - A history of Windows build strings.
 - [PCBeta](https://anonym.to/?https://bbs.pcbeta.com) - Windows ISOs, hotfixes and discussions.
@@ -1950,7 +1951,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [BookBoon](https://anonym.to/?http://bookboon.com/) - (`insecure`) - World’s largest publisher of online educational literature.
 - [BookSC](https://anonym.to/?https://booksc.xyz/) - (blocked in some countries) - Z-Library is one of the largest online libraries in the world that contains over 4,800,000 books and 75,300,000 articles.
 - [BookStack](https://anonym.to/?https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.
-- [BookYards](http://www.bookyards.com/) - (`insecure`) - This online "library to the world" has over 17,000 ebooks, plus links to other digital libraries.
+- [BookYards](https://anonym.to/?http://www.bookyards.com/) - (`insecure`) - This online "library to the world" has over 17,000 ebooks, plus links to other digital libraries.
 - [Boundless](https://anonym.to/?https://www.boundless.com/) - Affordable online textbooks & study materials.
 - [Calibre DRM Removal Plugins 2019 — Remove eBook DRM with Calibre](https://anonym.to/?https://medium.com/@angeldan1989/calibre-drm-removal-plugins-2019-remove-ebook-drm-with-calibre-4ec9c07cae80) - DeDRM removal guide for Calibre.
 - [Calibre Web](https://anonym.to/?https://github.com/janeczku/calibre-web) - Web app for browsing, reading and downloading eBooks stored in a Calibre database.
@@ -1961,19 +1962,18 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [ebookee.org](https://anonym.to/?https://ebookee.org/) - PDF & eBooks trading, various categories.
 - [eBookLobby](http://www.ebooklobby.com/) - (`insecure`) - You'll find lost of self-help, hobby and reference books here, plus children's fiction and more.
 - [eLearning](https://anonym.to/?https://www.torontopubliclibrary.ca) - Cisco, Mango, HSTalks and other eBook courses for free.
-- [eReader.com](http://www.ereader.com/servlet/mw?t=freebooks&si=59) - (`insecure`) - eReader.com has many classic lit selections for free.
-- [FeedBooks](http://www.feedbooks.com/publicdomain) - (`insecure`) - Provides millions of books.
-- [FicSave](http://ficsave.xyz/) - (`insecure`) - An Open-Source Online Fanfiction Downloader.
-- [Free eBooks](http://www.free-ebooks.net/) - (`insecure`) - Besides browsing topics such as biography, fan fiction, games, history, or tutorials, you can submit your own ebook, too.
-- [freebookspot.es](http://www.freebookspot.es/) - (`insecure`) - Various eBook's for free.
-- [FreeComputerBooks](http://freecomputerbooks.com/) - (`insecure`) - eBook categories such as Computer, Lecture Notes, Mathematics, Tutorials, Programming, and Technical books.
-- [FreeTechBooks](http://www.freetechbooks.com/) - (`insecure`) - Download free computer science, engineering and programming books, textbooks and lecture notes.
-- [GetFreeEBooks](http://www.getfreeebooks.com/) - (`insecure`) - This website has free ebooks in categories from writing to environment to fiction to business, plus features and reviews.
-- [Globusz](http://www.globusz.com/) - (`insecure`) - There are no limits on the number of free books you can download on this online publishing site.
+- [FeedBooks](https://anonym.to/?http://www.feedbooks.com/publicdomain) - (`insecure`) - Provides millions of books.
+- [FicSave](https://anonym.to/?http://ficsave.xyz/) - (`insecure`) - An Open-Source Online Fanfiction Downloader.
+- [Free eBooks](https://anonym.to/?http://www.free-ebooks.net/) - (`insecure`) - Besides browsing topics such as biography, fan fiction, games, history, or tutorials, you can submit your own ebook, too.
+- [freebookspot.es](https://anonym.to/?http://www.freebookspot.es/) - (`insecure`) - Various eBook's for free.
+- [FreeComputerBooks](https://anonym.to/?http://freecomputerbooks.com/) - (`insecure`) - eBook categories such as Computer, Lecture Notes, Mathematics, Tutorials, Programming, and Technical books.
+- [FreeTechBooks](https://anonym.to/?http://www.freetechbooks.com/) - (`insecure`) - Download free computer science, engineering and programming books, textbooks and lecture notes.
+- [GetFreeEBooks](https://anonym.to/?http://www.getfreeebooks.com/) - (`insecure`) - This website has free ebooks in categories from writing to environment to fiction to business, plus features and reviews.
+- [Globusz](https://anonym.to/?http://www.globusz.com/) - (`insecure`) - There are no limits on the number of free books you can download on this online publishing site.
 - [Guide to Copy Kindle Content to PDF via Calibre](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/7vc3uv/guide_to_copy_kindle_content_to_pdf_using_calibre/) -
-- [Gutenberg](http://www.gutenberg.org/wiki/Main_Page) - (`insecure`) - Project Gutenberg was the first to supply free ebooks, and today they have over 30,000 free titles in stock.
+- [Gutenberg](https://anonym.to/?http://www.gutenberg.org/wiki/Main_Page) - (`insecure`) - Project Gutenberg was the first to supply free ebooks, and today they have over 30,000 free titles in stock.
 - [How can I remove DRM from my ebooks?](https://anonym.to/?https://github.com/apprenticeharper/DeDRM_tools/blob/master/FAQs.md#so-how-can-i-remove-drm-from-my-ebooks) - DeDRM tools provides a big FAQ and scripts, tools to remove DRM on eBooks.
-- [iBiblio](http://www.ibiblio.org/) - (`insecure`) - Find archives, ebooks, tutorials, language books, and more from iBiblio.
+- [iBiblio](https://anonym.to/?http://www.ibiblio.org/) - (`insecure`) - Find archives, ebooks, tutorials, language books, and more from iBiblio.
 - [Internet Archive](https://anonym.to/?https://archive.org/details/texts) - Over 15 mio free books & texts.
 - [Issuu](https://anonym.to/?https://issuu.com/) - Allows users to upload and distribute their publications worldwide.
 - [KnowFree](http://knowfree.tradepub.com/) - (`insecure`) - Access free research, white papers, reports, case studies, magazines, and eBooks.
@@ -2284,12 +2284,11 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Putlockerfreely](https://anonym.to/?https://putlockerfreely.online/) - Watch your favorite movies online free on Putlocker. Discover thousands of latest movies online.
 - [Putlockeri](https://anonym.to/?https://putlockeri.club/) - Watch your favorite movies online free on Putlocker.
 - [Putlockertv](https://anonym.to/?https://www3.putlocker.onl/) - Watch movies and TV Series for free, watch series full episodes online free with HD quality on Putlocker.
-- [Sharemovies](http://sharemovies.net/) - (`insecure`) - Watch Movies in Theatre, Anime & Cartoons and TV Series in HD 1080.
-- [Sockshare](http://sockshare.ac/) - (`insecure`) - Huge Movie/TV Library
+- [Sockshare](https://anonym.to/?http://sockshare.ac/) - (`insecure`) - Huge Movie/TV Library
 - [SolarMovieHD](https://anonym.to/?https://solarmoviehd.to/) - Watch Movies Online and Watch Tv-Series online On Solarmovie without Registration.
 - [Solarmovies](https://anonym.to/?https://solamovies.cc/) - SolarMovie claims to be the biggest Library of free movies and tv shows.
 - [Streaming Multireddit](https://anonym.to/?https://www.removeddit.com/user/nbatman/m/streaming/) - Reddit, random streaming sites.
-- [TORRENTDOWNLOADS](https://anonym.to/?https://www.torrentdownloads.me/) - It’s a no-nonsense index that provides torrents to millions of users each month.
+- [TorrentDownloads.me](https://anonym.to/?https://www.torrentdownloads.me/) - It’s a no-nonsense index that provides torrents to millions of users each month.
 - [Viooz](https://anonym.to/?https://vioozgo.org/) - (RU) - Discover thousands of movies, watch your favorite movies online for free on VZM, Viooz.
 
 **[`^        back to top        ^`](#)**
@@ -2603,7 +2602,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [EiskaltDC++](https://anonym.to/?https://github.com/eiskaltdcpp/eiskaltdcpp) - Windows/Linux/macOS DC++ client, with ADC and DHT support
 - [FlylinkDC++](http://www.flylinkdc.com/) - (`insecure`) - Windows DC++ and BitTorrent client in active development, with ADC and DHT support.
 - [Linux DC++](https://anonym.to/?https://launchpad.net/linuxdcpp) - Easy to configure and use DC++ client.
-- [Tankafett](http://tankafett.biz/?do=hublist) - (`insecure`) - List of public DC++ hubs, previously known as hublist.org and TheHubList.com.
 
 **[`^        back to top        ^`](#)**
 
