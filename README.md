@@ -640,7 +640,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [dlb.to](https://anonym.to/?https://dlb.to/) - Indixer for various Warez websites and material.
 - [Darli](https://anonym.to/?http://tracker.darli.net) - (HDS) - Our open torrent tracker is available for everyone. Use where necessary.
 - [DIGBT](https://anonym.to/?https://www.digbt.org/) - DIGBT is a DHT torrent search engine.
-- [ETTV](https://anonym.to/?https://www.ettv.tv/) + [EZTV](https://anonym.to/?https://eztv.ag/) - ETTV is a torrent site specific for movie torrents.
+- [ETTV](https://anonym.to/?https://www.ettvdl.com/) - ETTV is a torrent site specific for movie torrents.
 - [g4u](https://anonym.to/?https://g4u.me/) - (Ger) - Movies, TV Shows & Games.
 - [GaOQing](https://anonym.to/?https://gaoqing.fm/) - (CN _insecure_) - Porn, movies, tv-shows, documentations, you name it!
 - [Games4theworld](https://anonym.to/?https://games4theworld.org) - Torrents and magnet links for games.

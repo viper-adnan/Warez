@@ -15,6 +15,6 @@ jobs:
     - uses: gaurav-nelson/github-action-markdown-link-check@0.6.0
       with:
         use-quiet-mode: 'yes'
-        use-verbose-mode: 'no'
-#        config-file: 'warez_config.json'
-#        folder-path: 'docs/markdown_files
+        use-verbose-mode: 'yes'
+        config-file: '.github/workflows/ignoredlinks.conf'
+#        folder-path: 'docs/markdown_files'
