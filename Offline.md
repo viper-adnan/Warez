@@ -119,7 +119,10 @@ Based on "[Scammers Hit Pirate Game Sites With â€˜Irreversibleâ€™ Googl
 - swedupe.com
 
 ## Others
+- CracksNow (The site no longer exists: Account banned because the site administrator was uploading infected files on torrent sites (ransomwares/malwares))
 - Openload
+- CracksMind
+- 123Movies
 - Streamango (compromised)
 - RapidVideo
 - aboutthescene.com
@@ -537,3 +540,7 @@ Based on "[Scammers Hit Pirate Game Sites With â€˜Irreversibleâ€™ Googl
 
 ## Porn
 - YesPornPlease
+
+## Abandoned
+- prof-key2.blogspot.com (no updates anymore since 2015)
+- Bagas31 (new domain)
