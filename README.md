@@ -351,6 +351,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Nada](https://anonym.to/?https://getnada.com/) - Fast & free.
 - [s.MailPro](https://anonym.to/?https://smailpro.com/) - Offering Temporary Email Service
 - [Temp Mail](https://anonym.to/?https://temp-mail.org/en/) - Keep spam out of your mail and stay safe - just use a disposable temporary email address!
+- [Tempr eMail](https://anonym.to/?https://tempr.email/fr/) - Similar service like Temp Mail, it's from the same provider.
 
 **[`^        back to top        ^`](#)**
 
@@ -1650,6 +1651,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Madsonic](https://anonym.to/?https://www.madsonic.org/) - Madsonic is a web-based media library and media streamer with jukebox functionality.
 - [MusicBrainz](https://anonym.to/?https://musicbrainz.org/) - MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public.
 - [ProgrockWorld](https://anonym.to/?https://progrockworld.ru/) - (RU) - Classic Rock, Pop & more.
+- [RaveDJ](https://anonym.to/?https://rave.dj/) - Online creation of mixes and mashups.
 - [Redacted](https://anonym.to/?https://redacted.ch/) - Elite music scene (requires invite).
 - [RuTracker](http://rutracker.org/forum/index.php) - (`insecure`) Ru-Tracker, music info, releases & software.
 - [Slsknet](http://www.slsknet.org/news/node/1) - (`insecure`) - Soulseek is an ad-free, spyware free, just plain free file sharing network for Windows, Mac and Linux.
@@ -1842,11 +1844,12 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ## Software
 - [/r/piracy/wiki/tools](https://anonym.to/?https://www.removeddit.com/r/piracy/wiki/tools) - Windows/Office activation tools, and images/installers for Windows, Office + Adobe.
+- [Appnee](https://anonym.to/?https://appnee.com/) - One of the oldest websites when it comes to software, changes the domain often.
 - [Blackpearl](https://anonym.to/?https://blackpearl.biz/) - Provides similar services like Shnap forum.
+- [Bagas31](https://anonym.to/?https://www.bagas31.info/) - Bagas32 is a known disturber for software and software cracks.
 - [Bontersoft.cc](https://anonym.to/?https://www.bontersoft.cc/) - Windows software to various products, AV's, Music etc.
 - [Cloud-Droid](https://anonym.to/?https://www.cloud-droid.com) - Cloud-Droid offers (mostly) downloads via sharehoster.
-- [CrackingPatching.com](https://anonym.to/?https://crackingpatching.com/) - Cracked software
-- [CracksNow](https://anonym.to/?https://cracksnow.com/) - Cracks for Android, Windows, and macOS applications.
+- [CrackingPatching.com](https://anonym.to/?https://crackingpatching.com/) - Cracked software for free!
 - [DDGroupClub](https://anonym.to/?http://ddgroupclub.win/) - (`RU`)
 - [Fost.Club](https://anonym.to/?http://fost.club/) - (`RU`)
 - [Gallery-dl](https://anonym.to/?https://github.com/mikf/gallery-dl) - Command-line program to download image-galleries and -collections from several image hosting sites.
@@ -1855,6 +1858,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [PiratBit](https://anonym.to/?https://pb.wtf/) - (`RU`)
 - [PirateCity](https://anonym.to/?https://www.piratecity.cc) - Softwares, Performance Optimizing Tools, Antivirus Softwares , Image Editing Tools, Video Editing Softwares, Data Recovery Softwares & more.
 - [RuTracker](https://anonym.to/?http://rutracker.ru/) - (`RU`)
+- [RadiXX11](https://anonym.to/?https://radixx11rce2.blogspot.com/) - Provides software cracks and keygens for various software.
 - [Sanet.st](https://anonym.to/?https://sanet) - Also known as "SoftArchive", is a portal to provide Windows software cracks.
 - [Softlay](https://anonym.to/?https://softlay.net) - Windows software mirrors.
 - [Softpilot](https://anonym.to/?https://softpilot.win/) - (`RU`) - A forum and website for various repacks and in general a good place for software discussions.
@@ -1871,6 +1875,8 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [M0nkrus'a](https://anonym.to/?http://w13.monkrus.ws/) - (`RU`) - Russian repacker, maindly known for Adobe repacks but also provides lot of other repacks.
 - [PoorShock](https://anonym.to/?http://pooshock.ru/) - (`RU`) - Russian repacker and website to various software products, Adobe, Sound Forge etc.
 - [Punsh](https://anonym.to/?https://punsh.at.ua/) - (`RU`) - Russian repacker, similar like PoorShock and M0nkrus.
+- [Soft4PC](https://anonym.to/?https://s0ft4pc.com/) - Yet another website for cracked software repacks.
+- [SCloud](https://anonym.to/?https://scloud.ws/) - Provides site several years repacks for popular software like Adobe & Windows.
 
 **[`^        back to top        ^`](#)**
 
@@ -2264,7 +2270,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ### Big Media Libraries
 - [/r/MovieStreamingSites](https://anonym.to/?https://www.removeddit.com/r/MovieStreamingSites/) - Reddit, random streaming sites.
-- [123Movies.ooo](https://anonym.to/?https://123movies.ooo/) - Watch & stream full HD movies & TV series online for free.
 - [2TwoMovies](https://anonym.to/?https://two-movies.net/) - Watch Free Movies Online. TwoMovies is a free online video service that offers large collection of full length movies.
 - [5Movies](http://5movies.to/) - (`insecure`) - Watch FULL HD Quality 1080/720p movies and latest tv series online for free, download the latest movies without registration at all.
 - [8Putlocker](https://anonym.to/?http://www1.8putlocker.com/) - (`insecure`) - Watch Movies HD Online for Free, you can watch all movies here. All TV Series, Asian Dramas, Anime & Cartoons.
