@@ -1056,7 +1056,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Free Premium Leeches](https://anonym.to/?https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches) - Search up for the website you want to download from and pick from a massive list.
 - [Small File sharing table](https://anonym.to/?https://nafanz.github.io/filesharing.html) - Small File sharing table which shows maximum file limit, language etc.
 - [Small cloud storage table](https://anonym.to/?https://nafanz.github.io/cloudstorage.html) - Small cloud storage table which shows maximum file limit, language etc.
-- [OffCloud](https://anonym.to/?https://offcloud.com/?=85a8b709) - A simple, elegant and intuitive SaaS to retrieve any data from the cloud.
 - [Mega-Debrid](https://anonym.to/?https://www.mega-debrid.eu/) - 207 Hosters supported.
 - [Premiumize](https://anonym.to/?https://www.premiumize.me/) - Combine direct and secure access to premium services.
 - [Premium Link Generator](https://anonym.to/?https://ww.premiumlinkgenerator.com/) - Over 26 hosts to choose from (needs paid account).
@@ -3223,7 +3222,8 @@ one cryptocurrency wallet to another across various cryptocurrencies
 **[`^        back to top        ^`](#)**
 
 
-## Transcoding or stream sharing Services
+## Transloading or (stream) sharing Services
+- [Clouddebrid](https://anonym.to/?https://clouddebrid.herokuapp.com/) - Supports more than 200 services, transload files easily. 
 - [Furk.net](https://anonym.to/?https://www.furk.net/) - Personal secure storage that fetches media files and lets you stream them immediately
 - [Offcloud](https://anonym.to/?https://offcloud.com/) - Cloud-based download manager
 - [Bitport.io](https://anonym.to/?https://bitport.io/welcome) - Download files to a secured cloud. Anonymously. Fast. Online.
