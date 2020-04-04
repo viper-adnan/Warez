@@ -2433,6 +2433,8 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [N1Streaming](https://anonym.to/?https://n1streamings.com/) - (FR)
 - [Papystreaming](https://anonym.to/?https://www.papy-streaming.fr/) - (FR)
 - [Planet-Streaming1](https://anonym.to/?https://wwvv.streaming-planet.com/) - (FR)
+- [RareFilm](https://anonym.to/?http://rarefilm.net/) - Rare Films on Requests. Download Rare Classic and Selected Films, Request on Classic Movies.
+- [Rarefilmm](https://anonym.to/?https://rarefilmm.com/) - The cave of forgotten films!
 - [Radego](https://anonym.to/?http://radego.com/rradego/) - (FR)
 - [Serie-Streaming](https://anonym.to/?https://www.guardaserie.tube/) - (FR)
 - [Seriecomplete](https://anonym.to/?https://w22.seriecomplete.com/series/) - (FR)
