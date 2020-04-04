@@ -2923,10 +2923,12 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 **[`^        back to top        ^`](#)**
 
-## Image downloader
+## Image downloader (tools & websites)
 - [Dezoomify](https://anonym.to/?https://ophir.alwaysdata.net/dezoomify/dezoomify.html) & [Source](https://anonym.to/?https://github.com/lovasoa/dezoomify/) - Download zoomable images.
+- [Downloader.la](https://anonym.to/?https://downloader.la/) - Download pictures and videos from various platforms such as iStock, PicFair, Adobe Stock, alamy, shutterstock, LovePik, PicFair and other providers.
 - [MyImgur](https://anonym.to/?http://myimgur.eden.fm/) - Most handy capture and uploader tool you'll ever find for Windows computers
 - [DroidIris+](https://anonym.to/?https://apkpure.com/en/droidiris-image-search/org.droidiris) - (Android) - Search and browse thousands of images online with this superb and smooth 3D gallery.
+- [Tomato.to](https://anonym.to/?https://tomato.to/) - A website who downloads images from various known image providers, such as FLickr, 500px.com, WireImage and many more.
 
 **[`^        back to top        ^`](#)**
 
