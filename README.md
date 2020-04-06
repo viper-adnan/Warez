@@ -600,6 +600,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [HD4Free](https://anonym.to/?https://hd4.xyz) - (HD4F) - HD4Free is a general HD tracker with a good range of content.
 - [IPTorrents](https://anonym.to/?https://iptorrents.com/) - (IPT) - Private tracker with movies, books, and more.
 - [JPopsuki](https://anonym.to/?https://jpopsuki.eu/) - (JPop) - JPopsuki is a torrent tracker focused on Asian music.
+- [Milkie](https://anonym.to/?https://milkie.cc/) - Added another upcoming private tracker site.
 - [MyAnonaMouse](https://anonym.to/?https://www.myanonamouse.net/) - (MAM) - Private E-Learning tracker with about 360 000 torrents including audiobooks, e-learning, musicology, and radio.
 - [Nostalgic Torrents](https://anonym.to/?https://nostalgic.is/) - (NT) - Private tracker for anime, comics/manga, documentaries, movies, TV - PRE 2013, TV - PRE 2009 With Original Commercials, etc. Also known as The-Archive and HeyNow.
 - [PassThePopcorn](https://anonym.to/?https://passthepopcorn.me/) - (PTP) - ratio-based torrent tracker for movies (requires login).
