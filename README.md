@@ -2027,6 +2027,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [eLearning](https://anonym.to/?https://www.torontopubliclibrary.ca) - Cisco, Mango, HSTalks and other eBook courses for free.
 - [ForCoder.su](https://anonym.to/?https://forcoder.su/) - Coding related courses and tutorials.
 - [FreeCourseLab](https://anonym.to/?https://freecourselab.com/) + ([Mirror](https://www.freecoursesonline.me/?1)) - Download Paid Udemy Courses Free.
+- [freecoursesite](https://anonym.to/?https://freecoursesite.us/) - Download All Udemy Paid Courses And Tutorials Free.
 - [FreeCourses](https://anonym.to/?http://freecoursesite.com/) - Alternative to freetutorials.us, provides similar service.
 - [FreeCourseSite.com](https://anonym.to/?https://freecoursesite.com/) - Provides Udemy courses for free.
 - [FTU Forum](https://anonym.to/?https://ftuforum.com/) - Forum for eBooks, Udemy courses and tutorials.
