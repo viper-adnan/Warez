@@ -1,6 +1,6 @@
 ## Offline but never forgotten
 
-Based on "[Scammers Hit Pirate Game Sites With â€˜Irreversibleâ€™ Google Takedowns](https://torrentfreak.com/scammers-hit-pirate-game-sites-with-irreversible-google-takedowns-181130/)"
+Based on "[Scammers Hit Pirate Game Sites With "irreversible™ Google Takedowns](https://torrentfreak.com/scammers-hit-pirate-game-sites-with-irreversible-google-takedowns-181130/)"
 
 - Good-Old-Downloads
 - MovieBox
@@ -544,3 +544,6 @@ Based on "[Scammers Hit Pirate Game Sites With â€˜Irreversibleâ€™ Googl
 ## Abandoned
 - prof-key2.blogspot.com (no updates anymore since 2015)
 - Bagas31 (new domain)
+
+## Bulletproof-Hoster
+- [Cyberbunker](https://gstko.justiz.rlp.de/de/startseite/detail/news/News/detail/landeszentralstelle-cybercrime-der-generalstaatsanwaltschaft-koblenz-erhebt-anklage-gegen-acht-tatve/)
