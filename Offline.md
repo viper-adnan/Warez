@@ -547,3 +547,6 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversible™ Google Takedowns
 
 ## Bulletproof-Hoster
 - [Cyberbunker](https://gstko.justiz.rlp.de/de/startseite/detail/news/News/detail/landeszentralstelle-cybercrime-der-generalstaatsanwaltschaft-koblenz-erhebt-anklage-gegen-acht-tatve/)
+
+## Dark Net
+- Cannabis Road
