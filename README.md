@@ -3188,7 +3188,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Playnite](https://anonym.to/?https://github.com/JosefNemec/Playnite) - Video game library manager with support for 3rd party libraries like Steam, GOG, Origin, Battle.net and Uplay.
 - [Pressure-for-Steam](https://anonym.to/?https://github.com/DirtDiglett/Pressure-for-Steam) - A skin to improve the visual aesthetics of Steam.
 - [Proton](https://anonym.to/?https://github.com/ValveSoftware/Proton) -  Compatibility tool for Steam Play based on Wine and additional components.
-- [shellphish](https://anonym.to/?https://github.com/thelinuxchoice/shellphish) - Phishing Tool for 18 social media: Instagram, Facebook, Snapchat, Github, Twitter, Yahoo, Protonmail, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers, Gitlab, Pinterest.
 - [steam-dark-mode](https://anonym.to/?https://github.com/AikoMidori/steam-dark-mode) - A true Dark Mode for Steam.
 - [SteamCleaner](https://anonym.to/?https://github.com/Codeusa/SteamCleaner) - A PC utility for restoring disk space from various game clients like Origin, Steam, Uplay, Battle.net, GoG and Nexon.
 - [SteamCMD-GUI](https://anonym.to/?https://github.com/DioJoestar/SteamCMD-GUI) - Graphical interface for SteamCMD.
