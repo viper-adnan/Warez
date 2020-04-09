@@ -577,6 +577,10 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Tracker Twitters](https://anonym.to/?https://filenetworks.blogspot.com/2010/12/list-of-private-torrent-trackers.html) - List Of Private Torrent Trackers & BitTorrent News Accounts To Follow On Twitter.
 - [Trackers List](https://anonym.to/?https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers.
 
+
+### Torrent Tracker
+- [Root.yt](https://anonym.to/?https://root.yt/) - Yet [another torrent proxy](https://anonym.to/?https://www.reddit.com/r/Piracy/comments/fcq0v4/i_made_a_proxy_service_for_popular_sites_like_tpb/) who aims to imrpvoe privacy and security by removing blacklisted domains.
+
 **[`^        back to top        ^`](#)**
 
 
