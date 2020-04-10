@@ -1095,6 +1095,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## Open Directories
+- [r/MegaLinks4U](https://anonym.to/?https://old.reddit.com/r/MegaLinks4U/) - Share megalinks, mostly used for porn.
 - ["All resources I know related to Open Directories"](https://anonym.to/?https://www.removeddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/) - Thorough post from /u/ElectroXexual.
 - [/r/opendirectories](https://anonym.to/?https://www.removeddit.com/r/opendirectories) - Unprotected directories of pics, vids, music, software and otherwise interesting files.
 - [36 GB of Flash Games](https://anonym.to/?https://www.removeddit.com/r/opendirectories/comments/902j1i/36_gb_of_flash_games_19k_files/) - Posted by /u/blue_star_.
@@ -2462,7 +2463,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [StreamingDIVX1](https://anonym.to/?https://StreamingDIVX1.com) - (FR)
 - [Time2watch](https://anonym.to/?https://time2watch.gg/) - (FR) - _sometimes offline_
 - [Voir-Films-Series](https://anonym.to/?https://www.voirfilms.al/series/) - (FR)
-- [VOSTFRSerie](https://anonym.to/?(https://vostfrserie.biz/) - (FR)
+- [VOSTFRSerie](https://anonym.to/?https://vostfrserie.biz/) - (FR)
 - [Wikiserie](https://anonym.to/?https://www.wikiserie.biz/) - (FR)
 
 
@@ -2526,7 +2527,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ### Discord Client (Mods)
 - [EnhancedDiscord](https://anonym.to/?https://github.com/joe27g/EnhancedDiscord) - A lightweight Discord client mod.
-- [Quarrel](https://anonym.to/?(https://github.com/UWPCommunity/Quarrel) - A UWP discord client for Windows 10.
+- [Quarrel](https://anonym.to/?https://github.com/UWPCommunity/Quarrel) - A UWP discord client for Windows 10.
 - [PowerCord](https://anonym.to/?https://github.com/powercord-org/powercord) - A lightweight discordapp client mod focused on simplicity and performance.
 
 **[`^        back to top        ^`](#)**
