@@ -565,7 +565,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 
-### Torrent Search Engines
+### Torrent Search Engine
 - [Search Torrents](https://anonym.to/?https://search.torrents.io/)
 - [Toorgle](https://anonym.to/?http://www.toorgle.com/) - `insecure`
 - [The Pirate Bay Search](https://anonym.to/?https://thepiratebay1.herokuapp.com/) - Searches the pirate bay (even if the official website is down or under maintainance).
@@ -576,10 +576,13 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Bravo List](https://anonym.to/?https://www.bvlist.com/) - A public tracker directory.
 - [Tracker Twitters](https://anonym.to/?https://filenetworks.blogspot.com/2010/12/list-of-private-torrent-trackers.html) - List Of Private Torrent Trackers & BitTorrent News Accounts To Follow On Twitter.
 - [Trackers List](https://anonym.to/?https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers.
-
-
-### Torrent Tracker
 - [Root.yt](https://anonym.to/?https://root.yt/) - Yet [another torrent proxy](https://anonym.to/?https://www.reddit.com/r/Piracy/comments/fcq0v4/i_made_a_proxy_service_for_popular_sites_like_tpb/) who aims to imrpvoe privacy and security by removing blacklisted domains.
+
+**[`^        back to top        ^`](#)**
+
+
+## Torrent to Magnet URIs
+- [Nutbread](https://anonym.to/?https://nutbread.github.io/t2m/) - Open source website to convert .torrent files to magnet URI(s). 
 
 **[`^        back to top        ^`](#)**
 
@@ -587,6 +590,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 #### Private Trackers
 - [/PTG tracker manifesto](https://anonym.to/?https://pastebin.com/thLgSkNE) - List of private trackers
 - [0QoLttS.jpg](https://anonym.to/?https://i.imgur.com/0QoLttS.jpg) - Screenshot of a table from somewhere of private trackers and their sign-up requirements
+- [AcrossTheTasman](https://anonym.to/?https://acrossthetasman.com/forum.php) - A tracker for movies, games and more.
 - [AlphaRatio](https://anonym.to/?https://alpharatio.cc) - (AR) - A good starter tracker with lots of freeleech content.
 - [AvistaZ](https://anonym.to/?) - (EN) - AvistaZ (AsiaTorrents) is a Private Torrent Tracker for ASIAN MOVIES / TV / Docus.
 - [AnimeBytes](https://anonym.to/?https://animebytes.tv/) - (AB) - community centralized around Japanese media, including anime, manga, and music.
@@ -2469,7 +2473,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ### 4k/HDR TV/Movie
 
-[Fake or real 4k](https://anonym.to/?https://4kmedia.org/real-or-fake-4k/) - Check if the website provides a real or upscaled release, list is updated monthly, a alternative is a [predb check](https://anonym.to/?https://predb.me/?search=2160p+BluRay+x265).
+[Fake or real 4k](https://anonym.to/?https://4kmedia.org/real-or-fake-4k/) - Check if the website provides a real or upscaled release, list is updated monthly, a alternative is the [predb check](https://anonym.to/?https://predb.me/?search=2160p+BluRay+x265).
 
 - [4k-hd.club](https://anonym.to/?https://4k-hd.club/) - Premium site with the highest quality of 4K ULTRA HD Movies.
 - [4K-HDR.org](https://anonym.to/?https://4k-hdr.org/) - 4K rips HDR movies download, Blu-ray ultra hd movies HDR 10 Bit. Download movies rip HDR in 4K Ultra HD 2160P. 4K-HDR.ORG best site of 4K HDR format.
@@ -2516,10 +2520,12 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 **[`^        back to top        ^`](#)**
 
+
 ## Real time monitoring of secrets on github, gitlab and bitbucket
 - [shhgit](https://anonym.to/?https://shhgit.darkport.co.uk/) + [Source Code](https://anonym.to/?https://github.com/eth0izzle/shhgit) - Watch real-time stream and pull out any accidentally committed secrets.
 
 **[`^        back to top        ^`](#)**
+
 
 ## Discord alternatives (without logging or telemetry)
 - [Ripcord](https://anonym.to/?https://cancel.fm/ripcord/) - A closed source no tracking or analytics Discord client (without electron framework part).
@@ -3273,6 +3279,14 @@ one cryptocurrency wallet to another across various cryptocurrencies
 - [Offcloud](https://anonym.to/?https://offcloud.com/) - Cloud-based download manager
 - [Bitport.io](https://anonym.to/?https://bitport.io/welcome) - Download files to a secured cloud. Anonymously. Fast. Online.
 - [Seedr](https://anonym.to/?https://www.seedr.cc/) - Stream on any device, anytime, anywhere!
+
+**[`^        back to top        ^`](#)**
+
+
+## Giveaway Websites (scam free)
+- [Giveaway Blog](https://anonym.to/?https://raihan2k18.blogspot.com/) - A website dedicated to list accounts and freebies.
+- [Giveaway of the Day](https://anonym.to/?https://www.giveawayoftheday.com/) - Daily new GiveaAways.
+- [Comss](https://www.comss.ru/) - (`RU`) Russian Giveaway page for AdGuard & other Software products.
 
 **[`^        back to top        ^`](#)**
 
