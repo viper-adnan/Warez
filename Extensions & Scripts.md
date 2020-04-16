@@ -5,6 +5,7 @@
 
 **[`^        back to top        ^`](#)**
 
+
 ## Browser Userscripts
 - [anti-anti-copy](https://anonym.to/?https://greasyfork.org/en/scripts/7197-anti-anti-copy) - Some websites prevent you from copying text, this script bypasses it.
 - [Bypass paywalls for scientific documents](https://anonym.to/?https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents) - This script adds download buttons on Google Scholar, Scopus, and Web Of Science, which lead to sci-hub.tw.
@@ -88,6 +89,10 @@ All other extensions **do not** adding any benefit over the integrated Browser "
 
 ## URL shortener extensions
 - [Universal Bypass (for shortner links)](https://anonym.to/?https://universal-bypass.org/)
+
+
+## Spotify / Deezer extensions
+- [Spotify™ & Deezer™ Music Downloader](https://anonym.to/?https://chrome.google.com/webstore/detail/spotify-deezer-music-down/pocmgnhmjgjghodelfkhbjaoidmbadpo/related)
 
 
 ## RSS Feed extensions

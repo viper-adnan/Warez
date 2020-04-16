@@ -538,15 +538,49 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversible™ Google Takedowns
 - Pahe.in
 - emtrek.org
 
+
 ## Porn
 - YesPornPlease
+
 
 ## Abandoned
 - prof-key2.blogspot.com (no updates anymore since 2015)
 - Bagas31 (new domain)
 
+
 ## Bulletproof-Hoster
 - [Cyberbunker](https://gstko.justiz.rlp.de/de/startseite/detail/news/News/detail/landeszentralstelle-cybercrime-der-generalstaatsanwaltschaft-koblenz-erhebt-anklage-gegen-acht-tatve/)
 
+
 ## Dark Net
 - Cannabis Road
+- vfqnd6mieccqyiit.onion
+- uybu3melulmoljnd.onion
+- dbmv53j45pcv534x.onion
+- lw4ipk5choakk5ze.onion/raw/4585/
+- nr6juudpp4as4gjg.onion/tynermsr.htm
+- lw4ipk5choakk5ze.onion/
+- wzrtr6gpencksu3d.onion:8080/
+- nr6juudpp4as4gjg.onion/
+- tklxxs3rdzdjppnl.onion/
+- edramalpl7oq5npk.onion/Main_Page
+- ih4pgsz3aepacbwl.onion/
+- ad52wtwp2goynr3a.onion/#
+- tns7i5gucaaussz4.onion/
+- gdkez5whqhpthb4d.onion/
+- 7ueo7ahq2xlpwx7q.onion
+- 7hk64iz2vn2ewi7h.onion
+- mpf3i4k43xc2usxj.onion/
+- 7w2rtz7rgfwj5zuv.onion/
+- 3c3bdbvhb7j6yab2.onion
+- 4fvfamdpoulu2nms.onion
+- nwycvryrozllb42g.onion/searchlores/index.htm
+- 2gxxzwnj52jutais.onion/phpbb/index.php
+- 3fyb44wdhnd2ghhl.onion/ib/
+- bx7zrcsebkma7ids.onion
+- xdagknwjc7aaytzh.onion/20/http/1.4.7.9/forummain.htm
+- jv7aqstbyhd5hqki.onion
+- npdaaf3s3f2xrmlo.onion
+- kpmp444tubeirwan.onion
+- r5c2ch4h5rogigqi.onion/
+- hbjw7wjeoltskhol.onion

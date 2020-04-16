@@ -1,6 +1,6 @@
 **Disclaimer**:
 
-I'm not responsible for the links, domains, it's content or if the provided .onion links are really the ones advertised ("clearname"). It's impossible for me as individual person to check every single page every second and monitor it's content.
+I'm not responsible for the links, domains, it's content or if the provided `.onion` links are really the ones advertised ("clearname"). It's impossible for me as individual person to check every single page every second and monitor it's content.
 
 
 Table below contains a list of `.onion` addresses for some more popular clearnet services.
@@ -78,6 +78,8 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 | Jamie Scaife     | http://jamiewebgbelqfno.onion/
 | Sarah Jamie Lewis | http://7tm2lzezyjwtpn2s.onion/
 | Traudt           | http://mattttttssi4lhud.onion/
+| Beneath VT       | 74ypjqjwf6oejmax.onion/
+| Tor News         | http://newsiiwanaduqpre.onion/
 
 
 ## Comics & eBooks
@@ -88,7 +90,7 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 | Z-Library        | http://2bu5puxp6afwjgql.onion/
 
 
-## Goverment
+## Government
 | clearnet/name    | onion address
 |------------------|:--------------
 | CIA              | http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion/
@@ -151,6 +153,7 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 | DNM Avengers     | avengersdutyk3xf. onion
 | Dread            | readditevelidot. onion
 | TheHub           | thehub7xbw4dc5r2. onion
+| Onion Forum 3.0  | t4is3dhdc2jd4yhw. onion
 
 
 ## Domain name registar
@@ -266,6 +269,12 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 | SecureDrop       | https://secrdrop5wyphb5x.onion/
 
 
+## Image Hosting
+| clearnet/name    | onion address
+|------------------|:--------------
+| Matrix Image Uploader | http://matrixtxri745dfw.onion/ + Mirror: matrixtxri745dfw.onion/
+
+
 ## eMail Services
 | clearnet/name    | onion address
 |------------------|:--------------
@@ -346,6 +355,26 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 | VisiTOR          | http://visitorfi5kl7q7i.onion/search/
 
 
+## Passports
+| clearnet/name    | onion address
+|------------------|:--------------
+| UK Passports     | vfqnd6mieccqyiit.onion/
+
+
+## Driver Licenses
+| clearnet/name    | onion address
+|------------------|:--------------
+| USfakeIDs        | en35tuzqmn4lofbk.onion/
+| USA Citizenship  | xfnwyig7olypdq5r.onion/
+|  iLike Help Guy
+
+## Deep Web Radio
+| clearnet/name    | onion address
+|------------------|:--------------
+| Deep Web Radio   | http://76qugh5bey5gum7l.onion/
+
+
+
 ### Tor bridges
 * obfs4 71.33.251.73:35539 0BBFEF1B86046EB311DCD6CB2938D1D888134C7D cert=pPCJl+5Sw5d/vXxtTbepFqLXWgBHAEoW6lCKsqfZhvf/YhsrHZXNJAyZiRYa+p1vQyBoVA iat-mode=0
 * obfs4 88.145.167.188:40515 6D4F889A4EECDC4BEA029EDD39938E936B35B0C2 cert=MjM81wMTwVuifsJu7dJULvgBEhKpOg/GWhJ4lYoWWtRx4JnS1JRwufzXGySdQeQViYbuYw iat-mode=0
@@ -360,37 +389,6 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 ### Tor vanilla bridges
 * 208.64.36.75:9001 AD2B08A94882F2042B5E2365073DEE9FD6B8F21E
 * 107.161.114.161:443 FFAFCB7340AF55888382F8BE58B92AD0908B5CC1
-
-
-
-### [VRay](https://github.com/2dust/v2rayN)
-
-VPN CLUB, [24.02.20 13:55]
-vmess://eyJ2IjoiMiIsImhvc3QiOiJzMTI3Lndld2FsbC50b3AiLCJwYXRoIjoiXC9wYW5lbCIsInRscyI6InRscyIsInBzIjoi5paw5Yqg5Z2hIOWliOmjniAgNHwwLjF8MjAl57u05L+u5LitIiwiYWRkIjoiY2ZjZG4uY2h1bmRpODg4LmNvbS5jbiIsInBvcnQiOiI0NDMiLCJpZCI6ImU4ZTYwYjU0LTAxOTAtM2RlNi05OTc2LTg0MDgyNmQyNzE1NCIsImFpZCI6IjEiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIn0=
-vmess://eyJ2IjoiMiIsImhvc3QiOiJzMTU3LmNodW5kaTg4OC5jb20uY24iLCJwYXRoIjoiXC9wYW5lbCIsInRscyI6InRscyIsInBzIjoi5pel5pysIOS4rei9rCAgNHw1Ljh8MjglIiwiYWRkIjoiMTE5LjE4OC45Ny45MiIsInBvcnQiOiI0NDMiLCJpZCI6ImU4ZTYwYjU0LTAxOTAtM2RlNi05OTc2LTg0MDgyNmQyNzE1NCIsImFpZCI6IjEiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIn0=
-vmess://eyJ2IjoiMiIsImhvc3QiOiJzNjMuY2h1bmRpODg4LmNvbS5jbiIsInBhdGgiOiJcL3BhbmVsIiwidGxzIjoidGxzIiwicHMiOiLml6XmnKwg5LqR5Lit6L2sIDPnu4QgIDR8NnwzMCUiLCJhZGQiOiIxMjIuMTkwLjMuMzYiLCJwb3J0IjoiNDQzIiwiaWQiOiJlOGU2MGI1NC0wMTkwLTNkZTYtOTk3Ni04NDA4MjZkMjcxNTQiLCJhaWQiOiIxIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSJ9
-vmess://eyJ2IjoiMiIsImhvc3QiOiJzMTA0Lndld2FsbC50b3AiLCJwYXRoIjoiXC9wYW5lbCIsInRscyI6InRscyIsInBzIjoi6aaZ5rivIOS6keS8mOWMliAgNHwwLjZ8NjAlIiwiYWRkIjoiY2ZjZG4uY2h1bmRpODg4LmNvbS5jbiIsInBvcnQiOiI0NDMiLCJpZCI6ImU4ZTYwYjU0LTAxOTAtM2RlNi05OTc2LTg0MDgyNmQyNzE1NCIsImFpZCI6IjEiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIn0=
-vmess://eyJ2IjoiMiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwicHMiOiLmlrDliqDlnaEg6Zi/6YeMIOWliOmjniAzME0gIDR8MS41fDE4MCUiLCJhZGQiOiJzMjI2Lndld2FsbC54eXoiLCJwb3J0IjoiODAiLCJpZCI6IjU5NWZmZDU1LTgzNGUtNDViOC05ZTdhLTllZjU0MDUxNTAyNiIsImFpZCI6IjIzMyIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUifQ==
-vmess://eyJ2IjoiMiIsImhvc3QiOiJzMjgud2V3YWxsLnRvcCIsInBhdGgiOiJcL3BhbmVsIiwidGxzIjoidGxzIiwicHMiOiLpppnmuK8g5LqR5LyY5YyWICAzfDAuOHwyMCUiLCJhZGQiOiJjZmNkbi5jaHVuZGk4ODguY29tLmNuIiwicG9ydCI6IjQ0MyIsImlkIjoiZThlNjBiNTQtMDE5MC0zZGU2LTk5NzYtODQwODI2ZDI3MTU0IiwiYWlkIjoiMSIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUifQ==
-vmess://eyJ2IjoiMiIsImhvc3QiOiJzMTc0LmNodW5kaTg4OC5jb20uY24iLCJwYXRoIjoiXC9wYW5lbCIsInRscyI6InRscyIsInBzIjoi5pel5pysIOS4rei9rCAgM3wxMC42fDIwJSIsImFkZCI6IjExOS4xODguOTcuOTIiLCJwb3J0IjoiNDQzIiwiaWQiOiJlOGU2MGI1NC0wMTkwLTNkZTYtOTk3Ni04NDA4MjZkMjcxNTQiLCJhaWQiOiIxIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSJ9
-vmess://eyJ2IjoiMiIsImhvc3QiOiJzMTk5Lndld2FsbC50b3AiLCJwYXRoIjoiXC9wYW5lbCIsInRscyI6InRscyIsInBzIjoi6aaZ5rivIOmYv+mHjCAzME0gIDN8MC44fDE2MCUiLCJhZGQiOiJzMTk5Lndld2FsbC50b3AiLCJwb3J0IjoiNDQzIiwiaWQiOiJlOGU2MGI1NC0wMTkwLTNkZTYtOTk3Ni04NDA4MjZkMjcxNTQiLCJhaWQiOiIxIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSJ9
-vmess://eyJ2IjoiMiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwicHMiOiLpppnmuK8g6Zi/6YeMIDMwTSAgM3w2Ljd8NDQwJSIsImFkZCI6InMxNDUud2V3YWxsLnh5eiIsInBvcnQiOiIxMTAxMSIsImlkIjoiN2Y0ODhlZmQtN2UyZS00ZWZmLWJkMDQtNDVkYzY4OTVlNWEwIiwiYWlkIjoiMjMzIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSJ9
-vmess://eyJ2IjoiMiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwicHMiOiLmlrDliqDlnaEg6Zi/6YeMIOWliOmjniAzME0g5YWN6LS5ICAxfDQuOHw2ODAlIiwiYWRkIjoiczEzMC53ZXdhbGwudG9wIiwicG9ydCI6IjgwIiwiaWQiOiJmOGY4NDA2MS1iMjg4LTRmYjktYmYzOS1hY2MzOWMxMjg4MzUiLCJhaWQiOiIyMzMiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIn0=
-
-vmess://eyJ2IjoiMiIsImhvc3QiOiJzNTEud2V3YWxsLnRvcCIsInBhdGgiOiJcL3BhbmVsIiwidGxzIjoidGxzIiwicHMiOiLmlrDliqDlnaEgIOWliOmjniDkupHkvJjljJYgIDN8MS44fDIwJSIsImFkZCI6ImNmY2RuLmNodW5kaTg4OC5jb20uY24iLCJwb3J0IjoiNDQzIiwiaWQiOiI5YTM1ODlmNC0wMzNlLTNhMTYtOGIzYy03N2Q2N2ExOGZhMmUiLCJhaWQiOiIxIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSJ9
-vmess://eyJ2IjoiMiIsImhvc3QiOiJzMTc3LmNodW5kaTg4OC5jb20uY24iLCJwYXRoIjoiXC9wYW5lbCIsInRscyI6InRscyIsInBzIjoi5pel5pysIOS4rei9rCAgM3wxNC4yfDQwJSIsImFkZCI6IjExOS4xODguOTcuOTIiLCJwb3J0IjoiNDQzIiwiaWQiOiI5YTM1ODlmNC0wMzNlLTNhMTYtOGIzYy03N2Q2N2ExOGZhMmUiLCJhaWQiOiIxIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSJ9
-vmess://eyJ2IjoiMiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwicHMiOiLpppnmuK8gaGkuc3NyY2YudG9wIOWFjei0ueaPkOS+myAgMXwwLjF8MCXnu7Tkv67kuK0iLCJhZGQiOiJzMTkud2V3YWxsLnh5eiIsInBvcnQiOiIxMjEyMyIsImlkIjoiM2JkYWViZGUtZWE3Zi00YWIyLWJlZDUtM2U2NzI1YWE4NzBhIiwiYWlkIjoiMjMzIiwibmV0Ijoia2NwIiwidHlwZSI6IndlY2hhdC12aWRlbyJ9
-
-vmess://eyJ2IjoiMiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwicHMiOiLpppnmuK8g6Zi/6YeMIDMwTSAgMXwxLjN8MTAwJSIsImFkZCI6InMzNDIud2V3YWxsLnh5eiIsInBvcnQiOiI4MCIsImlkIjoiMGFmNjBmNTAtNjlhZi00OWE1LTkzY2EtYTI3ZjNiYWIzZTkwIiwiYWlkIjoiMjMzIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSJ9
-vmess://eyJ2IjoiMiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwicHMiOiLmlrDliqDlnaEg6Zi/6YeMIOWliOmjniAzME0g5YWN6LS5ICAxfDQuOHw2ODAlIiwiYWRkIjoiczEzMC53ZXdhbGwudG9wIiwicG9ydCI6IjgwIiwiaWQiOiJmOGY4NDA2MS1iMjg4LTRmYjktYmYzOS1hY2MzOWMxMjg4MzUiLCJhaWQiOiIyMzMiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIn0=
-vmess://eyJ2IjoiMiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwicHMiOiLpppnmuK8gIDB8MC4yfDAl57u05L+u5LitIiwiYWRkIjoiczUyLndld2FsbC54eXoiLCJwb3J0IjoiODAiLCJpZCI6IjJjZWUwNTlkLWM0YmUtNDQ5Ni04OThkLTlmYThlOGIzNjMzMSIsImFpZCI6IjIzMyIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUifQ==
-vmess://eyJ2IjoiMiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwicHMiOiLmlrDliqDlnaEg5aWI6aOeIDMwTSBoaS5zc3JjZi50b3AgIDB8MC4yfDAl57u05L+u5LitIiwiYWRkIjoiczgzLndld2FsbC54eXoiLCJwb3J0IjoiMTIzMDYiLCJpZCI6ImYwNGI4ODQyLWE5OTAtNDZmMy1iNGNkLThmY2U5MDgzZGZkYSIsImFpZCI6IjIzMyIsIm5ldCI6ImtjcCIsInR5cGUiOiJ3ZWNoYXQtdmlkZW8ifQ==
-vmess://eyJ2IjoiMiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwicHMiOiLmlrDliqDlnaEgaGkuc3NyY2YudG9wICAgMHwzLjZ8MCUiLCJhZGQiOiJzMTM0Lndld2FsbC54eXoiLCJwb3J0IjoiMTIzNTYiLCJpZCI6IjFmZWMxNmNiLWEzNWQtNDkzNi05M2Y2LTkyYjZhOWFlZDZmNyIsImFpZCI6IjIzMyIsIm5ldCI6ImtjcCIsInR5cGUiOiJ3ZWNoYXQtdmlkZW8ifQ==
-vmess://eyJ2IjoiMiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwicHMiOiLmlrDliqDlnaEg6Zi/6YeMIOWliOmjniAzME0gIDB8MS43fDEyMCUiLCJhZGQiOiJzMjE4Lndld2FsbC54eXoiLCJwb3J0IjoiODAiLCJpZCI6IjFlZTk1YzY1LWU2YjItNDllZi05YTE1LTc1NzdkNThkZTkwMyIsImFpZCI6IjIzMyIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUifQ==
-vmess://eyJ2IjoiMiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwicHMiOiLpppnmuK8g6Zi/6YeMIDMwTSAgMHw1LjZ8NDYwJSIsImFkZCI6InMzNTAud2V3YWxsLnh5eiIsInBvcnQiOiI4MCIsImlkIjoiNjRiZWNlMjYtNTc5ZC00MWQ2LThkMDctYmY2NGFhNzNlNzc3IiwiYWlkIjoiMjMzIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSJ9
-
-
-vmess://eyJ2IjoiMiIsImhvc3QiOiJzMTI1Lndld2FsbC50b3AiLCJwYXRoIjoiXC9wYW5lbCIsInRscyI6InRscyIsInBzIjoi5paw5Yqg5Z2hIOWliOmjniAgNHwwfDIwJee7tOS/ruS4rSIsImFkZCI6InMxMjUud2V3YWxsLnRvcCIsInBvcnQiOiI0NDMiLCJpZCI6ImU4ZTYwYjU0LTAxOTAtM2RlNi05OTc2LTg0MDgyNmQyNzE1NCIsImFpZCI6IjEiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIn0=
 
 
 
