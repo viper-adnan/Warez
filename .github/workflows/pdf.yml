@@ -1,0 +1,27 @@
+on: [push]
+
+# pdf.yml
+name: 'Create PDF'
+# https://github.com/marketplace/actions/create-pdf
+# https://github.com/mkrakowitzer/actions-makepdfs/
+description: 'Creates PDF files from github markdown'
+    runs-on: ubuntu-latest
+      steps:
+     - uses: actions/checkout@v1
+     - uses: mkrakowitzer/actions-makepdfs@master
+         if: github.ref == 'refs/heads/master'
+     - uses: actions/upload-artifact@v1
+
+inputs:
+  markdown_dir: '.'
+    description: 'Location of markdown files in github repository'
+    required: true
+    #default: 'doc'
+  output_dir:
+    description: 'Location to output PDF files to'
+    required: true
+    default: 'pdf'
+
+branding:
+  icon: 'activity'
+  color: 'green'

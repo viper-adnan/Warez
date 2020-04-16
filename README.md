@@ -1316,6 +1316,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Jellyfin](https://anonym.to/?https://jellyfin.org/) - Open source alternative to Plex.
 - [OpenPHT](https://anonym.to/?https://github.com/RasPlex/OpenPHT) - A community driven fork of Plex Home Theater.
 - [OSMC](https://anonym.to/?https://osmc.tv/) - OSMC (short for Open Source Media Center) - is a Linux distribution based on Debian that brings Kodi to a variety of devices.
+- [Subsonic](http://www.subsonic.org/pages/index.jsp) - Music and movie streaming server with a client app and web frontend.
 - [Streama](https://anonym.to/?https://github.com/streamaserver/streama) - Self hosted streaming media server.
 - [Stremio](https://anonym.to/?https://www.stremio.com/) - Multi-platform video content aggregator with a comprehensive add-on system for extending functionality
 - [Viewscreen](https://anonym.to/?https://github.com/viewscreen/viewscreen) - A personal video streaming server.
@@ -1417,13 +1418,13 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [myabandonware](https://anonym.to/?https://www.myabandonware.com/) - More than 14,000 old games to download, for free!
 - [No Intro DAT-o-MATIC](https://anonym.to/?https://datomatic.no-intro.org/) - List of Xbox, Nintendo etc games.
 - [Old Games Finder](http://www.oldgamesfinder.com/) - (`insecure`) - Old Games Finder is an automated old games search engine. (avoid ISO Zone links, as that site is dead).
+- [Retro Archive](https://anonym.to/https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed) - Collection of all retro based ROM's.
+- [ROM Center](https://anonym.to/https://docs.google.com/spreadsheets/d/17XOCs-KWKOwtxWwyTsAH887GlkJ7DcCMv6cL9FoMOKM/htmlview?usp=sharing&sle=true) - Newer games tracker, links and downloads via GDrive.
 - [Rom Links Megathread - 1Fichier, GDrive, Mega](https://anonym.to/?https://old.reddit.com/r/Roms/comments/9jmmhi/rom_links_megathread_1fichier_gdrive_mega/) - Nintendo, Sony, Microsoft, Romsets, Arcade and other ROM collections.
 - [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) - (`insecure`) - Wiki page from gametechwiki.com with more links to ROM and ISO websites.
-- [Romulation.net](https://anonym.to/?https://www.romulation.net/) - Collection of over ~28,000 console game ROMs.
-- [Romsmania](https://anonym.to/?https://romsmania.cc/) - Another great ROMs collection with a decent UI to find stuff quick.
 - [ROMNation](https://anonym.to/https://www.romnation.net/) - Lots of ROMs.
-- [ROM Center](https://anonym.to/https://docs.google.com/spreadsheets/d/17XOCs-KWKOwtxWwyTsAH887GlkJ7DcCMv6cL9FoMOKM/htmlview?usp=sharing&sle=true) - Newer games tracker, links and downloads via GDrive.
-- [Retro Archive](https://anonym.to/https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed) - Collection of all retro based ROM's.
+- [Romsmania](https://anonym.to/?https://romsmania.cc/) - Another great ROMs collection with a decent UI to find stuff quick.
+- [Romulation.net](https://anonym.to/?https://www.romulation.net/) - Collection of over ~28,000 console game ROMs.
 - [The ROM Depot](https://anonym.to/?https://theromdepot.com/roms/) - Around 3 TB of ROMs (requires a VPN).
 - [Vimm's Lair](https://anonym.to/?https://vimm.net/?p=vault) - Large collection of ROMs.
 - [WowroMs](https://anonym.to/?https://wowroms.com/) - Various ROMs collection.
@@ -1433,7 +1434,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ### ROM BIOS
-- [xprism's BIOS collection](https://anonym.to/?https://drive.google.com/drive/folders/1TXkO1RSpq4UlR9cTVa040bAaJH27Kfj1) - BIOS collection for Computers, Emulators, Consoles and "obscure consoles" (_via GDrive_)
+- [xprism's BIOS collection](https://anonym.to/?https://drive.google.com/drive/folders/1TXkO1RSpq4UlR9cTVa040bAaJH27Kfj1) - BIOS collection for Computers, Emulators, Consoles and "obscure consoles" via GDrive.
 
 
 **[`^        back to top        ^`](#)**

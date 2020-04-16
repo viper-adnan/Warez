@@ -32,15 +32,19 @@
 - [Google Image "View Image" button](https://anonym.to/?https://greasyfork.org/en/scripts/392076-google-images-direct-link-fix) - Add "View Image" button.
 - [IMDb Scout](https://anonym.to/?https://greasyfork.org/en/scripts/3967-imdb-scout) - Add links from IMDb pages to torrent sites, easy downloading from IMDb
 - [MAL-Sync](https://anonym.to/?https://greasyfork.org/en/scripts/372847-mal-sync) - Integrates MyAnimeList into various sites, with auto episode tracking.
-- [openload](https://anonym.to/?https://greasyfork.org/scripts/17665) - Remove anti-adblock, ads, popups and timer waits, and show direct download link.
 - [RARBG - torrent and magnet links](https://anonym.to/?https://greasyfork.org/scripts/23493) -
 - [RARBG Advanced Filters](https://anonym.to/?https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters) - Provides additional filtes for RARBG.
 - [RYM google current album](https://anonym.to/?https://greasyfork.org/en/scripts/5966-rym-google-current-album) - Places buttons and dropdowns below the album title on a release page that will conduct searches in many warez, torrent, and music info sites.
 - [Sci-hub button](https://anonym.to/?https://greasyfork.org/en/scripts/370246-sci-hub-button) - Add sci-hub button after article link. Support Google scholar, bing academic and baidu xueshu. Jump CNKI English article to Chinese article.
 - [Scribd downloader](https://anonym.to/?https://greasyfork.org/scripts/14503) - Downloads from Scribd.
-- [ThePirateBay Cleaner](https://anonym.to/?https://greasyfork.org/en/scripts/1573-the-pirate-bay-cleaner) - Auto Sorting, Torrentifying, Theme Change, Search Change, SSL/HTTPS & more.
 - [Torrentz2 Magnet](https://anonym.to/?https://greasyfork.org/en/scripts/21547-torrentz2-magnet) - Add magnet link to torrentz2.
 - [XZ Pixiv Batch Downloader](https://anonym.to/?https://greasyfork.org/scripts/24252) - Batch download original works of artists such as artists, bookmarks, leaderboards, search pages, etc.; view popular works; create folders; convert moving images...
+
+**[`^        back to top        ^`](#)**
+
+
+## YouTube Downloader Scripts
+- [Local YouTube Downloader](https://anonym.to/?https://greasyfork.org/en/scripts/369400-local-youtube-downloader) - Download YouTube Videos without youtube-dl or external websites/tools.
 
 **[`^        back to top        ^`](#)**
 
@@ -49,6 +53,8 @@
 - [Google unlocked](https://anonym.to/?https://github.com/Ibit-to/google-unlocked) - + [Website](https://anonym.to/?https://ibit.uno/) Google Unlocked Chrome extension unlocks hidden google search results.
 - [Hide Fake Torrents on TPB](https://anonym.to/?https://chrome.google.com/webstore/detail/hide-fake-torrents-on-tpb/fkdhkcpmifehkmadpldbbdadepgplcmo) - Hide fake torrents on TPB.
 - [Reddit Enhancement Suite](https://anonym.to/?http://redditenhancementsuite.com/) - Community-driven unofficial browser extension for reddit.
+
+**[`^        back to top        ^`](#)**
 
 
 ### Browser Anti-Fingerprinting + "privacy" Extensions
@@ -157,6 +163,7 @@ All other extensions **do not** adding any benefit over the integrated Browser "
 - [www.icourse163.org Downloader](https://anonym.to/?https://greasyfork.org/en/scripts/389496-%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6mooc%E6%85%95%E8%AF%BE-www-icourse163-org-%E4%B8%8B%E8%BD%BD%E5%99%A8) - Add download button on www.icourse163.org to download videos
 
 **[`^        back to top        ^`](#)**
+
 
 ## Dark Mode
 - [Darkreader](https://anonym.to/?https://darkreader.org/) - Provides a "Dark Mode" for everything.
@@ -274,14 +281,32 @@ There is a universal rule for Android:
 **[`^        back to top        ^`](#)**
 
 
-## ZippyShare automation
-- [Zippyshare.sh](https://anonym.to/?https://github.com/myspaghetti/zippyshare) - Bash script for batch downloading files from Zippyshare.
+## SoundCloud Downloader Scripts
+- [Local SoundCloud Downloader](https://anonym.to/?hhttps://greasyfork.org/en/scripts/394837-local-soundcloud-downloader) - Download SoundCloud without external service.
+- [kawai-scripts/soundcloud-downloader](https://anonym.to/?https://greasyfork.org/de/scripts/396057-kawai-scripts-soundcloud-downloader)
 
 **[`^        back to top        ^`](#)**
 
 
-### Discord History
--[cache-monkey](https://anonym.to/?https://github.com/jamiepine/cache-monkey) - Cachemonkey, for viewing images stored in the discord cache, works for recovering images that were loaded by the discord client but were deleted. It also was a feature to purge the cache too
+## Discord History
+-[cache-monkey](https://anonym.to/?https://github.com/jamiepine/cache-monkey) - Cachemonkey, for viewing images stored in the discord cache, works for recovering images that were loaded by the discord client but were deleted. It also was a feature to purge the cache too.
+
+
+### Discord Token
+- [Encrypt Discord Token](https://anonym.to/?https://greasyfork.org/en/scripts/370576-encrypt-discord-token) - Encrypts your Discord token to prevent trojans from reading your localStorage files and finding your token. However, there are no guarantees that your account cannot get hacked.
+- [Get Discord Token](https://anonym.to/?https://greasyfork.org/en/scripts/395741-get-discord-token) - Allows you to retrieve your user token for reference.
+
+**[`^        back to top        ^`](#)**
+
+
+## Sci-Hub downloader
+- [Sci-Hub downloader](https://anonym.to/?https://greasyfork.org/de/scripts/398689-sci-hub-downloader) - This script automatically detects if the current page is an article downloadable from Sci-Hub and display a banner at the top of the website to download it from Sci-Hub.
+
+**[`^        back to top        ^`](#)**
+
+
+## ZippyShare automation
+- [Zippyshare.sh](https://anonym.to/?https://github.com/myspaghetti/zippyshare) - Bash script for batch downloading files from Zippyshare.
 
 **[`^        back to top        ^`](#)**
 
