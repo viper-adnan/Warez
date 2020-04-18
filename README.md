@@ -1359,6 +1359,12 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#readme)**
 
 
+#### Free Plex Accounts
+- [Plex.tv](https://anonym.to/?hhttps://www.plex.tv/sign-up/) - Create your FREE Plex account, no credit card required.
+
+**[`^        back to top        ^`](#readme)**
+
+
 ## Kodi
 - [/r/Addons4Kodi](https://anonym.to/?https://www.removeddit.com/r/addons4kodi) - Discussion and links pertaining to unofficial addons for Kodi Media Center
 - [Burst](http://burst.surge.sh) - (`insecure`) - A torrent content provider to the Quasar plugin.
@@ -2485,6 +2491,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [VOSTFRSerie](https://anonym.to/?https://vostfrserie.biz/) - (FR)
 - [Wikiserie](https://anonym.to/?https://www.wikiserie.biz/) - (FR)
 - [Dramaday](https://anonym.to/?https://dramaday.net/) - A website dedicated to drama based movies and OST.
+- [Enthus1ast](https://anonym.to/?http://enthus1ast.com/) - Movie sharing community.
 
 
 ### 4k/HDR TV/Movie

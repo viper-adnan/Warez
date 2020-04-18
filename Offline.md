@@ -53,6 +53,7 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversible™ Google Takedowns
 ## Anime
 - AnimeHeaven.eu
 - Masterani.me
+- Kissasian.com
 
 ## Music
 - mp3-monkey.com
