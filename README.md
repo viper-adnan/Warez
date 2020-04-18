@@ -2484,6 +2484,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Voir-Films-Series](https://anonym.to/?https://www.voirfilms.al/series/) - (FR)
 - [VOSTFRSerie](https://anonym.to/?https://vostfrserie.biz/) - (FR)
 - [Wikiserie](https://anonym.to/?https://www.wikiserie.biz/) - (FR)
+- [Dramaday](https://anonym.to/?https://dramaday.net/) - A website dedicated to drama based movies and OST.
 
 
 ### 4k/HDR TV/Movie
@@ -2508,7 +2509,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ### H265 Encoded Movies and TV Shows
-- [enx265](https://anonym.to/?https://enx265.com/) - A mcommunity dedicated to upload only H265 encoded movies and TV shows.
+- (https://anonym.to/?https://enx265.com/) - A mcommunity dedicated to upload only H265 encoded movies and TV shows.
 
 **[`^        back to top        ^`](#readme)**
 
