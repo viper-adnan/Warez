@@ -83,7 +83,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [List of websites blocked in the United Kingdom](https://anonym.to/?https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom)
 - [Who Watches the Watchmen: Exploring Complaints on the Web](https://anonym.to/?https://arxiv.org/abs/1902.05796)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## ISP Info
@@ -94,7 +94,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 ## Tor Info
 - [Judge Recommends to Deny Summary Judgment Against Tor Exit Node Operator in Piracy Case](https://anonym.to/?https://torrentfreak.com/judge-recommends-to-deny-summary-judgment-against-tor-exit-node-operator-in-piracy-case-190907/) [(.PDF)](https://anonym.to/?https://torrentfreak.com/images/dallashuszar.pdf)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## ISPs you should avoid!
@@ -107,7 +107,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - Verizon
 - Vodafone
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Public DMCA complaints
@@ -115,7 +115,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [UK ISP Court Orders](https://anonym.to/?http://www.ukispcourtorders.co.uk/) - A incomplete list of websites recently taken down in the UK by the High Court.
 - [Counterfeit and Piracy Watch List (.PDF)](https://anonym.to/?https://torrentfreak.com/images/tradoc_157564.pdf) - A list from 2018 provided by Europol and others, to watch the current piracy status.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Team Drives
@@ -125,7 +125,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [TeamDrive Software for Win, Linux, Android and iOS](https://anonym.to/?https://forum.teamdrive.net/viewforum.php?f=2) - Software with AES encryption to work across multiple PC's and keep your files update.
 - [Get Free Google Shared Drive](https://anonym.to/?http://leon.educationhost.cloud) - Create your own TeamDrive for free.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 ## Google Team Drives Groups and Discussions
 - [HKTeamDrive Group](https://anonym.to/?https://groups.google.com/d/forum/hkteamdrive1group)
@@ -141,7 +141,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [OpenHashTab](https://anonym.to/?https://github.com/namazso/OpenHashTab) - File hashing shell extension for Windows.
 - [GtkHash](https://anonym.to/?https://github.com/tristanheaven/gtkhash) - A cross-platform desktop utility for computing message digests or checksums.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Social Media Alternatives
@@ -156,7 +156,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Stream.io](https://anonym.to/?https://Stream.io) - Tries to combine all social networks into one place (_currently beta_).
 - [Shodan.io](https://anonym.to/?https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Data leak checking (eMail, Accounts, etc)
@@ -167,7 +167,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Snusbase](https://anonym.to/?https://snusbase.com/) - Paid Database Search Engine to check for latest database breaches.
 - [GhostProject.fr](https://anonym.to/?https://ghostproject.fr/) - Free Database Lookup of Recent 1.4 billion password breach compilation, GhostProject allows you to Search by email or username.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Penetration Testing Distributions
@@ -182,7 +182,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 * [PentestBox](https://anonym.to/?https://pentestbox.org/) - Opensource pre-configured portable penetration testing environment for Windows OS.
 * [The Pentesters Framework](https://anonym.to/?https://github.com/trustedsec/ptf) - Distro organized around the Penetration Testing Execution Standard (PTES), providing a curated collection of utilities that eliminates often unused toolchains.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Public Reverse & Cracking Discussion Forums
@@ -200,20 +200,20 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Tuts 4 You](https://anonym.to/?https://tuts4you.com) - One of the oldest forums to discuss reversing related stuff.
 - [Webscene.ir](https://anonym.to/?https://webscene.ir/) - Can you crack it?!
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### General Filesharing Discussions
 - [MVGroup.org](https://anonym.to/?https://www.mvgroup.org/) - BitTorrent-Tracking- and Filesharing-Community.
 - [Szenebox](https://anonym.to/?https://www.szenebox.org/) - `Ger` - SzeneBox.org (szb.to) is a german scene forum for discussions around warez and the scene.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Cardsharing
 - [TV-Lounge.eu](https://www.tv-lounge.eu) - `Ger` -  IPTV, OSCAM, SKY, CCAM, Kabel-Receiver, IPTV & Co.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## NFO Viewers & KeyGen Music
@@ -224,7 +224,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Keygen Music Archive](https://anonym.to/?https://archive.org/details/Keygen_music_pack)
 - [NFO Force](https://anonym.to/?https://nfforce.temari.fr)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Anti-DRM Protects, Plugins & Source Code
@@ -241,7 +241,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [List of DRM-free games](https://anonym.to/?https://steam.fandom.com/wiki/List_of_DRM-free_games) + [another one](https://anonym.to/?https://www.pcgamingwiki.com/wiki/The_Big_List_of_DRM-Free_Games_on_Steam)
 - [Developer forgot to remove old DRM system which breaks games on Steam](https://anonym.to/?https://www.gamerevolution.com/news/621017-drm-securom-tron-evolution-unplayable-activation)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Nulled Scripts
@@ -255,7 +255,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [WSC-Scriptz](https://anonym.to/?https://support.wsc-scriptz.org) - (Ger) - Sometimes online, mostly blocked by ISP, provides a lot info around the nulled scene.
 - [XenFiles.co](https://anonym.to/?https://xenfiles.co) - (Ger) - Yet another german forum for nulled scripts.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## VPN Provider (no-logs)
@@ -267,14 +267,14 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Safing.io](https://anonym.to/?https://safing.io/) - `beta` Project who tries to "take back control".
 - [SurfShark](http://anonym.to/?https://surfshark.com/) - Surfshark is an award-winning, secure VPN that encrypts your online data to help you stay private & protected every day, hassle-free.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Decentralized VPNs
 - [radvpn](https://anonym.to/?https://github.com/mehrdadrad/radvpn) - Decentralized VPN
 - [Mysterium Network](https://anonym.to/?https://mysterium.network/vpn/) - [source code](https://anonym.to/?https://github.com/Mysterium) Claims to be world’s 1st decentralized free VPN which uses OpenVPN & WireGuard.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Self-hosted VPNs
@@ -298,7 +298,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [vpn-at-home](https://anonym.to/?https://github.com/ezaquarii/vpn-at-home) - 1-click, self-hosted deployment of OpenVPN with DNS ad blocking sinkhole.
 - [WireGuard VPN](https://anonym.to/?https://www.wireguard.com/) - WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Ad-Blocker
@@ -309,7 +309,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [uBlock origin](https://anonym.to/?https://github.com/gorhill/uBlock) - A fast and efficient Ad Blocker.
 - [Wikipedia's Website about Ad blocking](https://anonym.to/?https://en.wikipedia.org/wiki/Ad_blocking) - Wikipedia's info page about ad-blockers.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Piracy archives
@@ -322,7 +322,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [emuparadise-mirror](https://anonym.to/?https://github.com/Mz49/emuparadise-mirror) - A Cloudflare Worker script that mirrors EmuParadise and alters download pages to include a working link.
 - [The-ROM.eu](https://anonym.to/?https://the-rom.eu/) - Archive with website links to ROM, BIOS & Game archives, some of the links are offline.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Website archiving tools
@@ -341,7 +341,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 ### Self-hostable email alias/forwarding service
 - [Simple Login](https://anonym.to/?https://github.com/simple-login/app) - Email alias/forwarding and identity provider service.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Temp eMail Service Providers
@@ -353,7 +353,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Temp Mail](https://anonym.to/?https://temp-mail.org/en/) - Keep spam out of your mail and stay safe - just use a disposable temporary email address!
 - [Tempr eMail](https://anonym.to/?https://tempr.email/fr/) - Similar service like Temp Mail, it's from the same provider.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### eMail self-hosting
@@ -362,25 +362,25 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Rainloop](https://anonym.to/?https://www.rainloop.net/) - SIMPLE, MODERN & FAST WEB-BASED EMAIL CLIENT.
 - [Roundcube](https://anonym.to/?https://roundcube.net/) - MIME support, address book, folder manipulation, message searching and spell checking.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Official Scene Group Forums
 - [3DM Forum](https://anonym.to/?https://bbs.3dmgame.com/) - `CN` - The official 3DMs page.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## DarkNet
 - [DarkNet Stats](https://anonym.to/?https://dnstats.net/) - Monitors DarkNet Forums & Markets.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Anti-Spammer Trackers
 - [Project Honey Pot](https://anonym.to/?https://www.projecthoneypot.org/) - Online fraud & abuse tracker.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Audio
@@ -407,7 +407,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Xoamoelmosh Blogspot](https://anonym.to/?https://yoamoelmosh.blogspot.com/) - Hardcore, Metal & Beatdown etc.
 - [24Flac](https://anonym.to/?https://24flac.net/) - FLAC Music including .CUE.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### APK Forums & Platforms
@@ -428,7 +428,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [RexDL](https://anonym.to/?https://rexdl.com/) - Similar like RevDL, download free Android apps & games.
 - [Sbenny](https://anonym.to/?https://forum.sbenny.com/forums/apps.14/) - Modded games and apps.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 
@@ -444,7 +444,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Tor](https://anonym.to/?https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis.
 - [Zeronet](https://anonym.to/?https://zeronet.io/) - Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Hardened Operating Systems & Resources
@@ -456,7 +456,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Security @ Distrowatch](http://distrowatch.com/search.php?category=Security) - (`insecure`) - Website dedicated to talking about, reviewing, and keeping up to date with open source operating systems.
 - [Tails](https://anonym.to/?https://tails.boum.org/) - Tails is a live operating system that you can start on almost any computer from a USB stick or a DVD.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Domain Names
@@ -464,7 +464,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Njalla](https://anonym.to/?https://njal.la/) - A privacy-aware domain registration service.
 - [xip.io](https://anonym.to/?http://xip.io/) - (`insecure`) - Magic domain name that provides wildcard DNS for any IP address.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Countries where downloading copyright content is legal (for personal use only). Publishing it & sharing it - is still illegal (!)
@@ -534,7 +534,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 * UK
 * US
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Pirate News, Blogs & Discussion Forums
@@ -562,7 +562,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Torznab](https://anonym.to/?https://nzbdrone.readthedocs.io/Implementing-a-Torznab-indexer/) - Newznab-like API offering a standardized recent/search API for both TV and movies.
 - [ZBIGZ](https://anonym.to/?https://zbigz.com/) - Zbigz is a very good solution if your PC or laptop is locked by your ISP, it allows you to download torrents via Browser.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Torrent Search Engine
@@ -578,13 +578,13 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Trackers List](https://anonym.to/?https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers.
 - [Root.yt](https://anonym.to/?https://root.yt/) - Yet [another torrent proxy](https://anonym.to/?https://www.reddit.com/r/Piracy/comments/fcq0v4/i_made_a_proxy_service_for_popular_sites_like_tpb/) who aims to imrpvoe privacy and security by removing blacklisted domains.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Torrent to Magnet URIs
 - [Nutbread](https://anonym.to/?https://nutbread.github.io/t2m/) - Open source website to convert .torrent files to magnet URI(s).
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 #### Private Trackers
@@ -628,7 +628,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [UHDBits](https://anonym.to/?https://uhdbits.org/) - (UHD) - UHDBits is a Vietnamese private torrent tracker focused on HD movies and TV shows.
 - [WorldOfP2P](https://anonym.to/?https://worldofp2p.net) - (WOP) - Private tracker for Movies, TV and general P2P stuff.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 #### Semi-Private Trackers
@@ -638,7 +638,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [MetalArea](https://anonym.to/?https://metalarea.org/) - Russian tracker for obscure metal and dungeon synth.
 - [Zamunda.net](https://anonym.to/?https://zamunda.net/) - A Bulgarian tracker with English and Russian translations available.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 #### Public Trackers
@@ -695,13 +695,13 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [monova.to](https://anonym.to/?https://monova.to/)
 - [PaHe.me](https://anonym.to/?https://pahe.me/) - HQ Movies at Affordable Size.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 <!-- markdown-link-check-disable -->
 ### I2P Tracker
 - [killyourtv](http://mpc73okj7wq2xl6clofl64cn6v7vrvhpmi6d524nrsvbeuvjxalq.b32.i2p/) - Series and TV Shows.
 <!-- markdown-link-check-enable -->
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Tracker Aggregators
@@ -713,7 +713,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Torrentzeta](https://anonym.to/?https://www.torrentzeta.com/)
 - [Skyn3t](https://anonym.to/?https://skyn3t.in/srx/)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Tracker Proxies
@@ -725,7 +725,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [SickRage](https://anonym.to/?https://git.sickrage.ca/SiCKRAGE/sickrage) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
 - [Sonarr](https://anonym.to/?https://github.com/Sonarr/Sonarr) - (make sure you [turn click-tracking off](https://anonym.to/?https://i.imgur.com/QpP1M6Q.png)) - Smart PVR for newsgroup and Bittorrent users.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Tracker Invites
@@ -735,7 +735,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Open sign-ups thread](https://anonym.to/?https://www.removeddit.com/r/trackers/comments/7ildxx/open_signups_thread/) - /r/trackers thread for posting trackers that are currently open for registration.
 - [Opentrackers.org](https://anonym.to/?https://opentrackers.org/) - Private Torrent Trackers & File Sharing.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 #### rTorrent
@@ -747,7 +747,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [rutorrent-themes](https://anonym.to/?https://github.com/InAnimaTe/rutorrent-themes) - A collection of default and new, original themes for ruTorrent.
 - [ruTorrent](https://anonym.to/?https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 #### WebTorrent Clients
@@ -756,7 +756,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [WebTorrent Desktop](https://anonym.to/?https://webtorrent.io/desktop/) - WebTorrent Desktop is for streaming torrents.
 - [βTorrent](https://anonym.to/?https://btorrent.xyz/) - Fully-featured [WebTorrent](https://anonym.to/?https://webtorrent.io/) - browser client written in HTML, JS and CSS.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Seedboxes
@@ -771,7 +771,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [SeedSync](https://anonym.to/?https://github.com/ipsingh06/seedsync) - SeedSync is a GUI-configurable, LFTP-based file transfer and management program.
 - [UltraSeedbox](https://anonym.to/?https://ultraseedbox.com/) - Cheap Seedbox, fast and reliable.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Sharehoster search engine
@@ -782,20 +782,20 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [MegaSearch.co](http://megasearch.co) - (blocked by some ISP) - (`insecure`) - Meta search engine which indexes webwarez websites.
 - [Rapidlinks](https://anonym.to/?https://rapidlinks.org) - (RU) - Russian search engine for various sharehoster.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
-## Online TV
+## Online paid TV-Streaming
 - [Ustvgo](https://anonym.to/?https://ustvgo.tv/) - Watch CBS, Comedy, Disney, Fox, HBO and many more online for free.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## TV-Show Calendar
 - [at.my TV](http://at-my.tv/) - (`insecure`) - TV Calendar, TV Episode Guide, TV Show Listings.
 - [DuckieTV](http://schizoduckie.github.io/DuckieTV/?from=duckie.tv&/) - (`insecure`) - A personalized calendar that tracks the shows you like/fav.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Convert Torrent to Direct HTTP Link
@@ -806,7 +806,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Streamza](https://anonym.to/?https://streamza.com/)
 - [ZBIgZ](https://anonym.to/?https://www.zbigz.com/) - ZBIGZ anonymous torrent cloud client #1.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 #### Seedbox Hosting Providers
@@ -826,7 +826,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Whatbox](https://anonym.to/?https://whatbox.ca/) - Whatbox is a BitTorrent CDN.
 - [Xirvik](https://anonym.to/?https://www.xirvik.com/) - Preconfigured seedbox servers.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Tracker Frameworks
@@ -837,7 +837,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Torrent-Tracker-Platforms](https://anonym.to/?https://github.com/HDVinnie/Torrent-Tracker-Platforms) - A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages.
 - [UNIT3D](https://anonym.to/?https://github.com/HDInnovations/UNIT3D) - The Nex-Gen Private Torrent Tracker (Movies/TV Episodes).
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Usenet Providers
@@ -852,7 +852,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [WorldSrc](https://anonym.to/?https://worldsrc.org) - Movies, software, apps, games, music, and images available for fast direct download + torrents.
 - [XS News](https://anonym.to/?https://greycoder.com/goto/xsnews) - European Usenet feed.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Usenet Indexing Software
@@ -863,7 +863,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [newznab](https://anonym.to/?http://www.newznab.com/) - (`insecure`) - Newznab is a usenet indexing application, that makes building a usenet community easy.
 - [NzBlite](https://anonym.to/?https://www.nzblite.com/) (_nzblite client_) - Open source file format to simplify Usenet uploading and downloading to newsgroups.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Usenet Paid Indexers
@@ -874,7 +874,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [NZBgeek](https://anonym.to/?https://nzbgeek.info/) - Affordable Usenet indexer operating since 2014.
 - [omgwtfnzbs](https://anonym.to/?https://omgwtfnzbs.me/login) - Invite-only NZB indexer with a funny name.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Usenet Forums
@@ -887,7 +887,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [SceneNzb.com](https://anonym.to/?https://scenenzb.com) - (paid) - 3 NZD files per day are free.
 - [Sky of Usenet](https://anonym.to/?https://sky-of-use.net) - (Ger) - Yet another german usenet forum.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Usenet Free Indexers
@@ -901,7 +901,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Usenet Crawler](https://anonym.to/?https://usenet-crawler.com/) - Usenet indexer with API access for registered users.
 - [NewzLeech](https://anonym.to/?https://www.newzleech.com/) - Newzleech is a Usenet file search engine.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Portables & Repacks
@@ -913,14 +913,14 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [monkrus](https://anonym.to/?http://w13.monkrus.ws) - (RU) - Russian repacker website by monkrus.
 - [Diakov](https://anonym.to/?https://diakov.net/) - (RU) - Russian repacker for Adobe and other applications.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### PodCast Downloader
 - [PodcastBulkDownloader](https://anonym.to/?https://github.com/cnovel/PodcastBulkDownloader) - Simple software for downloading podcasts. Contribute to cnovel/PodcastBulkDownloader development by creating an account on GitHub.
 - [Podsnatch](https://anonym.to/?https://github.com/robotmlg/podsnatch) - Simple podcast downloader. Contribute to robotmlg/podsnatch development by creating an account on GitHub.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Custom "Google" Search Engines
@@ -933,13 +933,13 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [opendirectory-finder](https://anonym.to/?https://ewasion.github.io/opendirectory-finder/) - Get direct download links for almost anything.
 - [wtfnzb](https://anonym.to/?https://wtfnzb.pw/) - Open dir for Software.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Media Database Scraper
 - [Mwoffliner](https://anonym.to/?https://github.com/openzim/mwoffliner) - Scrape any online Mediawiki motorised wiki (like Wikipedia) to your local filesystem.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### The-Eye
@@ -964,7 +964,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Napalm FTP Indexer](https://anonym.to/?https://www.searchftps.net/) - NAPALM FTP Indexer lets you search and download files located on public FTP servers.
 - [pftp](https://anonym.to/?https://www.pftp.de/) - (`insecure`) - pftp means Port-File-Transfer-Program not to muddle up with standard FTP which is quite different, it allows you to send and receive directories recursively and move the dirs.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### DDL Search Engines & Crawlers
@@ -975,7 +975,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Orion](https://anonym.to/?https://orionoid.com/) - Orion is a service that indexes metadata and links from a variety of public websites and networks, including torrent, usenet, and hoster indexes.
 - [VideoSpider](https://anonym.to/?https://videospider.in/) - VideoSpider crawls various websites and search engines to find movie and TV episode streaming links.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### GoG Repack & Releases + Retro Games
@@ -985,7 +985,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [MachineGunnur/GOG-Games](https://github.com/MachineGunnur/GOG-Games) - Source Code & Tor Mirror (goggamespc7v6z5e.onion or goggamespc7v6z5e.onion.ws) for GOG Games.
 - [Torminatorr.com](http://www.forum.torrminatorr.com/viewforum.php?f=13) - (`insecure`) - Good-Old-Downloads mirror page.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### DDL Link Sites
@@ -1063,19 +1063,19 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [up4pc](https://anonym.to/?https://up4pc.com/) - Download PC Software including cracks via ZippyShare, GDrive and Mega.
 - [CB01.uno](https://anonym.to/?https://cb01.gallery/) - (`IT`) Movies, TV Shows and Animes.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Content Aggregators
 - [LinkSnappy](https://anonym.to/?https://linksnappy.com/) - Aggregator to download from over 75 file hosters with one paid account only.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### DVB
 - [DVBKing](https://anonym.to/?https://skystar-2.com/) - SkyStar, SoftCam Key ProgDVB Satellite Receiver Dish Network DirecTV HD TV.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Premium Link Generators
@@ -1091,7 +1091,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Reevown](https://anonym.to/?https://reevown.com/) - A free download service with which you can perform premium downloads.
 - [UploadedPremiumLink.xyz](https://anonym.to/?https://www.uploadedpremiumlink.xyz/) - Generate online premium links.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Free and Premium Link Hoster
@@ -1108,7 +1108,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Uploaded](https://anonym.to/?https://uploaded.net/)
 - [Zippyshare](https://anonym.to/?https://www.zippyshare.com/) - (free/paid) - (needs proxy/VPN) - GeoIP blocked in the UK.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Open Directories
@@ -1121,7 +1121,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [opendirectories-bot](https://anonym.to/?https://github.com/simon987/opendirectories-bot) - Bot used on /r/opendirectories for analysing the contents of open directories posted on the subreddit.
 - [The Holy Grail of Indexes](https://anonym.to/?https://www.removeddit.com/r/opendirectories/comments/75ya8g/the_holy_grail_of_indexes/) - Posted by /u/shadow_hunter104.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Anime & Cartoon Streaming (720p+)
@@ -1196,7 +1196,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Your-Anime](https://anonym.to/?https://www.your-anime.com/) - (`AR`) - Arabish animes dubbed.
 - [YMP4](https://anonym.to/?https://ymp4.download/) - Download videos from Youtube to mp4 & mp3 files, including from places like e.g. Crunchroll.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Anime Torrent Websites
@@ -1209,7 +1209,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Anime Kaizoku](https://anonym.to/?https://animekaizoku.com/) - Onclick pop-up ads (NSFW), banner ads, no torrents, GDrive as download source (encodes for donators), has torrent version on nyaa.si tagged as `[AnimeKaizoku]`.
 - [Shana Project](https://anonym.to/?https://www.anirena.com/) - Anime torrent side, no ads.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 ### Specialty Sites
 - [1Liberty](https://anonym.to/?https://libertyvf.co/) - (fr-FR)
@@ -1235,7 +1235,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [WatchAsian](https://anonym.to/?https://www2.watchasian.co/)
 - [WTvF!](https://anonym.to/?https://www.youtube.com/channel/UCgzOk7BrZ_REdrDXOhGIGqQ) - Youtube Grindhouse
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Random Movie/TV Streaming Websites
@@ -1288,13 +1288,13 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [onemov](https://anonym.to/?https://onemov.net/) - Online Full HD Movie Free.
 - [openloadmovies.net](https://anonym.to/?https://openloadmovies.net/) - Reliable movie streaming site which uses OpenLoad.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Video Game Music (OST)
 - //
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Sports (only) Streaming
@@ -1318,7 +1318,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Streamwoop](https://anonym.to/?https://streamwoop.net/)
 - [VIPBox](https://anonym.to/?https://www.vipbox.live/) - (Spanish) - Many sport streams, TV which with an friendly UI.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Media Centre Applications
@@ -1334,7 +1334,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Stremio](https://anonym.to/?https://www.stremio.com/) - Multi-platform video content aggregator with a comprehensive add-on system for extending functionality
 - [Viewscreen](https://anonym.to/?https://github.com/viewscreen/viewscreen) - A personal video streaming server.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Stremio
@@ -1347,7 +1347,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Stremio - Phone Remote](https://anonym.to/?https://www.removeddit.com/r/StremioAddons/comments/cuc3yo/news_phone_remote_for_stremio/) - A short guide explaining how to control Stremio with your phone.
 - [Stremio Catalog Builder](https://anonym.to/?https://www.removeddit.com/r/StremioAddons/comments/atizrk/news_stremio_catalog_builder/) - A small ebsite that allows users to customize catalogs in Stremio.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Plex Logging and Metrics
@@ -1356,7 +1356,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Tautulli](https://anonym.to/?https://tautulli.com/) - Tautulli is a 3rd party application that you can run alongside your Plex Media Server to monitor activity and track various statistics.
 - [/r/PlexACD](https://anonym.to/?https://www.removeddit.com/r/PlexACD/) - Discussion about unlimited cloud storage for Plex libraries.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Kodi
@@ -1377,7 +1377,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Yoda](https://anonym.to/?http://supremacy.org.uk/zip/repo/) - (`insecure`) - Another solid Exodus/Covenant fork, and this time it's from S-media.
 - [VShare](https://anonym.to/?https://vshare.eu) - Allows all the kodi users to pair with this service, which allows users to share and stream their favorite videos.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Gaming Infos, Emus & other resources
@@ -1387,7 +1387,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Goldberg Steam Emulator](https://anonym.to/?https://gitlab.com/Mr_Goldberg/goldberg_emulator) - The  project is an attempt to make a generic Steam ddl that lets you play multiplayer games on a LAN without any internet connection.
 - [SmartSteamEmu](https://anonym.to/?https://github.com/MAXBURAOT/SmartSteamEmu) - A Steam emulator.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Game Repacks
@@ -1408,7 +1408,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Tapochek](https://anonym.to/?http://tapochek.net/) - (`insecure`) - Official R.G Mechanics repacks can be found here.
 - [Xatab Repacks](https://anonym.to/?https://xatab-repack.net) - (RU) - Russian game repacker, provides primarily torrents.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### PlayStation
@@ -1417,7 +1417,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [PS3iso](http://www.ps3iso.net/) - (`insecure`) - Free PS3 games downloadable via filecrypt.cc.
 - [Ziperto](https://anonym.to/?https://www.ziperto.com/) - Nintendo, PC, Playstation and Emulator based games via GDrive & other hosters.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### ROMs
@@ -1443,21 +1443,21 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [WowroMs](https://anonym.to/?https://wowroms.com/) - Various ROMs collection.
 - [Ziperto](https://anonym.to/?https://www.ziperto.com/) - Nintendo 3ds CIA files, especially for JRPGs.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### ROM BIOS
 - [xprism's BIOS collection](https://anonym.to/?https://drive.google.com/drive/folders/1TXkO1RSpq4UlR9cTVa040bAaJH27Kfj1) - BIOS collection for Computers, Emulators, Consoles and "obscure consoles" via GDrive.
 
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Good Old Download alternatives (mirrors)
 - [GOD Games](https://anonym.to/?https://god-games.com/) - GOD is alive.
 - [GOD Project](http://god.freevar.com) - (`insecure`) - A work in Progress Project which aims to reboot the old GOD project.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Console Games (various)
@@ -1472,13 +1472,13 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Up2date list for Xbox 360](https://anonym.to/?https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml) - An up2date list for Xbox 360 games.
 - [xbox360iso](http://www.xbox360iso.com/) - (`insecure`) - XBox 360 Game collection.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Game Cheats (You know you have a small penis, don't you?!)
 - [MPGH](https://anonym.to/?https://www.mpgh.net/) - Multiplayer game hacking (makes money via ads).
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## PC Games
@@ -1497,27 +1497,27 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [VseTop](https://anonym.to/?https://vsetop.org/) - (RU) - Yet another russian website which buy their own games and release it to the mass.
 - [Warmane](https://anonym.to/?https://www.warmane.com/) - Hosts private WoW Servers.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Games Achievements Management Tools
 - [SSElauncher](https://anonym.to/?https://github.com/MAXBURAOT/SmartSteamEmu) - SSELauncher Comfy Edition 2018 By LoodBot/Syahmixp (Steam Emulator).
 - [Steam Achievement Manager](https://anonym.to/?https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### GameCube Games
 - [Archive.org](https://anonym.to/?https://archive.org/details/NCubeJ) - Gamecube NTSC-J: Your gonna need an account with archive.org but it should work, speeds are decent.
 - [GDrive](https://anonym.to/?https://drive.google.com/drive/folders/13qVydg48SNv1aosx3mdnJmSwUXXvrbHR)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### DOS games
 - [The Archive](https://blog.archive.org/2019/10/13/2500-more-ms-dos-games-playable-at-the-archive/) - Archive.org provides a legit way to play almost all DOS games for free in your browser.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### 3DS
@@ -1531,7 +1531,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [ziperto.com](https://anonym.to/?https://www.ziperto.com/nintendo/3ds-roms/3ds-cia/) - 3DS CIA collection.
 - [3DS-Paradise](https://anonym.to/?https://3ds-paradise.com/) - (FR) - One of the biggest 3DS forums in france.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### GameBoy Advance
@@ -1539,13 +1539,13 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Mega.nz](https://anonym.to/?https://mega.nz/#!nNoCWbBB!VYNEdwStd12U_aS1qotoo9bz8vky9JnZGrlqAeVKHjA) - Password `snahp.it`.
 - [GBATemp](https://gbatemp.net/) - GBA news, downloads, info and tutorials.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Mame Games
 - [PleasureDome](http://www.pleasuredome.org.uk/index.php) - (`insecure`) - Various games for Mame.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Nintendo Switch Games
@@ -1560,13 +1560,13 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [SX OS](https://anonym.to/?https://sx.xecuter.com/)
 - [IsMySwitchPatched.com](https://anonym.to/?https://ismyswitchpatched.com/) - Check if your CFW is already patched or not.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Game Boy
 - [G-Drive](https://anonym.to/?https://drive.google.com/drive/folders/0B1VEYI5Xz677UjM4bEtTektJRFk) - Includes Game Boy ROM's (together with N64 etc) - and BIOS files.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Wii U Games
@@ -1578,7 +1578,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 ### Wii Hacking
 - [r/WiiHacking](https://www.removeddit.com/r/WiiHacking) - Community dedicated for Wii Roms, Firmwares, Discussions and links around the Wii hacking topic.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### CD Key Seller
@@ -1591,7 +1591,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [GO CD Keys](https://anonym.to/?https://gocdkeys.com/)
 - [Ultimatum Game Keys (UGK)](https://anonym.to/?https://www.gamingdragons.com/en)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Homebrew and Custom Firmware(s)
@@ -1605,7 +1605,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [/r/YuzuPiracy](https://anonym.to/?https://www.removeddit.com/r/YuzuPiracy) - Links for Yuzu, the open-source Nintendo Switch emulator.
 - [3DS Hacks Guide](https://anonym.to/?https://3ds.hacks.guide/) - A complete guide to 3DS custom firmware, from stock to boot9strap.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Anime (Hentai pages are NOT allowed!)
@@ -1644,7 +1644,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Cartoons
@@ -1656,14 +1656,14 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [watchcartoononline.com](https://anonym.to/?https://www.watchcartoononline.com/) + ([Mirror](https://anonym.to/?https://www.watchcartoononline.io)) - Cartoons, dubbed/subbed anime streaming site.
 - [KissCartoon.info](https://anonym.to/?https://kisscartoon.info) - Another site for streaming cartoons with a huge catalog
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Album Art
 - [Album Art Downloader](https://anonym.to/?https://sourceforge.net/projects/album-art/) - Find and update their album art for their music collection.
 - [newalbum.club](https://anonym.to/?https://newalbum.club/) - Search and download free music & album arts. No account required!
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Music
@@ -1688,7 +1688,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [streethiphop](https://anonym.to/?https://www.streethiphop.org/) - Download free music.
 - [wi.to](https://anonym.to/?https://www.wi.to/) - A freemium hoster for music files.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Music Streaming
@@ -1700,7 +1700,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Muxiv Music](https://anonym.to/?https://muxiv.com/) - Stream 45 million songs on all your devices, online or offline. Primarily Chinese content.
 - [SongsPK](https://anonym.to/?https://songs-pk.in/) - Mainly for downloading Bollywood songs. Domain changes frequently.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### iOS JailBreak Firmware
@@ -1718,7 +1718,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 `iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347bc1897bdd66b11815f036e94c951250c4dda916c00`
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### iOS Apps
@@ -1726,7 +1726,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [HDX Online](https://anonym.to/?https://itunes.apple.com/us/app/hdx-online/id1386799497?mt=8) - Another alternative for Cinema Time.
 - [Total files](https://anonym.to/?https://itunes.apple.com/us/app/total-files/id557285579?mt=8) - Basically the IDM under the iOS Download Managern.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## iOS Stores
@@ -1734,7 +1734,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Box Loca](https://anonym.to/?https://apps.apple.com/us/app/box-loca/id1466961267) - Track the movies you have watched with Box Loca for iPhone.
 - [Cydia](https://anonym.to/?https://cydia.saurik.com/) - Cydia is an alternative to Apple's App Store for "jailbroken" devices.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### iOS Store Repos
@@ -1825,7 +1825,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Yaypixxo](https://anonym.to/?https://yaypixxo.com)
 - [Ziph0n](https://anonym.to/?https://repo.ziph0n.com/)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 ### Keygens & Serials
 - [MiniDL.org](https://anonym.to/?https://minidl.org) - Provides cracks for Windows and MacOS.
@@ -1834,7 +1834,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [SerialShack](http://www.serialshack.com) - (`insecure`) - One of the oldest serial websites which are still online.
 - [Smart Serials](https://anonym.to/?https://www.smartserials.com) - (needs VPN) - Forum + serials.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### iTunes
@@ -1844,7 +1844,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Requiem](https://anonym.to/?https://digiex.net/threads/requiem-4-1-remove-itunes-drm-fairplay-from-music-video-and-books.11796/) - Requiem is a program that removes Apple's DRM (called FairPlay) - from songs, videos, and books purchased on iTunes.
 - [TunesKit](https://anonym.to/?https://www.tuneskit.com/) - iTunes DRM removal tool.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Spotify
@@ -1858,7 +1858,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Spytify](https://anonym.to/?https://jwallet.github.io/spy-spotify/) - Records Spotify without ads while it plays and includes media tags to the recorded files.
 - [XSPotify](https://anonym.to/?https://github.com/meik97/XSpotify) - A modified Spotify client with DRM bypass.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## SoundCloud
@@ -1868,7 +1868,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [scddlr.com](https://anonym.to/?https://www.scddlr.com/) - SoundCloud To Mp3 Converter Online.
 
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Software
@@ -1907,7 +1907,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Soft4PC](https://anonym.to/?https://s0ft4pc.com/) - Yet another website for cracked software repacks.
 - [SCloud](https://anonym.to/?https://scloud.ws/) - Provides site several years repacks for popular software like Adobe & Windows.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## MacOS
@@ -1922,7 +1922,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Sanet](https://anonym.to/?https://sanet.st/) - Windows and uncracked software as well as MacOS cracked software.
 - [GetIntoPC](https://anonym.to/?https://getintopc.com/) - Last place to look for MacOS software.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Windows (Info, tools and other resources)
@@ -1937,7 +1937,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [SamLab](https://anonym.to/?https://samlab.ws/) - (RU) - Windows Board, ISOs, Hotfixes & more.
 - [Shadow-Trooperz](https://anonym.to/?https://shadow-trooperz.xyz/sw/) - Provides Windows ISO's and other Windows related software links.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Windows Hotfixes & Patches
@@ -1946,7 +1946,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [UUPDump](https://anonym.to/?https://uupdump.ml/) - In-official Windows Hotfix repository + Windows dumps.
 - [Windows ISO + Hotfix mirrors](https://anonym.to/?https://tb.rg-adguard.net/public.php) - AdGuard provides mirrors to hotfixes and Windows ISO's/ESD's.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Microsoft Windows Activation (KMS/KMS38/HWID)
@@ -1959,7 +1959,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 ### Bypass Windows 7 ESU
 - [Bypass Windows 7 Extended Security Updates Eligibility](https://anonym.to/?https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606/) another alternative is to work with [micro patches](https://anonym.to/?https://blog.0patch.com/2019/09/keeping-windows-7-and-windows-server.html)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Windows 10 Downloads (Mirrors) & Verification Tools
@@ -1970,7 +1970,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Windows ISO Downloader](https://anonym.to/?https://www.heidoc.net/php/Windows%20ISO%20Downloader.exe) - Allows an easy and comfortable way to download genuine Windows 7, 8.1 and 10 disk images (ISO) directly from Microsoft's servers (tool contains ads).
 - [All Windows LTSC download links incl. N](https://anonym.to/?https://gist.github.com/CHEF-KOCH/a9a70744d79e335e4b4512cbb9588982)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## eBooks
@@ -2032,14 +2032,14 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [BookTracker](https://anonym.to/?https://booktracker.org/) - (RU) - Book collections, discussions and torrents + IRC
 - [Z-Lib.org](https://anonym.to/?https://z-lib.org/) - Programmig and educational eBooks.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## College Textbooks
 - [Z-Libary](https://anonym.to/?https://b-ok.cc/) - A lot textbooks which hosts books directly.
 - [epdf](https://anonym.to/?https://epdf.pub/) - Write a book, elevate your profile, build a business - Upload ideas and beginner tips to get you started.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Courses
@@ -2069,13 +2069,13 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [The Online Books Page](https://anonym.to/?http://digital.library.upenn.edu/books/) - (`insecure`) - You'll be able to access over 35,000 free ebooks from this site, powered by the University of Pennsylvania.
 - [TutsGalaxy](https://anonym.to/?https://tutsgalaxy.com/) - Free Courses & Tutorials.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Reddit
 - [Removeddit](https://anonym.to/?https://www.removeddit.com/about/)  - Display removed (by mods) and deleted (by users) comments/threads from Reddit.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## eBook Search Indexer
@@ -2089,7 +2089,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [PDFDrive](https://anonym.to/?https://www.pdfdrive.com/) - PDF Drive is your search engine for PDF files.
 - [Via Google Search](https://anonym.to/?http://www.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco) - (`insecure`) - Preset of indexed websites to search for comics.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Magazines
@@ -2099,7 +2099,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [magazinesdownload.org](https://anonym.to/?https://magazinesdownload.org/) - Magazines hosted on free, fast, file hosting sites.
 - [PDF Giant](https://anonym.to/?http://pdf-giant.com/) - (`insecure`) - Various categories of downloadable PDFs.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Academic Papers (White papers, GRE, etc.)
@@ -2109,7 +2109,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [PDF-Gigant](https://anonym.to/?http://pdf-giant.com/) - (`insecure`) - Provides  a lot of different magazines.
 - [Sci-Hub](https://anonym.to/?https://sci-hub.tw/) - [Sci-hub btw. automatically uploads articles to libgen](https://anonym.to/?https://engineuring.wordpress.com/2017/07/02/some-facts-on-sci-hub-that-wikipedia-gets-wrong/) and provides public access to tens of millions of research papers.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Textbooks
@@ -2120,7 +2120,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [it-ebooks](http://it-ebooks.info) - (`insecure`) - Large selection of free and open source IT ebooks
 - [PDF/Ebook trackers for college textbooks](https://anonym.to/?https://www.removeddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/) - Old-but-still-useful list of ebook/textbook trackers, DDL sites and IRC communities.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Direct Download Streaming
@@ -2130,7 +2130,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Movies "R" Us](https://anonym.to/?https://moviesrus.tk) - The newest movies in 1080p. Available with DDL through MediaFire and streaming through Anonfile.
 - [DL WarezForums](https://anonym.to/?https://dr.warezforums.com/) - Direct downloads and direct streaming, movies, files & more.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Audiobooks
@@ -2151,7 +2151,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 ### Science Books
 - [BookSC](https://anonym.to/?https://booksc.org/) - Part of Z-Library project. The world's largest scientific articles store. 70,000,000+ articles for free.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Comicbooks
@@ -2165,7 +2165,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [WorldWideTorrents](https://anonym.to/?https://worldwidetorrents.eu/torrents.php?parent_cat=Comics) - Provides comic releases.
 - [Omnibus](https://anonym.to/?https://github.com/fireshaper/Omnibus) - Download comics that are added to GetComics.info.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Manga
@@ -2181,7 +2181,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [MangaDex](https://anonym.to/?https://www.mangadex.org/) - MangaDex is an online manga reader that caters to all languages.
 - [MangaZone](https://anonym.to/?http://mangazoneapp.com/) - (`insecure`) - A manga reader app.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Anime Light novel websites
@@ -2191,7 +2191,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [henkanepubs](https://anonym.to/?https://henkanepubs.wordpress.com/) - Free, fansubs, bannerads, every download has a redirrect to adfly.
 - [NovelPlanet](https://anonym.to/?ttps://novelplanet.com/) - Free, english, bannerads.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Documentaries
@@ -2201,7 +2201,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [MVGroup](http://forums.mvgroup.org/) - (`insecure`) - A forum which shares documentaries via P2P.
 - [whatwhat888 big list of documentary sites (streaming and download)](https://anonym.to/?https://www.removeddit.com/r/Documentaries/comments/h9pu7/my_big_list_of_documentary_sites_streaming_and/) - An old post by /u/whatwhat888 that may still be useful.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Fonts, Icons & Graphics
@@ -2212,7 +2212,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Tomato.to](https://anonym.to/?https://tomato.to/) - Supports Shutterstock, Gettyimages, Adobestock, Fotolia, Vectorstock, iStockphoto, PNGTree & PicFair.
 - [Web4Sync](https://anonym.to/?https://web4sync.com/) - Forum with DDL links catering to web development, graphics design, 3D animation, and photography.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Ripping, Transcoding, Converting, Encoding
@@ -2224,7 +2224,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [sickbeard_mp4_automator](https://anonym.to/?https://github.com/mdhiggins/sickbeard_mp4_automator) - Automatically convert video files to a standardized mp4 format with proper metadata tagging to create a beautiful and uniform media library.
 - [The Encoding Guide](https://anonym.to/?https://encoding-guide.neocities.org/) - An in-depth guide on video encoding.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Cloud Storage
@@ -2238,7 +2238,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Zippyshare.sh](https://anonym.to/?https://github.com/myspaghetti/zippyshare) - Allows you to bash script download files from ZippyShare.
 - [folderclone](https://anonym.to/?https://github.com/Spazzlo/folderclone) - A project that allows you copy large folders to Shared Drives.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## File Renaming and Tagging
@@ -2255,7 +2255,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [MP3TAG](https://anonym.to/?https://www.mp3tag.de/en/) - Mp3tag is a powerful and easy-to-use tool to edit metadata of audio files.
 - [Picard](https://anonym.to/?https://picard.musicbrainz.org/) - Picard is an open source cross-platform music tagger written in Python.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Streaming Apps
@@ -2288,7 +2288,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [UnlockMyTV (Cinema Clone Ad-Free)](https://anonym.to/?https://unlockmytv.com/)
 - [Vaughn Live ](https://anonym.to/?https://vaughn.live) - Possibly the greatest LIVE streaming video site on the internet! Looks like a Twitch clone.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Stream Sharing
@@ -2296,7 +2296,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Kast is Watch Parties Made Easy](https://anonym.to/?https://kast.gg) - Watch parties made easy. Share movies, TV shows, games, and whatever you want with 100+ people.
 - [rabb.it](https://anonym.to/?https://rabb.it/) - Hang out and watching stuff with your friends online!
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Big Media Libraries
@@ -2327,7 +2327,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [TorrentDownloads.me](https://anonym.to/?https://www.torrentdownloads.me/) - It’s a no-nonsense index that provides torrents to millions of users each month.
 - [Viooz](https://anonym.to/?https://vioozgo.org/) - (RU) - Discover thousands of movies, watch your favorite movies online for free on VZM, Viooz.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Navigation Software
@@ -2335,7 +2335,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Digital Eliteboard](https://anonym.to/?https://www.digital-eliteboard.com/forums) - (Ger) - Help forum around various topics and provides some tutorials.
 - [Nachtfalke](https://www.nachtfalke.biz/index.php) - (Ger/EN) - Another big forum to discuss navigation software related stuff.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Sports Streaming (MMA, MMO, Football etc)
@@ -2356,13 +2356,13 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Siptveu](https://anonym.to/?https://siptveu.com)
 - [Xtreme Wrestling Torrents (XWT)](https://anonym.to/?http://www.xtremewrestlingtorrents.net/signup.php) - (`insecure`) - (`needs signup`)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### 480p Streaming
 - [480MKV](https://anonym.to/?480mkv.com) - Small size videos, movies and TV shows.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### 720p Streaming
@@ -2421,7 +2421,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Rarfilm](https://anonym.to/?http://rarefilm.net/)
 - [AllTheStreams](https://anonym.to/?https://allthestreams.fm/) - Hulu, Disney+, Netflix, HBO, Prime Video or SHow Time as a stream which you can watch via Browser.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 ### 1080p Streaming
 - [0123movies](https://anonym.to/?https://www.0123moviesback.com/)
@@ -2504,7 +2504,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Zamunda](https://anonym.to/?https://zamunda.net/catalogs/) - (needs login) - HDR, 4 tv shows and movies.
 - [VidFlix](https://anonym.to/?https://vidflix.net/) - No ads, clean Movies and TV shows in high quality.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Wrestling & MMA specifc
@@ -2512,7 +2512,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [MMA Releaselog](https://anonym.to/?http://mma-releaselog.com/) - (`insecure`)
 - [WWE-TV](https://anonym.to/?http://www.wwe-tv.com/) - (Ger) - (`insecure`)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Video Streaming link search engines
@@ -2520,7 +2520,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [FilesLoop](https://anonym.to/?https://www.filesloop.com/) - Search and download torrents and files from various file hosting like Uploaded etc.
 - [ololo](https://anonym.to/?https://ololo.to/) - Enjoy millions of streaming links for the newest movies and TV shows.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Torrent Apps (Android/iOS)
@@ -2533,13 +2533,13 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Trireme for Deluge](https://anonym.to/?https://f-droid.org/en/packages/org.deluge.trireme/) - A Deluge thin client for Android. Written in Flutter.
 - [Vuze](https://anonym.to/?https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader) - Lightweight & powerful BitTorrent app.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Real time monitoring of secrets on github, gitlab and bitbucket
 - [shhgit](https://anonym.to/?https://shhgit.darkport.co.uk/) + [Source Code](https://anonym.to/?https://github.com/eth0izzle/shhgit) - Watch real-time stream and pull out any accidentally committed secrets.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Discord alternatives (without logging or telemetry)
@@ -2551,7 +2551,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Quarrel](https://anonym.to/?https://github.com/UWPCommunity/Quarrel) - A UWP discord client for Windows 10.
 - [PowerCord](https://anonym.to/?https://github.com/powercord-org/powercord) - A lightweight discordapp client mod focused on simplicity and performance.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Discord Servers
@@ -2574,7 +2574,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [The Ratio](https://anonym.to/?https://discordapp.com/invite/wab3Qag) - A community of seedbox enthusiasts. Buying advice, application setup, and automation help.
 - [WarezNX](https://anonym.to/?https://discord.gg/d6xxuPq) - Nintendo Switch Warez community server.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## IPTV + DVR
@@ -2597,7 +2597,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [xTeVe](https://anonym.to/?https://xteve.de/) - M3U Proxy for Plex DVR.
 - [Xtream Editor](http://www.xtream-editor.com/) - (`insecure`) - Xtream Editor allow you to create, edit and sort m3u playlists online.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Acestreams
@@ -2606,7 +2606,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [AceStreamSearch](https://anonym.to/?https://acestreamsearch.com/en/) - Ace Stream Broadcasts Search
 - [iktason/aceproxy](https://anonym.to/?https://hub.docker.com/r/ikatson/aceproxy/) - A docker image to run aceengine + aceproxy, e.g. to watch Torrent-TV.ru.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## IRC
@@ -2615,7 +2615,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [XDCC](https://anonym.to/?https://en.wikipedia.org/wiki/XDCC) - XDCC (Xabi DCC or eXtended DCC) - is a computer file sharing method which uses the Internet Relay Chat (IRC) - network as a host service.
 - [ZNC](https://anonym.to/?https://github.com/znc/znc) - An advanced IRC bouncer.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### IRC Networks
@@ -2629,7 +2629,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Orpheus](https://anonym.to/?https://orpheus.network/) - Formerly known as Apollo
 - [p2p-network.net channel list](https://anonym.to/?https://search.mibbit.com/channels/p2p-network) - List of all channels on the p2p-network.net IRC network.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### IRC Search Engines
@@ -2638,7 +2638,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [xdcc.eu](http://www.xdcc.eu/) - (`insecure`) - XDCC search engine indexing packets from a large number of networks
 - [xWeasel](http://xweasel.org) -  (`insecure`) - xWeasel is a free stand-alone Download Client based on IRC technology including a multifunctional XDCC Search Engine.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## DC++
@@ -2649,7 +2649,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [FlylinkDC++](http://www.flylinkdc.com/) - (`insecure`) - Windows DC++ and BitTorrent client in active development, with ADC and DHT support.
 - [Linux DC++](https://anonym.to/?https://launchpad.net/linuxdcpp) - Easy to configure and use DC++ client.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Full Movies On
@@ -2666,7 +2666,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [/r/fulltvshowsonyoutube](https://anonym.to/?https://www.removeddit.com/r/fulltvshowsonyoutube/)
 - [fullmoviesandtv multireddit](https://anonym.to/?https://www.removeddit.com/user/Wiggly_Poop/m/fullmoviesandtv/) - All of the above subreddits as a multireddit
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Full TV Shows On
@@ -2678,7 +2678,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [SceneLinkList](https://anonym.to/?https://www.scenelinklist.com/) - SceneLinkList is a project initiated to display and share as many scene and warez links as possible.
 - [TheTrove](https://anonym.to/?https://thetrove.net/) - The Trove is a non-profit website dedicated to content archival and long-term preservation of RPGs.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Content Discovery
@@ -2698,7 +2698,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [What is my movie?](https://anonym.to/?https://www.whatismymovie.com/) - AI-powered movie search. "Use your own words, or search with titles, actors, directors, genres etc. We find movies for you to watch."
 - [WhereYouWatch](https://anonym.to/?https://whereyouwatch.com/latest-reports/) - Follow upcoming movies and receive email alerts when they are out online as a download or stream – pirated or via retail.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Decentralized local GIT
@@ -2706,7 +2706,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Radicle](https://anonym.to/?https://www.radicle.xyz/) - A decentralized alternative to GitHub built on IPFS.
 - [Mango](https://anonym.to/?https://github.com/axic/mango) - Cmbines Ethereum with IPFS or Swarm as a backend for Git.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## HTCP
@@ -2720,7 +2720,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Organizr](https://anonym.to/?https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 - [weboas.is](http://weboas.is/) - (`insecure`) - Another website for pirates.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Unblock blocked Websites
@@ -2733,7 +2733,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [k8s-usenet](https://anonym.to/?https://github.com/aldoborrero/k8s-usenet) - Helm (Kubernetes based) collection of charts related to different Usenet services (sabnzbd, radarr, sonarr etc).
 
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Proxies & alternative (secure) Protocols/Networks
@@ -2745,7 +2745,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Shadowsocks](https://anonym.to/?https://shadowsocks.org/) - A secure socks5 proxy, designed to protect your Internet traffic.
 - [kalitorify](https://anonym.to/?https://github.com/brainfucksec/kalitorify) - Transparent proxy through Tor for Kali Linux OS
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Stream Synchronisation
@@ -2758,51 +2758,51 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [SyncLounge](https://anonym.to/?https://synclounge.tv/) - Third party tool that allows you to watch Plex in sync with your friends/family, wherever you are.
 - [watch2gether](https://anonym.to/?https://www.watch2gether.com/) - Enjoy the internet in sync with your friends. Watch videos, listen to music or go shopping on Watch2Gether.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Secure PasteBin alternatives
 - [PrivateBin](https://anonym.to/?https://privatebin.net/) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data.
 - [ZeroBin](https://anonym.to/?https://zerobin.net/) + [Tor Mirror](https://anonym.to/?https://zerobinqmdqd236y.onion) & [source code](https://anonym.to/?https://github.com/sebsauvage/ZeroBin)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Google sheets "Create a copy" bypass
 - [MATLAB](https://anonym.to/?https://de.mathworks.com/matlabcentral/fileexchange/39915-getgooglespreadsheet)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## DNS based Ad-Blockers
 - [AdGuard Home](https://anonym.to/?https://github.com/AdguardTeam/AdGuardHome) - AdGuard Home is a network-wide software for blocking ads & tracking.
 - [Pi-hole](https://anonym.to/?https://pi-hole.net/) - Pi-Hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Emby Servers
 - [/r/EmbyShares](https://anonym.to/?https://www.removeddit.com/r/EmbyShares) - This subreddit is dedicated to the sharing of Emby servers.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 ## URL Shortener
 - [Anon.to](https://anonym.to/?https://anon.to/) - URL shortener to de-referer or null-referer your links.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 ## Premium Link Generators
 - [Deepbrid](https://anonym.to/?https://www.deepbrid.com/downloader) - 1,3 GB of premium links, a "pro" version is also avbl. without any download limits.
 - [Free Rapidleech](https://anonym.to/?https://freerapidleechlist.blogspot.com/) - Daily updated free premium hoster logins. **Be Warned**: Fake pages are looking similar!
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 ## Hardware Security Token
 - [Adding two factor authentication to KeePass & KeePass2Android](https://anonym.to/?https://nidkil.me/2014/12/10/adding-two-factor-authentication-to-keepass-keepass2android/)
 - [Configure YubiKey with Google, LastPass and KeePass](https://anonym.to/?https://www.raymond.cc/blog/setting-up-yubikey-with-lastpass-as-second-factor-authentication/)
 - [How to use GPG with YubiKey (bonus: WSL)](https://anonym.to/?https://codingnest.com/how-to-use-gpg-with-yubikey-wsl/)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 ## Reverse Proxies
 - [bitmitigate.com](https://anonym.to/?https://bitmitigate.com)
@@ -2813,13 +2813,13 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [puroxy.org](https://anonym.to/?https://puroxy.org)
 - [x4b.net](https://anonym.to/?https://www.x4b.net)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 ## Free graphics
 - [CGPeers](https://anonym.to/?https://www.cgpeers.com) - (needs login) - A big platform for not only graphics.
 - [PixelPro.io](https://anonym.to/?https://pixelpro.io/) - Provides free (and paid) graphics for streamers.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 ## SMS
 - [Crypton](https://anonym.to/?https://crypton.sh/) - Secure SMS Cloud service.
@@ -2872,25 +2872,25 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Tempsms](https://anonym.to/?http://Tempsms.ru) - (`RU`) -  Keep spam out of your phone and stay safe - just use a free disposable temporary phone number!
 - [Zadarma](https://anonym.to/?https://zadarma.com/en/) - The Zadarma VoIP project enables you to setup your business telephone system without the heavy hardware and wiring expenses.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 ## Shared Accounts
 - [/f/SharedAcc](https://anonym.to/?https://raddle.me/) - Share and use account logins to preserve your online privacy.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 ## Fake Torrents Detection
 - [Hide Fake Torrent on ThePirateBay](https://anonym.to/?https://chrome.google.com/webstore/detail/hide-fake-torrents-on-tpb/fkdhkcpmifehkmadpldbbdadepgplcmo?hl=en) - Browser extension to Hide Fake Torrent on The PirateBay.
 - [Solid Torrents](https://anonym.to/?https://solidtorrents.net/) - A torrent index search engine, which checks if the torrent has known "fake" seeders/leechers based on a predefined database.
 - [The Pirate Bay Tweaks](https://anonym.to/?https://greasyfork.org/en/scripts/27293-the-pirate-bay-tweaks) (based on [this script](https://anonym.to/?https://greasyfork.org/scripts/21980)) - Userscript to detect fake TPB uploaders/torrents.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## All-in-One (electron based) Messenger Apps (all services in one app!)
 - [Ferdi](https://anonym.to/?https://github.com/getferdi/ferdi) - Ferdi is a messaging browser that allows you to combine your favorite messaging services into one application.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 ## VPS Hosting Providers ([Bulletproof Hosting](https://en.wikipedia.org/wiki/Bulletproof_hosting))
 - [BlueAngelHost](https://anonym.to/?https://www.blueangelhost.com/) - Ignores DMCA requests, starts with 2,50€ a month, servers are based in Sofia.
@@ -2910,23 +2910,23 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [WebCare360](https://anonym.to/?https://webcare360.com/) - Powerful Offshore cpanel shared hosting provider.
 - [WRZHost.com](http://wrzhost.com/) - (`insecure`) - WrzHost specializes in allowing warez, and acts as a safe-haven for people wanting to start warez-related projects with anonymity. They offer shared hosting, Linux VPS’s and dedicated servers.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 ## Homework Answers
 - [Lit Answers](https://anonym.to/?https://litanswers.org/) - Find homework answers.
 - [Slader](https://anonym.to/?https://www.slader.com/) - Find textbooks with answers.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 ## Documents Downloaders
 - [DocDownloader.com](https://anonym.to/?https://docdownloader.com/) - Scribd, Issuu, Slideshare & Academia downloader.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 ## Web Page Testing
 - [wptagent](https://anonym.to/?https://github.com/WPO-Foundation/wptagent) - Cross-platform WebPageTest agent which supports allmost all current OS.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Alternative (private) Search Engines
@@ -2940,7 +2940,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Yippy](https://anonym.to/?https://yippy.com/) - Another private search engine and replacement for Google Search.
 - [Qwant](https://anonym.to/?https://lite.qwant.com/) - Yet another search engine.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 ## Online Video Converter/Ripper
 - [MP3Juices.cc](https://anonym.to/?https://www.mp3juices.cc/) - Offers free MP3 downloads.
@@ -2950,20 +2950,20 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Online Video Converter](https://anonym.to/?https://www.onlinevideoconverter.com/) - Free online video conversion tool.
 - [Twitter Video Downloader](https://anonym.to/?http://twittervideodownloader.com/error) - (`insecure`) - Twitter Video Downloader.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Premium leech
 - [Leech Premium](https://anonym.to/?https://leechpremium.link/) - Premium leech service.
 - [](https://anonym.to/?https://ss-leech.herokuapp.com/) - Transload and leech service to various hoster.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### SEO Keywords
 - [Keyword.io](https://anonym.to/?https://www.keyword.io/)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Subtitles
@@ -2974,12 +2974,12 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Subscene](https://anonym.to/?https://subscene.com/) - Quality Subtitles for Movies.
 - [WonderfulSubs](https://anonym.to/?https://www.wonderfulsubs.com/) - The best place on the web for all things Anime!
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 ## Email Hosting Provider
 - [Cock.li](https://anonym.to/?http://cock.li) - (`insecure`) - Solution for professional E-mail and XMPP addresses since 2003. Allows registration and usage using Tor and other privacy services (proxies, VPNs).
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 ## Image downloader (tools & websites)
 - [Dezoomify](https://anonym.to/?https://ophir.alwaysdata.net/dezoomify/dezoomify.html) & [Source](https://anonym.to/?https://github.com/lovasoa/dezoomify/) - Download zoomable images.
@@ -2988,13 +2988,13 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [DroidIris+](https://anonym.to/?https://apkpure.com/en/droidiris-image-search/org.droidiris) - (Android) - Search and browse thousands of images online with this superb and smooth 3D gallery.
 - [Tomato.to](https://anonym.to/?https://tomato.to/) - A website who downloads images from various known image providers, such as FLickr, 500px.com, WireImage and many more.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 ## Cloud based DNS Alternatives
 - [Blockchain-DNS.info](https://anonym.to/?https://blockchain-dns.info/) - First step towards the uncensored Internet
 - [NextDNS](https://anonym.to/?https://www.nextdns.io/) - Cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Fake Data Generators
@@ -3014,7 +3014,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Toplist Warez](https://anonym.to/?https://www.toplist.cz/warez) - (PL) - Polish warez toplist.
 - [Uscene](https://anonym.to/?https://www.uscene.net/warez.html) - A small but fine warez toplist.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Tidal (Music) Downloader
@@ -3022,19 +3022,19 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Chimera](https://anonym.to/?https://notabug.org/Aesir/chimera) - Supports: Deezer, Tidal, Qobuz, Napster, GooglePlayMusic, Soundcloud (Limited Support) and works across almost every OS.
 - [RedSea](https://anonym.to/?https://github.com/redsudo/RedSea) - (Premium account required) - Music downloader for Tidal, revived.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## CVE Database & Aggregators
 - [VIA4CVE](https://anonym.to/?https://github.com/cve-search/VIA4CVE) - Vulnerability Information Aggregator for CVEs.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Wordpress plugins & themes
 - [Vestathemes](https://anonym.to/?https://www.vestathemes.com/) - Vestathemes is a website for [WordPress](https://anonym.to/?https://www.wordpress.com/) - themes and plugins.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 ## [RapidLeech](https://anonym.to/?https://github.com/Th3-822/rapidleech) Transload Websites
 
@@ -3072,7 +3072,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [yes-original.com](https://anonym.to/?https://yes-original.com/home/rapidleech-master/index.php)
 - [zarni.herokuapp](https://anonym.to/?http://zarni.herokuapp.com)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 ## Google product & services alternatives
 
@@ -3190,7 +3190,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [JMP.chat](https://anonym.to/?https://jmp.chat/)
 - [Jitsi Meet - Free and open source online video chat](https://anonym.to/?https://meet.jit.si/)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Wifi Jammer
@@ -3201,7 +3201,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [fluxion](https://anonym.to/?https://github.com/hackcrypto/fluxion) - Script attempts to retrieve the WPA/WPA2 key from a target access point by means of a social engineering (phishing) attack.
 - [wificurse](https://anonym.to/?https://github.com/oblique/wificurse) - WiFi Jamming tool.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Multi file hoster
@@ -3210,13 +3210,13 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Smoozed](https://anonym.to/?https://www.smoozed.biz/) - Claims to be the biggest multihoster, encrypted files and fast up-downloads.
 - [globalupload.io](https://anonym.to/?https://globalupload.io/) - IPFS and hash based services foryour files, a multi hosting option is planned.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Pay-TV Sky
 - [Familienforum.biz](https://anonym.to/?http://www.familienforum.biz/) - Sky cracking news, and other topics.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ### Steam Client Mods & Skins
@@ -3232,7 +3232,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [SteamDesktopAuthenticator](https://anonym.to/?https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app.
 - [Threshold-Skin](https://anonym.to/?https://github.com/Edgarware/Threshold-Skin) - A Windows 10 UWP style skin for Steam.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## PayPal alternatives
@@ -3263,7 +3263,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 ### PayPal alternatives (donation based)
 - [Liberapay](https://anonym.to/?https://en.liberapay.com/)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Anonymous Cryptocurrency Exchanges (without KYC Verification!)
@@ -3273,7 +3273,7 @@ one cryptocurrency wallet to another across various cryptocurrencies
 - [ShapeShift](https://anonym.to/?https://itunes.apple.com/us/app/shapeshift-crypto-converter/id996569075?mt=8) - (_iOS App_) -  Claims to not collect any data!
 - [Tornado](https://anonym.to/?https://tornado.cash/) - (_Beta!_) - Audit but still in beta!
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Router Firmware
@@ -3283,25 +3283,25 @@ one cryptocurrency wallet to another across various cryptocurrencies
 - [VyOS.io](https://anonym.to/?https://www.vyos.io/) - VyOS is a Linux-based network operating system that provides software-based network routing, firewall, and VPN functionality.
 
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Online PDF to Word converter
 - [ILovePDF](https://anonym.to/?https://www.ilovepdf.com/pdf_to_word) - Convert your PDF to WORD documents with incredible accurancy.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## VST plugins
 - [Kvraudio](https://anonym.to/?https://www.kvraudio.com/plugins/newest)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## TDoS (CLIP - no screening/flood)
 - [phonebomb.to](https://anonym.to/?https://www.phonebomb.to/) + [phonebomb.cz](https://anonym.to/?https://www.phonebomb.cz/) + [phonebomb.net](https://anonym.to/?https://www.phonebomb.net/)
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Transloading or (stream) sharing Services
@@ -3311,7 +3311,7 @@ one cryptocurrency wallet to another across various cryptocurrencies
 - [Bitport.io](https://anonym.to/?https://bitport.io/welcome) - Download files to a secured cloud. Anonymously. Fast. Online.
 - [Seedr](https://anonym.to/?https://www.seedr.cc/) - Stream on any device, anytime, anywhere!
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Giveaway Websites (scam free)
@@ -3320,7 +3320,7 @@ one cryptocurrency wallet to another across various cryptocurrencies
 - [Comss](https://anonym.to/?https://www.comss.ru/) - (`RU`) Russian Giveaway page for AdGuard & other Software products.
 - [Giveaway Blog](https://anonym.to/?https://raihan2k18.blogspot.com/) - A blog decided to post Giveaways.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
 
 
 ## Database Leaks
@@ -3329,4 +3329,4 @@ one cryptocurrency wallet to another across various cryptocurrencies
 - [Eldersc0de](https://anonym.to/?http://eldersc0de.pro/account/) - Paid service for getting databases.
 - [tracy03](https://anonym.to/?https://tracy03.fun/) - Credit cards, CCVS, Databases service.
 
-**[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#readme)**
