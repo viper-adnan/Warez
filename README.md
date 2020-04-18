@@ -1645,10 +1645,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Animeheaven.eu](https://anonym.to/?http://animeheaven.eu/) - (`needs ads-blocker`) - Read Manga Online for free.
 - [AnimeVibe Lite v3](https://anonym.to/?https://animevibe.tv/) - Subs and dubs, no ads, multiple sources, downloadable, funded by donations.
 - [GoGo Anime](https://anonym.to/?https://gogoanimes.co/) - Subs and dubs, many ads, many player alternatives.
-
-
-
-
+- [Kissasian](https://anonym.to/?http://kissasian.sh) - Provides HQ animes and material around animes (subs/dubs etc).
 
 **[`^        back to top        ^`](#readme)**
 
