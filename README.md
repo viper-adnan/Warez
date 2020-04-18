@@ -37,7 +37,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 * Software which is outdated or not actively maintained, open source software is is general been preferred.
 * Insecure programs (no audit- or code-review) or insecure connections e.g. `http://` or `ftp://` links.
 * Why is program _X_ not listed e.g. K-9 mail, it's FOSS! Not every mention makes sense, especially in a [security context](https://anonym.to/?https://github.com/k9mail/k-9/issues/655).
-* Explicit content.
+* [Explicit content](https://help.github.com/en/github/site-policy/github-terms-of-service).
 * Tor (.onion) links, they are all _crippled_ (not clickable in Tor Browser).
 
 ## How can I contribute to the list?
@@ -307,13 +307,13 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [AdGuard](https://anonym.to/?https://adguard.com/en/welcome.html) - Claims to be the worlds most advance ad-blocker.
 - [Filterlists](https://anonym.to/?https://filterlists.com/) - Provides an overview of Ad blocking filters/projects.
 - [uBlock origin](https://anonym.to/?https://github.com/gorhill/uBlock) - A fast and efficient Ad Blocker.
-- [Wikipedia's Website about Ad blocking](https://anonym.to/?https://en.wikipedia.org/wiki/Ad_blocking) - Wikipedia's website about ad-blockers.
+- [Wikipedia's Website about Ad blocking](https://anonym.to/?https://en.wikipedia.org/wiki/Ad_blocking) - Wikipedia's info page about ad-blockers.
 
 **[`^        back to top        ^`](#)**
 
 
 ## Piracy archives
-- [130GB of flash games](https://anonym.to/?http://bluemaxima.org/flashpoint/downloads/) - (`insecure`)
+- [130GB of flash games](https://anonym.to/?http://bluemaxima.org/flashpoint/downloads/) - (`insecure`) - Almost all flash games archived.
 - [GOG Dump](https://anonym.to/?http://web.archive.org/web/20190429144618/https://anonym.to/?https://docs.google.com/spreadsheets/d/e/2PACX-1vSDj58h_xUDPoz9n12x_kZvQW1VKO4AQOaNGaUmEtpFmL5q0R05Pr4qVZxxzH8CZT3ZLX6_ZX8muYzm/pubhtml)
 - [Nintendo Games Collection](http://web.archive.org/web/20190429144531/https://anonym.to/?https://docs.google.com/spreadsheets/d/e/2PACX-1vSSmcqtzUguH-tlJ2sr6_v5rTwnlZI1wlsjnyH3Zyy4VKo-TbkHFuW_m3FjpTc3ApQxAL13lOWY9gkm/pubhtml)
 - [Nintendo Update Server (NUS) Backup](https://anonym.to/?https://drive.google.com/drive/folders/1miUUsBt7oJ3nJ0x_V1d6Pnz1OevtnrWn)
@@ -916,12 +916,19 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 
+### PodCast Downloader
+- [PodcastBulkDownloader](https://anonym.to/?https://github.com/cnovel/PodcastBulkDownloader) - Simple software for downloading podcasts. Contribute to cnovel/PodcastBulkDownloader development by creating an account on GitHub.
+- [Podsnatch](https://anonym.to/?https://github.com/robotmlg/podsnatch) - Simple podcast downloader. Contribute to robotmlg/podsnatch development by creating an account on GitHub.
+
+**[`^        back to top        ^`](#)**
+
+
 ### Custom "Google" Search Engines
 - [FileChef](https://anonym.to/?http://filechef.com/) - (`insecure`) - Get direct download links for almost anything!
 - [Strixx](https://maximousblk.github.io/strixx) + [Website](https://anonym.to/?https://opendirsearch.abifog.com/) - An open directory search tool.
 - [Jimmyr](https://anonym.to/?http://www.jimmyr.com/mp3_search.php) - (`insecure`) - Yet abother Music search engine.
 - [lumpySoft.com](https://anonym.to/?https://lumpysoft.com/) - A Google index search with predefined tags.
-- [mattpalm.com/search](https://anonym.to/?https://mattpalm.com/search/) - Get direct download links for almost anything.
+- [Mattpalm.com](https://anonym.to/?https://mattpalm.com/search/) - Get direct download links for almost anything.
 - [Musgle](http://www.musgle.com/) - (`insecure`) - Musgle in action just type a song title, or the artist name, or both in a search bar and hit 'Enter' - you will be redirected to the Google page with relevant search results. Click on one of those results, and you will have a chance to directly download the song you are searching for - very smooth!
 - [opendirectory-finder](https://anonym.to/?https://ewasion.github.io/opendirectory-finder/) - Get direct download links for almost anything.
 - [wtfnzb](https://anonym.to/?https://wtfnzb.pw/) - Open dir for Software.
@@ -929,11 +936,17 @@ I do not accept any donations or add a sponsorship button for this repository. I
 **[`^        back to top        ^`](#)**
 
 
+### Media Database Scraper
+- [Mwoffliner](https://anonym.to/?https://github.com/openzim/mwoffliner) - Scrape any online Mediawiki motorised wiki (like Wikipedia) to your local filesystem.
+
+**[`^        back to top        ^`](#)**
+
+
 ### The-Eye
 - [/public/Piracy/](https://anonym.to/?https://the-eye.eu/public/Piracy/)
-- [exodos.the-eye.eu](https://exodos.the-eye.eu/)
+- [exodos.the-eye.eu](https://anonym.to/?https://exodos.the-eye.eu/)
 - [In progress subreddit archive](https://anonym.to/?https://the-eye.eu/r)
-- [All DOS games](https://anonym.to/?https://exodos.the-eye.eu)
+- [All DOS based games](https://anonym.to/?https://exodos.the-eye.eu)
 - [Keygens](https://anonym.to/?https://parazite.the-eye.eu/)
 - [25TB of retro stuff](https://anonym.to/?https://vv.the-eye.eu/)
 - [The-Eye merch](https://anonym.to/?https://56k.pizza/)
@@ -1585,7 +1598,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [/r/3dshacks](https://anonym.to/?https://www.removeddit.com/r/3dshacks) - Nintendo 3DS hacking and homebrew.
 - [/r/ps3homebrew](https://anonym.to/?https://www.removeddit.com/r/ps3homebrew/) - News, updates, apps, and answers regarding PS3 homebrew!
 - [/r/ps4homebrew](https://anonym.to/?https://www.removeddit.com/r/ps4homebrew) - News, releases, and questions regarding the PS4 jailbreak, homebrew, and mods.
-- [/r/SwitchHacks](https://anonym.to/?https://www.removeddit.com/r/SwitchHacks) - Another Nintendo Switch hacking subreddit.
+- [/r/SwitchHacks](https://anonym.to/?https://www.removeddit.com/r/Swiacks) - Another Nintendo Switch hacking subreddit.
 - [/r/SwitchHaxing](https://anonym.to/?https://www.removeddit.com/r/SwitchHaxing) - Nintendo Switch hacking & homebrew subreddit.
 - [/r/vitahacks](https://anonym.to/?https://www.removeddit.com/r/vitahacks/) - A place to discuss Vita hacking and homebrew.
 - [/r/WiiHacks](https://anonym.to/?https://www.removeddit.com/r/WiiHacks/) - This reddit is for people interested in modifying their Wii.
@@ -2150,7 +2163,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [readcomiconline.to](https://anonym.to/?https://readcomiconline.to/) - Manga and comics which are been uploaded daily.
 - [ReadComics](https://anonym.to/?http://readcomics.website/) - (`insecure`) - Several misc comics published.
 - [WorldWideTorrents](https://anonym.to/?https://worldwidetorrents.eu/torrents.php?parent_cat=Comics) - Provides comic releases.
-- [Omnibus](https://anonym.to/?https://github.com/fireshaper/Omnibus) Download comics that are added to GetComics.info.
+- [Omnibus](https://anonym.to/?https://github.com/fireshaper/Omnibus) - Download comics that are added to GetComics.info.
 
 **[`^        back to top        ^`](#)**
 
@@ -2162,6 +2175,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Madokami F-K](https://anonym.to/?https://archive.org/download/Madokami.Manga.F-K) - Download manga titles named F to K.
 - [Madokami L-Q](https://anonym.to/?https://archive.org/download/Madokami.Manga.L-Q) - Download manga titles named L to Q.
 - [Madokami novels, raws and artbooks](https://anonym.to/?https://archive.org/download/Madokami.NotManga) - Download novels, manga raws and artbooks.
+- [Tachiyomi](https://tachiyomi.org/) Free and open source manga reader for Android.
 - [Mangareader.net](https://anonym.to/?https://www.mangareader.net) - Read your favorite manga scans and scanlations online at Manga Reader.
 - [Madokami R-Z](https://anonym.to/?https://archive.org/download/Madokami.Manga.R-Z) - Download manga titles named R to Z.
 - [MangaDex](https://anonym.to/?https://www.mangadex.org/) - MangaDex is an online manga reader that caters to all languages.
@@ -2686,12 +2700,14 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 **[`^        back to top        ^`](#)**
 
+
 ## Decentralized local GIT
 - [git-ssb (Git over Secure-Scuttlebutt)](https://anonym.to/?https://github.com/noffle/git-ssb-intro) - Learn git-ssb: a decentralized GitHub alternative, you could also [combine it with Tor](https://anonym.to/?https://handbook.scuttlebutt.nz/faq/misc/tor).
 - [Radicle](https://anonym.to/?https://www.radicle.xyz/) - A decentralized alternative to GitHub built on IPFS.
 - [Mango](https://anonym.to/?https://github.com/axic/mango) - Cmbines Ethereum with IPFS or Swarm as a backend for Git.
 
 **[`^        back to top        ^`](#)**
+
 
 ## HTCP
 - [Anonmasky](https://anonym.to/?https://github.com/Anonmasky/anonmasky.github.io) - Anonmasky is a beautiful startpage for geeks out there. Clone of weboas.is.
@@ -2853,7 +2869,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Smsreceivefree](https://anonym.to/?http://Smsreceivefree.com) - Temporary SMS and Disposable Numbers.
 - [SMSToolsOnline](https://anonym.to/?https://smstools.online/) - Yet another free SMS service.
 - [Sonetel](https://anonym.to/?http://Sonetel.com) - Free and paid service for virtual sms numbers.
-- [Tempsms](https://anonym.to/?hhttp://Tempsms.ru) - (`RU`) -  Keep spam out of your phone and stay safe - just use a free disposable temporary phone number!
+- [Tempsms](https://anonym.to/?http://Tempsms.ru) - (`RU`) -  Keep spam out of your phone and stay safe - just use a free disposable temporary phone number!
 - [Zadarma](https://anonym.to/?https://zadarma.com/en/) - The Zadarma VoIP project enables you to setup your business telephone system without the heavy hardware and wiring expenses.
 
 **[`^        back to top        ^`](#)**
@@ -3306,3 +3322,11 @@ one cryptocurrency wallet to another across various cryptocurrencies
 
 **[`^        back to top        ^`](#)**
 
+
+## Database Leaks
+- [Evileaks.su](https://anonym.to/?https://evileaks.su/) - A website dedicated to release/inform you about Database and Tool leaks.
+- [Mixwayz](https://anonym.to/?http://mixwayz.com/) - Similar like evileaks.su.
+- [Eldersc0de](https://anonym.to/?http://eldersc0de.pro/account/) - Paid service for getting databases.
+- [tracy03](https://anonym.to/?https://tracy03.fun/) - Credit cards, CCVS, Databases service.
+
+**[`^        back to top        ^`](#)**
