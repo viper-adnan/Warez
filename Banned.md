@@ -188,6 +188,8 @@
 - [Datasource.ch](http://www.datasource.ch/) - Swiss made offshore VPS provider.
 - foxleech.com
 - torrentsafe.com
+- [1337x](https://anonym.to/?https://1337x.to/) - (Official mirror list](https://anonym.to/?https://1337x.to/about) - 1337x is a torrent site that offers verified torrent downloads.
+
 
 ## Imposter, crypto mining etc.
 * CMRG
