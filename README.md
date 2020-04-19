@@ -1197,7 +1197,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Your-Anime](https://anonym.to/?https://www.your-anime.com/) - (`AR`) - Arabish animes dubbed.
 - [YMP4](https://anonym.to/?https://ymp4.download/) - Download videos from Youtube to mp4 & mp3 files, including from places like e.g. Crunchroll.
 - [KissAnime.nz](https://anonym.to/?http://kissanime.nz/) - One of the best places for Animes.
-- [Anime Ultima](https://anonym.to/?https://www1.animeultima.to/) - Yet another good place for Animes.
+- (https://anonym.to/?https://www1.animeultima.to/) - Yet another good place for Animes.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2432,8 +2432,10 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Worldscinema](https://anonym.to/?https://worldscinema.org/)
 - [Rarfilm](https://anonym.to/?http://rarefilm.net/)
 - [AllTheStreams](https://anonym.to/?https://allthestreams.fm/) - Hulu, Disney+, Netflix, HBO, Prime Video or SHow Time as a stream which you can watch via Browser.
+- [xyztv.xyz](https://anonym.to/?https://xyztv.xyz/) - TV Shows.
 
 **[`^        back to top        ^`](#readme)**
+
 
 ### 1080p Streaming
 - [0123movies](https://anonym.to/?https://www.0123moviesback.com/)
