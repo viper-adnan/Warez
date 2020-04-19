@@ -698,6 +698,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [torrentgalaxy.io](https://anonym.to/?http://torrentgalaxy.io/) - (`GeoIP block, ISP Block`) - TorrentGalaxy is a popular torrent directory.
 - [ilcorsaronero.info](https://anonym.to/?https://ilcorsaronero.xyz/) (`It`) - Popular Italian torrent directory.
 - [yggtorrent.se](https://anonym.to/?https://yggtorrent.se/) - (`FR`) - Popular French torrent directory.
+- [Torrents9](https://vww.torrentz9.fr/) - (`FR`) - Yet another popular French torrent directory.
 
 **[`^        back to top        ^`](#readme)**
 
