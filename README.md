@@ -2149,9 +2149,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [it-ebooks](http://it-ebooks.info) - (`insecure`) - Large selection of free and open source IT ebooks
 - [PDF/Ebook trackers for college textbooks](https://anonym.to/?https://www.removeddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/) - Old-but-still-useful list of ebook/textbook trackers, DDL sites and IRC communities.
 
-**[`^        back to top        ^`](#readme)**
-
-
+**[`^        back to top        ^`](#readme)*
 ## Direct Download Streaming
 - [Catchvideo.net](https://anonym.to/?https://catchvideo.net/) - Catchvideo.net is a free online website, which allows you to download a video url from YouTube, Facebook, Dailymotion, Vimeo and more.
 - [HDencode](https://anonym.to/?https://hdencode.com/) - Download Movies and TV Shows - #1 Source for High Definition Releases.

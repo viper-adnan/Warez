@@ -585,3 +585,6 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversible™ Google Takedowns
 - kpmp444tubeirwan.onion
 - r5c2ch4h5rogigqi.onion/
 - hbjw7wjeoltskhol.onion
+
+## DNS Provider
+- https://dnswarden.com/

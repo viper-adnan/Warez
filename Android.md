@@ -55,16 +55,6 @@ IPv4 Address: 104.244.78.231
 TLS Hostname: uncensored.lux1.dns.nixnet.xyz
 TCP Port: 853
 🇱🇺 Luxembourg, EU
-
-✅ dnswarden (https://github.com/bhanupratapys/dnswarden/blob/master/README.md) (by @bhanupratapys)
-IPv4 Address: 116.203.70.156, 116.203.35.255
-Port: 5353
-IPv6 Address: 2a01:4f8:1c1c:5e77::1, 2a01:4f8:1c1c:75b4::1
-Port: 5353
-TLS Hostname: uncensored-dot.dnswarden.com
-TCP Port: 443 or 853
-DoH: https://doh.dnswarden.com/uncensored
-🇩🇪 Germany, EU
 ````
 
 *⚠️ Do not use Cloudflare, Quad9, Google or your ISP's DNS, as they're run by big corporations | [SOURCE](https://old.reddit.com/r/sevengali/comments/8fy15e/dns_cloudflare_quad9_etc) ⚠️
