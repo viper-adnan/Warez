@@ -320,7 +320,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Microsoft Games Collection](https://anonym.to/?http://web.archive.org/web/20190429144409/https://anonym.to/?https://docs.google.com/spreadsheets/d/e/2PACX-1vRs56u1DiQy4EBB8rWrk1r-yvkYgatv9h0IbKKDh1HyPXueiaS06aVdovdF_nHe9SJrPwfkYRMif_mG/pubhtml)
 - [LibGen & Sci-Hub torrent archive](https://anonym.to/?http://libgen.lc/stat.php) - Entire collection via BitTorrent, a Reddit discussion can be found over [here](https://anonym.to/?https://www.removeddit.com/r/seedboxes/comments/e129yi/charitable_seeding_for_nonprofit_scientific/)
 - [emuparadise-mirror](https://anonym.to/?https://github.com/Mz49/emuparadise-mirror) - A Cloudflare worker script that mirrors EmuParadise and alters download pages to include a working link.
-- [mastamilanzipdownload](https://mastamilanzipdownload.com/) - ROMs and scripts.
+-(https://mastamilanzipdownload.com/) - ROMs and scripts.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -694,6 +694,8 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Zooqle](https://anonym.to/?https://zooqle.com/) - Zooqle is a relatively new torrent index providing a huge database of verified torrents.
 - [monova.to](https://anonym.to/?https://monova.to/)
 - [PaHe.me](https://anonym.to/?https://pahe.me/) - HQ Movies at Affordable Size.
+- [rutor.info](https://anonym.to/?http://rutor.info/) - (`RU`) - argest Russian language torrent website.
+
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1214,7 +1216,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ### Anime Torrent Websites
-- [Nyaa.si](https://anonym.to/?https://nyaa.si/) - Anime torrent search engine with many fansub/fandub groups actively sharing torrents. No ads, no malware, nothing.
+- [Nyaa.si](https://anonym.to/?https://nyaa.si/) - Anime torrent search engine with many fansub/fandub groups actively sharing torrents. No ads, no malware, nothing but clean.
 - [AniDex](https://anonym.to/?https://anidex.info/) - Another anime torrent search engine. No ads/popups.
 - [Tokyo Tosho](https://anonym.to/?https://www.tokyotosho.info/) - Referral banner ads.
 - [Nyaa Pantsu](https://anonym.to/?https://nyaa.net/) - No ads. Very similar to nyaa website.
