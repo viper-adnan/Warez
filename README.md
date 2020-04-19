@@ -674,7 +674,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Shodan](https://anonym.to/?https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices.
 - [Shaanig](https://anonym.to/?https://shaanig.se/) - Small-size HD TV episodes & movies.
 - [SkyTorrents](https://anonym.to/?https://www.skytorrents.lol/) - Revival of the recently-shut-down, privacy-focused, ad-free torrent indexer.
-- [Streams.Now.SH](https://anonym.to/?https://streams.now.sh/) - Similar quality & size like RARBG & YTS.
+- [Streams.Now.SH](https://anonym.to/?https://streams.now.sh/) - Similar quality & size like RARBG & [YTS](https://anonym.to/?https://yts.mx).
 - [The Pirate Bay](https://anonym.to/?https://thepiratebay.org/) - A well-known torrent site which is somehow still running, blocked in most places. (**Be warned**: It mines coins in the background!) + Onion `piratebayztemzmv.onion`
 - [The Proxy Bay](https://anonym.to/?https://proxybay.bz/) - Can't access The Pirate Bay? Try one of these proxy sites.
 - [Tor Lock](https://anonym.to/?https://torlock.com/) - TorLock is a torrent site that offers verified torrent downloads.
@@ -695,7 +695,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [monova.to](https://anonym.to/?https://monova.to/)
 - [PaHe.me](https://anonym.to/?https://pahe.me/) - HQ Movies at Affordable Size.
 - [rutor.info](https://anonym.to/?http://rutor.info/) - (`RU`) - argest Russian language torrent website.
-
+- [torrentgalaxy.io](https://anonym.to/?http://torrentgalaxy.io/) - (`GeoIP block, ISP Block`) - TorrentGalaxy is a popular torrent directory.
 
 **[`^        back to top        ^`](#readme)**
 
