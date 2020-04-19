@@ -1198,7 +1198,16 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [YMP4](https://anonym.to/?https://ymp4.download/) - Download videos from Youtube to mp4 & mp3 files, including from places like e.g. Crunchroll.
 - [KissAnime.nz](https://anonym.to/?http://kissanime.nz/) - One of the best places for Animes.
 - (https://anonym.to/?https://www1.animeultima.to/) - Yet another good place for Animes.
-- [/r/KissCommunitySupport](https://old.reddit.com/r/KissCommunitySupport) - Official Kiss Community subreddit.
+- [/r/KissCommunitySupport](https://anonym.to/?https://old.reddit.com/r/KissCommunitySupport) - Official Kiss Community subreddit.
+- [KissAnime.ru](https://anonym.to/?http://kissanime.ru/) - (`RU`) - Official russian KissAnime community.
+- [KimCartoon](https://anonym.to/?http://kimcartoon.to/) - KissAnime mirror.
+- [KissAsian](https://anonym.to/?http://kissasian.ch/) - Yet another website for Animes.
+- [KissManga](https://anonym.to/?http://kissmanga.com/)
+- [KissComic](https://anonym.to/?http://readcomiconline.to/)
+- [NovelPlanet](https://anonym.to/?http://novelplanet.com/)
+- [fmovies](https://anonym.to/?https://fmovies.wtf/) - Alternative to KissCartoon and also includes TV shows and movies.
+
+
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2177,6 +2186,10 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [ReadComics](https://anonym.to/?http://readcomics.website/) - (`insecure`) - Several misc comics published.
 - [WorldWideTorrents](https://anonym.to/?https://worldwidetorrents.eu/torrents.php?parent_cat=Comics) - Provides comic releases.
 - [Omnibus](https://anonym.to/?https://github.com/fireshaper/Omnibus) - Download comics that are added to GetComics.info.
+- [ViewComics](https://anonym.to/?http://viewcomic.com/) - (`insecure`) - Alternative to ReadComicsOnline.
+- [ReadComicsOnline.net](https://anonym.to/?http://readcomicbooksonline.net/)
+- [ReadComicsOnline (Russian version)](https://anonym.to/?http://readcomicsonline.ru/)
+- [ReadComicOnline.to](https://anonym.to/?https://readcomiconline.to/)
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2193,6 +2206,15 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Madokami R-Z](https://anonym.to/?https://archive.org/download/Madokami.Manga.R-Z) - Download manga titles named R to Z.
 - [MangaDex](https://anonym.to/?https://www.mangadex.org/) - MangaDex is an online manga reader that caters to all languages.
 - [MangaZone](https://anonym.to/?http://mangazoneapp.com/) - (`insecure`) - A manga reader app.
+- [Mangadoom](https://anonym.to/?http://mangadoom.co/) - (`insecure`)
+- [Manga Park](https://anonym.to/?http://mangapark.me/) - (`insecure`) - Alternative to KissManga.
+- [Mangago](https://anonym.to/?http://www.mangago.me/) - (`insecure`)
+- [GoodManga](https://anonym.to/?http://www.goodmanga.net/) - (`insecure`)
+- [EatManga](https://anonym.to/?http://eatmanga.com/) - (`insecure`)
+- [Readmng](https://anonym.to/?https://www.readmng.com/) - (`insecure`)
+- [GoGoManga](https://anonym.to/?http://www1.gogomanga.to/) - (`insecure`)
+- [Manga Life](https://anonym.to/?https://mangalife.us/) - (`insecure`)
+- [MangdaDex](https://anonym.to/?https://mangadex.org/)
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2203,6 +2225,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [RektNovelCompilations](https://anonym.to/?https://rektnovelcompilations.wordpress.com/) - Free, fansubs, bannerads (Currently has many dead links).
 - [henkanepubs](https://anonym.to/?https://henkanepubs.wordpress.com/) - Free, fansubs, bannerads, every download has a redirrect to adfly.
 - [NovelPlanet](https://anonym.to/?ttps://novelplanet.com/) - Free, english, bannerads.
+- [NovelPlanet](https://anonym.to/?https://novelplanet.com/) - Free and english novels.
 
 **[`^        back to top        ^`](#readme)**
 
