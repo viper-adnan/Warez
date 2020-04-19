@@ -694,8 +694,10 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Zooqle](https://anonym.to/?https://zooqle.com/) - Zooqle is a relatively new torrent index providing a huge database of verified torrents.
 - [monova.to](https://anonym.to/?https://monova.to/)
 - [PaHe.me](https://anonym.to/?https://pahe.me/) - HQ Movies at Affordable Size.
-- [rutor.info](https://anonym.to/?http://rutor.info/) - (`RU`) - argest Russian language torrent website.
+- [rutor.info](https://anonym.to/?http://rutor.info/) - (`RU`) - Largest Russian language torrent website.
 - [torrentgalaxy.io](https://anonym.to/?http://torrentgalaxy.io/) - (`GeoIP block, ISP Block`) - TorrentGalaxy is a popular torrent directory.
+- [ilcorsaronero.info](https://anonym.to/?https://ilcorsaronero.xyz/) (`It`) - Popular Italian torrent directory.
+
 
 **[`^        back to top        ^`](#readme)**
 
