@@ -1198,6 +1198,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [YMP4](https://anonym.to/?https://ymp4.download/) - Download videos from Youtube to mp4 & mp3 files, including from places like e.g. Crunchroll.
 - [KissAnime.nz](https://anonym.to/?http://kissanime.nz/) - One of the best places for Animes.
 - (https://anonym.to/?https://www1.animeultima.to/) - Yet another good place for Animes.
+- [/r/KissCommunitySupport](https://old.reddit.com/r/KissCommunitySupport) - Official Kiss Community subreddit.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2595,6 +2596,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [The Eye](https://anonym.to/?https://discordapp.com/invite/py3kX3Z) - Official Discord server for The-Eye.eu.
 - [The Ratio](https://anonym.to/?https://discordapp.com/invite/wab3Qag) - A community of seedbox enthusiasts. Buying advice, application setup, and automation help.
 - [WarezNX](https://anonym.to/?https://discord.gg/d6xxuPq) - Nintendo Switch Warez community server.
+- [KissCommunity Discord](https://discordapp.com/invite/eCzUxNB) - Community based Discord channel.
 
 **[`^        back to top        ^`](#readme)**
 
