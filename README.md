@@ -699,8 +699,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [ilcorsaronero.info](https://anonym.to/?https://ilcorsaronero.xyz/) (`It`) - Popular Italian torrent directory.
 - [yggtorrent.se](https://anonym.to/?https://yggtorrent.se/) - (`FR`) - Popular French torrent directory.
 - [Torrents9](https://anonym.to/?https://vww.torrentz9.fr/) - (`FR`) - Yet another popular French torrent directory.
-- [zone-annuaire.com](https://anonym.to/?http://zone-annuaire.com/) - (`FR`) - Yet another popular French torrent directory.
-- []
+- [](https://anonym.to/?http://zone-annuaire.com/) - (`FR`) - Yet another popular French torrent directory.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1039,7 +1038,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [MaxRelease](https://anonym.to/?http://max-rls.com/) - (`insecure`) - Games, software, magazines, movies, music & tv shows.
 - [Movie Glide](https://anonym.to/?https://www.movieglide.com/) - Videos/Movies & TV Shows in HD Quality.
 - [MovieFiles](https://anonym.to/?https://moviefiles.org/) - Direct download search engine which generates Google Drive links
-- [Moviesleak](https://anonym.to/?https://moviesleak.net/) - Yet another movie page, the focus is in IMDB annoucements.
+- [Moviesleak](https://anonym.to/?https://moviesleak.net/) - Yet another movie page, the focus is in IMDB announcements.
 - [Mutaz](https://anonym.to/?https://www.mutaz.net/free-programs/) - Tracks scene software releases.
 - [NGB.to](https://anonym.to/?https://ngb.to/) - (Ger) - Another Gulli/MyGully clone.
 - [Nsane Forum](https://anonym.to/?https://www.nsaneforums.com/) - Public forum for everyone to talk about software & news around the world.
@@ -2159,6 +2158,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Movie Files](https://anonym.to/?https://moviefiles.org/) - Download Movies For free.
 - [Movies "R" Us](https://anonym.to/?https://moviesrus.tk) - The newest movies in 1080p. Available with DDL through MediaFire and streaming through Anonfile.
 - [DL WarezForums](https://anonym.to/?https://dr.warezforums.com/) - Direct downloads and direct streaming, movies, files & more.
+- [TTDG](https://anonym.to/?http://185.105.101.95/) - (`insecure`) - Movies via streaming.
 
 **[`^        back to top        ^`](#readme)**
 
