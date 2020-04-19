@@ -394,6 +394,7 @@
 * Share-Online.biz
 * Followerschmiede.de
 * Streamworld.co (GeoIP/Proxy/VPN block)
+* stagedork.com (bad quality)
 
 ## MKVCage clones
 * mkvcage.best
