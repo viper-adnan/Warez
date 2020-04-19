@@ -697,7 +697,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [rutor.info](https://anonym.to/?http://rutor.info/) - (`RU`) - Largest Russian language torrent website.
 - [torrentgalaxy.io](https://anonym.to/?http://torrentgalaxy.io/) - (`GeoIP block, ISP Block`) - TorrentGalaxy is a popular torrent directory.
 - [ilcorsaronero.info](https://anonym.to/?https://ilcorsaronero.xyz/) (`It`) - Popular Italian torrent directory.
-
+- [yggtorrent.se](https://anonym.to/?https://yggtorrent.se/) - (`FR`) - Popular French torrent directory.
 
 **[`^        back to top        ^`](#readme)**
 
