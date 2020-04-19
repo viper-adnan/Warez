@@ -642,12 +642,12 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 #### Public Trackers
-- [1337x](https://anonym.to/?https://1337.root.yt/) - Ad-Free and clean version of 1337x.
+- [1337](https://anonym.to/?https://1337.root.yt/) - Ad-Free and clean version of 1337x.
 - [7torrents](https://anonym.to/?https://www.7torrents.cc/) - Privacy-focused DHT search engine without any ads.
 - [Bthub.Me](https://anonym.to/?https://www.bthub.me/) - (CN) - Movies, Docus & more for your chinese friends.
 - [BTDB](https://anonym.to/?https://btdb.to/) - Large BitTorrent DHT search engine.
 - [CGPeers](https://anonym.to/?https://www.cgpeers.to/) - CGPeers is a well known trusted tracker (registration every 15th and 1st of the month).
-- [dlb.to](https://anonym.to/?https://dlb.to/) - Indixer for various Warez websites and material.
+- [dlb.to](https://anonym.to/?https://dlb.to/) - Indexer for various Warez websites and material.
 - [Darli](https://anonym.to/?http://tracker.darli.net) - (HDS) - Our open torrent tracker is available for everyone. Use where necessary.
 - [DIGBT](https://anonym.to/?https://www.digbt.org/) - DIGBT is a DHT torrent search engine.
 - [ETTV](https://anonym.to/?https://www.ettvdl.com/) - ETTV is a torrent site specific for movie torrents.
@@ -724,6 +724,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Radarr](https://anonym.to/?https://github.com/Radarr/Radarr) - (make sure you [turn click-tracking off](https://anonym.to/?https://i.imgur.com/QpP1M6Q.png)) - A fork of Sonarr to work with movies à la Couchpotato.
 - [SickRage](https://anonym.to/?https://git.sickrage.ca/SiCKRAGE/sickrage) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
 - [Sonarr](https://anonym.to/?https://github.com/Sonarr/Sonarr) - (make sure you [turn click-tracking off](https://anonym.to/?https://i.imgur.com/QpP1M6Q.png)) - Smart PVR for newsgroup and Bittorrent users.
+- [Bitport](https://anonym.to/?https://bitport.io/welcome) - Download files to a secured cloud. Anonymously. Fast. Online.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -740,7 +741,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 #### rTorrent
 - [flood](https://anonym.to/?https://github.com/jfurrow/flood) - A web UI for rTorrent with a Node.js backend and React frontend.
-- [rTorrent ArchWiki Page](https://anonym.to/?https://wiki.archlinux.org/index.php/RTorrent) - Detailed article to answer most common questions about rTorrent.
+- [r ArchWiki Page](https://anonym.to/?https://wiki.archlinux.org/index.php/RTorrent) - Detailed article to answer most common questions about rTorrent.
 - [rTorrent Seedbox Guide](https://anonym.to/?https://jes.sc/kb/rTorrent-ruTorrent-Seedbox-Guide.php) - This guide is a single-page, comprehensive guide to take you step-by-step through installation and configuration.
 - [rtorrent-ps](https://anonym.to/?https://github.com/pyroscope/rtorrent-ps) - Extended rTorrent distribution with a fully customizable canvas and colors, other feature additions, and complete docs.
 - [rTorrent](https://anonym.to/?https://rakshasa.github.io/rtorrent/) - rTorrent is a text-based ncurses BitTorrent client written in C++.
