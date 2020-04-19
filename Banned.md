@@ -395,6 +395,7 @@
 * Followerschmiede.de
 * Streamworld.co (GeoIP/Proxy/VPN block)
 * stagedork.com (bad quality)
+* accountbot.io banned
 
 ## MKVCage clones
 * mkvcage.best
