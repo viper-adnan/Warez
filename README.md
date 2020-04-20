@@ -330,7 +330,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [ArchiveBox](https://anonym.to/?https://github.com/pirate/ArchiveBox) - The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [monolith](https://anonym.to/?https://github.com/Y2Z/monolith) - CLI tool for saving complete web pages as a single HTML file.
 
-**[`^        back to top        ^`](#)*
+**[`^        back to top        ^`](#readme)**
 
 
 ## Email Service Providers
