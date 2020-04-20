@@ -608,7 +608,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [HD4Free](https://anonym.to/?https://hd4.xyz) - (HD4F) - HD4Free is a general HD tracker with a good range of content.
 - [IPTorrents](https://anonym.to/?https://iptorrents.com/) - (IPT) - Private tracker with movies, books, and more.
 - [JPopsuki](https://anonym.to/?https://jpopsuki.eu/) - (JPop) - JPopsuki is a torrent tracker focused on Asian music.
-- [Milkie](https://anonym.to/?https://milkie.cc/) - Added another upcoming private tracker site.
+- [Milkie](https://anonym.to/?https://milkie.cc/milk/General2019) - Added another upcoming private tracker site.
 - [MyAnonaMouse](https://anonym.to/?https://www.myanonamouse.net/) - (MAM) - Private E-Learning tracker with about 360 000 torrents including audiobooks, e-learning, musicology, and radio.
 - [Nostalgic Torrents](https://anonym.to/?https://nostalgic.is/) - (NT) - Private tracker for anime, comics/manga, documentaries, movies, TV - PRE 2013, TV - PRE 2009 With Original Commercials, etc. Also known as The-Archive and HeyNow.
 - [PassThePopcorn](https://anonym.to/?https://passthepopcorn.me/) - (PTP) - ratio-based torrent tracker for movies (requires login).
@@ -627,16 +627,62 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [TVChaos UK](https://anonym.to/?https://www.tvchaosuk.com/) - (TVCUK) - Private tracker for British television
 - [UHDBits](https://anonym.to/?https://uhdbits.org/) - (UHD) - UHDBits is a Vietnamese private torrent tracker focused on HD movies and TV shows.
 - [WorldOfP2P](https://anonym.to/?https://worldofp2p.net) - (WOP) - Private tracker for Movies, TV and general P2P stuff.
+- [Fou Du cinema](https://anonym.to/?https://fou-du-cinema.net/) - (`FR`) - (`invite only`) Movies, TV Series, Documentaries, General.
+- [BWTorrents.tv](https://anonym.to/?https://bwtorrents.tv/signup.php) - Bollywood tracker.
+- [Blackhole torrent (BHT)](https://anonym.to/?https://bht.is/) - (`FR`) -
+- [Bangumi Moe](https://anonym.to/?https://bangumi.moe/)
+- [avg.club](https://anonym.to/?https://avg.club/)
+- [peers](https://anonym.to/?https://peers.fm/)
+- [tracker.0day.kiev](https://anonym.to/?https://tracker.0day.kiev.ua/)
 
 **[`^        back to top        ^`](#readme)**
 
 
 #### Semi-Private Trackers
 - [ArenaBG](https://anonym.to/?https://arenabg.com/) - A Bulgarian tracker with an English translation available.
-- [NoNaMe Club](https://anonym.to/?https://nnmclub.to/) - Russian semi-private tracker and forum.
+- [NoNaMe Club](https://anonym.to/?https://nnmclub.to/) - (`RU`) - Russian semi-private tracker and forum.
 - [ruTracker](https://anonym.to/?https://rutracker.org/forum/index.php) - RuTracker is a huge Russian torrent site with a thriving file-sharing community.
 - [MetalArea](https://anonym.to/?https://metalarea.org/) - Russian tracker for obscure metal and dungeon synth.
 - [Zamunda.net](https://anonym.to/?https://zamunda.net/) - A Bulgarian tracker with English and Russian translations available.
+- [soap4](https://anonym.to/?http://soap4.me/) - (`RU`) - Russian semi-private tracker, t has a lot of TV shows and torrents for it.
+- [TheOdyssey](https://anonym.to/?http://theodyssey.cc/) - (`IT`) - It's a free new semi-private Italian tracker.
+- [sktorrent](https://anonym.to/?https://sktorrent.org/)
+- [kaztorka](https://anonym.to/?https://kaztorka.org/) - (`RU`) - 0day & general
+- [DimeADozen](https://anonym.to/?http://www.dimeadozen.org/) - DimeADozen (EZTorrent) is a semi-private Torrent Tracker for Bootleg music.
+- [Rintor](https://anonym.to/?http://rintor.org/) - (`RU`) - Adult torrent site and content.
+- [kinorun](https://anonym.to/?http://kinorun.top/) - (`RU`) - No ratio limit, various content.
+- [iv-torrent](https://anonym.to/?http://iv-torrents.ru/) - (`RU`) - Adult torrent site and content.
+- [kinonavse100](https://anonym.to/?http://kinonavse100.com/) - (`RU`) - Russian Tracker for Movies.
+- [ExKinoRay.tv](https://anonym.to/?http://exkinoray.tv/) - (`RU`) - Russian Tracker for Movies.
+- [Films.club](https://anonym.to/?https://films.club/) - (`RU`) - Russian Tracker for Movies and TV Shows.
+- [erzsebet](https://anonym.to/?https://erzsebet.org/) - (`RU`) - Russian adult torrent website
+- [korsar](https://anonym.to/?http://korsar.tv/) - (`RU`) - Russian tracker for various types of content.
+- [rustorka](https://anonym.to/?http://rustorka.com/) - (`RU`) - Russian tracker for 0Day and general.
+- [extremlymtorrents](https://anonym.to/?https://extremlymtorrents.ws/) - General content, movies, tv series
+- [muziekfabriek](https://anonym.to/?https://www.muziekfabriek.org/) - (`DU`) - Semi-private Dutch torrent tracker for Dutch audio.
+- [riperam](https://anonym.to/?http://riperam.org/) & [kubyshka](https://anonym.to/?http://b.kubyshka.org/) - (`RU`) - RiperAM is a RUSSIAN Semi-Private Torrent Tracker for MOVIES & TV.
+- [dxp](https://anonym.to/?https://dxp.ru/) - (`RU`) - DXP.ru is a Rusian Semi-Private Torrent Tracker for MOVIES & TV.
+- [hddolby](https://anonym.to/?http://hddolby.com/) - Private Trackers with Nexusphp.
+- [tribalmixes](https://anonym.to/?https://www.tribalmixes.com/signup.php) - TribalMixes is a ratioless Private Torrent Tracker for DJ MIXES.
+- [Torrent Explosiv](https://anonym.to/?https://torrent-explosiv.eu/) - (`Ger`) - German Tracker for various content.
+- [EniaHD](https://anonym.to/?https://eniahd.com/) - (`RU`) - Russian tracker for music, movies and tv shows.
+- [nitro](https://anonym.to/?http://nitro.to/) - (`PL`) -
+- [Underverse](https://anonym.to/?https://underverse.su/) - (`RU`) -
+- [booktracker](https://anonym.to/?https://booktracker.org/) - (`RU`) -
+- [Alexfilm](https://anonym.to/?https://alexfilm.cc/)
+- [Marine Tracke](https://anonym.to/?https://seatracker.ru/) - (`RU`) -
+- [baibako](https://anonym.to/?http://baibako.tv/) - (`RU`) - Baibako.tv is the russian semi-private tracker. It has a lot of TV shows.
+- [ScenePalace.info](https://anonym.to/?https://scenepalace.info/signup.php)
+- [Crazy Spirits](https://anonym.to/?http://crazyspirits.com/) - (`FR`) - French semi-private tracker for General and Videos.
+- [HamsterStudio.org](https://anonym.to/?http://hamsterstudio.org/) - (`RU`) - HamsterStudio is russian torrent tracker. It has a lot of TV shows.
+- [tr.anidub.com](https://anonym.to/?http://tr.anidub.com/)
+- [torrents-local.xyz](https://anonym.to/?https://torrents-local.xyz/)
+- [toloka](https://anonym.to/?https://toloka.to/) - (`UR`) - Ukrainian Semi-private forum, requires registration to download.
+- [Génération Rosco](https://anonym.to/?http://genration-rosco-tk.net/) - (`FR`) - Movie/TV/General.
+- [Bettyboop-tk](https://anonym.to/?http://bettyboop-tk.biz/) - (`FR`) - Movie/TV/General.
+- [xktorrent](https://anonym.to/?https://xktorrent.com/) - (`FR`) - Movie/TV/General.
+- [ShareWood](https://anonym.to/?https://www.sharewood.tv/login) - (`FR`) - Movie/TV/General.
+- [aussierul](https://anonym.to/?https://aussierul.es/)
 
 **[`^        back to top        ^`](#readme)**
 
@@ -699,7 +745,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [ilcorsaronero.info](https://anonym.to/?https://ilcorsaronero.xyz/) (`It`) - Popular Italian torrent directory.
 - [yggtorrent.se](https://anonym.to/?https://yggtorrent.se/) - (`FR`) - Popular French torrent directory.
 - [Torrents9](https://anonym.to/?https://vww.torrentz9.fr/) - (`FR`) - Yet another popular French torrent directory.
-- [](https://anonym.to/?http://zone-annuaire.com/) - (`FR`) - Yet another popular French torrent directory.
+- [Zone-Annuaire](https://anonym.to/?http://zone-annuaire.com/) - (`FR`) - Yet another popular French torrent directory.
 
 **[`^        back to top        ^`](#readme)**
 

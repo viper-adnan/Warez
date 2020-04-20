@@ -317,6 +317,7 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversible™ Google Takedowns
 - vertor.eu
 - zer0day.ch
 - zoink.it
+- trec.to
 
 ## Automated Downloaders
 - showrss.karmorra.info
@@ -586,5 +587,10 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversible™ Google Takedowns
 - r5c2ch4h5rogigqi.onion/
 - hbjw7wjeoltskhol.onion
 
+
 ## DNS Provider
 - https://dnswarden.com/
+
+
+## Semi-Private Tracker
+- gdf76.altervista.org
