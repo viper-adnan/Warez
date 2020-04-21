@@ -3223,7 +3223,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 ### Google Hangouts
 - [NextCloudTalk](https://anonym.to/?https://nextcloud.com/talk/) - Basically, Hangouts via NextCloud.
 - [Jitsi](https://anonym.to/?https://jitsi.org/) - Decrentralized chat, video and eMail platform.
-- [Whereby](https://anonym.to/?https://whereby.com/) - Anoher video calling app focused on privacy and usability.
+- (https://anonym.to/?https://whereby.com/) - Anoher video calling app focused on privacy and usability.
 
 
 ### Google Analytics

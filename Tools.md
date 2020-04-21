@@ -529,6 +529,7 @@ Downloads albums in bulk.
 - [Winaero](https://anonym.to/?http://winaero.com/download.php) - Free, small and useful software for Windows.
 - [Windows Privacy Tweaker](https://anonym.to/?http://www.phrozen.io/freeware/windows-privacy-tweaker/) - Freeware app from phrozen.io.
 - [WPD](https://anonym.to/?http://wpd.app/) - The real privacy dashboard for Windows.
+- [PimpApp](https://anonym.to/?hhttps://www.mirinsoft.com/blog/19-apps/20-new-app-pimpapp) Old name was Debotnet, privacy all-in-one tool.
 
 **[`^        back to top        ^`](#)**
 
