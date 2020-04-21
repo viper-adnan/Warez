@@ -40,6 +40,9 @@
 - [Torrentz2 Magnet](https://anonym.to/?https://greasyfork.org/en/scripts/21547-torrentz2-magnet) - Add magnet link to torrentz2.
 - [XZ Pixiv Batch Downloader](https://anonym.to/?https://greasyfork.org/scripts/24252) - Batch download original works of artists such as artists, bookmarks, leaderboards, search pages, etc.; view popular works; create folders; convert moving images...
 - [1337x - Torrent page improvements](https://anonym.to/?https://greasyfork.org/en/scripts/33379-1337x-torrent-page-improvements) - Makes titles longer on the torrent page and optionally enables the detail box when available.
+- [1337X - Subtitle download links to TV and Movie torrents](https://greasyfork.org/en/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents) - Adds download links for subtitles to every TV and movie torrent on 1337x (addic7ed & subscene).
+
+
 
 
 **[`^        back to top        ^`](#)**
