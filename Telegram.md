@@ -125,6 +125,8 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@TeleWarez_Bot](https://anonym.to/?https://t.me/TeleWarez_Bot) - Official bot from Warez-IR.com to share and get files.
 - [@UploadBots](https://anonym.to/?https://t.me/UploadBots) - A bot which uploads your telegram file to a sharehoster.
 - [aria-telegram-mirror-bot](https://anonym.to/?https://github.com/out386/aria-telegram-mirror-bot) - A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
+- [tgfilestream](https://anonym.to/?https://github.com/SpEcHiDe/tgfilestream) - A Telegram bot that can stream Telegram files to users over HTTP.
+
 
 #### Telegram channel for file sharing
 - [AutoRcloneEng](https://anonym.to/?https://t.me/AutoRcloneEng) - The official Rclone Telegram channel.
