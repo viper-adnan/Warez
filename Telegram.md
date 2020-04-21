@@ -97,7 +97,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 ### Telegram Deezer downloader Bot
 - [@DeezloaderAn0n_bot](https://anonym.to/?https://github.com/An0nimia/DeezloaderAn0n_bot) - Download songs from Deezer and if they are now avbl. in Deezer it downloads it from YouTube.
-
+- [@DeezerMusicBot](https://anonym.to/?https://t.me/DeezerMusicBot) - Music bot which downloads tracks from Deezer.
 
 **[`^        back to top        ^`](#)**
 
@@ -126,6 +126,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@UploadBots](https://anonym.to/?https://t.me/UploadBots) - A bot which uploads your telegram file to a sharehoster.
 - [aria-telegram-mirror-bot](https://anonym.to/?https://github.com/out386/aria-telegram-mirror-bot) - A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
 - [tgfilestream](https://anonym.to/?https://github.com/SpEcHiDe/tgfilestream) - A Telegram bot that can stream Telegram files to users over HTTP.
+- [UniBorg](https://anonym.to/?https://github.com/SpEcHiDe/UniBorg) - Pluggable Telegram bot and userbot based on Telethon.
 
 
 #### Telegram channel for file sharing
@@ -182,7 +183,6 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 ### Telegram channels for Music
-- [@DeezerMusicBot](https://anonym.to/?https://t.me/DeezerMusicBot) - Music bot which downloads tracks from Deezer.
 - [@flacaudio](https://anonym.to/?https://t.me/flacaudio) - `AR` - Arabish flac music.
 - [@flacmu5ic](https://anonym.to/?https://t.me/flacmu5ic) - This channel is maded 4 listening the best music from whole world.
 - [@flacmusicalbumfree](https://anonym.to/?https://t.me/flacmusicalbumfree) - FLAC Music and Albums for Free.
