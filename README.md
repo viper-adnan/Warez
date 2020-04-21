@@ -2418,7 +2418,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 **[`^        back to top        ^`](#readme)**
 
-
 ### Navigation Software
 - [China Rns](https://anonym.to/?https://www.china-rns.com/forum) - (Ger/EN) - German/English forum around navigation software & updates.
 - [Digital Eliteboard](https://anonym.to/?https://www.digital-eliteboard.com/forums) - (Ger) - Help forum around various topics and provides some tutorials.
@@ -3223,7 +3222,8 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ### Google Hangouts
 - [NextCloudTalk](https://anonym.to/?https://nextcloud.com/talk/) - Basically, Hangouts via NextCloud.
-- [Jitsi](https://anonym.to/?https://jitsi.org/) - Decrentralized chat, eMail platform.
+- [Jitsi](https://anonym.to/?https://jitsi.org/) - Decrentralized chat, video and eMail platform.
+- [Whereby](https://anonym.to/?https://whereby.com/) - Anoher video calling app focused on privacy and usability.
 
 
 ### Google Analytics
