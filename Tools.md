@@ -309,7 +309,7 @@ Downloads albums in bulk.
 
 ## OS Metadata cleaner
 - [mat2](https://anonym.to/?https://pypi.org/project/mat2/) - mat2 cleans metadata.
-- [CCleaner](https://anonym.to/?hhttps://www.ccleaner.com/) + [Winapp3.ini](https://anonym.to/?https://github.com/MoscaDotTo/Winapp2/blob/master/Winapp3/Winapp3.ini) - `Bundleware` - `Make sure CCLeaner is blocked via firewall` - It removes unused files from your system.
+- [CCleaner](https://anonym.to/?https://www.ccleaner.com/) + [Winapp3.ini](https://anonym.to/?https://github.com/MoscaDotTo/Winapp2/blob/master/Winapp3/Winapp3.ini) - `Bundleware` - `Make sure CCLeaner is blocked via firewall` - It removes unused files from your system.
 - [Bleachbit](https://anonym.to/?https://www.bleachbit.org/) - Unless CCleaner it works on all operating systems and is fully open source but comes with less "cleaning features".
 
 ### Photo metdata cleaner
@@ -529,7 +529,7 @@ Downloads albums in bulk.
 - [Winaero](https://anonym.to/?http://winaero.com/download.php) - Free, small and useful software for Windows.
 - [Windows Privacy Tweaker](https://anonym.to/?http://www.phrozen.io/freeware/windows-privacy-tweaker/) - Freeware app from phrozen.io.
 - [WPD](https://anonym.to/?http://wpd.app/) - The real privacy dashboard for Windows.
-- [PimpApp](https://anonym.to/?hhttps://www.mirinsoft.com/blog/19-apps/20-new-app-pimpapp) Old name was Debotnet, privacy all-in-one tool.
+- [PimpApp](https://anonym.to/?https://www.mirinsoft.com/blog/19-apps/20-new-app-pimpapp) Old name was Debotnet, privacy all-in-one tool.
 
 **[`^        back to top        ^`](#)**
 
@@ -897,7 +897,7 @@ Downloads albums in bulk.
 
 
 ## Firewall Bypassing Tools
-- [Tunna](https://anonym.to/?hhttps://github.com/SECFORCE/Tunna) - Tunna is a set of tools which will wrap and tunnel any TCP communication over HTTP. It can be used to bypass network restrictions in fully firewalled environments.
+- [Tunna](https://anonym.to/?https://github.com/SECFORCE/Tunna) - Tunna is a set of tools which will wrap and tunnel any TCP communication over HTTP. It can be used to bypass network restrictions in fully firewalled environments.
 
 **[`^        back to top        ^`](#)**
 
@@ -925,7 +925,7 @@ Downloads albums in bulk.
 - [detectem](https://anonym.to/?https://github.com/spectresearch/detectem) - Detect software and its version on websites.
 - [dhcpf](https://anonym.to/?https://github.com/elceef/dhcpf) - Passive DHCP fingerprinting implementation.
 - [dnsmap](https://anonym.to/?http://dnsmap.googlecode.com/) - Passive DNS network mapper.
-- [Ettercap](https://anonym.to/?hhttps://www.ettercap-project.org/) - Is a comprehensive suite for man in the middle attacks, sniffing of live connections, content filtering on the fly and many other interesting tricks...
+- [Ettercap](https://anonym.to/?https://www.ettercap-project.org/) - Is a comprehensive suite for man in the middle attacks, sniffing of live connections, content filtering on the fly and many other interesting tricks...
 - [fingerprinter](https://anonym.to/?https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library etc Versions Fingerprinter.
 - [fl0p](https://anonym.to/?http://lcamtuf.coredump.cx/) - A passive L7 flow fingerprinter that examines TCP/UDP/ICMP packet sequences, can peek into cryptographic tunnels, can tell human beings and robots apart, and performs a couple of other infosec-related tricks.
 - [fpdns](https://anonym.to/?https://github.com/kirei/fpdns) - Program that remotely determines DNS server versions.
@@ -1029,7 +1029,7 @@ Overall strategy:
 - [URLScan](https://anonym.to/?https://urlscan.io/) - Check the website.
 - [Sooty](https://anonym.to/?https://github.com/TheresAFewConors/Sooty) - SOC Analyst Tool.
 - [CheckIP](https://anonym.to/?https://threatstop.com/checkip) - Free resource for checking rep on IPs/CIDRs and domains.
-- [Hybrid-Analysis](https://anonym.to/?https://www.hybrid-analysis.com/) - [alternative](https://anonym.to/?hhttps://app.sndbox.com/) - The free version is normally good enough.
+- [Hybrid-Analysis](https://anonym.to/?https://www.hybrid-analysis.com/) - [alternative](https://anonym.to/?https://app.sndbox.com/) - The free version is normally good enough.
 
 
 **[`^        back to top        ^`](#)**
