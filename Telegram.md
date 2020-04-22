@@ -8,7 +8,7 @@
 An overview of Telegram Bots, Channels and scripts can be found via the [telegram-list](https://anonym.to/?https://github.com/goq/telegram-list).
 
 - [@BotListBot](https://anonym.to/?https://t.me/BotListBot) - The official bot for botlist.co to list bots in Telegram.
-- [Botlist](https://anonym.to/?hhttps://botlist.co/) - A botlist for various messenger (including Telegram).
+- [Botlist](https://anonym.to/?https://botlist.co/) - A botlist for various messenger (including Telegram).
 - [telegram-list](https://anonym.to/?https://github.com/goq/telegram-list/) - `RU` - GitHub overview list of useful Telgram Bots.
 
 
@@ -131,7 +131,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 #### Telegram channel for file sharing
 - [AutoRcloneEng](https://anonym.to/?https://t.me/AutoRcloneEng) - The official Rclone Telegram channel.
-- [Transloader](https://anonym.to/?hhttps://t.me/transload) -Community to transload files and provide information which services to use.
+- [Transloader](https://anonym.to/?https://t.me/transload) -Community to transload files and provide information which services to use.
 
 **[`^        back to top        ^`](#)**
 
@@ -190,7 +190,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@flacmusics](https://anonym.to/?https://t.me/flacmusics) - FLAC Music (Lossless) (Hi-Res).
 - [@FLACSong](https://anonym.to/?https://t.me/FLACSong) - Lossless music, various albums, songs and artists.
 - [@Flacssongss](https://anonym.to/?https://t.me/flacsongss) - Other Than Indian Language Songs Will Be Posted here.
-- [@HDaudio](https://anonym.to/?hhttps://t.me/hdaudio) - High Definition Audio, 24 bit 48 kHz and up.
+- [@HDaudio](https://anonym.to/?https://t.me/hdaudio) - High Definition Audio, 24 bit 48 kHz and up.
 - [@highreschannell](https://anonym.to/?https://t.me/highreschannell) - High resolution music!
 - [@indianflacsongs](https://anonym.to/?https://t.me/indianflacsongs) - `HI` - Flac Songs Of Telugu, Malayalam, Hindi, Kannada & Many Other Languages Will Be Posted Here.
 - [@JioDLBot](https://anonym.to/?https://t.me/JioDLBot) - Search and Download Music inside Telegram.
@@ -247,21 +247,21 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@offstream_media](https://anonym.to/?https://t.me/offstream_media) - TV Shows, Movies and more!
 - [@Qualitymovies](https://anonym.to/?https://t.me/Qualitymovies) - Lots of 720p Blu-Ray movie releases.
 - [@RickyChristanto](https://anonym.to/?https://t.me/RickyChristanto) - Movie releases channel provides usually stuff from YTS.
-- [Antrips](https://anonym.to/?hhttps://t.me/antrips) - Anthrapper's Encoding Library.
+- [Antrips](https://anonym.to/?https://t.me/antrips) - Anthrapper's Encoding Library.
 - [gdrivemovielink](https://anonym.to/?https://t.me/gdrivemovielink) - Google drive movies linked into Telegram.
-- [hamil_movies](https://anonym.to/?hhttps://t.me/hamil_movies) - CT movies Family provides links to movies directly in Telegram.
+- [hamil_movies](https://anonym.to/?https://t.me/hamil_movies) - CT movies Family provides links to movies directly in Telegram.
 - [TV Updates](https://anonym.to/?https://telegram.me/joinchat/ACzuljvGFUjzJf4ambpzTA) - A large collection of TV shows, downloadable in Telegram, updated daily!
 
 
 ### Telegram Movie Bot
-- [@utubebot](https://anonym.to/?hhttps://t.me/utubebot) - Video Downloader with MP3 Conversion support.
+- [@utubebot](https://anonym.to/?https://t.me/utubebot) - Video Downloader with MP3 Conversion support.
 - [[@JaredMovieRuBot](https://anonym.to/?https://t.me/JaredMovieRuBot) - Movie monitoring bot.
 
 **[`^        back to top        ^`](#)**
 
 
 ### Telegram channels for selling Premium Accounts
-- [original313](https://anonym.to/?hhttps://t.me/original313) - Gaming and Software based accounts for sale.
+- [original313](https://anonym.to/?https://t.me/original313) - Gaming and Software based accounts for sale.
 
 **[`^        back to top        ^`](#)**
 
@@ -306,14 +306,14 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@booksmania](https://anonym.to/?http://t.me/booksmania)
 - [@booksnow](https://anonym.to/?http://t.me/booksnow)
 - [@bookz4u](https://anonym.to/?http://t.me/bookz4u)
-- [@mfmixebooks](https://anonym.to/?hhttp://t.me/mfmixebooks)
+- [@mfmixebooks](https://anonym.to/?http://t.me/mfmixebooks)
 - [@OxfordBookworms](https://anonym.to/?http://t.me/OxfordBookworms)
 - [best_bookshelf](https://anonym.to/?http://t.me/best_bookshelf)
 - [BOOK_HOUSE_INTERNATIONAL](http://t.me/BOOK_HOUSE_INTERNATIONAL)
 - [Books N All](https://anonym.to/?https://t.me/joinchat/EG43XkPhHFup2w7kTl44AA) - Request eBooks and audio books, as well as reviews in this group with ~3.5k members & generally a fast response time.
 - [BookThief](https://anonym.to/?http://t.me/BooksThief)
 - [eBooks English](https://anonym.to/?http://t.me/EbooksEnglish)
-- [Ebooks254](https://anonym.to/?hhttp://t.me/Ebooks254)
+- [Ebooks254](https://anonym.to/?http://t.me/Ebooks254)
 - [List of eBook websites, channels & bots](https://anonym.to/?https://t.me/raymondfreesoftware/166702) - Large collection of websites, bots and channels with a wide range of eBooks.
 - [SciHub](https://anonym.to/?http://t.me/scihubot) - Similar to the original Sci-Hub website, sharing is caring!
 - [The Hindu](https://anonym.to/?https://t.me/The_Hindu1) - PDFs of every Indian newspaper every day.
