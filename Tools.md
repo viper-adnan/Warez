@@ -498,7 +498,7 @@ Downloads albums in bulk.
 ## Courses
 ### Udemy Downloader
 - [udemy-downloader-gui](https://anonym.to/?https://github.com/FaisalUmair/udemy-downloader-gui) - A cross platform (Windows, Mac, Linux) desktop application for downloading Udemy Courses.
-- [Tut4dl](https://anonym.to/?https://tut4dl.com/) Download tutorial and training courses from many paid MOOCs, with categories ranging from Cuisine to Cryptography.
+- [Tut4dl](https://anonym.to/?https://tut4dl.com/) - Download tutorial and training courses from many paid MOOCs, with categories ranging from Cuisine to Cryptography.
 
 
 ### Brilliant Downloader
@@ -514,7 +514,7 @@ Downloads albums in bulk.
 
 ## Windows Slip-Stream Tools
 - [NTLite](https://anonym.to/?http://www.ntlite.com/) - Paid program to remove integrated telemetry, integrate updates & more.
-- [MSGM ToolKit](https://anonym.to/?http://www.majorgeeks.com/files/details/msmg_toolkit.html) - Free program to customize Windows similar like NTLite bu without a nice looking GUI.
+- [MSGM ToolKit](https://anonym.to/?http://www.majorgeeks.com/files/details/msmg_toolkit.html) - Free program to customize Windows similar like NTLite but without a nice looking GUI.
 
 **[`^        back to top        ^`](#)**
 
@@ -551,7 +551,7 @@ Downloads albums in bulk.
 
 
 ## ePub Editor
-- [Sigil](https://github.com/Sigil-Ebook) - [Sigil](https://sigil-ebook.com/) is a multi-platform EPUB ebook editor
+- [Sigil](https://github.com/Sigil-Ebook) - [Sigil](https://sigil-ebook.com/) is a multi-platform EPUB eBook editor
 
 
 ## eBook Downloader
@@ -582,6 +582,7 @@ Downloads albums in bulk.
 
 **[`^        back to top        ^`](#)**
 
+
 ### Network vulnerability scanners
 - [Netsparker Application Security Scanner](https://anonym.to/?http://www.netsparker.com/) - Application security scanner to automatically find security flaws.
 - [Nexpose](https://anonym.to/?http://www.rapid7.com/products/nexpose/) - Commercial vulnerability and risk management assessment engine that integrates with Metasploit, sold by Rapid7.
@@ -590,6 +591,7 @@ Downloads albums in bulk.
 - [Vuls](https://anonym.to/?http://github.com/future-architect/vuls) - Agentless vulnerability scanner for GNU/Linux and FreeBSD, written in Go.
 
 **[`^        back to top        ^`](#)**
+
 
 ## Secure Messenger
 - [A comparison of messaging / communication services](Messaging-Services-Comparison)
@@ -601,10 +603,12 @@ Downloads albums in bulk.
 
 **[`^        back to top        ^`](#)**
 
+
 ## Collaborative Editors
 - [cryptpad](https://anonym.to/?http://github.com/xwiki-labs/cryptpad)
 
 **[`^        back to top        ^`](#)**
+
 
 ## Download Managers
 - [Ant Download Manager](https://anonym.to/?http://antdownloadmanager.com/) - Ant Download Manager is similar like IDM (also paid).

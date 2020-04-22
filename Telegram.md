@@ -137,6 +137,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 ## Telegram Google Drive Bots
 - [@botxupdates](https://anonym.to/?https://t.me/botxupdates) - Uploads files to your Google Drive. Just send file or direct download link.
+- [@Gdldriverbot](https://anonym.to/?Gdldriverbot) - Remote uploads a link/file and mirrors it to you.
 - [@gdriveupme_bot](https://anonym.to/?https://github.com/aryanvikash/Google-Drive-Uploader)
 - [@GdriveXbot](https://anonym.to/?https://t.me/GdriveXbot) - Uploads files to your Google Drive. Just send file or direct download link.
 - [@gduploadbot](https://anonym.to/?https://t.me/gduploadbot) - Remote uploads a link/file and mirrors it to you.
