@@ -56,7 +56,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [Hack+](https://anonym.to/?https://t.me/hacking_group_channel) - Clan hacking related discussions via Telegram.
 - [Hacker's {HUB}](https://anonym.to/?https://t.me/hackershub007) + [Website](https://anonym.to/?https://jadugarjag.gq/) - Orignal & Useful Content.
 - [Ethical Hacking](https://anonym.to/?https://t.me/ethhackers) - World Biggest Hacking Channel.
-- [Hack Everything](https://anonym.to/?http://t.me/An0nymous_hackerzz) - Claims to be the best Tech channel on Telegram.
+- [Hack Everything](https://anonym.to/?https://t.me/An0nymous_hackerzz) - Claims to be the best Tech channel on Telegram.
 - [Premium Hacking™️](https://anonym.to/?https://telegram.me/premium_hacking) - Tech, Hacking, tips and tricks.
 
 **[`^        back to top        ^`](#)**
@@ -299,23 +299,23 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 ### Telegram channels for eBooks & PDF's
-- [@BookCafe](https://anonym.to/?http://t.me/eBookCafe)
-- [@BooksBag](https://anonym.to/?http://t.me/BooksBag)
-- [@BooksFree4U](https://anonym.to/?http://t.me/BooksFree4U)
-- [@BooksLog](https://anonym.to/?http://t.me/BooksLog)
-- [@booksmania](https://anonym.to/?http://t.me/booksmania)
-- [@booksnow](https://anonym.to/?http://t.me/booksnow)
-- [@bookz4u](https://anonym.to/?http://t.me/bookz4u)
-- [@mfmixebooks](https://anonym.to/?http://t.me/mfmixebooks)
-- [@OxfordBookworms](https://anonym.to/?http://t.me/OxfordBookworms)
-- [best_bookshelf](https://anonym.to/?http://t.me/best_bookshelf)
-- [BOOK_HOUSE_INTERNATIONAL](http://t.me/BOOK_HOUSE_INTERNATIONAL)
+- [@BookCafe](https://anonym.to/?https://t.me/eBookCafe)
+- [@BooksBag](https://anonym.to/?https://t.me/BooksBag)
+- [@BooksFree4U](https://anonym.to/?https://t.me/BooksFree4U)
+- [@BooksLog](https://anonym.to/?https://t.me/BooksLog)
+- [@booksmania](https://anonym.to/?https://t.me/booksmania)
+- [@booksnow](https://anonym.to/?https://t.me/booksnow)
+- [@bookz4u](https://anonym.to/?https://t.me/bookz4u)
+- [@mfmixebooks](https://anonym.to/?https://t.me/mfmixebooks)
+- [@OxfordBookworms](https://anonym.to/?https://t.me/OxfordBookworms)
+- [best_bookshelf](https://anonym.to/?https://t.me/best_bookshelf)
+- [BOOK_HOUSE_INTERNATIONAL](https://t.me/BOOK_HOUSE_INTERNATIONAL)
 - [Books N All](https://anonym.to/?https://t.me/joinchat/EG43XkPhHFup2w7kTl44AA) - Request eBooks and audio books, as well as reviews in this group with ~3.5k members & generally a fast response time.
-- [BookThief](https://anonym.to/?http://t.me/BooksThief)
-- [eBooks English](https://anonym.to/?http://t.me/EbooksEnglish)
-- [Ebooks254](https://anonym.to/?http://t.me/Ebooks254)
+- [BookThief](https://anonym.to/?https://t.me/BooksThief)
+- [eBooks English](https://anonym.to/?https://t.me/EbooksEnglish)
+- [Ebooks254](https://anonym.to/?https://t.me/Ebooks254)
 - [List of eBook websites, channels & bots](https://anonym.to/?https://t.me/raymondfreesoftware/166702) - Large collection of websites, bots and channels with a wide range of eBooks.
-- [SciHub](https://anonym.to/?http://t.me/scihubot) - Similar to the original Sci-Hub website, sharing is caring!
+- [SciHub](https://anonym.to/?https://t.me/scihubot) - Similar to the original Sci-Hub website, sharing is caring!
 - [The Hindu](https://anonym.to/?https://t.me/The_Hindu1) - PDFs of every Indian newspaper every day.
 
 **[`^        back to top        ^`](#)**
