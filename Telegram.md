@@ -45,6 +45,20 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 
+### Telegram Comic Groups
+- [@ComicGalore](https://anonym.to/?https://t.me/ComicGalore) - English Comic Group channel.
+- [Comic App](https://anonym.to/?https://tachiyomi.kanade.eu/latest) - Comics Android app.
+- [@ComicsGram](https://anonym.to/?https://t.me/ComicsGram)
+- [@comicbooksKE](https://anonym.to/?https://t.me/comicbooksKE)
+- [@ComicsCon_taken](https://anonym.to/?https://t.me/ComicsCon_taken)
+- [@comicscbresp](https://anonym.to/?https://t.me/comicscbresp)
+- [@ComicsCenter](https://anonym.to/?https://t.me/ComicsCenter)
+- [@marveluniverse_archive](https://anonym.to/?https://t.me/marveluniverse_archive)
+- [@comicsweekly](https://anonym.to/?https://t.me/comicsweekly)
+
+**[`^        back to top        ^`](#)**
+
+
 ### Telegram Bot for fake eMails
 - [@fakemailbot](https://anonym.to/?https://t.me/fakemailbot) - Get fake emails as soon as new ones arrive.
 
