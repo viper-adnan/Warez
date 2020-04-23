@@ -390,7 +390,7 @@ Downloads albums in bulk.
 - [TorrDroid](https://anonym.to/?http://play.google.com/store/apps/details?id=intelligems.torrdroid&hl=en) - TorrDroid is a Android torrent client cum search engine that features a hassle free way of searching and downloading torrents.
 - [Tornado](https://anonym.to/?http://tornado-torrent.gitlab.io/) - Tornado is a modern web-first BitTorrent client designed with usability in mind.
 - [Tribler](https://anonym.to/?https://www.tribler.org/) - Tribler is a Bittorrent client with an integrated DHT and search engine. Tor-like onion routing and end-to-end encryption can be enabled to allow for anonymous downloads.
-- [qBittorrent](https://anonym.to/?http://www.qbittorrent.org/) - The qBittorrent project aims to provide an open-source software alternative to µTorrent.
+- [qBittorrent](https://anonym.to/?http://www.qbittorrent.org/) - The qBittorrent project aims to provide an open-source software alternative to µTorrent. You'll find a black theme over [here](https://anonym.to/?https://github.com/jagannatharjun/qbt-the).
 
 
 ### Torrent Plugins (e.g. Deluge or qB)
