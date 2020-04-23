@@ -832,7 +832,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [DDLSearch](http://ddlsearch.free.fr) - (`insecure`) - Meta search engine, the results are been displayed via Google search engine.
 - [filediva](http://www.filediva.com) - (`insecure`) - Yet another meta search engine.
 - [FilePursuit](https://anonym.to/?https://filepursuit.com) - Meta search engine for Warez.
-- [MegaSearch.co](http://megasearch.co) - (blocked by some ISP) - (`insecure`) - Meta search engine which indexes webwarez websites.
+- [MegaSearch.co](https://anonym.to/?hhttp://megasearch.co) - (blocked by some ISP) - (`insecure`) - Meta search engine which indexes webwarez websites.
 - [Rapidlinks](https://anonym.to/?https://rapidlinks.org) - (RU) - Russian search engine for various sharehoster.
 
 **[`^        back to top        ^`](#readme)**
@@ -845,7 +845,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## TV-Show Calendar
-- [at.my TV](http://at-my.tv/) - (`insecure`) - TV Calendar, TV Episode Guide, TV Show Listings.
+- [at.my TV](https://anonym.to/?hhttp://at-my.tv/) - (`insecure`) - TV Calendar, TV Episode Guide, TV Show Listings.
 - [DuckieTV](http://schizoduckie.github.io/DuckieTV/?from=duckie.tv&/) - (`insecure`) - A personalized calendar that tracks the shows you like/fav.
 
 **[`^        back to top        ^`](#readme)**
@@ -1055,7 +1055,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [AvaxHome](https://anonym.to/?https://avxhm.se) - Another DDL site with eBooks, TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
 - [AVXHome](http://avxhome.se/) - (`insecure`) - Best of eBooks, Software, Mag & more.
 - [BetaArchive](https://anonym.to/?https://www.betaarchive.com/) - Windows ISOs, Windows tools & more.
-- [Board4All](https://anonym.to/?https://www.board4all.biz/) - A forum which provides and shares all sorts of stuff.
+- [Board4All](https://anonym.to/?[https://www.board4all.bi](https://github.com/anthonyebiner/foxy-calculator)z/) - A forum which provides and shares all sorts of stuff.
 - [Boerse.to](https://anonym.to/?https://boerse.to/) - (GER) (blocked by some ISP) - A big and well-known german warez forum.
 - [Byte.to](https://anonym.to/?https://byte.to/) - (GER) - Movies (SD/HD/UHD), Docus, WWE & Series.
 - [CWER.ws](https://anonym.to/?https://cwer.ws) - (RU) - Well-known russian board for web warez.
@@ -2582,6 +2582,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Wikiserie](https://anonym.to/?https://www.wikiserie.biz/) - (FR)
 - [Dramaday](https://anonym.to/?https://dramaday.net/) - A website dedicated to drama based movies and OST.
 - [Enthus1ast](https://anonym.to/?http://enthus1ast.com/) - Movie sharing community.
+- [Tamil Rockers](https://anonym.to/?https://tamilrockers.ws/) - Movie sharing community.
 
 
 ### 4k/HDR TV/Movie
