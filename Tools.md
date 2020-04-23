@@ -742,6 +742,12 @@ Downloads albums in bulk.
 **[`^        back to top        ^`](#)**
 
 
+## Chrome Hardening Tools
+- [Chrome Galvanizer](https://anonym.to/?https://github.com/mandatoryprogrammer/ChromeGalvanizer)
+
+**[`^        back to top        ^`](#)**
+
+
 ## Windows product key finder and validation checker
 * [ShowKeyPlus](https://anonym.to/?https://github.com/Superfly-Inc/ShowKeyPlus) - Windows product key finder and validation checker.
 
