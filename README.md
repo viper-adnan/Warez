@@ -2106,6 +2106,11 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Twirpx](https://anonym.to/?https://www.twirpx.com/) - (RU) - Fiction/Non-fiction, books in multiple languages.
 - [BookTracker](https://anonym.to/?https://booktracker.org/) - (RU) - Book collections, discussions and torrents + IRC
 - [Z-Lib.org](https://anonym.to/?https://z-lib.org/) - Programmig and educational eBooks.
+- [PDF Drive ](https://anonym.to/?http://pdfdrive.com/) - PDF Drive is a search engine for PDF files, without anoying ads and no download limits.
+- [Memory of the world](https://anonym.to/?http://library.memoryoftheworld.org/) - (`insecure`) - Yet another newcomer page fr eBooks.
+
+
+
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2311,6 +2316,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [MakeMKV](https://anonym.to/?https://www.makemkv.com/) - MakeMKV is your one-click solution to convert video that you own into free and patents-unencumbered format that can be played everywhere.
 - [sickbeard_mp4_automator](https://anonym.to/?https://github.com/mdhiggins/sickbeard_mp4_automator) - Automatically convert video files to a standardized mp4 format with proper metadata tagging to create a beautiful and uniform media library.
 - [The Encoding Guide](https://anonym.to/?https://encoding-guide.neocities.org/) - An in-depth guide on video encoding.
+- [XMedia Recode](https://anonym.to/?https://www.xmedia-recode.de/en/) - A light weight transcoder, editor, CD/DVD/BD ripper with support for subtitles, hardware acceleration and much more.
 
 **[`^        back to top        ^`](#readme)**
 
