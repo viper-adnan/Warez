@@ -2582,7 +2582,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Dramaday](https://anonym.to/?https://dramaday.net/) - A website dedicated to drama based movies and OST.
 - [Enthus1ast](https://anonym.to/?http://enthus1ast.com/) - Movie sharing community.
 - [Tamil Rockers](https://anonym.to/?https://tamilrockers.ws/) - Movie sharing community.
-- [Magellantv](https://anonym.to/?hhttps://www.magellantv.com/featured) - Watch thousands of great documentaries on MagellanTV. Unlimited streaming, no ads, and 4K streaming are all great reasons to check out MagellanTV.
+- (https://anonym.to/?hhttps://www.magellantv.com/featured) - Watch thousands of great documentaries on MagellanTV. Unlimited streaming, no ads, and 4K streaming are all great reasons to check out MagellanTV.
 
 
 ### 4k/HDR TV/Movie

@@ -42,9 +42,6 @@
 - [1337x - Torrent page improvements](https://anonym.to/?https://greasyfork.org/en/scripts/33379-1337x-torrent-page-improvements) - Makes titles longer on the torrent page and optionally enables the detail box when available.
 - [1337X - Subtitle download links to TV and Movie torrents](https://greasyfork.org/en/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents) - Adds download links for subtitles to every TV and movie torrent on 1337x (addic7ed & subscene).
 
-
-
-
 **[`^        back to top        ^`](#)**
 
 
@@ -325,5 +322,12 @@ There is a universal rule for Android:
 ## The Pirate Bay based Browser Scripts
 - [The Pirate Bay Cleaner](https://anonym.to/?https://greasyfork.org/en/scripts/1573-the-pirate-bay-cleaner) - Auto Sorting, Torrentifying, Theme Change, Search Change, SSL/HTTPS and more...
 
-**[`^        back to top        ^`](#)**
+[`^        back to top        ^`](#)**
+
+
+## KeePass Plugins
+- [HIBPOfflineCheck](https://anonym.to/?https://github.com/mihaifm/HIBPOfflineCheck) - Keepass plugin that performs offline and online checks against HaveIBeenPwned passwords
+
+[`^        back to top        ^`](#)**
+
 
