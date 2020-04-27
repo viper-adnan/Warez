@@ -75,7 +75,9 @@
 - [Trace - Online Tracking Protection](https://anonym.to/?https://absolutedouble.co.uk/trace/) - HTML5 Canvas protection for [Chrome](https://chrome.google.com/webstore/detail/trace/njkmjblmcfiobddjgebnoeldkjcplfjb) & [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absolutedouble-trace).
 - [zero-width-chrome-extension](https://anonym.to/?https://github.com/chpmrc/zero-width-chrome-extension) - Replace scary zero-width characters with funny emojis in Chrome to reduce the Browser fingerprint.
 - ScriptSafe - Similar like NoScript with some nice features, works with [Chrome](https://anonym.to/?https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) & [Firefox](https://addons.mozilla.org/en/firefox/addon/script-safe/).
-- uBlock / uMatrix - _I guess if I have to link to these extensions you are not a pirate or privacy focused person at all, aren't you?!_
+- [Random User-Agent for Chrome/Chromium/Firefox](https://anonym.to/?https://addons.mozilla.org/firefox/addon/random_user_agent/)https://addons.mozilla.org/firefox/addon/random_user_agent/)
+- [Canvas Fingerprint blocker](https://anonym.to/?https://add0n.com/canvas-fingerprint-blocker.html) - Manipulates two methods of HTML5 Canvas element that are commonly used to generate a unique fingerprint key for your browser.
+
 
 All other extensions **do not** adding any benefit over the integrated Browser "privacy" mechanism e.g. Cookie cleaners, they are mostly just crippled or limitated GUI based toogles for what the Browser already does (with some user effort).
 
