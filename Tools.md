@@ -103,6 +103,7 @@ Downloads albums in bulk.
 
 
 ## Browser Password extraction
+- [Adamantium-Thief](https://anonym.to/?https://github.com/LimerBoy/Adamantium-Thief) - ?? Decrypt chromium based browsers passwords, cookies, credit cards, history, bookmarks. Version > 80 is supported.
 - [Chrome Password Dumper](https://anonym.to/?http://github.com/roflsandwich/Chrome-Password-Dumper) - Extract Chrome passwords into a plain text file (works also via PowerShell)
 - [Firefox Decrypt](https://anonym.to/?http://github.com/unode/firefox_decrypt) - Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox/Thunderbird/Seabird) profiles.
 - [ff-password-exporter](https://anonym.to/?http://github.com/kspearrin/ff-password-exporter) - Easily export your passwords from Firefox.
