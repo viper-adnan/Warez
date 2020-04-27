@@ -978,7 +978,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ### Custom "Google" Search Engines
 - [FileChef](https://anonym.to/?http://filechef.com/) - (`insecure`) - Get direct download links for almost anything!
-- [Strixx](https://maximousblk.github.io/strixx) + [Website](https://anonym.to/?https://opendirsearch.abifog.com/) - An open directory search tool.
+- [Strixx](https://anonym.to/?https://strixx.now.sh/) - An open directory search tool.
 - [Jimmyr](https://anonym.to/?http://www.jimmyr.com/mp3_search.php) - (`insecure`) - Yet abother Music search engine.
 - [lumpySoft.com](https://anonym.to/?https://lumpysoft.com/) - A Google index search with predefined tags.
 - [Mattpalm.com](https://anonym.to/?https://mattpalm.com/search/) - Get direct download links for almost anything.
@@ -1257,7 +1257,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [KissManga](https://anonym.to/?http://kissmanga.com/)
 - [KissComic](https://anonym.to/?http://readcomiconline.to/)
 - [NovelPlanet](https://anonym.to/?http://novelplanet.com/)
-- [fmovies](https://anonym.to/?https://fmovies.wtf/) - Alternative to KissCartoon and also includes TV shows and movies.
+- [FMovies](https://anonym.to/?https://fmovies.wtf/) - Alternative to KissCartoon and also includes TV shows and movies.
 
 
 
