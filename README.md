@@ -1240,7 +1240,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [SGAnime](https://anonym.to/?https://sganime.org/) - Subs only, no ads, few sources.
 - [The /r/AnimePiracy Index](https://anonym.to/?https://docs.zoho.com.au/sheet/open/stzn58acc24611fea414e8901724ff4510fe8/sheets/Anime/ranges/A1) - A Google Docs sheet for Anime websites including background information if page x contains ads, anti-adblock & more.
 - [TVBox](https://anonym.to/?https://tvbox.unblocked.gdn/)
-- [TVRaven](https://anonym.to/?https://www.onetvraven.pro/)
 - [WatchAnime.info](https://anonym.to/?https://www9.watchanime.info/) - Subs and dubs, banner and pop-up ads, multiple sources.
 - [WatchCartoon](https://anonym.to/?https://www.watchcartoononline.io/) - English dubbed, subbed (german).
 - [WatchCartoonsOnline](https://anonym.to/?https://watchcartoonsonline.la/)
