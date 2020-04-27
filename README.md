@@ -978,7 +978,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ### Custom "Google" Search Engines
 - [FileChef](https://anonym.to/?http://filechef.com/) - (`insecure`) - Get direct download links for almost anything!
-- [Strixx](https://anonym.to/?https://strixx.now.sh/) - An open directory search tool.
+- [Strixx](ttps://anonym.to/?https://strixx.now.sh/) - An open directory search tool.
 - [Jimmyr](https://anonym.to/?http://www.jimmyr.com/mp3_search.php) - (`insecure`) - Yet abother Music search engine.
 - [lumpySoft.com](https://anonym.to/?https://lumpysoft.com/) - A Google index search with predefined tags.
 - [Mattpalm.com](https://anonym.to/?https://mattpalm.com/search/) - Get direct download links for almost anything.
@@ -1234,8 +1234,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [MoviesEver](https://anonym.to/?https://moviesever.com/)
 - [NineAnime](https://anonym.to/?https://www.nineanime.com/)
 - [Online WatchCartoon](https://anonym.to/?https://www.watchcartoononline.com/)
-- [OtakuStream](https://anonym.to/?https://otakustream.unblocker.cc/) - Subs only, banner and pop-up ads, downloadable, multiple sources.
-- [Randaris Anime](https://anonym.to/?http://randaris.app) - (`Ger`) - Banner ads, multiple sources, eng & german subs, captcha.
+- [Randaris Anime](https://anonym.to/?http://randaris.app) - (`Ger`) - Banner ads, multiple sources, eng & german subs, captcha.]
 - [RyuAnime](https://anonym.to/?https://www4.ryuanime.com/) - Dubbed animes.
 - [Serienjunkies](http://serienjunkies.org/) - (GER) - (`insecure`) - Provides german tv episodes.
 - [SGAnime](https://anonym.to/?https://sganime.org/) - Subs only, no ads, few sources.

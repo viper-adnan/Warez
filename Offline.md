@@ -331,6 +331,7 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversible™ Google Takedowns
 - isoplex.isohunt.to
 - popcorntime.io
 - time4popcorn.eu
+- [OtakuStream](https://otakustream.tv/)
 
 ## Torrent Search Engines
 - bandit.to
