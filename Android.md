@@ -161,8 +161,13 @@ TCP Port: 853
 
 
 ## WhatsApp Mods
-- [Foud Whatsapp](http://www.fouadmods.com/fouad-whatsapp/)
+- [Foud Whatsapp](https://anonym.to/?http://www.fouadmods.com/fouad-whatsapp/)
 
 **[`^        back to top        ^`](#)**
 
+
+## Anime
+- [Anime X Stream](https://anonym.to/?https://github.com/mukul500/AnimeXStream) - An Android app to watch anime on your phone without ads.
+
+**[`^        back to top        ^`](#)**
 
