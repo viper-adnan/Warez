@@ -2511,7 +2511,8 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Worldscinema](https://anonym.to/?https://worldscinema.org/)
 - [Rarfilm](https://anonym.to/?http://rarefilm.net/)
 - [AllTheStreams](https://anonym.to/?https://allthestreams.fm/) - Hulu, Disney+, Netflix, HBO, Prime Video or SHow Time as a stream which you can watch via Browser.
-- [xyztv.xyz](https://anonym.to/?https://xyztv.xyz/) - TV Shows.
+- [xyztv.xyz](https://anonym.to/?https://xyztv.xyz/) - Provides mainly TV Shows.
+- [ask4movie](https://anonym.to/?https://ask4movie.co/) - (`needs adblocker`) Netflix like UI. Stream series and movies.
 
 **[`^        back to top        ^`](#readme)**
 
