@@ -55,6 +55,7 @@
 - [Google unlocked](https://anonym.to/?https://github.com/Ibit-to/google-unlocked) - + [Website](https://anonym.to/?https://ibit.uno/) Google Unlocked Chrome extension unlocks hidden google search results.
 - [Hide Fake Torrents on TPB](https://anonym.to/?https://chrome.google.com/webstore/detail/hide-fake-torrents-on-tpb/fkdhkcpmifehkmadpldbbdadepgplcmo) - Hide fake torrents on TPB.
 - [Reddit Enhancement Suite](https://anonym.to/?http://redditenhancementsuite.com/) - Community-driven unofficial browser extension for reddit.
+- [Twitter Quality Fixer](https://anonym.to/?https://greasyfork.org/en/scripts/399827-video-quality-fixer-for-twitter) - Viw Twitter Videos in the highest available quality.
 
 **[`^        back to top        ^`](#)**
 
