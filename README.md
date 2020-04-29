@@ -135,7 +135,8 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [xtremecloud TeamDrive group](https://anonym.to/?https://groups.google.com/d/forum/xtremecloud-tdgroup)
 - [seedboxsl](https://anonym.to/?https://groups.google.com/forum/embed/?place=forum/seedboxsl)
 - [Hording](https://anonym.to/?https://groups.google.com/d/forum/hoarding_mirror_group)
-- [Xtreambot](https://teamdrive.xtremebot.workers.dev/)
+- [Xtreambot](https://anonym.to/?https://teamdrive.xtremebot.workers.dev/)
+- [AlpacinoDump](https://anonym.to/?https://dh.alpacinodump.cf/)
 
 ## Checksum verification
 - [OpenHashTab](https://anonym.to/?https://github.com/namazso/OpenHashTab) - File hashing shell extension for Windows.
