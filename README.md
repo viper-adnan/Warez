@@ -592,7 +592,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [0QoLttS.jpg](https://anonym.to/?https://i.imgur.com/0QoLttS.jpg) - Screenshot of a table from somewhere of private trackers and their sign-up requirements
 - [AcrossTheTasman](https://anonym.to/?https://acrossthetasman.com/forum.php) - A tracker for movies, games and more.
 - [AlphaRatio](https://anonym.to/?https://alpharatio.cc) - (AR) - A good starter tracker with lots of freeleech content.
-- [AvistaZ](https://anonym.to/?) - (EN) - AvistaZ (AsiaTorrents) is a Private Torrent Tracker for ASIAN MOVIES / TV / Docus.
+- [AvistaZ](https://anonym.to/?https://avistaz.to/auth/register) - (EN) - AvistaZ (AsiaTorrents) is a Private Torrent Tracker for ASIAN MOVIES / TV / Docus.
 - [AnimeBytes](https://anonym.to/?https://animebytes.tv/) - (AB) - community centralized around Japanese media, including anime, manga, and music.
 - [Audionews](https://anonym.to/?https://audionews.org/) - (AN) - Private torrent tracker for music production audio. (DJ apps, audio editor, DAW apps etc) - Open signups on the 1st-2nd every month.
 - [Awesome HD](https://anonym.to/?https://awesome-hd.me/) - (AHD) - Awesome-HD is a private tracker for quality enthusiasts.
