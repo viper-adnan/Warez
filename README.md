@@ -2613,6 +2613,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [UHDMV.org](https://anonym.to/?https://uhdmv.org/) - Download free, Ultra HD Bluray Movies, 4K Movies, HD Movies, Bluray Movies, REMUX, 2160p, 1080p, 720p, Free Ultra HD Movies.
 - [Zamunda](https://anonym.to/?https://zamunda.net/catalogs/) - (needs login) - HDR, 4 tv shows and movies.
 - [VidFlix](https://anonym.to/?https://vidflix.net/) - No ads, clean Movies and TV shows in high quality.
+- [Tigole Release](https://anonym.to/?https://tigolerelease.blogspot.com/) - HQ Movies, mostly 1080 and 4k.
 
 **[`^        back to top        ^`](#readme)**
 
