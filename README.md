@@ -2485,7 +2485,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Movies24](https://anonym.to/?https://movies24.top/)
 - [MovieZion](https://anonym.to/?https://www.nicemoviezion.pro/)
 - [Niter](https://anonym.to/?https://niter-movies.com/)
-- [pahe.in](https://anonym.to/?https://pahe.in/) - Streams via Uptostream, Google Drive, Openload or Mega.
+- [pahe.in](https://anonym.to/?https://pahe.in/) + [Mirror](https://anonym.to/?http://Pahe.me) + [Mirror](https://anonym.to/?http://pahe.ph) - Streams via Uptostream, Google Drive, Openload or Mega.
 - [ProSpice](https://anonym.to/?https://prospice.surge.sh/)
 - [Send It](https://anonym.to/?https://sendit.gg/)
 - [SeriesFree](https://anonym.to/?https://seriesfree.to/)
