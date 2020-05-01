@@ -137,6 +137,17 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Hording](https://anonym.to/?https://groups.google.com/d/forum/hoarding_mirror_group)
 - [Xtreambot](https://teamdrive.xtremebot.workers.dev/)
 
+**[`^        back to top        ^`](#readme)**
+
+## Team Drive Indexer Source Codes
+- [GDIndex](https://anonym.to/?https://github.com/maple3142/GDIndex)
+- [goindex](https://anonym.to/?https://github.com/donwa/goindex)
+- [Another goindex](https://anonym.to/?https://github.com/K-E-N-W-A-Y/goindex)
+- [BhadooDriveIndex](https://anonym.to/?https://github.com/ParveenBhadooOfficial/BhadooDriveIndex)
+- [krat0si-ndex](https://anonym.to/?https://github.com/420tushar/krat0si-ndex)
+
+**[`^        back to top        ^`](#readme)**
+
 ## Checksum verification
 - [OpenHashTab](https://anonym.to/?https://github.com/namazso/OpenHashTab) - File hashing shell extension for Windows.
 - [GtkHash](https://anonym.to/?https://github.com/tristanheaven/gtkhash) - A cross-platform desktop utility for computing message digests or checksums.
