@@ -337,9 +337,12 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## Website archiving tools
+- [Wikipedia's List of Web archiving initiatives](https://anonym.to/?hhttps://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives)
 - [SingleFile](https://anonym.to/?https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete web page as a single HTML file.
 - [ArchiveBox](https://anonym.to/?https://github.com/pirate/ArchiveBox) - The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [monolith](https://anonym.to/?https://github.com/Y2Z/monolith) - CLI tool for saving complete web pages as a single HTML file.
+- [Local Website Archive](https://anonym.to/?https://www.aignes.com/lwa.htm) - Paid software to Archive online documents to your PC.
+
 
 **[`^        back to top        ^`](#readme)**
 
@@ -363,6 +366,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [s.MailPro](https://anonym.to/?https://smailpro.com/) - Offering Temporary Email Service
 - [Temp Mail](https://anonym.to/?https://temp-mail.org/en/) - Keep spam out of your mail and stay safe - just use a disposable temporary email address!
 - [Tempr eMail](https://anonym.to/?https://tempr.email/fr/) - Similar service like Temp Mail, it's from the same provider.
+- [Firefox Private Relay](https://anonym.to/?https://relay.firefox.com/) - Addon to create a temp eMail, the source code can be found over [here](https://anonym.to/?https://github.com/mozilla/fx-private-relay)
 
 **[`^        back to top        ^`](#readme)**
 
