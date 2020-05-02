@@ -1,4 +1,4 @@
-## Browser Script Engines (required to run browser-/ or user-css scripts)
+## Browser Script Engines (required to run browser-/user-css scripts)
 - [Firemonkey](https://anonym.to/?https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) - Can handle both user Scripts and user CSS.
 - [Greasemonkey](https://anonym.to/?https://www.greasespot.net/) - Greasemonkey is a Firefox extension that allows you to customize the way webpages look and function.
 - [Violentmonkey](https://anonym.to/?https://violentmonkey.github.io/) - An open source userscript manager for Chrome, Firefox, Opera etc.
@@ -19,7 +19,7 @@
 
 ## Browser based Video Downloader
 - [Media Reaper - Privacy 1st, Audio & Video Download](https://anonym.to/?https://sasrip.cf/) + ([addon](https://anonym.to/?https://addons.mozilla.org/en-US/firefox/addon/media-reaper/))
-
+- [Stream Recorder](https://anonym.to/?https://www.hlsloader.com/) - A Chrome extension which allows you to save videos delivered through HLS (HTTP Live Streaming) in mp4 format.
 
 **[`^        back to top        ^`](#)**
 
@@ -41,6 +41,7 @@
 - [XZ Pixiv Batch Downloader](https://anonym.to/?https://greasyfork.org/scripts/24252) - Batch download original works of artists such as artists, bookmarks, leaderboards, search pages, etc.; view popular works; create folders; convert moving images...
 - [1337x - Torrent page improvements](https://anonym.to/?https://greasyfork.org/en/scripts/33379-1337x-torrent-page-improvements) - Makes titles longer on the torrent page and optionally enables the detail box when available.
 - [1337X - Subtitle download links to TV and Movie torrents](https://greasyfork.org/en/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents) - Adds download links for subtitles to every TV and movie torrent on 1337x (addic7ed & subscene).
+- [Youtube to invidious](https://anonym.to/?https://greasyfork.org/en/scripts/375264-youtube-to-invidious) - Convert YouTube links to invidious ones to protect your privacy.
 
 **[`^        back to top        ^`](#)**
 
@@ -56,6 +57,15 @@
 - [Hide Fake Torrents on TPB](https://anonym.to/?https://chrome.google.com/webstore/detail/hide-fake-torrents-on-tpb/fkdhkcpmifehkmadpldbbdadepgplcmo) - Hide fake torrents on TPB.
 - [Reddit Enhancement Suite](https://anonym.to/?http://redditenhancementsuite.com/) - Community-driven unofficial browser extension for reddit.
 - [Twitter Quality Fixer](https://anonym.to/?https://greasyfork.org/en/scripts/399827-video-quality-fixer-for-twitter) - Viw Twitter Videos in the highest available quality.
+- [Clickbait remover for YouTube](https://anonym.to/?https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - Replace YouTube thumbnails with video thumbnails.
+- [YoutubeNonStop](https://anonym.to/?https://github.com/lawfx/YoutubeNonStop) - Autoclicker for Youtube's latest "feature" - Video paused. Continue watching?
+
+
+**[`^        back to top        ^`](#)**
+
+
+## Custom Search engines
+- [Add custom search engine](https://anonym.to/?https://addons.mozilla.org/en-US/firefox/addon/add-custom-search-engine/) - Add custom search engines in Firefox.
 
 **[`^        back to top        ^`](#)**
 
@@ -81,6 +91,13 @@
 
 
 All other extensions **do not** adding any benefit over the integrated Browser "privacy" mechanism e.g. Cookie cleaners, they are mostly just crippled or limitated GUI based toogles for what the Browser already does (with some user effort).
+
+**[`^        back to top        ^`](#)**
+
+
+## Bookmark addons/extensions
+- [2read](https://anonym.to/?https://github.com/meehow/2read#readme) - Convert article in current tab to readable form and upload it to P2P network via [IPFS](https://anonym.to/?https://ipfs.io/).
+
 
 **[`^        back to top        ^`](#)**
 

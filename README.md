@@ -138,6 +138,17 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Xtreambot](https://anonym.to/?https://teamdrive.xtremebot.workers.dev/)
 - [AlpacinoDump](https://anonym.to/?https://dh.alpacinodump.cf/)
 
+**[`^        back to top        ^`](#readme)**
+
+## Team Drive Indexer Source Codes
+- [GDIndex](https://anonym.to/?https://github.com/maple3142/GDIndex)
+- [goindex](https://anonym.to/?https://github.com/donwa/goindex)
+- [Another goindex](https://anonym.to/?https://github.com/K-E-N-W-A-Y/goindex)
+- [BhadooDriveIndex](https://anonym.to/?https://github.com/ParveenBhadooOfficial/BhadooDriveIndex)
+- [krat0si-ndex](https://anonym.to/?https://github.com/420tushar/krat0si-ndex)
+
+**[`^        back to top        ^`](#readme)**
+
 ## Checksum verification
 - [OpenHashTab](https://anonym.to/?https://github.com/namazso/OpenHashTab) - File hashing shell extension for Windows.
 - [GtkHash](https://anonym.to/?https://github.com/tristanheaven/gtkhash) - A cross-platform desktop utility for computing message digests or checksums.
@@ -327,9 +338,12 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## Website archiving tools
+- [Wikipedia's List of Web archiving initiatives](https://anonym.to/?hhttps://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives)
 - [SingleFile](https://anonym.to/?https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete web page as a single HTML file.
 - [ArchiveBox](https://anonym.to/?https://github.com/pirate/ArchiveBox) - The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [monolith](https://anonym.to/?https://github.com/Y2Z/monolith) - CLI tool for saving complete web pages as a single HTML file.
+- [Local Website Archive](https://anonym.to/?https://www.aignes.com/lwa.htm) - Paid software to Archive online documents to your PC.
+
 
 **[`^        back to top        ^`](#readme)**
 
@@ -353,6 +367,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [s.MailPro](https://anonym.to/?https://smailpro.com/) - Offering Temporary Email Service
 - [Temp Mail](https://anonym.to/?https://temp-mail.org/en/) - Keep spam out of your mail and stay safe - just use a disposable temporary email address!
 - [Tempr eMail](https://anonym.to/?https://tempr.email/fr/) - Similar service like Temp Mail, it's from the same provider.
+- [Firefox Private Relay](https://anonym.to/?https://relay.firefox.com/) - Addon to create a temp eMail, the source code can be found over [here](https://anonym.to/?https://github.com/mozilla/fx-private-relay)
 
 **[`^        back to top        ^`](#readme)**
 
@@ -593,7 +608,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [0QoLttS.jpg](https://anonym.to/?https://i.imgur.com/0QoLttS.jpg) - Screenshot of a table from somewhere of private trackers and their sign-up requirements
 - [AcrossTheTasman](https://anonym.to/?https://acrossthetasman.com/forum.php) - A tracker for movies, games and more.
 - [AlphaRatio](https://anonym.to/?https://alpharatio.cc) - (AR) - A good starter tracker with lots of freeleech content.
-- [AvistaZ](https://anonym.to/?) - (EN) - AvistaZ (AsiaTorrents) is a Private Torrent Tracker for ASIAN MOVIES / TV / Docus.
+- [AvistaZ](https://anonym.to/?https://avistaz.to/auth/register) - (EN) - AvistaZ (AsiaTorrents) is a Private Torrent Tracker for ASIAN MOVIES / TV / Docus.
 - [AnimeBytes](https://anonym.to/?https://animebytes.tv/) - (AB) - community centralized around Japanese media, including anime, manga, and music.
 - [Audionews](https://anonym.to/?https://audionews.org/) - (AN) - Private torrent tracker for music production audio. (DJ apps, audio editor, DAW apps etc) - Open signups on the 1st-2nd every month.
 - [Awesome HD](https://anonym.to/?https://awesome-hd.me/) - (AHD) - Awesome-HD is a private tracker for quality enthusiasts.
@@ -840,7 +855,8 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## Online paid TV-Streaming
-- [Ustvgo](https://anonym.to/?https://ustvgo.tv/) - Watch CBS, Comedy, Disney, Fox, HBO and many more online for fre(https://anonym.to/?http://stagedork.com/) - Boradway popular channels like Fox, HBO, Comedy ...
+- [Ustvgo](https://anonym.to/?https://ustvgo.tv/) - Watch CBS, Comedy, Disney, Fox, HBO and many more...
+- [stagedork](https://anonym.to/?http://stagedork.com/) - Boradway popular channels like Fox, HBO, Comedy ...
 
 **[`^        back to top        ^`](#readme)**
 
@@ -979,7 +995,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ### Custom "Google" Search Engines
 - [FileChef](https://anonym.to/?http://filechef.com/) - (`insecure`) - Get direct download links for almost anything!
-- [Strixx](ttps://anonym.to/?https://strixx.now.sh/) - An open directory search tool.
+- [Strixx](https://anonym.to/?https://strixx.now.sh/) - An open directory search tool.
 - [Jimmyr](https://anonym.to/?http://www.jimmyr.com/mp3_search.php) - (`insecure`) - Yet abother Music search engine.
 - [lumpySoft.com](https://anonym.to/?https://lumpysoft.com/) - A Google index search with predefined tags.
 - [Mattpalm.com](https://anonym.to/?https://mattpalm.com/search/) - Get direct download links for almost anything.
@@ -1248,7 +1264,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Your-Anime](https://anonym.to/?https://www.your-anime.com/) - (`AR`) - Arabish animes dubbed.
 - [YMP4](https://anonym.to/?https://ymp4.download/) - Download videos from Youtube to mp4 & mp3 files, including from places like e.g. Crunchroll.
 - [KissAnime.nz](https://anonym.to/?http://kissanime.nz/) - One of the best places for Animes.
-- (https://anonym.to/?https://www1.animeultima.to/) - Yet another good place for Animes.
+- [animeultima](https://anonym.to/?https://www1.animeultima.to/) - Yet another good place for Animes.
 - [/r/KissCommunitySupport](https://anonym.to/?https://old.reddit.com/r/KissCommunitySupport) - Official Kiss Community subreddit.
 - [KissAnime.ru](https://anonym.to/?http://kissanime.ru/) - (`RU`) - Official russian KissAnime community.
 - [KimCartoon](https://anonym.to/?http://kimcartoon.to/) - KissAnime mirror.
@@ -1379,7 +1395,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [/r/WWEstreams](https://anonym.to/?https://www.removeddit.com/r/WWEstreams/)
 - [Best Sport Streaming](https://anonym.to/?https://www.bestsportstreaming.com/) - Site that rates sport streaming services.
 - [Cricfree](https://anonym.to/?https://crickfree.org/) - Offers popular sports streams.
-- [cytu.be/r/heemstream](https://anonym.to/?https://cytu.be/r/heemstream)
+- [r/heemstream](https://anonym.to/?https://cytu.be/r/heemstream)
 - [footybite](https://anonym.to/?https://www.footybite.com/) - Soccer streaming site.
 - [LiveTV](https://anonym.to/?https://livesx.eu/) - Wide variety of sports, results/live scores, video archive and betting.
 - [MamaHD](https://anonym.to/?https://www.mamahd.org/) - 24/7 feeds, sports streams offers a clean UI.
@@ -1697,7 +1713,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Anime Kayo](https://anonym.to/?https://animekayo.com/) - 1080p DDL links, mostly delivered via Google Drive
 - [Anime Twist](https://anonym.to/?https://twist.moe/) - An anime direct streaming site with a decent UI and video player.
 - [animEncodes](https://anonym.to/?https://www.animencodes.com/) - Anime sharing page.
-- [Anime-Loards.org](ttps://www.anime-loads.org) - Anime sharing page.
+- [Anime-Loards.org](https://www.anime-loads.org) - Anime sharing page.
 - [AnimeOut](https://anonym.to/?https://www.animeout.xyz/) - Over 1000's of Encoded Anime with DDL links.
 - [GoGo Anime](https://anonym.to/?https://www3.gogoanime.in/) - Popular website for watching anime.
 - [Dognzb.cr](https://anonym.to/?https://dognzb.cr/login) - DogNZB exists since 2013 and is one of the biggest and popular NZB indexer.
@@ -2107,9 +2123,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [PDF Drive ](https://anonym.to/?http://pdfdrive.com/) - PDF Drive is a search engine for PDF files, without anoying ads and no download limits.
 - [Memory of the world](https://anonym.to/?http://library.memoryoftheworld.org/) - (`insecure`) - Yet another newcomer page fr eBooks.
 
-
-
-
 **[`^        back to top        ^`](#readme)**
 
 
@@ -2332,6 +2345,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [rclone](https://anonym.to/?https://rclone.org/) - Rsync for cloud storage.
 - [Zippyshare.sh](https://anonym.to/?https://github.com/myspaghetti/zippyshare) - Allows you to bash script download files from ZippyShare.
 - [folderclone](https://anonym.to/?https://github.com/Spazzlo/folderclone) - A project that allows you copy large folders to Shared Drives.
+- [sshfs-win](https://anonym.to/?https://github.com/billziss-gh/sshfs-win) - SSHFS-Win is a minimal port of SSHFS to Windows.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2486,7 +2500,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Movies24](https://anonym.to/?https://movies24.top/)
 - [MovieZion](https://anonym.to/?https://www.nicemoviezion.pro/)
 - [Niter](https://anonym.to/?https://niter-movies.com/)
-- [pahe.in](https://anonym.to/?https://pahe.in/) - Streams via Uptostream, Google Drive, Openload or Mega.
+- [pahe.in](https://anonym.to/?https://pahe.in/) + [Mirror](https://anonym.to/?http://Pahe.me) + [Mirror](https://anonym.to/?http://pahe.ph) - Streams via Uptostream, Google Drive, Openload or Mega.
 - [ProSpice](https://anonym.to/?https://prospice.surge.sh/)
 - [Send It](https://anonym.to/?https://sendit.gg/)
 - [SeriesFree](https://anonym.to/?https://seriesfree.to/)
@@ -2585,7 +2599,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Dramaday](https://anonym.to/?https://dramaday.net/) - A website dedicated to drama based movies and OST.
 - [Enthus1ast](https://anonym.to/?http://enthus1ast.com/) - Movie sharing community.
 - [Tamil Rockers](https://anonym.to/?https://tamilrockers.ws/) - Movie sharing community.
-- (https://anonym.to/?hhttps://www.magellantv.com/featured) - Watch thousands of great documentaries on MagellanTV. Unlimited streaming, no ads, and 4K streaming are all great reasons to check out MagellanTV.
+- [magellantv](https://anonym.to/?hhttps://www.magellantv.com/featured) - Watch thousands of great documentaries on MagellanTV. Unlimited streaming, no ads, and 4K streaming are all great reasons to check out MagellanTV.
 
 
 ### 4k/HDR TV/Movie
@@ -2604,12 +2618,13 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [UHDMV.org](https://anonym.to/?https://uhdmv.org/) - Download free, Ultra HD Bluray Movies, 4K Movies, HD Movies, Bluray Movies, REMUX, 2160p, 1080p, 720p, Free Ultra HD Movies.
 - [Zamunda](https://anonym.to/?https://zamunda.net/catalogs/) - (needs login) - HDR, 4 tv shows and movies.
 - [VidFlix](https://anonym.to/?https://vidflix.net/) - No ads, clean Movies and TV shows in high quality.
+- [Tigole Release](https://anonym.to/?https://tigolerelease.blogspot.com/) - HQ Movies, mostly 1080 and 4k.
 
 **[`^        back to top        ^`](#readme)**
 
 
 ### H265 Encoded Movies and TV Shows
-- (https://anonym.to/?https://enx265.com/) - A mcommunity dedicated to upload only H265 encoded movies and TV shows.
+- [enx265](https://anonym.to/?https://enx265.com/) - A mcommunity dedicated to upload only H265 encoded movies and TV shows.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -3232,7 +3247,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 ### Google Hangouts
 - [NextCloudTalk](https://anonym.to/?https://nextcloud.com/talk/) - Basically, Hangouts via NextCloud.
 - [Jitsi](https://anonym.to/?https://jitsi.org/) - Decrentralized chat, video and eMail platform.
-- (https://anonym.to/?https://whereby.com/) - Anoher video calling app focused on privacy and usability.
+- [Whereby](https://anonym.to/?https://whereby.com/) - Anoher video calling app focused on privacy and usability.
 
 
 ### Google Analytics
@@ -3449,3 +3464,11 @@ one cryptocurrency wallet to another across various cryptocurrencies
 - [Monthly new game audio files](https://anonym.to/?https://sonniss.com/gameaudiomonthly/)
 
 **[`^        back to top        ^`](#readme)**
+
+
+## IPFS
+- [IPFessay](https://anonym.to/?https://gitlab.com/stavros/IPFessay) - An easy way to publish uncensorable essays on IPFS.
+
+
+## Windows File System Proxies
+- [winfsp](https://anonym.to/?https://github.com/billziss-gh/winfsp#readme) - WinFsp is a set of software components for Windows computers that allows the creation of user mode file systems. 
