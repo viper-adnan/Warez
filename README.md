@@ -1132,7 +1132,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [ZeroBoard](https://anonym.to/?https://zeroboard.org/) - A board which provides Windows related stuff.
 - [up4pc](https://anonym.to/?https://up4pc.com/) - Download PC Software including cracks via ZippyShare, GDrive and Mega.
 - [CB01.uno](https://anonym.to/?https://cb01.gallery/) - (`IT`) Movies, TV Shows and Animes.
-- [Release BB](https://anonym.to/?http://rlsbb.ru/) - (`RU/ENG`) - Daily Source of Awesome Stuff.
+- [](https://anonym.to/?http://rlsbb.ru/) - (`RU/ENG`) - Daily Source of Awesome Stuff.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2437,6 +2437,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [TorrentDownloads.me](https://anonym.to/?https://www.torrentdownloads.me/) - It’s a no-nonsense index that provides torrents to millions of users each month.
 - [Viooz](https://anonym.to/?https://vioozgo.org/) - (RU) - Discover thousands of movies, watch your favorite movies online for free on VZM, Viooz.
 - [Simplestream](https://anonym.to/?https://simplestream.in/) - A huge Database for movies and TV Show.
+- [Mxplayer.in](https://anonym.to/?hhttps://www.mxplayer.in/movies) - Movies and Databases regarding movies, tv series and other shows.
 
 **[`^        back to top        ^`](#readme)**
 
