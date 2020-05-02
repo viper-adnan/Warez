@@ -18,10 +18,17 @@
 
 
 ## Browser based Video Downloader
-- [Media Reaper - Privacy 1st, Audio & Video Download](https://anonym.to/?https://sasrip.cf/) + ([addon](https://anonym.to/?https://addons.mozilla.org/en-US/firefox/addon/media-reaper/))
-- [Stream Recorder](https://anonym.to/?https://www.hlsloader.com/) - A Chrome extension which allows you to save videos delivered through HLS (HTTP Live Streaming) in mp4 format.
+- [Media Reaper - Privacy 1st, Audio & Video Download](https://anonym.to/?https://sasrip.cf/) + ([addon](https://anonym.to/?https://addons.mozilla.org/en-US/firefox/addon/media-reaper/)) - (`Firefox`) - Download videos and audio files.
+- [Stream Recorder](https://anonym.to/?https://www.hlsloader.com/) - (`Chrome`) - A Chrome extension which allows you to save videos delivered through HLS (HTTP Live Streaming) in mp4 format.
+- [Video Downloader professional](https://anonym.to/?https://chrome.google.com/webstore/detail/video-downloader-professi/bacakpdjpomjaelpkpkabmedhkoongbi) - (`Chrome`) - Video Downloader professional - the fastest and easiest way to download any video from any website.
+- [Flash Video Downloader](https://anonym.to/?https://chrome.google.com/webstore/detail/flash-video-downloader/aiimdkdngfcipjohbjenkahhlhccpdbc) - (`Chrome`) - Chrome Download extension for videos and flash videos from 99% of websites.
+- [Stream Video Downloader](https://anonym.to/?https://chrome.google.com/webstore/detail/stream-video-downloader/imkngaibigegepnlckfcbecjoilcjbhf) - (`Chrome`) - Video downloader that really works with Streaming websites.
+Download Mp4 and audio formats.
+- [Video Downloader PLUS](https://anonym.to/?https://chrome.google.com/webstore/detail/video-downloader-plus/fhplmmllnpjjlncfjpbbpjadoeijkogc) - (`Chrome`) - Downloads most popular media types from ANY website.
+- [Video DownloadHelper](https://chrome.google.com/webstore/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk) - (`Chrome`) - The most complete Web video downloader ! The popular Video DownloadHelper Firefox extension is now available for Chrome.
 
 **[`^        back to top        ^`](#)**
+
 
 ## Website "Enhancer" Userscripts
 - [[TS] Citrus GFork](https://anonym.to/?https://greasyfork.org/scripts/4336) - Adds bunch of GreasyFork hidden features.
