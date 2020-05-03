@@ -762,6 +762,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [yggtorrent.se](https://anonym.to/?https://yggtorrent.se/) - (`FR`) - Popular French torrent directory.
 - [Torrents9](https://anonym.to/?https://vww.torrentz9.fr/) - (`FR`) - Yet another popular French torrent directory.
 - [Zone-Annuaire](https://anonym.to/?http://zone-annuaire.com/) - (`FR`) - Yet another popular French torrent directory.
+- [YGG Torrent](https://anonym.to/?https://www2.yggtorrent.se) - (`SE`) - Movies, Games, TV shows & more.
 
 **[`^        back to top        ^`](#readme)**
 
