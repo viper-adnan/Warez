@@ -744,7 +744,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [TorrentFunk](https://anonym.to/?https://www.torrentfunk.com/) - TorrentFunk is a torrent site providing verified torrents for all kinds of content.
 - [TorrentGalaxy](https://anonym.to/?https://torrentgalaxy.org/) - Public tracker with a clean UI.
 - [TorrentInvites](http://torrentinvites.org) - (`insecure`) - #1 to buy, trade, sell or find free Tracker Invites!
-- [TorrentKing](https://anonym.to/?https://torrentking.io/) - Torrentking is a popular movie torrent site.
+- [Torrent King](https://anonym.to/?https://torrentking.io/) - Torrentking is a popular movie torrent site.
 - [Torrentz2](https://anonym.to/?https://torrentz2.is/) - [(mirror)](https://anonym.to/?https://torrentz2.eu/) - A good replacement of the defunct Torrentz.eu.
 - [Torrents-csv.ml](https://torrents-csv.ml) - An open-source torrent search engine tracker for all sorts of torrents.
 - [Trackers list](https://anonym.to/?https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers which you can add in e.g. QB.
@@ -762,25 +762,19 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [yggtorrent.se](https://anonym.to/?https://yggtorrent.se/) - (`FR`) - Popular French torrent directory.
 - [Torrents9](https://anonym.to/?https://vww.torrentz9.fr/) - (`FR`) - Yet another popular French torrent directory.
 - [Zone-Annuaire](https://anonym.to/?http://zone-annuaire.com/) - (`FR`) - Yet another popular French torrent directory.
-- [YGG Torrent](https://anonym.to/?https://www2.yggtorrent.se) - (`SE`) - Movies, Games, TV shows & more.
+- [Yggtorrent](https://anonym.to/?https://www2.yggtorrent.se) - (`SE`) - Movies, Games, TV shows & more.
 
 **[`^        back to top        ^`](#readme)**
 
 <!-- markdown-link-check-disable -->
 ### I2P Tracker
-- [killyourtv](http://mpc73okj7wq2xl6clofl64cn6v7vrvhpmi6d524nrsvbeuvjxalq.b32.i2p/) - Series and TV Shows.
+- [killyourtv](http://mpc73okj7wq2xl6clofl64cn6v7vrvhpmi6d524nrsvbeuvjxalq.b32.i2p/) - I2P tracker for series and tv shows.
 <!-- markdown-link-check-enable -->
 **[`^        back to top        ^`](#readme)**
 
 
 ### Tracker Aggregators
-- [High Resolution Music](https://anonym.to/?https://highresolutionmusic.com/) - FLAC Music collection.
-- [rats-search](https://anonym.to/?https://github.com/DEgITx/rats-search) - P2P Bittorrent search engine.
-- [snowfl](https://anonym.to/?https://snowfl.com/) - Snowfl is a torrent aggregator which searches various public torrent indexes in real-time.
-- [SolidTorrents](https://anonym.to/?https://solidtorrents.net) - A clean, privacy focused torrent search engine.
-- [Torrents.me](https://anonym.to/?https://torrents.me/) - Torrents.me combines popular torrent sites and specialized private trackers in a torrent multi-search.
-- [Torrentzeta](https://anonym.to/?https://www.torrentzeta.com/)
-- [Skyn3t](https://anonym.to/?https://skyn3t.in/srx/)
+
 
 **[`^        back to top        ^`](#readme)**
 

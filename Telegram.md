@@ -235,6 +235,17 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 
+
+### Telegram eBook Bots
+- [@BookDownloadBot](https://anonym.to/?https://t.me/BookDownloadBot)
+- [@getmediabot](https://anonym.to/?https://t.me/getmediabot)
+- [@libgen_scihub_bot](https://anonym.to/?https://t.me/libgen_scihub_bot)
+- [@libsan_bot](https://anonym.to/?https://t.me/libsan_bot)
+- [@scihubot](https://anonym.to/?https://t.me/scihubot)
+
+**[`^        back to top        ^`](#)**
+
+
 ### Telegram channels for seedbox discussion
 - [丂ㄥ乃ㄖㄒ丂 ✪ 丂乇乇ᗪ乃ㄖ乂](https://anonym.to/?https://t.me/joinchat/IbIIb0Yga4pKYCOu7LajYg) - Seedbox fan have a home here.
 - [slbotsbugs](https://anonym.to/?https://t.me/slbotsbugs) - TeamDrive, Bot discussion place.
@@ -244,7 +255,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 
 ### Telegram Bots for unpacking .zip and .rar files
-
+- //
 
 ### Telegram Bot to create TeamDrives
 - [@HK_ROBOT](https://anonym.to/?https://t.me/HK_ROBOT) - Unpack zip and rar files with this bot.
@@ -272,7 +283,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [TV Updates](https://anonym.to/?https://telegram.me/joinchat/ACzuljvGFUjzJf4ambpzTA) - A large collection of TV shows, downloadable in Telegram, updated daily!
 
 
-### Telegram Movie Bot
+### Telegram Movie Bots
 - [@utubebot](https://anonym.to/?https://t.me/utubebot) - Video Downloader with MP3 Conversion support.
 - [[@JaredMovieRuBot](https://anonym.to/?https://t.me/JaredMovieRuBot) - Movie monitoring bot.
 

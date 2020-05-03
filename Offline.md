@@ -1,6 +1,6 @@
 ## Offline but never forgotten
 
-Based on "[Scammers Hit Pirate Game Sites With "irreversible™ Google Takedowns](https://torrentfreak.com/scammers-hit-pirate-game-sites-with-irreversible-google-takedowns-181130/)"
+Based on "[Scammers Hit Pirate Game Sites With "irreversibleâ„¢ Google Takedowns](https://torrentfreak.com/scammers-hit-pirate-game-sites-with-irreversible-google-takedowns-181130/)"
 
 - Good-Old-Downloads
 - MovieBox
@@ -324,7 +324,7 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversible™ Google Takedowns
 - torrentwatcher.com
 - tvoverlord.com
 
-## Streaming Services
+## Streaming Service
 - btcloud.io
 - flixtor.com
 - getpopcornti.me
