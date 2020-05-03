@@ -30,6 +30,11 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 **[`^        back to top        ^`](#)**
 
+### Virus Total Bots
+- [@virus_total_scan_bot](https://anonym.to/?https://t.me/virus_total_scan_bot) - Scan files and check it against VirusTotal. Does not work with Channels or Groups.
+
+**[`^        back to top        ^`](#)**
+
 ### Telegram Coding Channels
 - [Mozilla Browser / develper telegram and IRC Channels](https://anonym.to/?https://wiki.mozilla.org/Telegram) - The overview page aims to list all mozilla groups and channels (and the linked IRC channels).
 
@@ -356,3 +361,29 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@Shieldy](https://anonym.to/?https://t.me/shieldy_bot) - A zero-config Telegram bot that fights spam in chats.
 
 **[`^        back to top        ^`](#)**
+
+
+### Telegram Bridges
+- [matterbridge](https://anonym.to/?https://github.com/42wim/matterbridge) - Bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams and more with REST API (mattermost not required!)
+- [TediCross](https://anonym.to/?https://github.com/TediCross/TediCross) - Bot which bridges Telegram chats with Discord channels.
+- [teleirc](https://anonym.to/?https://github.com/RITlug/teleirc) - Go implementation of a Telegram <=> IRC bridge for use with any IRC channel and Telegram group.
+- [Transferbot](https://anonym.to/?https://github.com/corusm/Transferbot) - Bot that transfers Messages from Telegram to Discord and back.
+
+**[`^        back to top        ^`](#)**
+
+
+### Python Telegram Bots
+- [python-telegram-bot](https://anonym.to/?https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse.
+
+
+**[`^        back to top        ^`](#)**
+
+
+### Encrypt Telegram Bots
+- [@TcryptorBot](https://anonym.to/?https://t.me/TcryptorBot) - This bot encrypts and decrypts messages with Triple-DES.
+- [TuringCrypto](https://anonym.to/?https://github.com/DmitryMoldovanov/TuringCrypto) - Given Telegram bot will help you to encrypt and decrypt your messages via symmetric-key algorithm.
+
+
+**[`^        back to top        ^`](#)**
+
+

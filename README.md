@@ -2438,7 +2438,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Viooz](https://anonym.to/?https://vioozgo.org/) - (RU) - Discover thousands of movies, watch your favorite movies online for free on VZM, Viooz.
 - [Simplestream](https://anonym.to/?https://simplestream.in/) - A huge Database for movies and TV Shows.
 - [MXPlayer.in](https://anonym.to/?https://www.mxplayer.in/movies) - Movies and Databases regarding movies, tv series and other shows.
-- [Rapid Moviez (RMZ)](https://anonym.to/?https://rmz.cr/) - Movies and TV shows.
+- [](https://anonym.to/?https://rmz.cr/) - Movies and TV shows.
 
 **[`^        back to top        ^`](#readme)**
 
