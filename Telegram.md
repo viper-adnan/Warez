@@ -65,7 +65,12 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 
 ### Telegram Bot for fake eMails
+- [@DropmailBot](https://anonym.to/?https://t.me/DropmailBot) - Get fake emails.
+- [@etlgr_bot](https://anonym.to/?https://t.me/etlgr_bot) - Get fake emails.
 - [@fakemailbot](https://anonym.to/?https://t.me/fakemailbot) - Get fake emails as soon as new ones arrive.
+- [@GmailBot](https://anonym.to/?https://t.me/GmailBot) - GMail mangement Bot.
+- [@smtpbot](https://anonym.to/?https://t.me/smtpbot) - Get fake emails.
+- [@temp_mail_bot](https://anonym.to/?https://t.me/temp_mail_bot) - Get fake emails.
 
 **[`^        back to top        ^`](#)**
 
@@ -129,6 +134,9 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 ### Movies IMDB Bot
 - [@imdb](https://anonym.to/?https://t.me/scsht_bot) - This bot automatically works in all your chats and groups, no need to add it anywhere. Simply type @imdb in any chat.
+- [@MovieReleaseBot](https://anonym.to/?https://t.me/MovieReleaseBot) - Announce and search new movie releases.
+- [movieS4Bot](https://anonym.to/?https://t.me/movieS4Bot)
+- [@GO_Robot](https://anonym.to/?https://t.me/@GO_Robot) - Announce and search new movie releases.
 
 **[`^        back to top        ^`](#)**
 
@@ -145,8 +153,9 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@UploadBots](https://anonym.to/?https://t.me/UploadBots) - A bot which uploads your telegram file to a sharehoster.
 - [aria-telegram-mirror-bot](https://anonym.to/?https://github.com/out386/aria-telegram-mirror-bot) - A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
 - [tgfilestream](https://anonym.to/?https://github.com/SpEcHiDe/tgfilestream) - A Telegram bot that can stream Telegram files to users over HTTP.
-- [UniBorg](https://anonym.to/?https://github.com/SpEcHiDe/UniBorg) - Pluggable Telegram bot and userbot based on Telethon.
-
+- [@UniBorg](https://anonym.to/?https://github.com/SpEcHiDe/UniBorg) - Pluggable Telegram bot and userbot based on Telethon.
+- [@intermediabot](https://anonym.to/?https://t.me/intermediabot)
+- [@getmediabot](https://anonym.to/?https://t.me/getmediabot)
 
 #### Telegram channel for file sharing
 - [AutoRcloneEng](https://anonym.to/?https://t.me/AutoRcloneEng) - The official Rclone Telegram channel.
@@ -170,8 +179,12 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 **[`^        back to top        ^`](#)**
 
-## Telegram Subtitle Bots
+## Telegram Subtitle BotSubHunterBotSubHunterBotSubHunterBotSubHunterBotSubHunterBotSubHunterBotSubHunterBot
 - [@piracy_bot](https://anonym.to/?https://t.me/piracy_bot) - A simple bot which will give you subtitles from various Streaming sites e.g. Zee5.com and Jiocinema.com.
+- [@SubSceneDLBot](https://anonym.to/?https://t.me/SubSceneDLBot)
+- [@subtitlebot](https://anonym.to/?https://t.me/subtitlebot)
+- [@SubYabBot](https://anonym.to/?https://t.me/SubYabBot)
+- [@SubHunterBot](https://anonym.to/?https://t.me/SubHunterBot)
 
 **[`^        back to top        ^`](#)**
 
@@ -191,7 +204,8 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [Premium APKs Only](https://anonym.to/?https://t.me/apkpremiumonly) - Patched / modded android apps, updated daily.
 
 ### Telegram APK downloader Bots
-- [@apkdl_bot](https://anonym.to/?https://t.me/apkdl_bot) - Download latest version of any free android apps and games from apkdl.in.
+- [@apkdl_bot](https://anonym.to/?https://t.me/apkdl_bot) - Download latest version of any free android app and game from apkdl.in.
+- [@GooglePlayDownloader_bot](https://anonym.to/?https://t.me/GooglePlayDownloader_bot) - Download latest version of any free android app directly from Google Play Store.
 
 **[`^        back to top        ^`](#)**
 
@@ -428,6 +442,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 
 ### Telegram Bot (Moderation)
+- [@BotFather](https://anonym.to/?https://t.me/BotFather) - Create and maintain your own bots.
 - [@Combot](https://anonym.to/?https://combot.org/) - Moderation, analytics, anti-spam, the best trigger system in Telegram and more.
 - [@Controller](https://anonym.to/?https://t.me/ControllerBot) - ControllerBot is a feature-rich bot for Telegram channel (not group!) owners.
 - [@GroupHelpBot](https://anonym.to/?https://t.me/GroupHelpBot) - This is the most complete Bot to help you manage your groups easily and safely!
@@ -435,8 +450,11 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@Miss Rose](https://anonym.to/?https://missrose.org/guide/getting-started/adding-rose/) - Manage your group easily with the Rose bot.
 - [@Protectron](https://anonym.to/?https://www.protectronbot.com/) - Telegram anti-spam and group management bot.
 - [@Shieldy](https://anonym.to/?https://t.me/shieldy_bot) - A zero-config Telegram bot that fights spam in chats.
+- [@vardast_bot](https://anonym.to/?https://t.me/vardast_bot) - A zero-config Telegram bot that fights spam in chats.
+- [@assistChannel_bot](https://anonym.to/?https://t.me/assistChannel_bot) - A zero-config Telegram bot that fights spam in chats.
 
 **[`^        back to top        ^`](#)**
+
 
 
 ### Telegram Bridges
@@ -466,5 +484,305 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 ### Netflix Channels
 - [netflixonline](https://anonym.to/?https://t.me/netflixonline) - Daily new Netflix episodes.
 - [Netflix_originals](https://anonym.to/?https://t.me/Netflix_originals) - Daily new Netflix episodes.
+
+**[`^        back to top        ^`](#)**
+
+
+### Instagram Bots
+- [@Instasave_bot](https://anonym.to/?https://t.me/Instasave_bot) - Save Instagram photos.
+
+**[`^        back to top        ^`](#)**
+
+
+### Photo Search Bots
+- [@bing](https://anonym.to/?https://t.me/bing) - Bing is search engine, this Bot let's you search for photos.
+- [@pic](https://anonym.to/?https://t.me/pic)
+- [@imagesearchbot](https://anonym.to/?https://t.me/imagesearchbot)
+- [@imagebot](https://anonym.to/?https://t.me/imagebot)
+
+**[`^        back to top        ^`](#)**
+
+### Internet search Bots
+- [@ya](https://anonym.to/?https://t.me/ya)
+
+**[`^        back to top        ^`](#)**
+
+### QR Bots
+- [@QRCodesBot](https://anonym.to/?https://t.me/QRCodesBot)
+
+**[`^        back to top        ^`](#)**
+
+### Translator Bots
+- [@Translate_robot](https://anonym.to/?https://t.me/Translate_robot) - Google Translate bot.
+- [@TransisBot](https://anonym.to/?https://t.me/TransisBot) - Google Translate bot.
+
+**[`^        back to top        ^`](#)**
+
+### General Music Bots
+- [@MyMusicBot](https://anonym.to/?https://t.me/MyMusicBot)
+- [@moozikestan_bot](https://anonym.to/?https://t.me/moozikestan_bot)
+- [@scloud_bot](https://anonym.to/?https://t.me/scloud_bot)
+
+**[`^        back to top        ^`](#)**
+
+
+### General Music Search Bots
+- [@music](https://anonym.to/?https://t.me/music)
+
+**[`^        back to top        ^`](#)**
+
+
+### ID3 Tag Bots
+- [@id3bot](https://anonym.to/?https://t.me/id3bot)
+- [@mp3toolsbot](https://anonym.to/?https://t.me/mp3toolsbot)
+
+**[`^        back to top        ^`](#)**
+
+### Lyric Bots
+- [@iLyricsBot](https://anonym.to/?https://t.me/iLyricsBot)
+
+**[`^        back to top        ^`](#)**
+
+### URL Shortener Bots
+- [@ShortUrlBot](https://anonym.to/?https://t.me/ShortUrlBot)
+- [@shorturl_googl_bot](https://anonym.to/?https://t.me/shorturl_googl_bot)
+- [@PlinkBot](https://anonym.to/?https://t.me/PlinkBot)
+
+**[`^        back to top        ^`](#)**
+
+
+
+### Get Site Info (WHIOS/IP,..)
+- [@whooisbot](https://anonym.to/?https://t.me/whooisbot) - Get WHOIS information.
+- [@ipaboutbot](https://anonym.to/?https://t.me/ipaboutbot) - Get IP information.
+- [@userinfobot](https://anonym.to/?https://t.me/userinfobot) - Get User Infos.
+- [@ChannelIdBot](https://anonym.to/?https://t.me/ChannelIdBot) - Get Channel Infos.
+- [@vajehyabbot](https://anonym.to/?https://t.me/vajehyabbotvajehyabbot) - Get Channel Infos.
+
+**[`^        back to top        ^`](#)**
+
+### Scrape Site Text Bot
+- [@ReadmeBot](https://anonym.to/?https://t.me/ReadmeBot)
+- [@SearchBazarBot](https://anonym.to/?https://t.me/SearchBazarBot) - Search Bazar and get information.
+- [@DBazarBot](https://anonym.to/?https://t.me/DBazarBot) - Download the app from Market Cafe
+
+**[`^        back to top        ^`](#)**
+
+### RSS / Tweet channel bots
+- [@TheFeedReaderBot](https://anonym.to/?https://t.me/TheFeedReaderBot)
+
+**[`^        back to top        ^`](#)**
+
+### Convert Text to Sticker
+- [@FonthaBot](https://anonym.to/?https://t.me/FonthaBot) - Convert specific text to a sticker.
+
+**[`^        back to top        ^`](#)**
+
+### Convert Text to Photo
+- [@FonthaBot](https://anonym.to/?https://t.me/FonthaBot) - Convert specific text to a sticker.
+- [@StickerToPhoto_Bot](https://anonym.to/?https://t.me/StickerToPhoto_Bot) - Convert specific text to a sticker.
+
+**[`^        back to top        ^`](#)**
+
+
+
+### YouTube Downloader Bots
+- [@video_dl_bot](https://anonym.to/?https://t.me/video_dl_bot) - Download videos from YouTube.
+- [@youtube](https://anonym.to/?https://t.me/youtube) - Search Videos on YouTube.
+- [@utubebot](https://anonym.to/?https://t.me/utubebot) - Search and DL Videos on YouTube.
+- [@SaveVideoBot](https://anonym.to/?https://t.me/SaveVideoBot) - Search and DL Videos on YouTube.
+- [@YoutubeConvertBot](https://anonym.to/?https://t.me/YoutubeConvertBot) - Search and DL Videos on YouTube.
+
+**[`^        back to top        ^`](#)**
+
+
+
+### Facebook Downloader Bots
+- [@FBvidzBot](https://anonym.to/?https://t.me/youtube) - Download Video From Facebook.
+
+**[`^        back to top        ^`](#)**
+
+
+
+### Hyperlink Telegram Bos
+- [@bold](https://anonym.to/?https://t.me/bold)
+- [@t2lbot](https://anonym.to/?https://t.me/t2lbot)
+
+**[`^        back to top        ^`](#)**
+
+
+
+### Create Gifs Bots
+- [@gifybot](https://anonym.to/?https://t.me/gifybot)
+- [@Do_dar100_bot](https://anonym.to/?https://t.me/Do_dar100_bot)
+
+**[`^        back to top        ^`](#)**
+
+### Sticker Search Bot
+- [@sticker](https://anonym.to/?https://t.me/sticker)
+
+**[`^        back to top        ^`](#)**
+
+
+
+### The robot is sending a message to itself
+- [@posttobot](https://anonym.to/?https://t.me/posttobot)
+- [@imixbot](https://anonym.to/?https://t.me/imixbot)
+
+**[`^        back to top        ^`](#)**
+
+
+### Attach Files or Phots Bots
+- [@attachbot](https://anonym.to/?https://t.me/attachbot)
+
+**[`^        back to top        ^`](#)**
+
+
+### Poll Bots
+- [@pollbot](https://anonym.to/?https://t.me/pollbot)
+- [@like](https://anonym.to/?https://t.me/like)
+- [@vote](https://anonym.to/?https://t.me/vote)
+
+**[`^        back to top        ^`](#)**
+
+### Maintainance Bots
+- [@sscapachebot](https://anonym.to/?https://t.me/sscapachebot) - Glass Button creating Bot.
+- [@storebot](https://anonym.to/?https://t.me/storebot) - Channel Introducing.
+- [@tchannelsbot](https://anonym.to/?https://t.me/tchannelsbot) - Channel Introducing.
+- [@Telegroupsbot](https://anonym.to/?https://t.me/Telegroupsbot) - Group Introducing.
+
+**[`^        back to top        ^`](#)**
+
+
+### Antivirus Bots (Scan Files)
+- [@DrWebBot](https://anonym.to/?https://t.me/DrWebBot)
+- [@virus_total_scan_bot](https://anonym.to/?https://t.me/virus_total_scan_bot)
+- [@VS_Robot](https://anonym.to/?https://t.me/VS_Robot)
+
+**[`^        back to top        ^`](#)**
+
+
+### Upload file and get quick link Bots
+- [@failtolinkbot](https://anonym.to/?https://t.me/failtolinkbot)
+- [@GetPublicLinkBot](https://anonym.to/?https://t.me/GetPublicLinkBot)
+- [@tlgurbot](https://anonym.to/?https://t.me/tlgurbot)
+- [@TransferRobot](https://anonym.to/?https://t.me/TransferRobot)
+
+**[`^        back to top        ^`](#)**
+
+
+
+### Upload and Downloader Bots
+- [@myuploaderbot](https://anonym.to/?https://t.me/myuploaderbot)
+- [@ParsFilerBot](https://anonym.to/?https://t.me/ParsFilerBot)
+- [@pwrtelegrambot](https://anonym.to/?https://t.me/pwrtelegrambot)
+- [@UploaditBot](https://anonym.to/?https://t.me/UploaditBot)
+- [@url_dlrobot](https://anonym.to/?https://t.me/url_dlrobot)
+- [@urluploadbot](https://anonym.to/?https://t.me/urluploadbot)
+
+**[`^        back to top        ^`](#)**
+
+
+
+### File Uplaoder Bots
+- [@MyTeleCloudBot](https://anonym.to/?https://t.me/MyTeleCloudBot)
+- [@filesbot](https://anonym.to/?https://t.me/filesbot)
+- [@NephoBot](https://anonym.to/?https://t.me/NephoBot)
+- [@thesafebot](https://anonym.to/?https://t.me/thesafebot)
+- [@rfilesbot](https://anonym.to/?https://t.me/rfilesbot)
+
+**[`^        back to top        ^`](#)**
+
+
+
+### File Converting Bots
+- [@FileConverterBot](https://anonym.to/?https://t.me/FileConverterBot)
+- [@converterfilebot](https://anonym.to/?https://t.me/converterfilebot)
+- [@topdf_bot](https://anonym.to/?https://t.me/topdf_bot) - Converts files to pdf.
+
+**[`^        back to top        ^`](#)**
+
+
+### Compress files Bot
+- [@createzipbot](https://anonym.to/?https://t.me/createzipbot)
+
+**[`^        back to top        ^`](#)**
+
+
+
+### Sticker Download Bot
+- [@Stickerdownloadbot](https://anonym.to/?https://t.me/Stickerdownloadbot)
+
+**[`^        back to top        ^`](#)**
+
+
+
+### Translate Photos Bot
+- [@ImageTranslateBot](https://anonym.to/?https://t.me/ImageTranslateBot)
+
+**[`^        back to top        ^`](#)**
+
+
+### Hide Text in Chat
+- [@HideItBot](https://anonym.to/?https://t.me/HideItBot)
+
+**[`^        back to top        ^`](#)**
+
+
+### Weather Bots
+- [@Hava_Shenasi_Bot](https://anonym.to/?https://t.me/Hava_Shenasi_Bot)
+- [@weatherman_bot](https://anonym.to/?https://t.me/weatherman_bot)
+
+**[`^        back to top        ^`](#)**
+
+
+
+### Style and Icon Bots
+- [@Icon8bot](https://anonym.to/?https://t.me/Icon8bot)
+- [@PrismaBot](https://anonym.to/?https://t.me/PrismaBot)
+
+**[`^        back to top        ^`](#)**
+
+
+### Markdown Bot
+- [@markdownrobot](https://anonym.to/?https://t.me/markdownrobot)
+
+**[`^        back to top        ^`](#)**
+
+### Game Bots
+- [@gamee](https://anonym.to/?https://t.me/gamee)
+- [@minroobot](https://anonym.to/?https://t.me/minroobot)
+
+**[`^        back to top        ^`](#)**
+
+
+## Bot to remove or prevent forwarding messages
+- [@hazf_bot](https://anonym.to/?https://t.me/hazf_bot)
+
+**[`^        back to top        ^`](#)**
+
+
+### Convert Text to Speech Bots
+- [@pronunciationbot](https://anonym.to/?https://t.me/pronunciationbot)
+- [@saytextbot](https://anonym.to/?https://t.me/saytextbot)
+- [@AgpArianaBot](https://anonym.to/?https://t.me/AgpArianaBot)
+
+**[`^        back to top        ^`](#)**
+
+
+
+### Text beautification Bot
+- [@cowthinksbot](https://anonym.to/?https://t.me/cowthinksbot)
+- [@lennysbot](https://anonym.to/?https://t.me/lennysbot)
+- [@filtersbot](https://anonym.to/?https://t.me/filtersbot)
+- [@textfacesbot](https://anonym.to/?https://t.me/textfacesbot)
+- [@typerobot](https://anonym.to/?https://t.me/typerobot)
+
+**[`^        back to top        ^`](#)**
+
+
+### Create your onw Telegram Bots
+- [@CreatPhpbot](https://anonym.to/?https://t.me/CreatPhpbot) - Create random multipurpose Bots.
+- [@LivegramBot](https://anonym.to/?https://t.me/LivegramBot) - Create Instagram Bots.
 
 **[`^        back to top        ^`](#)**

@@ -49,13 +49,14 @@ I do not accept any donations or add a sponsorship button for this repository. I
 * A web based search will be integrated at the end of Jan. 2020.
 
 ## Project structure
-- `.github` - Documents, Todo etc.
+- `.github` - Folder for documents, to-do & more.
 - [Android.md](https://github.com/CHEF-KOCH/Warez/blob/master/Android.md) - Android apps, tools & more.
 - [Homepage](https://chef-koch.github.io/Warez/) - General Overview (_which gets a search (it's on the to-do)_)
 - [Readme.md](https://github.com/CHEF-KOCH/Warez/blob/master/README.md) - _This file_, provides a smaller overview (includes only website links and no tutorials etc).
 - [Scene Info.md](https://github.com/CHEF-KOCH/Warez/blob/master/Scene%20Info.md) - Beginner Info to get into the scene and warez.
 - [Tools.md](https://github.com/CHEF-KOCH/Warez/blob/master/Tools.md) - Lists all programs related to warez.
 - [Extensions & Scripts](https://github.com/CHEF-KOCH/Warez/blob/master/Extensions%20%26%20Scripts.md) - Lists Browser Scripts + Extensions which might makes your pirate life a little bit easier.
+- [Proxy.md](https://github.com/CHEF-KOCH/Warez/blob/master/Proxy.md) - Lists all public Proxies.
 - [Tutorials.md](https://github.com/CHEF-KOCH/Warez/blob/master/Tutorials.md) - Lists all warez related tools.
 - [Banned.md](https://github.com/CHEF-KOCH/Warez/blob/master/Banned.md) - Lists all banned groups, programs and topics
 - [Offline.md](https://github.com/CHEF-KOCH/Warez/blob/master/Offline.md) - Lists all offline or compromised websites.
