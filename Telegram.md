@@ -234,8 +234,6 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 **[`^        back to top        ^`](#)**
 
-
-
 ### Telegram eBook Bots
 - [@BookDownloadBot](https://anonym.to/?https://t.me/BookDownloadBot)
 - [@getmediabot](https://anonym.to/?https://t.me/getmediabot)
@@ -329,24 +327,91 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 ### Telegram channels for eBooks & PDF's
+- [@aadhyatmikbrahmand](https://anonym.to/?https://t.me/aadhyatmikbrahmand)
+- [@alejandriak](https://anonym.to/?https://t.me/alejandriak)
+- [@best_bookshelf](https://anonym.to/?https://t.me/best_bookshelf)
+- [@BOOK_HOUSE_INTERNATIONAL](https://t.me/BOOK_HOUSE_INTERNATIONAL)
 - [@BookCafe](https://anonym.to/?https://t.me/eBookCafe)
+- [@bookclub7](https://anonym.to/?https://t.me/bookclub7)
+- [@Books N All](https://anonym.to/?https://t.me/joinchat/EG43XkPhHFup2w7kTl44AA) - Request eBooks and audio books, as well as reviews in this group with ~3.5k members & generally a fast response time.
 - [@BooksBag](https://anonym.to/?https://t.me/BooksBag)
 - [@BooksFree4U](https://anonym.to/?https://t.me/BooksFree4U)
 - [@BooksLog](https://anonym.to/?https://t.me/BooksLog)
 - [@booksmania](https://anonym.to/?https://t.me/booksmania)
 - [@booksnow](https://anonym.to/?https://t.me/booksnow)
+- [@BooksThief](https://anonym.to/?https://t.me/BooksThief)
+- [@BookThief](https://anonym.to/?https://t.me/BooksThief)
+- [@BookWizardTheNewest](https://anonym.to/?https://t.me/BookWizardTheNewest)
 - [@bookz4u](https://anonym.to/?https://t.me/bookz4u)
+- [@eBooks English](https://anonym.to/?https://t.me/EbooksEnglish)
+- [@Ebooks254](https://anonym.to/?https://t.me/Ebooks254)
+- [@eBooksOnly](https://anonym.to/?https://t.me/eBooksOnly)
+- [@Ebookz](https://anonym.to/?https://t.me/Ebookz)
+- [@EbookzCollection](https://anonym.to/?https://t.me/EbookzCollection)
+- [@EbookzGroup](https://anonym.to/?https://t.me/EbookzGroup)
+- [@english_audio](https://anonym.to/?https://t.me/english_audio)
+- [@EnochianMagick](https://anonym.to/?https://t.me/EnochianMagick)
+- [@freebook9](https://anonym.to/?https://t.me/freebook9)
+- [@GraphicAudio](https://anonym.to/?https://t.me/GraphicAudio)
+- [@HerbologyY](https://anonym.to/?https://t.me/HerbologyY)
+- [@hindupdf](https://anonym.to/?https://t.me/hindupdf)
+- [@HUBTree](https://anonym.to/?https://t.me/HUBTree)
+- [@HypnosisChatBooks](https://anonym.to/?https://t.me/HypnosisChatBooks)
+- [@librariesoftelegram](https://anonym.to/?https://t.me/librariesoftelegram)
+- [@libraryofdos](https://anonym.to/?https://t.me/libraryofdos)
+- [@LibraryofMagic](https://anonym.to/?https://t.me/LibraryofMagic)
+- [@librosocultismo](https://anonym.to/?https://t.me/librosocultismo)
+- [@List of eBook websites, channels & bots](https://anonym.to/?https://t.me/raymondfreesoftware/166702) - Large collection of websites, bots and channels with a wide range of eBooks.
+- [@magickaris](https://anonym.to/?https://t.me/magickaris)
+- [@MagickEbookz](https://anonym.to/?https://t.me/MagickEbookz)
+- [@magickmatters](https://anonym.to/?https://t.me/magickmatters)
+- [@magZtore](https://anonym.to/?https://t.me/magZtore)
 - [@mfmixebooks](https://anonym.to/?https://t.me/mfmixebooks)
+- [@MobiArchives](https://anonym.to/?https://t.me/MobiArchives)
+- [@novel_worlds](https://anonym.to/?https://t.me/novel_worlds)
+- [@novelbuk](https://anonym.to/?https://t.me/novelbuk)
 - [@OxfordBookworms](https://anonym.to/?https://t.me/OxfordBookworms)
-- [best_bookshelf](https://anonym.to/?https://t.me/best_bookshelf)
-- [BOOK_HOUSE_INTERNATIONAL](https://t.me/BOOK_HOUSE_INTERNATIONAL)
-- [Books N All](https://anonym.to/?https://t.me/joinchat/EG43XkPhHFup2w7kTl44AA) - Request eBooks and audio books, as well as reviews in this group with ~3.5k members & generally a fast response time.
-- [BookThief](https://anonym.to/?https://t.me/BooksThief)
-- [eBooks English](https://anonym.to/?https://t.me/EbooksEnglish)
-- [Ebooks254](https://anonym.to/?https://t.me/Ebooks254)
-- [List of eBook websites, channels & bots](https://anonym.to/?https://t.me/raymondfreesoftware/166702) - Large collection of websites, bots and channels with a wide range of eBooks.
-- [SciHub](https://anonym.to/?https://t.me/scihubot) - Similar to the original Sci-Hub website, sharing is caring!
-- [The Hindu](https://anonym.to/?https://t.me/The_Hindu1) - PDFs of every Indian newspaper every day.
+- [@PDFArchives](https://anonym.to/?https://t.me/PDFArchives)
+- [@PIT_PacktPubFreeLearning](https://anonym.to/?https://t.me/PIT_PacktPubFreeLearning)
+- [@ramanamaharishi](https://anonym.to/?https://t.me/ramanamaharishi)
+- [@s4n1t4t10n](https://anonym.to/?https://t.me/s4n1t4t10n)
+- [@sanskritsahitya](https://anonym.to/?https://t.me/sanskritsahitya)
+- [@sciencebooks1](https://anonym.to/?https://t.me/sciencebooks1)
+- [@SciHub](https://anonym.to/?https://t.me/scihubot) - Similar to the original Sci-Hub website, sharing is caring!
+- [@selfhelpbooklab](https://anonym.to/?https://t.me/selfhelpbooklab)
+- [@SelfHelpBooks4U](https://anonym.to/?https://t.me/SelfHelpBooks4U)
+- [@spiritualbooks](https://anonym.to/?https://t.me/spiritualbooks)
+- [@spiritualitybooks](https://anonym.to/?https://t.me/spiritualitybooks)
+- [@The Hindu](https://anonym.to/?https://t.me/The_Hindu1) - PDFs of every Indian newspaper every day.
+- [@vaidiclibrary](https://anonym.to/?https://t.me/vaidiclibrary)
+- [@vegancookbooks](https://anonym.to/?https://t.me/vegancookbooks)
+- [@vintageromance](https://anonym.to/?https://t.me/vintageromance)
+- [@WonderlandLibraryOfMagicBooks](https://anonym.to/?https://t.me/WonderlandLibraryOfMagicBooks)
+- [@yourlibraries](https://anonym.to/?https://t.me/yourlibraries)
+- [Blackhive](https://anonym.to/?https://t.me/joinchat/AAAAAEV6rQontIWwNSDIbg)
+- [Books](https://anonym.to/?https://t.me/joinchat/AAAAAFTI64cvf4wKc1kxZw)
+- [Deluxe Comics](https://anonym.to/?https://t.me/joinchat/AAAAAEvekKwPN_OKq0RM_Q)
+- [jhusbooks](https://anonym.to/?https://t.me/joinchat/AAAAAEGe-ebJ--qN4LI3ng)
+- [Libraries Arcana](https://anonym.to/?https://t.me/joinchat/AAAAAE2_TmVfkdoTfP4TpA)
+- [Library of Magi](https://anonym.to/?https://t.me/joinchat/AAAAAErJl2k6YNIR9UM2vg)
+- [Links](https://anonym.to/?https://t.me/joinchat/AAAAAEaSHcI-kzAWWBZOJw)
+- [Meditation](https://anonym.to/?https://t.me/joinchat/AAAAAE9u9noQ7odN2Ds1rw)
+- [Open Library](https://anonym.to/?https://t.me/joinchat/AAAAAEUbZxqyCKxhZbf-PA)
+- [WiLd's Occult Ebook Dump](https://anonym.to/?https://t.me/joinchat/AAAAAE07WyxZNFu5tLrjVA)
+
+### Telegram Chats regarding eBooks
+- [@agoramagica](https://anonym.to/?https://t.me/agoramagica)
+- [@bookclub77](https://anonym.to/?https://t.me/bookclub77)
+- [@enochia](https://anonym.to/?https://t.me/enochia)
+- [@HerbologyGroup](https://anonym.to/?https://t.me/HerbologyGroup)
+- [@LateNightMagi](https://anonym.to/?https://t.me/LateNightMagi)
+- [@LingQiLibrary](https://anonym.to/?https://t.me/LingQiLibrary)
+- [@magiacaos](https://anonym.to/?https://t.me/magiacaos)
+- [@seriallynotreadbooks](https://anonym.to/?https://t.me/seriallynotreadbooks)
+- [@vaidiclibrarygr](https://anonym.to/?https://t.me/vaidiclibrarygr)
+- [@zonadecaos](https://anonym.to/?https://t.me/zonadecaos)
+- [A GRoUP Of eBooKz](https://anonym.to/?https://t.me/joinchat/Cdn35j0FlwHkKl7Z3-CWvw)
+- [Spiritual Books](https://anonym.to/?https://t.me/joinchat/NVkTNFfYRrI7xtrvSHaDvQ)
 
 **[`^        back to top        ^`](#)**
 
