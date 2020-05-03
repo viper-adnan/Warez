@@ -2124,7 +2124,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [AMORC](https://anonym.to/?https://www.rosicrucian.org/texts)
 - [Amosqu's custom Google search](https://anonym.to/?https://cse.google.com/cse%3Fcx=011394183039475424659:5bfyqg89ers)
 - [Awakening Intuition](https://anonym.to/?http://www.awakening-intuition.com/ebooks.html)
-
+- [WiLd's Occult Ebook Sources](https://anonym.to/?https://justpaste.it/WiLdOccultEbooks) - Constantly updated eBook source for direct downloads, eBook source pages, tracker and magnets regarding eBook stuff.
 
 **[`^        back to top        ^`](#readme)**
 
