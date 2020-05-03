@@ -342,9 +342,10 @@ Downloads albums in bulk.
 ### Social Media related services, tools & scripts
 - [Forget](https://anonym.to/?http://forget.codl.fr/about/) - Automatically deletes your old posts that everyone has forgotten about.
 - [Keybase](https://anonym.to/?http://keybase.io/docs/extension) - Keybase Extension Brings End-to-End Encrypted Chat To Twitter, Reddit & GitHub.
-- [Reddit PowerDeleteSuite](https://anonym.to/?https://github.com/j0be/PowerDeleteSuite) - Delete old reddit posts.
 - [Nuke Reddit History](https://anonym.to/?http://github.com/sr33/Nuke-Reddit-History) - [Firefox add-on](https://anonym.to/?http://addons.mozilla.org/en-US/firefox/addon/nukereddithistory/) + [Chrome extension](https://anonym.to/?http://chrome.google.com/webstore/detail/nuke-reddit-history/aclagjkmidmkcdhkhlicmgkgmpgccaod/)
+- [Nuke your reddit history once in a while or before deleting your account](https://anonym.to/?https://github.com/x89/Shreddit)
 - [Random AI generated profile pictures](https://anonym.to/?http://notarealhuman.com/) - Random AI generated profile pictures.
+- [Reddit PowerDeleteSuite](https://anonym.to/?https://github.com/j0be/PowerDeleteSuite) - Delete old reddit posts.
 - [ShadowCrypt](https://anonym.to/?http://shadowcrypt-release.weebly.com/about.html) - Chrome extension that brings encrypted messaging to Internet sites such as Reddit, Facebook or Twitter., it is a bit outdated but still works. (Keep in mind that this extension has a security hole which might reveal your encrypted messages).
 - [Social Amnesia](https://anonym.to/?http://github.com/Nick-Gottschlich/Social-Amnesia) - Deletes Twitter and Reddit content based on your terms.
 - [TweetDelete](https://anonym.to/?http://www.tweetdelete.net/) - Protect your privacy by automatically deleting posts older than a specified age from your Twitter feed.
