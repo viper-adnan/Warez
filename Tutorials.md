@@ -119,7 +119,7 @@
 ## Plex
 - [hoarding.me](https://anonym.to/?https://hoarding.me/) - Unlimited and automated. How to setup your own dream Plex server?!
 - [linuxserver/docker-plex](https://anonym.to/?https://github.com/linuxserver/docker-plex) - LinuxServer.io Plex Media Server docker image.
-- [Plex](https://anonym.to/?https://www.plex.tv/) - Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
+- [Plex](https://anonym.to/?https://www.plex.tv/) - Your content�from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
 - [PGBlitz.com](https://anonym.to/?https://pgblitz.com/) - Deploy a Hastey Server through Docker & Ansible with local or Unlimited Google HD.
 - [Plexi](http://plexpi.com/) - Plex Media Server for your Raspberry Pi 3.
 - [plexinc/pms-docker](https://anonym.to/?https://github.com/plexinc/pms-docker) - Official Plex docker image.
@@ -231,23 +231,28 @@
 
 
 ## Linux Gaming
-* [Playing The Outer Worlds on Linux without the Epic Games Launcher](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/drspy4/playing_the_outer_worlds_on_linux_without_the/)
+- [Playing The Outer Worlds on Linux without the Epic Games Launcher](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/drspy4/playing_the_outer_worlds_on_linux_without_the/)
 
 **[`^        back to top        ^`](#)**
 
 
 ## Bypass IGG DRM
-* [How to break IGG-GAMES's DRM ](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/dn4t2e/how_to_break_igggamess_drm_repost_since_deleted/) - A guide to bypass IGG motherf*cking DRM.
+- [How to break IGG-GAMES's DRM ](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/dn4t2e/how_to_break_igggamess_drm_repost_since_deleted/) - A guide to bypass IGG motherf*cking DRM.
 
 **[`^        back to top        ^`](#)**
 
 
 ## Spotify
-* [Dockerized Spotify downloader with metadataOC](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/ew5cus/dockerized_spotify_downloader_with_metadata/)
+- [Dockerized Spotify downloader with metadataOC](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/ew5cus/dockerized_spotify_downloader_with_metadata/)
 
 
 ## Wii
-* [Wii Hacking Guide](https://anonym.to/?https://wii.guide/) - Provides hacking guidance for the Wii console.
+- [Wii Hacking Guide](https://anonym.to/?https://wii.guide/) - Provides hacking guidance for the Wii console.
 
 **[`^        back to top        ^`](#)**
 
+
+## Cloud Encryption
+- [Encrypt Your Files Before Uploading it to Cloud With Cryptomator](https://anonym.to/?https://itsfoss.com/cryptomator/)
+
+**[`^        back to top        ^`](#)**
