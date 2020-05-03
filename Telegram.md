@@ -463,3 +463,8 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 
+### Netflix Channels
+- [netflixonline](https://anonym.to/?https://t.me/netflixonline) - Daily new Netflix episodes.
+- [Netflix_originals](https://anonym.to/?https://t.me/Netflix_originals) - Daily new Netflix episodes.
+
+**[`^        back to top        ^`](#)**
