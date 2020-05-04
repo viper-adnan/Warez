@@ -191,7 +191,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 **[`^        back to top        ^`](#)**
 
-## Telegram Subtitle BotSubHunterBotSubHunterBotSubHunterBotSubHunterBotSubHunterBotSubHunterBotSubHunterBot
+## Telegram Subtitle Bots
 - [@piracy_bot](https://anonym.to/?https://t.me/piracy_bot) - A simple bot which will give you subtitles from various Streaming sites e.g. Zee5.com and Jiocinema.com.
 - [@SubSceneDLBot](https://anonym.to/?https://t.me/SubSceneDLBot)
 - [@subtitlebot](https://anonym.to/?https://t.me/subtitlebot)
