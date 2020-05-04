@@ -1,10 +1,17 @@
-### Telegram Modded Client/APKs
+### Telegram Unblock Proxy (for countries with Telegram Ban)
+- telegram.ind.in
+- web.telegram.ind.in
+- core.telegram.ind.in
+- my.telegram.ind.in (Get API Id)
+- l.telegram.ind.in/Telegram
+- instantview.telegram.ind.in
+- translations.telegram.ind.in
 
+### Telegram Modded Client/APKs
 - [Nekogram](https://anonym.to/?https://github.com/Nekogram/Nekogram) - Telegram is a messaging app with a focus on speed and security. It’s superfast, simple and free.
 
 
 ### Telegram Bot lists
-
 An overview of Telegram Bots, Channels and scripts can be found via the [telegram-list](https://anonym.to/?https://github.com/goq/telegram-list).
 
 - [@BotListBot](https://anonym.to/?https://t.me/BotListBot) - The official bot for botlist.co to list bots in Telegram.
