@@ -1,3 +1,7 @@
+### Telegram Media Downloader Browser Extensions
+- [Telegram Media Downloader](https://anonym.to/?https://chrome.google.com/webstore/detail/telegram-media-downloader/ffhhcekaaamffjnapdckmnkllkmmpfnh) - Bypass the 1.5 GB download limit and scrape channels/groups.
+
+
 ### Telegram Unblock Proxy (for countries with Telegram Ban)
 - telegram.ind.in
 - web.telegram.ind.in
@@ -6,6 +10,7 @@
 - l.telegram.ind.in/Telegram
 - instantview.telegram.ind.in
 - translations.telegram.ind.in
+
 
 ### Telegram Modded Client/APKs
 - [Nekogram](https://anonym.to/?https://github.com/Nekogram/Nekogram) - Telegram is a messaging app with a focus on speed and security. It’s superfast, simple and free.
