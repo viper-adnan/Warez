@@ -1,5 +1,3 @@
-on: [push]
-
 name: Check Markdown links
 # https://github.com/marketplace/actions/markdown-link-check
 on:
