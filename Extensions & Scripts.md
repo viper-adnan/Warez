@@ -77,7 +77,7 @@ Download Mp4 and audio formats.
 **[`^        back to top        ^`](#)**
 
 
-### Browser Anti-Fingerprinting + "privacy" Extensions
+### Browser Anti-Fingerprinting + privacy focused Extensions
 - [Browser Plugs](https://anonym.to/?https://www.browserplugs.com/) - A Chrome "all-in-one" anti-fingerprinting protection extensions.
 - [CanvasBlocker](https://anonym.to/?https://github.com/kkapsner/CanvasBlocker) - Alters some JS APIs to prevent fingerprinting.
 - [Chameleon](https://anonym.to/?https://addons.mozilla.org/en-US/firefox/addon/chameleon-ext/) - Spoof your Firefox browser profile. Includes a few privacy enhancing options.
@@ -95,9 +95,14 @@ Download Mp4 and audio formats.
 - ScriptSafe - Similar like NoScript with some nice features, works with [Chrome](https://anonym.to/?https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) & [Firefox](https://addons.mozilla.org/en/firefox/addon/script-safe/).
 - [Random User-Agent for Chrome/Chromium/Firefox](https://anonym.to/?https://addons.mozilla.org/firefox/addon/random_user_agent/)https://addons.mozilla.org/firefox/addon/random_user_agent/)
 - [Canvas Fingerprint blocker](https://anonym.to/?https://add0n.com/canvas-fingerprint-blocker.html) - Manipulates two methods of HTML5 Canvas element that are commonly used to generate a unique fingerprint key for your browser.
+- [Keyboard Privacy](https://anonym.to/?https://chrome.google.com/webstore/detail/keyboard-privacy/aoeboeflhhnobfjkafamelopfeojdohk) - Prevents behavioral profiling by randomizing the rate at which characters reach the DOM.
+- [AudioContext Fingerprint Defender](https://anonym.to/?hhttps://chrome.google.com/webstore/detail/audiocontext-fingerprint/pcbjiidheaempljdefbdplebgdgpjcbe?hl=en) - Defending against AudioContext fingerprinting by reporting a fake value.
 
 
-All other extensions **do not** adding any benefit over the integrated Browser "privacy" mechanism e.g. Cookie cleaners, they are mostly just crippled or limitated GUI based toogles for what the Browser already does (with some user effort).
+**Notice**:
+All other extensions **do not** adding any benefit over the integrated Browser "privacy" mechanism e.g. Cookie cleaners, they are mostly just crippled or limited GUI based toggles for what the Browser already does (with some user effort).
+
+Keep also in mind that privacy oriented Browsers like Brave might not need the listed extensions because their functions are already adopted/merged or mitigrated directly into the Browser Source Code or via patch by other projects.
 
 **[`^        back to top        ^`](#)**
 

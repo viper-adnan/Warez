@@ -3,7 +3,7 @@
 </p>
 
 [![HitCount](http://hits.dwyl.io/CHEF-KOCH/Warez.svg)](http://hits.dwyl.io/CHEF-KOCH/Warez)
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
+![Twitter Follow](https://img.shields.io/twitter/follow/CKsTechNews?style=plastic)
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 [![Telegram](https://img.shields.io/badge/Telegram-t.me%2FCKKSK-blue)](https://t.me/CKKSK)
 
