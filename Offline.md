@@ -318,6 +318,7 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversibleâ„¢ Google Taked
 - zer0day.ch
 - zoink.it
 - trec.to
+- [Filelist.ro](https://torrentfreak.com/massive-private-torrent-site-filelist-ro-has-domain-seized-due-to-criminal-investigation-200504/)
 
 ## Automated Downloaders
 - showrss.karmorra.info
