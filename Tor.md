@@ -153,7 +153,10 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 | DNM Avengers     | avengersdutyk3xf. onion
 | Dread            | readditevelidot. onion
 | TheHub           | thehub7xbw4dc5r2. onion
+| Onion Forum 2.0  | 2gxxzwnj52jutais. onion/phpbb/index.php
 | Onion Forum 3.0  | t4is3dhdc2jd4yhw. onion
+| Oni Chan         | 3fyb44wdhnd2ghhl. onion/ib/
+| Jisko            | bx7zrcsebkma7ids. onion
 
 
 ## Domain name registar
@@ -219,6 +222,8 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 | clearnet/name    | onion address
 |------------------|:--------------
 | Facebook.com     | https://www.facebookcorewwwi.onion
+| File sharing, messaging and much more. | http://hbjw7wjeoltskhol.onion
+| Twitter Clone | http://npdaaf3s3f2xrmlo.onion/
 
 
 ## Forums
@@ -228,6 +233,10 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 | ShadowCrew Carding & Hacking Forum | shadowjxlhyyj4gf. onion
 | The tin hat      | tinhat233xymse34. onion/blog/index.html
 | Dark Web Links & Talk | https://darkwebtalk.com/index.php/board,3.0.html
+| SciBay Forums       | sbforumaz7v3v6my. onion/
+| DeepWeb             | kpmp444tubeirwan. onion/
+| StaTorsNet          | r5c2ch4h5rogigqi. onion/
+| TorChan – One of the oldest chans on Tor | zw3crggtadila2sg. onion/imageboard/
 
 
 ## Malware database
@@ -368,11 +377,40 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 | USA Citizenship  | xfnwyig7olypdq5r.onion/
 |  iLike Help Guy
 
+
 ## Deep Web Radio
 | clearnet/name    | onion address
 |------------------|:--------------
 | Deep Web Radio   | http://76qugh5bey5gum7l.onion/
 
+
+## Software
+| clearnet/name    | onion address
+|------------------|:--------------
+| The Nowhere Server (restored from backup after FH)   | http://2gxxzwnj52jutais.onion/
+| The Pirate Bay – Torrents  | http://jntlesnev5o7zysa.onion/
+| The Pirate Bay – Torrents (official .onion)   | http://uj3wazyk5u4hnvtk.onion/
+| DoxBin  | http://doxbindtelxceher.onion/
+| Pony at Noisebridge   | http://2ygbaoezjdmacnro.onion/
+| Imperial Library of Trantor  | http://xfmro77i3lixucja.onion/
+| Jotunbane’s Reading Club  | http://c3jemx2ube5v5zpg.onion/
+| HackBB – Hacking & cracking forum | http://jv7aqstbyhd5hqki.onion
+| Read only access to the Freenet FMS forums via the Anonet Webproxy | xdagknwjc7aaytzh. onion/20/http/1.4.7.9/forummain.htm
+
+
+## eBooks
+| clearnet/name    | onion address
+|------------------|:--------------
+| Tor Library – library of books and other media files | http://am4wuhz3zifexz5u.onion/
+| Various eBooks | http://xfmro77i3lixucja.onion/
+
+
+## Music
+| clearnet/name    | onion address
+|------------------|:--------------
+| Music Downloads | http://wuvdsbmbwyjzsgei.onion/
+| Speedcore Music | http://lolicore75rq3tm5.onion/
+| 20th Century Western Music Recordings and Scores | http://vt27twhtksyvjrky.onion/
 
 
 ### Tor bridges
