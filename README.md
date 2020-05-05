@@ -831,6 +831,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [DediSeedBox](https://anonym.to/?https://dediseedbox.com/) - Netherlands located Seeedbox service.
 - [FileStream.me](https://anonym.to/?https://filestream.me/) - Free subscription offers 200Mb max file size and 200GB storage total.
 - [Furk.net](https://anonym.to/?https://www.furk.net/) - Free trial offers 1GB per day or 5GB per week if you can get an invite/voucher or use Facebook.
+- [Giga-Rapid.com](https://giga-rapid.com/gigaseedbox.php) - Shared 1Gbps seedboxes with massive storage & lots of addon applications.
 - [Put.io automator](https://anonym.to/?https://github.com/datashaman/putio-automator) - A suite of commands for managing torrents, transfers and files on Put.io.
 - [Seedbox.io](https://anonym.to/?https://seedbox.io/) - Provides 99,9% uptime, cheap and claims to have a good support.
 - [SeedSync](https://anonym.to/?https://github.com/ipsingh06/seedsync) - SeedSync is a GUI-configurable, LFTP-based file transfer and management program.
@@ -957,7 +958,6 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ### Usenet Free Indexers
-- [6box](https://anonym.to/?https://6box.me/) - A recently revived free Usenet indexing service with a generous API.
 - [BINZB](https://anonym.to/?https://binzb.com) - Minimalistic indexer.
 - [Binsearch](https://anonym.to/?https://www.binsearch.info/) - With this site you can search and browse binary Usenet newsgroups.
 - [FindNZB](https://anonym.to/?https://findnzb.net) - One old indixer, the results are outdated and often offline.
