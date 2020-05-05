@@ -705,7 +705,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 #### Public Trackers
-- [1337](https://anonym.to/?https://1337.root.yt/) - Ad-Free and clean version of 1337x.
+- [1337x](https://anonym.to/?https://1337.root.yt/) + [Official Forum](https://anonym.to/?https://www.1337x-forum.eu/) - Ad-Free and clean version of 1337x.
 - [7torrents](https://anonym.to/?https://www.7torrents.cc/) - Privacy-focused DHT search engine without any ads.
 - [Bthub.Me](https://anonym.to/?https://www.bthub.me/) - (CN) - Movies, Docus & more for your chinese friends.
 - [BTDB](https://anonym.to/?https://btdb.to/) - Large BitTorrent DHT search engine.
