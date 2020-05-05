@@ -615,6 +615,7 @@ Downloads albums in bulk.
 ## Download Managers
 - [Ant Download Manager](https://anonym.to/?http://antdownloadmanager.com/) - Ant Download Manager is similar like IDM (also paid).
 - [aria2](https://anonym.to/?http://aria2.github.io/) - aria2 is a lightweight multi-protocol & multi-source command-line download utility.
+- [EagleGet](http://www.eagleget.com/) - EagleGet is a free all-in-one download manager, lightweight and fast, supports all popular browsers and downloads from many streaming services, a perfect alternative to IDM.
 - [Internet Download Manager](https://anonym.to/?http://www.internetdownloadmanager.com/) - One of the best shareware download manager for Windows.
 - [JDownloader2](https://anonym.to/?http://www.jdownloader.org/home/index) - JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be. The [Event Scripter Scripts](https://anonym.to/?http://board.jdownloader.org/showthread.php?s=7b76a54fbe9589b2ed4ef0f82bde0f60&t=70525&page=37) are a nice addition to "tweak" your JD with some scripts.
 - [Persepolis Download Manager](https://anonym.to/?http://persepolisdm.github.io/) - Open source alternative to IDM.
