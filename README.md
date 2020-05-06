@@ -112,6 +112,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 
 ## Public DMCA complaints
+- [DMCA Takedown Database ChillingEffects.org (Lumen Database) Takes Itself Out Of Search Results](https://anonym.to/?https://searchengineland.com/anti-censorship-database-chilling-effects-censors-removing-domain-search-212567)
 - [Lumendatabase.org](https://anonym.to/?https://www.lumendatabase.org/) - A database e.g. Google uses for their blacklist, it provides hundreds of links with movie and tv shows.
 - [UK ISP Court Orders](https://anonym.to/?http://www.ukispcourtorders.co.uk/) - A incomplete list of websites recently taken down in the UK by the High Court.
 - [Counterfeit and Piracy Watch List (.PDF)](https://anonym.to/?https://torrentfreak.com/images/tradoc_157564.pdf) - A list from 2018 provided by Europol and others, to watch the current piracy status.
@@ -494,12 +495,12 @@ I do not accept any donations or add a sponsorship button for this repository. I
 ### Countries where both downloading & sharing is illegal
 * Argentina
 * Bangladesh
-* [Brazil](https://g1.globo.com/sp/sao-paulo/noticia/2019/11/01/policia-civil-deflagra-operacao-contra-pirataria-digital-em-sp.ghtml)
+* [Brazil](https://anonym.to/?https://g1.globo.com/sp/sao-paulo/noticia/2019/11/01/policia-civil-deflagra-operacao-contra-pirataria-digital-em-sp.ghtml)
 * Canada
 * Chile
 * Columbia
 * Czech Republic
-* Denmark
+* [Denmark](https://anonym.to/?https://torrentfreak.com/denmark-blocked-141-pirate-sites-in-2019-but-pirates-are-bypassing-the-system-200503/)
 * Egypt
 * Greece
 * India
@@ -507,6 +508,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 * Israel
 * Malaysia
 * Mexico
+* Norge
 * Netherlands
 * Philippines
 * Romania
@@ -514,6 +516,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 * Slovakia
 * Slovenia
 * South Korea
+* Sverige
 * Uruguay
 
 
