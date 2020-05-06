@@ -104,7 +104,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - Comcast/Xfinity
 - Cox Communications
 - Spectrum/Charter
-- Telekom
+- Telekom/Telecom
 - Verizon
 - Vodafone
 
@@ -487,7 +487,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 ### Countries where downloading copyright content is legal (for personal use only). Publishing it & sharing it - is still illegal (!)
 * Poland
 * Spain
-* Switzerland
+* [Switzerland](https://anonym.to/?https://ustr.gov/sites/default/files/2020_Special_301_Report.pdf)
 * - [Where are torrents permitted?](https://anonym.to/?https://i.imgur.com/3fHyG2S.png) - A world map (picture) which shows where warez torrenting is allowed.
 
 
