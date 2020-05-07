@@ -28,7 +28,7 @@ Since this list is really huge I can't name each and every single one of you, bu
 * All people which are involved in the piracy & netsec scene or created forums to talk about such topics.
 
 ### Donations
-I do not accept any donations or add a sponsorship button for this repository. It should be free for anyone and should not be influenced by specific groups/people or organizations.
+I do not accept any donations or add a nsorship button for this repository. It should be free for anyone and should not be influenced by specific groups/people or organizations.
 
 ### What **does not** belong on this list? (see [code of conduct](https://github.com/CHEF-KOCH/Warez/blob/master/CODE_OF_CONDUCT.md))
 * Illegal programs (cracks, keygens etc.) or direct links to copyright protected material.
@@ -3487,3 +3487,23 @@ one cryptocurrency wallet to another across various cryptocurrencies
 
 ## Windows File System Proxies
 - [winfsp](https://anonym.to/?https://github.com/billziss-gh/winfsp#readme) - WinFsp is a set of software components for Windows computers that allows the creation of user mode file systems.
+
+
+## BadUSB
+- [Rubber Ducky](https://anonym.to/?https://shop.hak5.org/collections/physical-access/products/usb-rubber-ducky-deluxe)
+- [Bash Bunny](https://anonym.to/?https://shop.hak5.org/collections/physical-access/products/bash-bunny) & [Script](https://anonym.to/?https://github.com/hak5/bashbunny-payloads/tree/master/payloads/library)
+- [Malduino](https://anonym.to/?https://malduino.com/)
+
+
+
+## BadUSB Protection
+
+Keep in mind that you can lock yourself out if you're whitelisted keybord is unfunctional or damaaged you might not be able to use other USB hardware!
+
+- [USBGuard](https://anonym.to/?https://usbguard.github.io/) + [Tutorial](https://anonym.to/?https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/security_guide/sec-using-usbguard)
+- [Gnome 3.38](https://anonym.to/?https://mail.gnome.org/archives/distributor-list/2020-March/msg00000.html)+: `gsettings set org.gnome.desktop.privacy usb-protection true`
+- [USB Keystroke Injection Protection](https://anonym.to/?https://opensource.googleblog.com/2020/03/usb-keystroke-injection-protection.html)
+- [USB Keyboard Guard](https://anonym.to/?https://www.gdata.de/de-usb-keyboard-guard)
+
+
+**[`^        back to top        ^`](#readme)**

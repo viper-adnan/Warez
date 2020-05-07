@@ -424,9 +424,10 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [Meditation](https://anonym.to/?https://t.me/joinchat/AAAAAE9u9noQ7odN2Ds1rw)
 - [Open Library](https://anonym.to/?https://t.me/joinchat/AAAAAEUbZxqyCKxhZbf-PA)
 - [WiLd's Occult Ebook Dump](https://anonym.to/?https://t.me/joinchat/AAAAAE07WyxZNFu5tLrjVA)
-- [scihubot](https://anonym.to/?http://t.me/scihubot)
-- [Ebooks254](https://anonym.to/?http://t.me/Ebooks254)
-- [mfmixebooks](https://anonym.to/?http://t.me/mfmixebooks)
+- [Ebooks254](https://anonym.to/?https://t.me/Ebooks254)
+- [mfmixebooks](https://anonym.to/?https://t.me/mfmixebooks)
+- [@Javabooks](https://anonym.to/?https://t.me/javaebooks
+
 
 ### Telegram Chats regarding eBooks
 - [@agoramagica](https://anonym.to/?https://t.me/agoramagica)
