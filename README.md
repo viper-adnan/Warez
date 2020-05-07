@@ -2482,8 +2482,9 @@ I do not accept any donations or add a nsorship button for this repository. It s
 **[`^        back to top        ^`](#readme)**
 
 
-### 480p Streaming
+### 480p or below Streaming
 - [480MKV](https://anonym.to/?480mkv.com) - Small size videos, movies and TV shows.
+- [o2tvseries](https://anonym.to/?https://o2tvseries.co/) - Netflix or Tv series,movies,K-dramas and anime in 360p.
 
 **[`^        back to top        ^`](#readme)**
 
