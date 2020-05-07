@@ -2835,6 +2835,7 @@ I do not accept any donations or add a nsorship button for this repository. It s
 - [TVmaze](https://anonym.to/?https://www.tvmaze.com/) - TVmaze is a community of TV lovers and dedicated contributors that discuss and help maintain TV information on the web.
 - [What is my movie?](https://anonym.to/?https://www.whatismymovie.com/) - AI-powered movie search. "Use your own words, or search with titles, actors, directors, genres etc. We find movies for you to watch."
 - [WhereYouWatch](https://anonym.to/?https://whereyouwatch.com/latest-reports/) - Follow upcoming movies and receive email alerts when they are out online as a download or stream – pirated or via retail.
+- [Tastedrive](https://anonym.to/?https://tastedive.com/) - TasteDive provides recommendations of similar music, movies, TV shows, books, authors, games, and podcasts, based on what you like.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -3495,10 +3496,9 @@ one cryptocurrency wallet to another across various cryptocurrencies
 - [Malduino](https://anonym.to/?https://malduino.com/)
 
 
-
 ## BadUSB Protection
 
-Keep in mind that you can lock yourself out if you're whitelisted keybord is unfunctional or damaaged you might not be able to use other USB hardware!
+Keep in mind that you can lock yourself out if you're whitelisted keybord is unfunctional or damaaged, you might not be able to use other USB hardware!
 
 - [USBGuard](https://anonym.to/?https://usbguard.github.io/) + [Tutorial](https://anonym.to/?https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/security_guide/sec-using-usbguard)
 - [Gnome 3.38](https://anonym.to/?https://mail.gnome.org/archives/distributor-list/2020-March/msg00000.html)+: `gsettings set org.gnome.desktop.privacy usb-protection true`
