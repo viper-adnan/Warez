@@ -2128,6 +2128,11 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Amosqu's custom Google search](https://anonym.to/?https://cse.google.com/cse%3Fcx=011394183039475424659:5bfyqg89ers)
 - [Awakening Intuition](https://anonym.to/?http://www.awakening-intuition.com/ebooks.html)
 - [WiLd's Occult Ebook Sources](https://anonym.to/?https://justpaste.it/WiLdOccultEbooks) - Constantly updated eBook source for direct downloads, eBook source pages, tracker and magnets regarding eBook stuff.
+- [ahhdw](https://anonym.to/?http://ahhdw.com) - A place for scientific eBooks.
+- [ebookbb](https://anonym.to/?http://ebookbb.com) - Yet another place for various eBooks including scientific eBooks.
+- [Hpaudiobooks.club](https://anonym.to/?http://hpaudiobooks.club)
+- [Scrdownloader](https://anonym.to/?http://scrdownloader.com/) - (`Tool`) - Download .pdf documents and books from Scribd
+- [xfmro77i3lixucja](https://anonym.to/?http://xfmro77i3lixucja.tor2web.xyz)
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2205,6 +2210,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [GRE Prep](https://anonym.to/?https://www.chegg.com/test-prep/gre) - (**semi free**) - Paid and free (trial) material for school, college and graduate students.
 - [PDF-Gigant](https://anonym.to/?http://pdf-giant.com/) - (`insecure`) - Provides  a lot of different magazines.
 - [Sci-Hub](https://anonym.to/?https://sci-hub.tw/) - [Sci-hub btw. automatically uploads articles to libgen](https://anonym.to/?https://engineuring.wordpress.com/2017/07/02/some-facts-on-sci-hub-that-wikipedia-gets-wrong/) and provides public access to tens of millions of research papers.
+- [voteforbrooke](https://anonym.to/?http://voteforbrooke.com) - (`insecure`) - Various eBooks including sci-fi and academic papers and books.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2234,7 +2240,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ## Audiobooks
 - [AAXtoMP3](https://anonym.to/?https://github.com/KrumpetPirate/AAXtoMP3) - Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS.
-- [AudioBook Bay (ABB)](https://anonym.to/?http://audiobookbayabb.com/) - (`insecure`) - Download unabridged audiobook for free or share your audio books, safe, fast and high quality.
+- [AudioBook Bay (ABB)](https://anonym.to/?https://audiobookbay.nl/) - Download unabridged audiobook for free or share your audio books, safe, fast and high quality.
 - [AudioBooks.Cloud](https://anonym.to/?https://audiobooks.cloud/) - DDL links to a lot of audiobooks.
 - [AudiobookReviews](https://anonym.to/?http://audiobookreviews.com/) - Yet another audiobook direct download site.
 - [BookFI](https://anonym.to/?http://en.bookfi.net/) - (`insecure`) - The largest ebook library.

@@ -424,6 +424,9 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [Meditation](https://anonym.to/?https://t.me/joinchat/AAAAAE9u9noQ7odN2Ds1rw)
 - [Open Library](https://anonym.to/?https://t.me/joinchat/AAAAAEUbZxqyCKxhZbf-PA)
 - [WiLd's Occult Ebook Dump](https://anonym.to/?https://t.me/joinchat/AAAAAE07WyxZNFu5tLrjVA)
+- [scihubot](https://anonym.to/?http://t.me/scihubot)
+- [Ebooks254](https://anonym.to/?http://t.me/Ebooks254)
+- [mfmixebooks](https://anonym.to/?http://t.me/mfmixebooks)
 
 ### Telegram Chats regarding eBooks
 - [@agoramagica](https://anonym.to/?https://t.me/agoramagica)
@@ -438,6 +441,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@zonadecaos](https://anonym.to/?https://t.me/zonadecaos)
 - [A GRoUP Of eBooKz](https://anonym.to/?https://t.me/joinchat/Cdn35j0FlwHkKl7Z3-CWvw)
 - [Spiritual Books](https://anonym.to/?https://t.me/joinchat/NVkTNFfYRrI7xtrvSHaDvQ)
+- [EbooksEnglish](https://anonym.to/?http://t.me/EbooksEnglish)
 
 **[`^        back to top        ^`](#)**
 
