@@ -1228,7 +1228,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 
 ### Anime Torrent Websites
-- [Nyaa.si](https://anonym.to/?https://nyaa.si/) - Anime torrent search engine with many fansub/fandub groups actively sharing torrents. No ads, no malware, nothing but clean.
+- [Nyaa.si](https://anonym.to/?https://nyaa.si/) + [Mirror](https://anonym.to/?https://nyaa.net/) - Anime torrent search engine with many fansub/fandub groups actively sharing torrents. No ads, no malware, nothing but clean.
 - [AniDex](https://anonym.to/?https://anidex.info/) - Another anime torrent search engine. No ads/popups.
 - [Tokyo Tosho](https://anonym.to/?https://www.tokyotosho.info/) - Referral banner ads.
 - [Nyaa Pantsu](https://anonym.to/?https://nyaa.net/) - No ads. Very similar to nyaa website.
@@ -1236,6 +1236,12 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Hi10Anime](https://anonym.to/?https://hi10anime.com/) - High Quality 10-bit Animes.
 - [Anime Kaizoku](https://anonym.to/?https://animekaizoku.com/) - Onclick pop-up ads (NSFW), banner ads, no torrents, GDrive as download source (encodes for donators), has torrent version on nyaa.si tagged as `[AnimeKaizoku]`.
 - [Shana Project](https://anonym.to/?https://www.anirena.com/) - Anime torrent side, no ads.
+- [Play Anime](http://127.0.0.1:43110/1AnimePihDhcbVdK1nvnbSEtH4oKU8RAYG/) - You need [ZeroNet](https://anonym.to/?https://zeronet.io/) to see the "website".
+- [Erai-Raws](https://anonym.to/?https://www.erai-raws.info/) - Provides similar service like HorribleSubs.
+- [Beatrice](https://anonym.to/?https://beatrice-raws.org/) - Raw Anime BD rips.
+- [Shanaproject](https://anonym.to/?https://www.shanaproject.com/) - Automate your anime downloads.
+- [Hi10 Anime](https://anonym.to/?https://hi10anime.com/) - High Quality 10-bit Anime Encodes.
+- [HorribleSubs](https://anonym.to/?https://horriblesubs.info/) - Download anime via torrent files, magnet links, XDCC, and premium link hosts.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1653,8 +1659,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [AnimeOut](https://anonym.to/?https://www.animeout.xyz/) - Over 1000's of Encoded Anime with DDL links.
 - [GoGo Anime](https://anonym.to/?https://www3.gogoanime.in/) - Popular website for watching anime.
 - [Dognzb.cr](https://anonym.to/?https://dognzb.cr/login) - DogNZB exists since 2013 and is one of the biggest and popular NZB indexer.
-- [Hi10 Anime](https://anonym.to/?https://hi10anime.com/) - High Quality 10-bit Anime Encodes.
-- [HorribleSubs](https://anonym.to/?https://horriblesubs.info/) - Download anime via torrent files, magnet links, XDCC, and premium link hosts.
 - [Monimo](https://anonym.to/?https://monimoapp.netlify.com/) - Netflix like web app for watching animes.
 - [Nyaa](https://anonym.to/?https://nyaa.si/) - BitTorrent software for cats [(Repo)](https://anonym.to/?https://github.com/nyaadevs/nyaa).
 - [NyaaPantsu](https://anonym.to/?https://nyaa.pantsu.cat/) - Primarily Anime torrents but includes an open directory of DDL links too.
