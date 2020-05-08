@@ -122,6 +122,13 @@ TCP Port: 853
 
 **[`^        back to top        ^`](#)**
 
+
+## Instagram Scraper
+- [InstaGrapper](https://anonym.to/?https://gitlab.com/AwaisKing/instagrabber) + [APK](https://anonym.to/?https://f-droid.org/packages/awais.instagrabber) - A simple yet advanced Instagram post downloader (NOW WORKS WITH PRIVATE ACCOUNTS!)
+
+**[`^        back to top        ^`](#)**
+
+
 ## Streaming apps (_needs ad-blocker and/or Ad-Free APK version!_)
 - [Thoptv](https://anonym.to/?https://thoptv.one) - Top movies and TV shows.
 - [KingoTV](https://anonym.to/?https://kingotv.net/) - Your Portable Entertainment Gateway! Watch 500+ Live HD Channels and 10,000+ Hours of Movies Series Shows for Free!
