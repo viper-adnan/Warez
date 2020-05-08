@@ -403,7 +403,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@s4n1t4t10n](https://anonym.to/?https://t.me/s4n1t4t10n)
 - [@sanskritsahitya](https://anonym.to/?https://t.me/sanskritsahitya)
 - [@sciencebooks1](https://anonym.to/?https://t.me/sciencebooks1)
-- [@SciHub](https://anonym.to/?https://t.me/scihubot) - Similar to the original Sci-Hub website, sharing is caring!
+- [@SciHub](https://anonym.to/?https://t.m) - Similar to the original Sci-Hub website, sharing is caring!
 - [@selfhelpbooklab](https://anonym.to/?https://t.me/selfhelpbooklab)
 - [@SelfHelpBooks4U](https://anonym.to/?https://t.me/SelfHelpBooks4U)
 - [@spiritualbooks](https://anonym.to/?https://t.me/spiritualbooks)
@@ -459,6 +459,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 
 ### Telegram Bot (Moderation)
+- [@AlbionRoBoT](https://anonym.to/?https://t.me/AlbionRoBoT) - AlbionRoBoT is similar like GroupHelp with some more extra gimmicks.
 - [@BotFather](https://anonym.to/?https://t.me/BotFather) - Create and maintain your own bots.
 - [@Combot](https://anonym.to/?https://combot.org/) - Moderation, analytics, anti-spam, the best trigger system in Telegram and more.
 - [@Controller](https://anonym.to/?https://t.me/ControllerBot) - ControllerBot is a feature-rich bot for Telegram channel (not group!) owners.
