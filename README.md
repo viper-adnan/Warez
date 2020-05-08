@@ -1669,6 +1669,10 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Mangabat](https://anonym.to/?https://mangabat.com/) - (`needs ads-blocker`) - Read Manga Online for free.
 - [AnimeVibe Lite v3](https://anonym.to/?https://animevibe.tv/) - Subs and dubs, no ads, multiple sources, downloadable, funded by donations.
 - [GoGo Anime](https://anonym.to/?https://gogoanimes.co/) - Subs and dubs, many ads, many player alternatives.
+- [TheHylia](https://anonym.to/?https://anime.thehylia.com/) - TH's download section offers anime series with all their episodes for download in a very otherwise difficult to get AVI and MKV file forms.
+- [MegatronEncodes](https://anonym.to/?https://www.megatronencodes.com/) - Provides HQ Animes.
+- [AnimK](https://anonym.to/?https://animk.info/) - HQ, BDrips & more.
+- [Anime DL Archive](https://anonym.to/?https://archive.org/details/animedl4.0_202004) - Stream and download anime in VLC or MPC.
 
 **[`^        back to top        ^`](#readme)**
 
