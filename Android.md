@@ -70,15 +70,21 @@ TCP Port: 853
 ## Apps
 
 ### AdBlocker (no-root)
-- [DNSFilter](https://f-droid.org/en/packages/dnsfilter.android/) - No-root ad-blocker and DNS changer.
+- [DNSFilter](https://anonym.to/?https://f-droid.org/en/packages/dnsfilter.android/) - No-root ad-blocker and DNS changer.
 
 
 ### DNS Changer for DNS over HTTPS/TLS (no-root)
-- [Nebulo DNS](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen&hl=en) + [F-Droid Repo](https://fdroid.frostnerd.com/fdroid/repo)
+- [Nebulo DNS](https://anonym.to/?https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen&hl=en) + [F-Droid Repo](https://fdroid.frostnerd.com/fdroid/repo)
 
 
 ## File splitter
-- [B1 Archiver zip rar unzip](https://play.google.com/store/apps/details?id=org.b1.android.archiver)
+- [B1 Archiver zip rar unzip](https://anonym.to/?https://play.google.com/store/apps/details?id=org.b1.android.archiver)
+
+
+## Download Manager
+- [Ponydroid](https://anonym.to/?https://play.google.com/store/apps/details?id=ponydroid.ponydroid) - Known and old Downloader for Android
+- [Advance Download Manager](https://anonym.to/?https://anonym.to/?https://play.google.com/store/apps/details?id=com.dv.adm) - Similar like Internet Download Manager for Desktop just for Android.
+- [IDM+](https://anonym.to/?https://play.google.com/store/apps/details?id=idm.internet.download.manager.plus) - IDM+ is the fastest and most advanced download manager (with Torrent download support) available on android.
 
 
 
@@ -137,9 +143,12 @@ TCP Port: 853
 - [ZippyTV](http://www.zippytv.mobi/) - (_Needs adblock/ad-free version_) - Watch 500+ Live HD Channels, Movies & Tv Series for Free! Start Streaming Now!
 - [airy.tv](https://airy.tv/) - Wireless TV you can access ANYTIME, ANYWHERE, for FREE.
 
+**[`^        back to top        ^`](#)**
+
 ## Android calling apps
 - [dPhone](https://anonym.to/?https://dphone.app/) - Claims to be the most secure calling app.
 
+**[`^        back to top        ^`](#)**
 
 ### Android License Verification Patcher
 - [LuckyPatcher](https://anonym.to/?https://www.luckypatchers.com/download/) - Patch applications, remove ads and install a modded Google Play Store to bypass Google's license verification.
