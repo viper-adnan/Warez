@@ -1331,13 +1331,20 @@ I do not accept any donations or add sponsorship button into this repository. Th
 **[`^        back to top        ^`](#readme)**
 
 
+### Streaming Forums
+- [YourPTFlixMovies](https://anonym.to/?https://yourptflixmovies.com/) - A forum dedicated to share or talk about any streaming material.
+- [Movie-Forum](https://anonym.to/?https://movie-forum.co/forum.php) - Similar like PTFlixMovies Forum.
+
+**[`^        back to top        ^`](#readme)**
+
+
 ## Video Game Music (OST)
 - //
 
 **[`^        back to top        ^`](#readme)**
 
 
-### Sports (only) Streaming
+### Sports Streaming (only)
 - [/r/CFBStreams](https://anonym.to/?https://www.removeddit.com/r/CFBStreams/)
 - [/r/MLBStreams](https://anonym.to/?https://www.removeddit.com/r/MLBStreams/)
 - [/r/mmafights](https://anonym.to/?https://www.removeddit.com/r/mmafights/)
@@ -1736,13 +1743,12 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Udacity](https://anonym.to/?https://www.udacity.com/) - Advance your career with online courses in programming, data science, artificial intelligence, digital marketing, and more. Built with industry leaders.
 - [MitOpenCourseWare](https://anonym.to/?https://ocw.mit.edu/index.htm) - MIT OpenCourseWare is a web-based publication of virtually all MIT course content. OCW is open and available to the world and is a permanent MIT activity.
 - [Khan Academy](https://anonym.to/?https://www.khanacademy.org/) - You can learn anything. Expert-created content and resources for every course and level. Always free.
-- [Top Documentary Films](https://anonym.to/?https://topdocumentaryfilms.com/) - Overall at Top Documentary Films you can find thousands of stunning, eye-opening and interesting documentaries. Choose one that suits your interest through ...
+- [Top Documentary Films](https://anonym.to/?https://topdocumentaryfilms.com/) - Overall at Top Documentary Films you can find thousands of stunning, eye-opening and interesting documentaries. Choose one that suits your interest through...
 - [Ihavenotv](https://anonym.to/?https://ihavenotv.com/) - Free Documentaries Website - Astronomy, Nature, Brain, Science, Health, Lifehack.
 - [DocumentaryHeaven](https://anonym.to/?https://documentaryheaven.com/) - DocumentaryHeaven is a site filled with thousands of free online documentaries just waiting to be seen, so come on in and embrace the knowledge!
 - [Awesome CS](https://anonym.to/?https://github.com/prakhar1989/awesome-courses/) - List of awesome university courses for learning Computer Science!
 
 **[`^        back to top        ^`](#readme)**
-
 
 
 ### Math Tutorials
@@ -1755,8 +1761,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [O'Reilly](https://anonym.to/?hhttps://www.oreilly.com/) - Tech, Programming, infinite free trial by clearing/blocking cookies.
 
 **[`^        back to top        ^`](#readme)**
-
-
 
 
 ### iOS JailBreak Firmware
