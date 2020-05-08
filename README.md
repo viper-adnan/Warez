@@ -317,12 +317,12 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 
 ## Ad-Blocker
-- [An Overview of Ad Blocking Technology](https://anonym.to/?https://www.techotopia.com/index.php/An_Overview_of_Ad_Blocking_Technology) - Basically explains how an Ad-Blocker works.
+- [An Overview of Ad-Blocking Technology](https://anonym.to/?https://www.techotopia.com/index.php/An_Overview_of_Ad_Blocking_Technology) - Basically explains how an Ad-Blocker works.
 - [AdBlock Radio](https://anonym.to/?https://github.com/adblockradio/adblockradio) - Block ads on live radio streams and podcasts. Machine learning meets Shazam!
 - [AdGuard](https://anonym.to/?https://adguard.com/en/welcome.html) - Claims to be the worlds most advance ad-blocker.
-- [Filterlists](https://anonym.to/?https://filterlists.com/) - Provides an overview of Ad blocking filters/projects.
-- [uBlock origin](https://anonym.to/?https://github.com/gorhill/uBlock) - A fast and efficient Ad Blocker.
-- [Wikipedia's Website about Ad blocking](https://anonym.to/?https://en.wikipedia.org/wiki/Ad_blocking) - Wikipedia's info page about ad-blockers.
+- [Filterlists](https://anonym.to/?https://filterlists.com/) - Provides an overview of Ad-blocking filters/projects.
+- [uBlock origin](https://anonym.to/?https://github.com/gorhill/uBlock) - A fast and efficient web-filter.
+- [Wikipedia's Website about Ads-blocking](https://anonym.to/?https://en.wikipedia.org/wiki/Ad_blocking) - Wikipedia's info page about ad-blockers.
 
 **[`^        back to top        ^`](#readme)**
 

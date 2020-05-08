@@ -362,4 +362,8 @@ There is a universal rule for Android:
 
 [`^        back to top        ^`](#)**
 
+## Base64 Decoder Extensions
+- [base64-encode-and-decode](https://anonym.to/?https://chrome.google.com/webstore/detail/base64-encode-and-decode/kcafoaahiffdjffagoegkdiabclnkbha) - Chrome extension to decode base64.
+- [base64-decoder/](https://anonym.to/?https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/) - Firefox base64 decoder add-on.
+- [base64-encode-and-decode](https://anonym.to/?https://addons.opera.com/en/extensions/details/base64-encode-and-decode/) - Opera extension to decode base64.
 

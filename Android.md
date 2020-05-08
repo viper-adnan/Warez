@@ -171,6 +171,7 @@ TCP Port: 853
 
 **[`^        back to top        ^`](#)**
 
+
 ## Streaming player apps
 - [TVF Play App](https://anonym.to/?https://tvfplay.com/)
 - [MX Player Pro](https://anonym.to/?https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.pro)
@@ -182,7 +183,15 @@ TCP Port: 853
 **[`^        back to top        ^`](#)**
 
 
-## Anime
+## Full Android Game Releases
+- [APK Combo](https://anonym.to/?https://apkcombo.com/category/game/latest-updates/)
+- [ApkDone](https://anonym.to/?https://apkdone.com/games/)
+- [ModDroid](https://anonym.to/?https://moddroid.com/games)
+- [HiAppHere](https://anonym.to/?http://www.hiapphere.com/app/game)
+- [AndroidOyun](https://anonym.to/?https://androidoyun.club/category/android-oyun)
+
+
+## Anime App Streaming
 - [Anime X Stream](https://anonym.to/?https://github.com/mukul500/AnimeXStream) - An Android app to watch anime on your phone without ads.
 
 **[`^        back to top        ^`](#)**
