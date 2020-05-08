@@ -596,5 +596,19 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversibleâ„¢ Google Taked
 - https://dnswarden.com/
 
 
+
 ## Semi-Private Tracker
 - gdf76.altervista.org
+
+
+
+
+## Others - unsorted
+- [ebookbb](https://anonym.to/?http://ebookbb.com) - Yet another place for various eBooks including scientific eBooks.
+- [WarezBB.org](http://warezbb.org/) - Invite-only elite forum.
+- [DownloadBoerse.io](https://anonym.to/?http://downloadboerse.io/forum/) - (`GER`) - German mygully clone.
+- [xfmro77i3lixucja](https://anonym.to/?http://xfmro77i3lixucja.tor2web.xyz)
+- [voteforbrooke](https://anonym.to/?http://voteforbrooke.com) - (`insecure`) - Various eBooks including sci-fi and academic papers and books.
+- [ViewComics](https://anonym.to/?http://ww25.viewcomic.com/) - (`insecure`) - Alternative to ReadComicsOnline.
+- [BS.to](https://anonym.to/?https://bs.to/) - (`GER`) - (`insecure`) - German Video-on-Demand-Website for TV-Shows, Cartoons & Movies.
+- [bmovies](https://anonym.to/?http://bmovies.to/) - (`insecure`) + ([Mirror](https://anonym.to/?https://bmovies.life/bmovies.is)) + [Mirror](https://anonym.to/?https://bmovies.se/))
