@@ -1729,6 +1729,36 @@ I do not accept any donations or add sponsorship button into this repository. Th
 **[`^        back to top        ^`](#readme)**
 
 
+### Educational Streaming
+- [Coursera](https://anonym.to/?https://www.coursera.org/) - Provides free courses.
+- [edx](https://anonym.to/?https://www.edx.org/) - Similar like Coursera, free courses.
+- [Future Learn](https://anonym.to/?https://www.futurelearn.com/) - Paid & Free online Courses and Degrees from Top Universities.
+- [Udacity](https://anonym.to/?https://www.udacity.com/) - Advance your career with online courses in programming, data science, artificial intelligence, digital marketing, and more. Built with industry leaders.
+- [MitOpenCourseWare](https://anonym.to/?https://ocw.mit.edu/index.htm) - MIT OpenCourseWare is a web-based publication of virtually all MIT course content. OCW is open and available to the world and is a permanent MIT activity.
+- [Khan Academy](https://anonym.to/?https://www.khanacademy.org/) - You can learn anything. Expert-created content and resources for every course and level. Always free.
+- [Top Documentary Films](https://anonym.to/?https://topdocumentaryfilms.com/) - Overall at Top Documentary Films you can find thousands of stunning, eye-opening and interesting documentaries. Choose one that suits your interest through ...
+- [Ihavenotv](https://anonym.to/?https://ihavenotv.com/) - Free Documentaries Website - Astronomy, Nature, Brain, Science, Health, Lifehack.
+- [DocumentaryHeaven](https://anonym.to/?https://documentaryheaven.com/) - DocumentaryHeaven is a site filled with thousands of free online documentaries just waiting to be seen, so come on in and embrace the knowledge!
+- [Awesome CS](https://anonym.to/?https://github.com/prakhar1989/awesome-courses/) - List of awesome university courses for learning Computer Science!
+
+**[`^        back to top        ^`](#readme)**
+
+
+
+### Math Tutorials
+- [Mathispower4u](https://anonym.to/?http://www.mathispower4u.com/) - Provides math tutorials from basic arithmetic through calculus III and beyond.
+- [PatrickJMT](https://anonym.to/?http://patrickjmt.com/) - Math tutorials.
+- [SchoolYourself](https://anonym.to/?http://schoolyourself.org/) - Math tutorials.
+- [mathhelp](https://anonym.to/?https://www.mathhelp.com/) - Free math tutorials.
+- [mathonline](https://anonym.to/?http://mathonline.wikidot.com/) - Free math tutorials.
+- [Brightstorm](https://anonym.to/?https://www.brightstorm.com/) - 5300 video lessons by expert teachers. 5300 video lessons cover pre-algebra, algebra, geometry, algebra 2, trigonometry, precalculus, calculus in math,
+- [O'Reilly](https://anonym.to/?hhttps://www.oreilly.com/) - Tech, Programming, infinite free trial by clearing/blocking cookies.
+
+**[`^        back to top        ^`](#readme)**
+
+
+
+
 ### iOS JailBreak Firmware
 - [/r/jailbreak](https://old.reddit.com/r/jailbreak) - Subreddit for iOS side-loading and jailbreak related discussions.
 - [checkm8](https://anonym.to/?https://twitter.com/axi0mX/status/1177544174163263489) - Checkm8 is an iOS 13 Boot-exploit.
