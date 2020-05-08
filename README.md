@@ -2374,7 +2374,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 **[`^        back to top        ^`](#readme)**
 
 
-### Sports Streaming (MMA, MMO, Football etc)
+### Sports Streaming (MMA, MMO, NBA, Football etc.)
 - [All The Best Fights](https://anonym.to/?https://www.allthebestfights.com/)
 - [Arconaitv](https://anonym.to/?https://www.arconaitv.us/)
 - [Couch Tuner](https://anonym.to/?https://www.couchtuner.cloud/)
@@ -2390,6 +2390,16 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [ProjectFreeTV](https://anonym.to/?https://www8.project-free-tv.ag/)
 - [r/MMAFights](https://anonym.to/?https://www.removeddit.com/r/mmafights/)
 - [Siptveu](https://anonym.to/?https://siptveu.com)
+- [NBAFullHD ](https://anonym.to/?https://www.nbafullhd.com/) - Full NBA games.
+- [NBAHDReplay](https://anonym.to/?https://nbahdreplay.com/) - Full NBA games.
+- [WatchRaw](https://anonym.to/?http://watchraw.com/) - Various Sports replays.
+- [WatchWrestling24](https://anonym.to/?http://watchwrestling24.net/) - Replays for MMA, WWE.
+- [Allwrestling](https://anonym.to/?http://www.allwrestling.live/) - Replays for MMA, WWE.
+- [WatchWrestling](https://anonym.to/?https://watchwrestling.in/) - Replays for MMA, WWE.
+- [Bbellator](https://anonym.to/?http://www.bellator.com/events) - Replays for MMA, WWE.
+- [Highlightstore](https://anonym.to/?https://www.highlightstore.me/) - Replays for multiple sports.
+- [r/mmafights](https://anonym.to/?https://old.reddit.com/r/mmafights/) - Subreddit dedicated to MMA fights.
+- [MMACore](https://anonym.to/?https://www.mma-core.com/videos/home)
 
 **[`^        back to top        ^`](#readme)**
 
