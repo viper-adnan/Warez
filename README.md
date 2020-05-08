@@ -1689,7 +1689,12 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [KimCartoon](https://anonym.to/?https://kimcartoon.co/) - Large cartoon collection, primarily Openload.
 - [WatchCartoon](https://anonym.to/?https://www.watchcartoononline.io/) Outdated site layout, still active and Openload.
 - [watchcartoononline.com](https://anonym.to/?https://www.watchcartoononline.com/) + ([Mirror](https://anonym.to/?https://www.watchcartoononline.io)) - Cartoons, dubbed/subbed anime streaming site.
-- [KissCartoon.info](https://anonym.to/?https://kisscartoon.info) - Another site for streaming cartoons with a huge catalog
+- [KissCartoon.info](https://anonym.to/?https://kisscartoon.info) - Another site for streaming cartoons with a huge catalog.
+- [Kisscartoon Love](https://anonym.to/?https://www1.kisscartoon.love/) - Kisscartoon alternatives website __made by fans__. Watch HQ cartoons online both cartoon movies and cartoon series online for free.
+- [TopCartoons](https://anonym.to/?https://www.topcartoons.tv/) - Watch Online Cartoon Shows for Free. Best Episodes from Childhood Memories Hanna-Barbera, Warner Bros, Walt Disney and More.
+- [Toonova](https://anonym.to/?http://www.toonova.net/) - You can watch cartoon online, free series and movies and in English.
+- [Supercartoons](https://anonym.to/?https://www.supercartoons.net/) - Watch Cartoons Online. Here you can Watch old Classical Cartoons like Bugs Bunny, Mickey Mouse, Pink Panther, Tom and Jerry and Many Many More!
+- [b98](https://anonym.to/?https://www.b98.tv/) - Watch Free Classic Cartoons Online (Merrie Melodies, Looney Tunes, Bugs Bunny, Mickey Mouse, Tom and Jerry, Pink Panther and More...)
 
 **[`^        back to top        ^`](#readme)**
 
