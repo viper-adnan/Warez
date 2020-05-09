@@ -633,12 +633,20 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 
 ### COVID-19 Bots
+- [@coronapandemicbot](https://anonym.to/?https://t.me/coronapandemicbot) - Worldwide Covid-19 (Coronavirus) case statistics tracker.
+- [@covct_symptom_bot](https://anonym.to/?https://t.me/covct_symptom_bot) - Telegram bot to help you diagnose your symptoms and tell you if you're at risk of having the COVID-19 virus.
 - [@covid19_visual_bot](https://anonym.to/?https://t.me/covid19_visual_bot) - Shows statistics in a form of plots/graphs. Data is provided by Johns Hopkins CSSE.
-- [@HeyDocBot](https://anonym.to/?https://t.me/HeyDocBot) - A friendly telegram bot that helps inform you on the crisis
+- [@COVID19WorldwideStatisticsBot](https://anonym.to/?hhttps://t.me/COVID19WorldwideStatisticsBot) - Telegram bot that sends you a notification when the statistics of a country you subscribed to gets updated.
+- [@HeyDocBot](https://anonym.to/?https://t.me/HeyDocBot) - A friendly telegram bot that helps inform you on the crisis.
 - [@NovelCoronaVirusBot](https://anonym.to/?https://t.me/NovelCoronaVirusBot) - Latest information on the novel Coronavirus (Covid-2019).
 
 **[`^        back to top        ^`](#)**
 
+
+### Podcast Bots
+- [@podcastly_bot](https://anonym.to/?https://t.me/podcastly_bot) - Find and search podcasts.
+
+**[`^        back to top        ^`](#)**
 
 
 ### Hyperlink Telegram Bos
@@ -720,16 +728,15 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 
-
 ### File Uplaoder Bots
-- [@MyTeleCloudBot](https://anonym.to/?https://t.me/MyTeleCloudBot)
 - [@filesbot](https://anonym.to/?https://t.me/filesbot)
+- [@MyTeleCloudBot](https://anonym.to/?https://t.me/MyTeleCloudBot)
 - [@NephoBot](https://anonym.to/?https://t.me/NephoBot)
-- [@thesafebot](https://anonym.to/?https://t.me/thesafebot)
 - [@rfilesbot](https://anonym.to/?https://t.me/rfilesbot)
+- [@thesafebot](https://anonym.to/?https://t.me/thesafebot)
+- [@Ya_Disk_Bot](https://anonym.to/?https://t.me/Ya_Disk_Bot) - Upload, files, videos and audio to Yandex Cloud.
 
 **[`^        back to top        ^`](#)**
-
 
 
 ### File Converting Bots
