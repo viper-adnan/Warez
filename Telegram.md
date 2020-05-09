@@ -856,3 +856,14 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@LivegramBot](https://anonym.to/?https://t.me/LivegramBot) - Create Instagram Bots.
 
 **[`^        back to top        ^`](#)**
+
+
+
+## Create your own Telegram Bots
+- [Userge](https://anonym.to/?https://github.com/UsergeTeam/Userge/) - Userge is a Powerful , Pluggable Telegram UserBot written in Python using Pyrogram.
+
+**[`^        back to top        ^`](#)**
+
+
+
+
