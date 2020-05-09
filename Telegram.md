@@ -191,12 +191,14 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 **[`^        back to top        ^`](#)**
 
+
 ## Telegram Subtitle Bots
 - [@piracy_bot](https://anonym.to/?https://t.me/piracy_bot) - A simple bot which will give you subtitles from various Streaming sites e.g. Zee5.com and Jiocinema.com.
+- [@SubHunterBot](https://anonym.to/?https://t.me/SubHunterBot)
+- [@SubLandBot](https://anonym.to/?https://t.me/SubLandBot) - You can download subtitle files in Persian and English Language directly from subscene.com.
 - [@SubSceneDLBot](https://anonym.to/?https://t.me/SubSceneDLBot)
 - [@subtitlebot](https://anonym.to/?https://t.me/subtitlebot)
 - [@SubYabBot](https://anonym.to/?https://t.me/SubYabBot)
-- [@SubHunterBot](https://anonym.to/?https://t.me/SubHunterBot)
 
 **[`^        back to top        ^`](#)**
 
@@ -260,12 +262,20 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 **[`^        back to top        ^`](#)**
 
+
 ### Telegram eBook Bots
 - [@BookDownloadBot](https://anonym.to/?https://t.me/BookDownloadBot)
 - [@getmediabot](https://anonym.to/?https://t.me/getmediabot)
-- [@libgen_scihub_bot](https://anonym.to/?https://t.me/libgen_scihub_bot)
+- [@libgen_scihub_bot](https://anonym.to/?https://t.me/libgen_scihub_bot) - Search and download books and scientific articles. It combines databases of Library Genesis and Sci-Hub with facilities of morphology search. Also, it allows searching by DOI and MD5.
 - [@libsan_bot](https://anonym.to/?https://t.me/libsan_bot)
 - [@SciHub](https://anonym.to/?https://t.me/scihubot)
+
+**[`^        back to top        ^`](#)**
+
+
+
+### Redirect Bots
+- [@redirectsbot](https://anonym.to/?https://t.me/redirectsbot) - Send posts to your channel/group, forward, edit, sign, watermark, timer queue and more... You find the avaible commands [here](https://anonym.to/?https://telegra.ph/Description-of-ReDirectsbot-Commands-02-05).
 
 **[`^        back to top        ^`](#)**
 
@@ -632,7 +642,9 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 
-### COVID-19 Bots
+### (Coronavirus) COVID-19 Bots
+- [@akash_covid19_update_bot](https://anonym.to/?hhttps://t.me/akash_covid19_update_bot) - This bot can provide information about the affected states in India. Along with that it also provides you information about various Articles published by the government itself in PDF format.
+- [@coronaexe_virus](https://anonym.to/?https://t.me/coronaexe_bot) - Get latest news about Coronavirus from different new sources.
 - [@coronapandemicbot](https://anonym.to/?https://t.me/coronapandemicbot) - Worldwide Covid-19 (Coronavirus) case statistics tracker.
 - [@covct_symptom_bot](https://anonym.to/?https://t.me/covct_symptom_bot) - Telegram bot to help you diagnose your symptoms and tell you if you're at risk of having the COVID-19 virus.
 - [@covid19_visual_bot](https://anonym.to/?https://t.me/covid19_visual_bot) - Shows statistics in a form of plots/graphs. Data is provided by Johns Hopkins CSSE.
@@ -641,6 +653,20 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@NovelCoronaVirusBot](https://anonym.to/?https://t.me/NovelCoronaVirusBot) - Latest information on the novel Coronavirus (Covid-2019).
 
 **[`^        back to top        ^`](#)**
+
+
+### Sticker Statistics Bot
+- [@stickerstatbot](https://anonym.to/?https://t.me/stickerstatbot) - It collects your sticker pack stats and appends it all into one CSV file that you can analyse with any tool you like.
+
+**[`^        back to top        ^`](#)**
+
+
+
+### QR / Barcode Scan Bot
+- [@CodeScanBot](https://anonym.to/?https://t.me/CodeScanBot) - Scan a QR/Barcode and Generate a QR Code image.
+
+**[`^        back to top        ^`](#)**
+
 
 
 ### Podcast Bots
