@@ -265,7 +265,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@getmediabot](https://anonym.to/?https://t.me/getmediabot)
 - [@libgen_scihub_bot](https://anonym.to/?https://t.me/libgen_scihub_bot)
 - [@libsan_bot](https://anonym.to/?https://t.me/libsan_bot)
-- [@scihubot](https://anonym.to/?https://t.me/scihubot)
+- [@SciHub](https://anonym.to/?https://t.me/scihubot)
 
 **[`^        back to top        ^`](#)**
 
@@ -403,7 +403,6 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@s4n1t4t10n](https://anonym.to/?https://t.me/s4n1t4t10n)
 - [@sanskritsahitya](https://anonym.to/?https://t.me/sanskritsahitya)
 - [@sciencebooks1](https://anonym.to/?https://t.me/sciencebooks1)
-- [@SciHub](https://anonym.to/?https://t.m) - Similar to the original Sci-Hub website, sharing is caring!
 - [@selfhelpbooklab](https://anonym.to/?https://t.me/selfhelpbooklab)
 - [@SelfHelpBooks4U](https://anonym.to/?https://t.me/SelfHelpBooks4U)
 - [@spiritualbooks](https://anonym.to/?https://t.me/spiritualbooks)
@@ -610,13 +609,33 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@utubebot](https://anonym.to/?https://t.me/utubebot) - Search and DL Videos on YouTube.
 - [@SaveVideoBot](https://anonym.to/?https://t.me/SaveVideoBot) - Search and DL Videos on YouTube.
 - [@YoutubeConvertBot](https://anonym.to/?https://t.me/YoutubeConvertBot) - Search and DL Videos on YouTube.
+- [@YtbDownBot](https://anonym.to/?https://t.me/YtbDownBot) - Ultimate bot for downloading media from most web sites (support direct links too)
 
 **[`^        back to top        ^`](#)**
 
 
+### Twitter Downloader Bots
+- [@twittervid_bot](https://anonym.to/?https://t.me/twittervid_bot) - Download Twitter's videos.
+
+**[`^        back to top        ^`](#)**
+
 
 ### Facebook Downloader Bots
 - [@FBvidzBot](https://anonym.to/?https://t.me/youtube) - Download Video From Facebook.
+
+**[`^        back to top        ^`](#)**
+
+
+### Receive SMS messages in Telegram
+- [@smsq_bot](https://anonym.to/?https://t.me/smsq_bot) - Instructions [here](https://anonym.to/?https://old.reddit.com/r/TelegramBots/comments/g74h0m/smsq_receive_sms_messages_in_telegram/)
+
+**[`^        back to top        ^`](#)**
+
+
+### COVID-19 Bots
+- [@covid19_visual_bot](https://anonym.to/?https://t.me/covid19_visual_bot) - Shows statistics in a form of plots/graphs. Data is provided by Johns Hopkins CSSE.
+- [@HeyDocBot](https://anonym.to/?https://t.me/HeyDocBot) - A friendly telegram bot that helps inform you on the crisis
+- [@NovelCoronaVirusBot](https://anonym.to/?https://t.me/NovelCoronaVirusBot) - Latest information on the novel Coronavirus (Covid-2019).
 
 **[`^        back to top        ^`](#)**
 
