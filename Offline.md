@@ -595,6 +595,10 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversibleâ„¢ Google Taked
 ## DNS Provider
 - https://dnswarden.com/
 
+## Domeroms
+- doperoms.com
+- 3DSISO.com (replaced)
+
 
 
 ## Semi-Private Tracker

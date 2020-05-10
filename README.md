@@ -1477,7 +1477,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [CoolRom](https://anonym.to/?https://coolrom.com/) - Your #1 emulation choice.
 - [Darkumbra](https://anonym.to/?https://darkumbra.net/forums/forum/192-3ds-cia-games/) - Nintendo 3ds CIA files.
 - [Digiex](https://anonym.to/?https://digiex.net/forums/) - A forum to share and talk about ROMs, Games & other console games.
-- [Doperoms](https://anonym.to/?https://www.doperoms.com/) - A huge collection with over 170,000 ROM files.
 - [myabandonware](https://anonym.to/?https://www.myabandonware.com/) - More than 14,000 old games to download, for free!
 - [No Intro DAT-o-MATIC](https://anonym.to/?https://datomatic.no-intro.org/) - List of Xbox, Nintendo etc games.
 - [Retro Archive](https://anonym.to/https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed) - Collection of all retro based ROM's.
@@ -1570,7 +1569,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 ### 3DS
 - [3DS Decrypter utility](https://anonym.to/?https://github.com/matiffeder/stuff) - Decrypt 3DS files.
-- [3dscia](https://anonym.to/?https://www.3dscia.com/) - Nintendo 3ds CIA files.
+- [3dscia](https://anonym.to/?http://www.3dscia.to/) - (`insecure=`) - Nintendo 3ds CIA files.
 - [GDrive](https://anonym.to/?https://drive.google.com/drive/folders/1hXkQlsTk5dOAZyHP8WfCLl-adyEK24Dd) - EN/US based ROMs.
 - [GDrive](https://anonym.to/?https://drive.google.com/drive/folders/1lkJxXiakRmtUASb9fUoWOhuWe7TXUyV5) - All regions collection.
 - [GDrive](https://anonym.to/?https://drive.google.com/drive/folders/1VsRg8wZ2R_r_lRN89dKopQsTVN6EvRU3)
@@ -2411,8 +2410,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Highlightstore](https://anonym.to/?https://www.highlightstore.me/) - Replays for multiple sports.
 - [r/mmafights](https://anonym.to/?https://old.reddit.com/r/mmafights/) - Subreddit dedicated to MMA fights.
 - [MMACore](https://anonym.to/?https://www.mma-core.com/videos/home)
-- [Crackstreams](https://anonym.to/?http://crackstreams.com/) - XFL, MMA, Boxing, NBA & more.
-
+- [Crackstreams](https://anonym.to/?http://crackstreams.com/) - XFL, MMA, Boxing, NBA & more
 **[`^        back to top        ^`](#readme)**
 
 
