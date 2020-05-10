@@ -2,7 +2,7 @@
 - [Telegram Media Downloader](https://anonym.to/?https://chrome.google.com/webstore/detail/telegram-media-downloader/ffhhcekaaamffjnapdckmnkllkmmpfnh) - Bypass the 1.5 GB download limit and scrape channels/groups.
 
 
-### Telegram Unblock Proxy (for countries with Telegram Ban)
+### Telegram Unblock Proxies (for countries with Telegram Ban)
 - telegram.ind.in
 - web.telegram.ind.in
 - core.telegram.ind.in
@@ -175,12 +175,15 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 **[`^        back to top        ^`](#)**
 
+
 ## Telegram Google Drive Bots
 - [@botxupdates](https://anonym.to/?https://t.me/botxupdates) - Uploads files to your Google Drive. Just send file or direct download link.
 - [@Gdldriverbot](https://anonym.to/?Gdldriverbot) - Remote uploads a link/file and mirrors it to you.
-- [@gdriveupme_bot](https://anonym.to/?https://github.com/aryanvikash/Google-Drive-Uploader)
+- [@gdriveupme_bot](https://anonym.to/?https://t.me/gdriveupme_bot) & [Source](https://anonym.to/?https://github.com/aryanvikash/Google-Drive-Uploader)
 - [@GdriveXbot](https://anonym.to/?https://t.me/GdriveXbot) - Uploads files to your Google Drive. Just send file or direct download link.
 - [@gduploadbot](https://anonym.to/?https://t.me/gduploadbot) - Remote uploads a link/file and mirrors it to you.
+- [@Gdriveit_bot](https://anonym.to/?https://t.me/Gdriveit_bot) - The bot can upload files (Telegram files as well as URLs) to your Google Drive.
+- [@U2GD_Bot](https://anonym.to/?https://t.me/U2GD_Bot) - Upload URLs to Google Drive.
 
 
 ## Telegram Bot for SoundCloud
