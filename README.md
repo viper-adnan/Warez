@@ -1222,12 +1222,13 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [WatchAnime.info](https://anonym.to/?https://www9.watchanime.info/) - Subs and dubs, banner and pop-up ads, multiple sources.
 - [WatchCartoon](https://anonym.to/?https://www.watchcartoononline.io/) - English dubbed, subbed (german).
 - [WatchCartoonsOnline](https://anonym.to/?https://watchcartoonsonline.la/)
-- [WatchSeries 2.0](https://anonym.to/?https://watch-series.io/)
+- [WatchSeries](https://anonym.to/?http://www.watch-series.to/) - (`insecure`)
 - [Your-Anime](https://anonym.to/?https://www.your-anime.com/) - (`AR`) - Arabish animes dubbed.
 - [YMP4](https://anonym.to/?https://ymp4.download/) - Download videos from Youtube to mp4 & mp3 files, including from places like e.g. Crunchroll.
 - [animeultima](https://anonym.to/?https://www1.animeultima.to/) - Yet another good place for Animes.
 - [/r/KissCommunitySupport](https://anonym.to/?https://old.reddit.com/r/KissCommunitySupport) - Official Kiss Community subreddit.
 - [FMovies](https://anonym.to/?https://fmovies.wtf/) - Alternative to KissCartoon and also includes TV shows and movies.
+- [Full Episodes](https://anonym.to/?http://fullepisodes.biz/) - (`insecure`) - A alternative to WatchSeries.
 
 **[`^        back to top        ^`](#readme)**
 
