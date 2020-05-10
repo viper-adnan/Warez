@@ -289,7 +289,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 ### Decentralized VPNs
 - [radvpn](https://anonym.to/?https://github.com/mehrdadrad/radvpn) - Decentralized VPN
-- [Mysterium Network](https://anonym.to/?https://mysterium.network/vpn/) - [source code](https://anonym.to/?https://github.com/Mysterium) Claims to be world’s 1st decentralized free VPN which uses OpenVPN & WireGuard.
+- [Mysterium Network](https://anonym.to/?https://mysterium.network/vpn/) - [source code](https://anonym.to/?https://github.com/Mysterium) - Claims to be world’s 1st decentralized free VPN which uses OpenVPN & WireGuard.
+- [TachyonVpn](https://anonym.to/?https://github.com/tachyon-protocol/TachyonVpn) - A Decentralized VPN that is secured by Tachyon Protocol.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1801,11 +1802,9 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 `iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347bc1897bdd66b11815f036e94c951250c4dda916c00`
 
-**[`^        back to top        ^`](#readme)**
-
-
+**[`^        back to top        ^`](#readme)[](https://old.reddit.com/r/Piracy/comments/gf2g8d/statement_from_apkgod_after_banned_from_1337x/)
 ### iOS Apps
-- [Cinema Time](https://anonym.to/?https://itunes.apple.com/us/app/cinema-time-tv-shows-tracker/id1437347902?mt=8) - Similar like Popcorn Time.
+- [Cinema Time](https://anonym.to/?https://itunes.apple.com/us/app/cinema-time-tv-shows-tracker/id1437347902?mt=8) - Similar li.
 - [HDX Online](https://anonym.to/?https://itunes.apple.com/us/app/hdx-online/id1386799497?mt=8) - Another alternative for Cinema Time.
 - [Total files](https://anonym.to/?https://itunes.apple.com/us/app/total-files/id557285579?mt=8) - Basically the IDM under the iOS Download Managern.
 
