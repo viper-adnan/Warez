@@ -746,6 +746,9 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Torrents9](https://anonym.to/?https://vww.torrentz9.fr/) - (`FR`) - Yet another popular French torrent directory.
 - [Zone-Annuaire](https://anonym.to/?https://zone-annuaire.com/) - (`FR`) - Yet another popular French torrent directory.
 - [Yggtorrent](https://anonym.to/?https://www2.yggtorrent.se) - (`SE`) - Movies, Games, TV shows & more.
+- [Torrent Paradise](https://anonym.to/?https://torrent-paradise.ml/) - (`needs ad-blocker`) - A torrent site which does not offer much information appart from the title and seeders.
+
+
 
 **[`^        back to top        ^`](#readme)**
 
