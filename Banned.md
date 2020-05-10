@@ -205,7 +205,9 @@
 * Followerschmiede.de
 * Streamworld.co (GeoIP/Proxy/VPN block)
 * stagedork.com (bad quality)
-* accountbot.io banned
+* accountbot.io
+* [APKGOD](https://old.reddit.com/r/Piracy/comments/gf2g8d/statement_from_apkgod_after_banned_from_1337x/)
+
 
 ## MKVCage clones
 * mkvcage.best
@@ -471,3 +473,4 @@
 
 ### Google Streaming Proxy
 - [HydraX.net](https://torrentfreak.com/hydrax-net-google-drive-streaming-proxy-traffic-being-sent-to-ace-anti-piracy-coalition-200509/)
+
