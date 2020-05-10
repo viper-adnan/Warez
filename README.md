@@ -724,7 +724,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Shaanig](https://anonym.to/?https://shaanig.se/) - Small-size HD TV episodes & movies.
 - [SkyTorrents](https://anonym.to/?https://www.skytorrents.lol/) - Revival of the recently-shut-down, privacy-focused, ad-free torrent indexer.
 - [Streams.Now.SH](https://anonym.to/?https://streams.now.sh/) - Similar quality & size like RARBG & [YTS](https://anonym.to/?https://yts.mx).
-- [The Pirate Bay](https://anonym.to/?https://thepiratebay.org/) - A well-known torrent site which is somehow still running, blocked in most places. (**Be warned**: It mines coins in the background!) + Onion `piratebayztemzmv.onion`
 - [The Proxy Bay](https://anonym.to/?https://proxybay.bz/) - Can't access The Pirate Bay? Try one of these proxy sites.
 - [Tor Lock](https://anonym.to/?https://torlock.com/) - TorLock is a torrent site that offers verified torrent downloads.
 - [Torrent9](https://anonym.to/?https://www.torrent9.ph/) - French torrent search engine.
@@ -747,8 +746,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Zone-Annuaire](https://anonym.to/?https://zone-annuaire.com/) - (`FR`) - Yet another popular French torrent directory.
 - [Yggtorrent](https://anonym.to/?https://www2.yggtorrent.se) - (`SE`) - Movies, Games, TV shows & more.
 - [Torrent Paradise](https://anonym.to/?https://torrent-paradise.ml/) - (`needs ad-blocker`) - A torrent site which does not offer much information appart from the title and seeders.
-
-
 
 **[`^        back to top        ^`](#readme)**
 
