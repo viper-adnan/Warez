@@ -1412,6 +1412,13 @@ I do not accept any donations or add sponsorship button into this repository. Th
 **[`^        back to top        ^`](#readme)**
 
 
+### Plex Plugins for Stream sharing
+- [SyncLounge](https://anonym.to/?https://synclounge.tv/) - Enjoy Plex with your friends. In Sync. Together.
+
+**[`^        back to top        ^`](#readme)**
+
+
+
 #### Free Plex Accounts
 - [Plex.tv](https://anonym.to/?hhttps://www.plex.tv/sign-up/) - Create your FREE Plex account, no credit card required.
 
