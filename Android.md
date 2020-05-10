@@ -196,3 +196,12 @@ TCP Port: 853
 
 **[`^        back to top        ^`](#)**
 
+
+## Scan physical print resources into PDFs
+- [VFlat](https://anonym.to/?https://play.google.com/store/apps/details?id=com.voyagerx.scanner)
+- [Abbyy Finescanner AI](https://anonym.to/?https://play.google.com/store/apps/details?id=com.abbyy.mobile.finescanner.free&hl=en_US
+- [Noteblock](https://anonym.to/?hhttps://play.google.com/store/apps/details?id=com.notebloc.app)
+- [naps2](https://www.naps2.com/) - Scan documents to PDF and other file types, as simply as possible.
+
+**[`^        back to top        ^`](#)**
+
