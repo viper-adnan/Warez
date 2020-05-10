@@ -130,6 +130,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 **[`^        back to top        ^`](#readme)**
 
+
 ## Google Team Drives Groups and Discussions
 - [HKTeamDrive Group](https://anonym.to/?https://groups.google.com/d/forum/hkteamdrive1group)
 - [TD-Automation](https://anonym.to/?https://groups.google.com/d/forum/td-automation)
@@ -140,6 +141,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Hording](https://anonym.to/?https://groups.google.com/d/forum/hoarding_mirror_group)
 - [Xtreambot](https://anonym.to/?https://teamdrive.xtremebot.workers.dev/)
 - [AlpacinoDump](https://anonym.to/?https://dh.alpacinodump.cf/)
+- [TUHOCTOEIC.EDU.VN](https://anonym.to/?https://driveteam.nguyenvanlong.blog/)
 
 **[`^        back to top        ^`](#readme)**
 
@@ -596,6 +598,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Tracker Twitters](https://anonym.to/?https://filenetworks.blogspot.com/2010/12/list-of-private-torrent-trackers.html) - List Of Private Torrent Trackers & BitTorrent News Accounts To Follow On Twitter.
 - [Trackers List](https://anonym.to/?https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers.
 - [Root.yt](https://anonym.to/?https://root.yt/) - Yet [another torrent proxy](https://anonym.to/?https://www.reddit.com/r/Piracy/comments/fcq0v4/i_made_a_proxy_service_for_popular_sites_like_tpb/) who aims to imrpvoe privacy and security by removing blacklisted domains.
+- [SolidTorrents](https://anonym.to/?http://solidtorrents.net) - Yet another torrent search engine.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1019,8 +1022,9 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Free GOG PC Games](https://freegogpcgames.com/) - Another GOD alternative, download GOG games via torrent.
 - [Good-Old-Downloads/gg](https://anonym.to/?https://github.com/MachineGunnur/GOG-Games) - A fork of Good Old Downloads' "GOG Games" hosted on Tor.
 - [Good-Old-Downloads (GitHub source code)](https://anonym.to/?https://github.com/Good-Old-Downloads) - - Good-Old-Downloads is shooting down, see [here](https://anonym.to/?https://goodolddownloads.com/static/Investigation_into_igg_games_and_gamestorrent.pdf) - why. There is a full encrypted dump avbl. [here](https://anonym.to/?https://mega.nz/#!UccmySQK!N099Mjn9pe7PNYKJDOTdAAOSHpV1ZwpA8CT_wp2CNbw), make sure you read the integrated readme file!
-- [MachineGunnur/GOG-Games](https://github.com/MachineGunnur/GOG-Games) - Source Code & Tor Mirror (goggamespc7v6z5e.onion or goggamespc7v6z5e.onion.ws) for GOG Games.
-- [Torminatorr.com](https://www.forum.torrminatorr.com/viewforum.php?f=13) - Collection of GOG, scene, 0day Games.
+- [MachineGunnur/GOG-Games](https://anonym.to/?https://github.com/MachineGunnur/GOG-Games) - Source Code & Tor Mirror (goggamespc7v6z5e.onion or goggamespc7v6z5e.onion.ws) for GOG Games.
+- [Torminatorr.com](https://anonym.to/?https://www.forum.torrminatorr.com/viewforum.php?f=13) - Collection of GOG, scene, 0day Games.
+- [GOG-Games](https://anonym.to/?http://gog-games.com) - GoG Games - DD
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1364,6 +1368,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Stream2Watch](https://anonym.to/?https://www.stream2watch.ws/)
 - [Streamwoop](https://anonym.to/?https://streamwoop.net/)
 - [VIPBox](https://anonym.to/?https://www.vipbox.live/) - (Spanish) - Many sport streams, TV which with an friendly UI.
+- [Your Sports](https://anonym.to/?http://yoursports.stream/live?v=ufc) - UFC, Football & other streams.
+
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1536,6 +1542,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Steamunlocked](https://anonym.to/?https://steamunlocked.net) - Pre-installed/cracked steam games - just hit start and play.
 - [VseTop](https://anonym.to/?https://vsetop.org/) - (`RU`) - Yet another russian website which buy their own games and release it to the mass.
 - [Warmane](https://anonym.to/?https://www.warmane.com/) - Hosts private WoW Servers.
+- [Gamestorrents](https://anonym.to/?http://gamestorrents.tv) - Provides various video games.
+- [r/PiratedGame](https://anonym.to/?https://www.reddit.com/r/PiratedGames/) - Pirated Games subreddit with discussions and links.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1725,6 +1733,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [airsonic](https://anonym.to/?https://airsonic.github.io/) - Airsonic is a free, web-based media streamer, providing ubiquitous access to your music.
 - [streethiphop](https://anonym.to/?https://www.streethiphop.org/) - Download free music.
 - [wi.to](https://anonym.to/?https://www.wi.to/) - A freemium hoster for music files.
+- [CoreRadio](https://anonym.to/?http://coreradio.ru) - (`RU`) - Music in FLAC format &% MP3s.
+- [Sophies Floorboard](https://anonym.to/?http://sophiesfloorboard.blogspot.co.uk) - MP3s and MU3's.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2254,6 +2264,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [How to download paid Fonts for free](https://anonym.to/?https://old.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) - Post by /u/Bebhio on how to use clever Google searches to find fonts online.
 - [Tomato.to](https://anonym.to/?https://tomato.to/) - Supports Shutterstock, Gettyimages, Adobestock, Fotolia, Vectorstock, iStockphoto, PNGTree & PicFair.
 - [Web4Sync](https://anonym.to/?https://web4sync.com/) - Forum with DDL links catering to web development, graphics design, 3D animation, and photography.
+- [Get the font](https://anonym.to/?http://getthefont.com) - Free and premium fonts.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2400,6 +2411,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Highlightstore](https://anonym.to/?https://www.highlightstore.me/) - Replays for multiple sports.
 - [r/mmafights](https://anonym.to/?https://old.reddit.com/r/mmafights/) - Subreddit dedicated to MMA fights.
 - [MMACore](https://anonym.to/?https://www.mma-core.com/videos/home)
+- [Crackstreams](https://anonym.to/?http://crackstreams.com/) - XFL, MMA, Boxing, NBA & more.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -3308,7 +3320,8 @@ one cryptocurrency wallet to another across various cryptocurrencies
 
 
 ## VST plugins
-- [Kvraudio](https://anonym.to/?https://www.kvraudio.com/plugins/newest)
+- [Kvraudio](https://anonym.to/?https://www.kvraudio.com/plugins/newest) - Provides plugins and VST's.
+- [VSTorrent](https://anonym.to/?http://vstorrent.org) - Provides VST based torrents.
 
 **[`^        back to top        ^`](#readme)**
 
