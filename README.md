@@ -338,6 +338,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [LibGen & Sci-Hub torrent archive](https://anonym.to/?http://libgen.lc/stat.php) + [Mirror](https://anonym.to/?https://sci-hub.im/) + [Mirror](https://anonym.to/?https://sci-hub.now.sh/) - Entire collection via BitTorrent, a Reddit discussion can be found over [here](https://anonym.to/?https://www.removeddit.com/r/seedboxes/comments/e129yi/charitable_seeding_for_nonprofit_scientific/)
 - [emuparadise-mirror](https://anonym.to/?https://github.com/Mz49/emuparadise-mirror) - A Cloudflare worker script that mirrors EmuParadise and alters download pages to include a working link.
 - [mastamilanzipdownload](https://anonym.to/?https://mastamilanzipdownload.com/) - ROMs and scripts.
+- [PiracySubreddit Backup (nightly backups)](https://anonym.to/?https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki) - Backup of the Wiki from /r/Piracy.
 <!-- markdown-link-check-enable -->
 **[`^        back to top        ^`](#readme)**
 
