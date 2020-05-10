@@ -220,9 +220,17 @@ Keep also in mind that privacy oriented Browsers like Brave might not need the l
 **[`^        back to top        ^`](#)**
 
 
+## Netflix extensions
+- [netflix-1080p](https://anonym.to/?https://github.com/truedread/netflix-1080p/) - Chrome extension to play Netflix in 1080p and 5.1
+
+**[`^        back to top        ^`](#)**
+
+
 ### Movie Streaming via Browser extensions
 - [Netflix Party](https://anonym.to/?hhttps://www.netflixparty.com/) - Netflix Party synchronizes video playback and adds group chat to your favorite Netflix shows.
 - [Discord Go Live](https://anonym.to/?https://support.discordapp.com/hc/en-us/articles/360040816151-Share-your-screen-with-Go-Live-Screen-Share) - Share your screen with Go Live directly in Discord (up to 50 people).
+
+**[`^        back to top        ^`](#)**
 
 
 ## Plex Scripts & Tools
@@ -263,7 +271,7 @@ That been said, there are no apps listed which altering your HOSTS file or apps 
 
 
 There is a universal rule for Android:
-* More apps -> more background processes/traffic (startups etc.) + cpu cycles consumption = more battery drain, it's really that simple!.
+* More apps -> more background processes/traffic (startups etc.) + CPU cycles consumption = more battery drain, it's really that simple!.
 
 - [ADB & Fastboot for Android NDK](https://anonym.to/?https://forum.xda-developers.com/showthread.php?t=2239421) - Static ARM adb and fastboot binaries for Android built with the NDK.
 - [Adreno GPU Developer Preview Drivers](https://anonym.to/?https://forum.xda-developers.com/google-nexus-5/themes-apps/marshmallow-qualcomm-adreno-gpu-drivers-t3228002/post67117557#post67117557) - Replace ROM Adreno GPU drivers from Qualcomm.
