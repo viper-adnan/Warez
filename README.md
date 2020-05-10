@@ -2328,7 +2328,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [AniméVibe](https://anonym.to/?https://animevibe.tv/) - Watch Anime Online Free HD both Subbed and Dubbed on AnimeVibe without Advertisements!
 - [AOS TV](https://anonym.to/?https://aostv.app/) - Watch More than 1000+ Live TV Channels free on your Android Phone from across the world.
 - [Apollo TV](https://anonym.to/?https://apollotv.xyz/) - Open-source aggregator for various online video content.
-- [Cinema HD](https://anonym.to/?https://cinemaapk.com/) - (Ads) - FireTV Stick, Nvidia Shield, support Real-Debird, external players, Trakt.tv, series Guide.
+- [Cinema HD](https://anonym.to/?https://cine.com/) - (Ads) - FireTV Stick, Nvidia Shield, support Real-Debird, external players, Trakt.tv, series Guide.
 - [CyberFlix 2.0](https://anonym.to/?https://cybermedia.cloud/downloads) - A rebooted version from the original Cyberflix app, good for movies & tv episodes.
 - [Exousia](https://anonym.to/?https://exousia.app) - Watch Live Tv & Movies, Sports.
 - [Fildo](https://anonym.to/?https://fildo.net/android/en/) - Yet another Music streaming app.
@@ -2374,8 +2374,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [EZTV (EZTV.AG)](https://anonym.to/?https://eztv.io/) - Well known group for movies and series.
 - [filechef](https://anonym.to/?https://filechef.com/) - Search Direct Downloads
 - [FreeMoviez](https://anonym.to/?https://freemoviesz.online/) - Watch free movies online.
-- [Movie4k](https://anonym.to/?https://movie4k.io/) - Yt another huge Movie/TV Library.
-- [nima4k](https://anonym.to/?https://nima4k.org) - A well-known platform for ducmentations, series & movies.
+- [Movie4k](https://anonym.to/?https://movie4k.io/) - Yet another huge Movie/TV Library.
 - [Putlocker.onl](https://anonym.to/?https://www3.putlocker.onl/) - Watch movies and TV Series for free, watch series full episodes online free with HD quality on Putlocker.
 - [Putlockerfreely](https://anonym.to/?https://putlockerfreely.online/) - Watch your favorite movies online free on Putlocker. Discover thousands of latest movies online.
 - [Putlockeri](https://anonym.to/?https://putlockeri.club/) - Watch your favorite movies online free on Putlocker.
@@ -2582,6 +2581,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Zamunda](https://anonym.to/?https://zamunda.net/catalogs/) - (needs login) - HDR, 4 tv shows and movies.
 - [VidFlix](https://anonym.to/?https://vidflix.net/) - No ads, clean Movies and TV shows in high quality.
 - [Tigole Release](https://anonym.to/?https://tigolerelease.blogspot.com/) - HQ Movies, mostly 1080 and 4k.
+- [nima4k](https://anonym.to/?https://nima4k.org) - A well-known platform for ducmentations, series & movies.
 
 **[`^        back to top        ^`](#readme)**
 
