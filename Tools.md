@@ -623,6 +623,7 @@ Downloads albums in bulk.
 - [pyLoad](https://anonym.to/?http://pyload.net/) - Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web.
 - [WFDownloader App](https://anonym.to/?http://www.wfdownloader.xyz/) - Batch downloader ultility.
 - [Xtreme Download Manager](https://anonym.to/?http://sourceforge.net/projects/xdman/) - Open source alternative to IDM.
+- [pyIDM](https://anonym.to/?https://github.com/pyIDM/PyIDM) - Python open source alternative to IDM (Internet Download Manager) with multi-connections, high speed engine, based on python, pycurl, youtube_dl, and pysimplegui.
 
 **[`^        back to top        ^`](#)**
 
