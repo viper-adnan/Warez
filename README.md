@@ -836,6 +836,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 ## Online paid TV-Streaming
 - [Ustvgo](https://anonym.to/?https://ustvgo.tv/) - Watch CBS, Comedy, Disney, Fox, HBO and many more...
 - [stagedork](https://anonym.to/?https://stagedork.com/) - Boradway popular channels like Fox, HBO, Comedy ...
+- [Watchallyouwant](https://anonym.to/?https://watchallyouwant.com/western/) - Watch TV shows, movies, premium TV & more.
 
 **[`^        back to top        ^`](#readme)**
 
