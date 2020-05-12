@@ -538,15 +538,18 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 **[`^        back to top        ^`](#)**
 
+
 ### Internet search Bots
 - [@ya](https://anonym.to/?https://t.me/ya)
 
 **[`^        back to top        ^`](#)**
 
+
 ### QR Bots
 - [@QRCodesBot](https://anonym.to/?https://t.me/QRCodesBot)
 
 **[`^        back to top        ^`](#)**
+
 
 ### Translator Bots
 - [@Translate_robot](https://anonym.to/?https://t.me/Translate_robot) - Google Translate bot.
@@ -554,10 +557,12 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 **[`^        back to top        ^`](#)**
 
+
 ### General Music Bots
 - [@MyMusicBot](https://anonym.to/?https://t.me/MyMusicBot)
 - [@moozikestan_bot](https://anonym.to/?https://t.me/moozikestan_bot)
 - [@scloud_bot](https://anonym.to/?https://t.me/scloud_bot)
+- [@FlacStoreBot](https://anonym.to/?https://t.me/FlacStoreBot)
 
 **[`^        back to top        ^`](#)**
 
