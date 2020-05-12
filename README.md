@@ -127,6 +127,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [GDIndex](https://anonym.to/?https://github.com/ParveenBhadooOfficial/GDIndex) - Team drive for _googledri.ve.workers.dev_ . You also can create your own TeamDrive.
 - [TeamDrive Software for Win, Linux, Android and iOS](https://anonym.to/?https://forum.teamdrive.net/viewforum.php?f=2) - Software with AES encryption to work across multiple PC's and keep your files update.
 - [Get Free Google Shared Drive](https://anonym.to/?https://td.fastio.me/ - Create your own TeamDrive for free.
+- [whatintheworld](https://anonym.to/?hhttps://whatintheworld.xyz/) - Search Team Drives resources.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1744,7 +1745,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [wi.to](https://anonym.to/?https://www.wi.to/) - A freemium hoster for music files.
 - [CoreRadio](https://anonym.to/?http://coreradio.ru) - (`RU`) - Music in FLAC format &% MP3s.
 - [Sophies Floorboard](https://anonym.to/?http://sophiesfloorboard.blogspot.co.uk) - MP3s and MU3's.
-- [Hindi-lossless](https://anonym.to/?hhttps://hindi-lossless.blogspot.com/) - (`Hindi`) - Losssless (flac) Hindi Music.
+-(https://anonym.to/?hhttps://hindi-lossless.blogspot.com/) - (`Hindi`) - Losssless (flac) Hindi Music.
 
 **[`^        back to top        ^`](#readme)**
 
