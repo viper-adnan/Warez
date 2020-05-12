@@ -1744,6 +1744,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [wi.to](https://anonym.to/?https://www.wi.to/) - A freemium hoster for music files.
 - [CoreRadio](https://anonym.to/?http://coreradio.ru) - (`RU`) - Music in FLAC format &% MP3s.
 - [Sophies Floorboard](https://anonym.to/?http://sophiesfloorboard.blogspot.co.uk) - MP3s and MU3's.
+- [Hindi-lossless](https://anonym.to/?hhttps://hindi-lossless.blogspot.com/) - (`Hindi`) - Losssless (flac) Hindi Music.
 
 **[`^        back to top        ^`](#readme)**
 
