@@ -48,16 +48,22 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 ### Telegram Coding Channels
-- [Mozilla Browser / develper telegram and IRC Channels](https://anonym.to/?https://wiki.mozilla.org/Telegram) - The overview page aims to list all mozilla groups and channels (and the linked IRC channels).
+- [Mozilla Browser / developer telegram and IRC Channels](https://anonym.to/?https://wiki.mozilla.org/Telegram) - The overview page aims to list all mozilla groups and channels (and the linked IRC channels).
 
 **[`^        back to top        ^`](#)**
 
 ### Telegram channel for Login data
 - [@piratechannel](https://anonym.to/?https://t.me/piratechannel) - Free Netflix, Spotify & Other Premium Accounts, Window & Other Software License Keys.
 - [esetkey_everyday](https://anonym.to/?https://t.me/esetkey_everyday) - Get fresh Nod keys almost everyday.
-- [keysnod32](https://anonym.to/?https://t.me/keysnod32) - Free Eset Nod32 keys daily.
+- [keysnod32](https://anonym.to/?https://t.me/keysnod32) - Free Eset Nod32 keys (almost daily updated).
 - [radwan1998](https://anonym.to/?https://t.me/radwan1998) - VPN and login data.
 - [vpnusername](https://anonym.to/?https://t.me/vpnusername) - Free NordVPN leech account logins. Sometimes other VPN services too.
+
+**[`^        back to top        ^`](#)**
+
+
+### Telegram Channels for Premium Fonts
+- [FontesPremiumGwD](https://anonym.to/?https://t.me/FontesPremiumGwD) - A channel to share premium fonts.
 
 **[`^        back to top        ^`](#)**
 
