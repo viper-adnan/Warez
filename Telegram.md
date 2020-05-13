@@ -160,44 +160,86 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 
 ### Telgram bots for file sharing
+- [@APDSeedbox](https://anonym.to/?https://t.me/APDSeedbox)
 - [@LinkForFilebot](https://anonym.to/?https://t.me/LinkForFilebot) - Link your audio, video or media files to a specific channel or group.
+- [@MetaPublicLeech](https://anonym.to/?https://t.me/MetaPublicLeech)
+- [@RahiCloud](https://anonym.to/?https://t.me/RahiCloud)
 - [@TeleWarez_Bot](https://anonym.to/?https://t.me/TeleWarez_Bot) - Official bot from Warez-IR.com to share and get files.
 - [@UniBorg](https://anonym.to/?https://github.com/SpEcHiDe/UniBorg) - Pluggable Telegram bot and userbot based on Telethon.
 - [@UploadBots](https://anonym.to/?https://t.me/UploadBots) - A bot which uploads your telegram file to a sharehoster.
+- [@ViperCloudOpen](https://anonym.to/?https://t.me/ViperCloudOpen)
 - [@filetobot](https://anonym.to/?https://t.me/filetobot) - Stores your private files and arranges them by category. Send any file to the bot and it will be immediately added.
 - [@getmediabot](https://anonym.to/?https://t.me/getmediabot)
 - [@intermediabot](https://anonym.to/?https://t.me/intermediabot)
 - [@itorrentsearchbot](https://anonym.to/?https://t.me/itorrentsearchbot) - Searchbot which finds torrent and magnet links on 1337x.to by keyword search.
 - [@multi_purposebot](https://anonym.to/?https://t.me/multi_purposebot) - Rename, get media links, and upload files. The bot has lots of features.
+- [@publicdrive](https://anonym.to/?https://t.me/publicdrive)
 - [@sltzbot](https://anonym.to/?https://t.me/sltzbot) - A bot to seed torrents.
 - [@sluploadbot](https://anonym.to/?https://t.me/sluploadbot) - Upload Files To Telegram and generate Links To Telegram Files.
 - [@teletransferxbot](https://anonym.to/?https://t.me/teletransferxbot) - TeleTransferX (_currently not working due to lack of support from the community_) down/uploader and search bot.
+- [@torrenttodrivezone](https://anonym.to/?https://t.me/torrenttodrivezone)
 - [aria-telegram-mirror-bot](https://anonym.to/?https://github.com/out386/aria-telegram-mirror-bot) - A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
 - [python-aria-mirror-bot](https://anonym.to/?https://github.com/lzzy12/python-aria-mirror-bot/) - A telegram bot for all your mirror needs.
 - [tgfilestream](https://anonym.to/?https://github.com/SpEcHiDe/tgfilestream) - A Telegram bot that can stream Telegram files to users over HTTP.
+- [@lightzcloud](https://anonym.to/?https://t.me/lightzcloud)
+
+
 
 #### Telegram channel for file sharing
 - [AutoRcloneEng](https://anonym.to/?https://t.me/AutoRcloneEng) - The official Rclone Telegram channel.
+- [Bhadoo Cloud](https://anonym.to/?https://t.me/joinchat/Hp0WEVNQfcef7IkU-zecAQ)
+- [Private TD Mirror Group](https://anonym.to/?https://t.me/joinchat/LT_wQUWEdqkOLTfLicynGg)
 - [Transloader](https://anonym.to/?https://t.me/transload) -Community to transload files and provide information which services to use.
+- [requestinggroup](https://anonym.to/?https://t.me/requestinggroup)
 
 **[`^        back to top        ^`](#)**
 
 
-## Telegram Google Drive Bots
-- [@botxupdates](https://anonym.to/?https://t.me/botxupdates) - Uploads files to your Google Drive. Just send file or direct download link.
+## Upload to Google Drive Bots
 - [@Gdldriverbot](https://anonym.to/?Gdldriverbot) - Remote uploads a link/file and mirrors it to you.
-- [@gdriveupme_bot](https://anonym.to/?https://t.me/gdriveupme_bot) & [Source](https://anonym.to/?https://github.com/aryanvikash/Google-Drive-Uploader)
 - [@GdriveXbot](https://anonym.to/?https://t.me/GdriveXbot) - Uploads files to your Google Drive. Just send file or direct download link.
-- [@gduploadbot](https://anonym.to/?https://t.me/gduploadbot) - Remote uploads a link/file and mirrors it to you.
 - [@Gdriveit_bot](https://anonym.to/?https://t.me/Gdriveit_bot) - The bot can upload files (Telegram files as well as URLs) to your Google Drive.
 - [@U2GD_Bot](https://anonym.to/?https://t.me/U2GD_Bot) - Upload URLs to Google Drive.
+- [@botxupdates](https://anonym.to/?https://t.me/botxupdates) - Uploads files to your Google Drive. Just send file or direct download link.
+- [@gdriveupme_bot](https://anonym.to/?https://t.me/gdriveupme_bot) & [Source](https://anonym.to/?https://github.com/aryanvikash/Google-Drive-Uploader)
+- [@gduploadbot](https://anonym.to/?https://t.me/gduploadbot) - Remote uploads a link/file and mirrors it to you.
+- [@seedboxSL](https://anonym.to/?https://t.me/seedboxSL)
+
+**[`^        back to top        ^`](#)**
+
+
+## Google Drive Bots uploads to Telegram
+- [Bhadoo Public Leech Group](https://t.me/joinchat/Hp0WEQ9Fzdxbi9v_ZUOdRw)
+- [FreeTorrentDownloader](https://anonym.to/?ttps://t.me/FreeTorrentDownloader)
+- [PublicLeechCloNeGroup](https://anonym.to/?https://t.me/PublicLeechCloNeGroup)
+- [PublicLeechGroup](https://anonym.to/?https://t.me/PublicLeechGroup)
+- [RakaPublicLeech](https://anonym.to/?https://t.me/RakaPublicLeech)
+- [Screen_Junkies](https://anonym.to/?https://t.me/Screen_Junkies)
+- [ShiNobiTGLeech](https://anonym.to/?https://t.me/ShiNobiTGLeech)
+- [TorrentLeecherStore](https://anonym.to/?https://t.me/TorrentLeecherStore)
+- [leechergroup](https://anonym.to/?https://t.me/leechergroup)
+- [public_leech](https://anonym.to/?https://t.me/public_leech)
+- [publicleechmagnet](https://anonym.to/?https://t.me/publicleechmagnet)
+- [slcloudleech](https://anonym.to/?https://t.me/slcloudleech)
+- [superleecherstore](https://anonym.to/?https://t.me/superleecherstore)
+
+**[`^        back to top        ^`](#)**
 
 
 ## Telegram Bot for SoundCloud
 - [@Soundclouddownloadbot](https://anonym.to/?https://t.me/Soundclouddownloadbot) - Download SoundCloud files (music, no playlists) from within Telegram. You can't invite the Bot into Groups.
 
+
+**[`^        back to top        ^`](#)**
+
+
 ## Telegram Torrent Bots
 - [Torrent Drive](https://anonym.to/?https://t.me/torrentdrive_bot?do=open_link) - Gives you Google Drive link for the torrent files you send.
+- [@torrent_drive](https://anonym.to/?https://t.me/torrent_drive) - Torrent to GDrive Bot.
+- [@kltorrent](https://anonym.to/?https://t.me/kltorrent)
+- [@XtremeCloud](https://anonym.to/?https://t.me/XtremeCloud/10)
+- [@torrdriveheaven](https://anonym.to/?https://t.me/torrdriveheaven)
+- [@torrentbcloud](https://anonym.to/?https://t.me/torrentbcloud)
 
 **[`^        back to top        ^`](#)**
 
@@ -659,12 +701,12 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 
 ### (Coronavirus) COVID-19 Bots
-- [@akash_covid19_update_bot](https://anonym.to/?hhttps://t.me/akash_covid19_update_bot) - This bot can provide information about the affected states in India. Along with that it also provides you information about various Articles published by the government itself in PDF format.
+- [@akash_covid19_update_bot](https://anonym.to/?https://t.me/akash_covid19_update_bot) - This bot can provide information about the affected states in India. Along with that it also provides you information about various Articles published by the government itself in PDF format.
 - [@coronaexe_virus](https://anonym.to/?https://t.me/coronaexe_bot) - Get latest news about Coronavirus from different new sources.
 - [@coronapandemicbot](https://anonym.to/?https://t.me/coronapandemicbot) - Worldwide Covid-19 (Coronavirus) case statistics tracker.
 - [@covct_symptom_bot](https://anonym.to/?https://t.me/covct_symptom_bot) - Telegram bot to help you diagnose your symptoms and tell you if you're at risk of having the COVID-19 virus.
 - [@covid19_visual_bot](https://anonym.to/?https://t.me/covid19_visual_bot) - Shows statistics in a form of plots/graphs. Data is provided by Johns Hopkins CSSE.
-- [@COVID19WorldwideStatisticsBot](https://anonym.to/?hhttps://t.me/COVID19WorldwideStatisticsBot) - Telegram bot that sends you a notification when the statistics of a country you subscribed to gets updated.
+- [@COVID19WorldwideStatisticsBot](https://anonym.to/?https://t.me/COVID19WorldwideStatisticsBot) - Telegram bot that sends you a notification when the statistics of a country you subscribed to gets updated.
 - [@HeyDocBot](https://anonym.to/?https://t.me/HeyDocBot) - A friendly telegram bot that helps inform you on the crisis.
 - [@NovelCoronaVirusBot](https://anonym.to/?https://t.me/NovelCoronaVirusBot) - Latest information on the novel Coronavirus (Covid-2019).
 
