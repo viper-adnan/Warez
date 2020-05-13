@@ -1811,7 +1811,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 ## Spotify
 - [Block Spotify Updates on MacOS](https://anonym.to/?https://donotupdatespotify.sh/) - A guide is avbl. [here](https://anonym.to/?https://old.reddit.com/r/Piracy/comments/d2z6kc/guide_spotify_free_without_ads_for_mac_os/).
-- [BlockTheSpot](https://anonym.to/?https://github.com/master131/BlockTheSpot) - Video, Audio & Banner ad-block/skip for Spotify.
+- [BlockTheSpot](https://anonym.to/?https://github.com/master131/BlockTheSpot) + [Fork](https://anonym.to/?hhttps://github.com/mrpond/BlockTheSpot) - Video, Audio & Banner ad-block/skip for Spotify.
 - [MuteSpotifyAds](https://anonym.to/?https://github.com/simonmeusel/MuteSpotifyAds) - Mutes audio/video ads, however you still need to wait 30 sec.
 - [Spotifree](https://anonym.to/?https://github.com/ArtemGordinsky/Spotifree) - An OS X app that automatically mutes ads on Spotify (not supported).
 - [Spotify Ad-Free](https://anonym.to/?https://github.com/CHEF-KOCH/Spotify-Ad-free) - Modified Client(s), Information, etc.

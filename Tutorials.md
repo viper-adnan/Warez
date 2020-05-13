@@ -9,7 +9,7 @@
 
 
 ## Movie & TV Streaming
-- [How To Stream Movies, TV, Anime & Sports Online](https://anonym.to/?https://www.removeddit.com/r/FREEMEDIAFUCKYEAH/comments/9q11kg/how_to_stream_movies_tv_anime_sports_online/) - Huge list by /u/nbatman
+- [How To Stream Movies, TV, Anime & Sports Online](https://anonym.to/?https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) - Huge list provided by _/u/nbatman_.
 - [Streaming pirated media in 2019 (seedbox + Sonarr + Plex)](https://anonym.to/?https://ryanlue.com/posts/2019-03-29-paying-money-to-steal-movies) - Paying Money to Steal Movies & Music on the Internet.
 
 **[`^        back to top        ^`](#)**
