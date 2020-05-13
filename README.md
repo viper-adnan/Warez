@@ -702,7 +702,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [CGPeers](https://anonym.to/?https://www.cgpeers.to/) - CGPeers is a well known trusted tracker (registration every 15th and 1st of the month).
 - [dlb.to](https://anonym.to/?https://dlb.to/) - Indexer for various Warez websites and material.
 - [DIGBT](https://anonym.to/?https://www.digbt.org/) - DIGBT is a DHT torrent search engine.
-- [ETTV](https://anonym.to/?https://www.ettvdl.com/) - ETTV is a torrent site specific for movie torrents.
+- [ETTV](https://anonym.to/?https://www.ettv.be/) - ETTV is a torrent site specific for movie torrents.
 - [g4u](https://anonym.to/?https://g4u.me/) - (`GER`) - Movies, TV Shows & Games.
 - [GaOQing](https://anonym.to/?https://gaoqing.fm/) - (CN _insecure_) - Porn, movies, tv-shows, documentations, you name it!
 - [Games4theworld](https://anonym.to/?https://games4theworld.org) - Torrents and magnet links for games.
