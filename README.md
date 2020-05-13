@@ -1033,8 +1033,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [GOG-Games](https://anonym.to/?http://gog-games.com) - GoG Games - DD
 
 **[`^        back to top        ^`](#readme)**
-
-
 ### DDL Link Sites
 - [r/FREEMEDIAFUCKYEAH/](https://anonym.to/?https://old.reddit.com/r/FREEMEDIAFUCKYEAH/) - Animes, movies and more.
 - [/r/DataHoarder/](https://anonym.to/?https://old.reddit.com/r/DataHoarder/) - Share download links (similar to /r/opendirectories/).
