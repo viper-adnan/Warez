@@ -160,20 +160,21 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 
 ### Telgram bots for file sharing
-- [@filetobot](https://anonym.to/?https://t.me/filetobot) - Stores your private files and arranges them by category. Send any file to the bot and it will be immediately added.
-- [@itorrentsearchbot](https://anonym.to/?https://t.me/itorrentsearchbot) - Searchbot which finds torrent and magnet links on 1337x.to by keyword search.
 - [@LinkForFilebot](https://anonym.to/?https://t.me/LinkForFilebot) - Link your audio, video or media files to a specific channel or group.
+- [@TeleWarez_Bot](https://anonym.to/?https://t.me/TeleWarez_Bot) - Official bot from Warez-IR.com to share and get files.
+- [@UniBorg](https://anonym.to/?https://github.com/SpEcHiDe/UniBorg) - Pluggable Telegram bot and userbot based on Telethon.
+- [@UploadBots](https://anonym.to/?https://t.me/UploadBots) - A bot which uploads your telegram file to a sharehoster.
+- [@filetobot](https://anonym.to/?https://t.me/filetobot) - Stores your private files and arranges them by category. Send any file to the bot and it will be immediately added.
+- [@getmediabot](https://anonym.to/?https://t.me/getmediabot)
+- [@intermediabot](https://anonym.to/?https://t.me/intermediabot)
+- [@itorrentsearchbot](https://anonym.to/?https://t.me/itorrentsearchbot) - Searchbot which finds torrent and magnet links on 1337x.to by keyword search.
 - [@multi_purposebot](https://anonym.to/?https://t.me/multi_purposebot) - Rename, get media links, and upload files. The bot has lots of features.
 - [@sltzbot](https://anonym.to/?https://t.me/sltzbot) - A bot to seed torrents.
 - [@sluploadbot](https://anonym.to/?https://t.me/sluploadbot) - Upload Files To Telegram and generate Links To Telegram Files.
 - [@teletransferxbot](https://anonym.to/?https://t.me/teletransferxbot) - TeleTransferX (_currently not working due to lack of support from the community_) down/uploader and search bot.
-- [@TeleWarez_Bot](https://anonym.to/?https://t.me/TeleWarez_Bot) - Official bot from Warez-IR.com to share and get files.
-- [@UploadBots](https://anonym.to/?https://t.me/UploadBots) - A bot which uploads your telegram file to a sharehoster.
 - [aria-telegram-mirror-bot](https://anonym.to/?https://github.com/out386/aria-telegram-mirror-bot) - A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
+- [python-aria-mirror-bot](https://anonym.to/?https://github.com/lzzy12/python-aria-mirror-bot/) - A telegram bot for all your mirror needs.
 - [tgfilestream](https://anonym.to/?https://github.com/SpEcHiDe/tgfilestream) - A Telegram bot that can stream Telegram files to users over HTTP.
-- [@UniBorg](https://anonym.to/?https://github.com/SpEcHiDe/UniBorg) - Pluggable Telegram bot and userbot based on Telethon.
-- [@intermediabot](https://anonym.to/?https://t.me/intermediabot)
-- [@getmediabot](https://anonym.to/?https://t.me/getmediabot)
 
 #### Telegram channel for file sharing
 - [AutoRcloneEng](https://anonym.to/?https://t.me/AutoRcloneEng) - The official Rclone Telegram channel.
