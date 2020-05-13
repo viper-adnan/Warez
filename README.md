@@ -1,13 +1,13 @@
 <p align="center">
   <img width="600" height="200" src="https://i.imgur.com/OTA2IhM.png">
 </p>
-
+<!-- markdown-link-check-disable -->
 [![HitCount](http://hits.dwyl.io/CHEF-KOCH/Warez.svg)](http://hits.dwyl.io/CHEF-KOCH/Warez)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/CHEF-KOCH/Warez/issues)
 ![Twitter Follow](https://img.shields.io/twitter/follow/CKsTechNews?style=plastic)
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 [![Telegram](https://img.shields.io/badge/Telegram-t.me%2FCKKSK-blue)](https://t.me/CKKSK)
-
+<!-- markdown-link-check-enable -->
 # Warez
 This list is the biggest [Warez](https://anonym.to/?https://en.wikipedia.org/wiki/Warez_scene) overview on the entire internet! It contains links to Warez related topics, discussions, tools etc. It also provides some background information about the scene.
 
@@ -48,7 +48,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 * A search function is planned, [among other small features](https://github.com/CHEF-KOCH/Warez/blob/master/.github/PROJECT_ToDo.md).
 * Since there is (currently) - no filter or page search you need to browse trough the page from within your Browser via `Ctrl + F` or `Cmd + F`.
 * A web based search will be integrated at the end of Jan. 2020.
-
+<!-- markdown-link-check-disable -->
 ## Project structure
 - `.github` - Folder for documents, to-do & more.
 - [Android.md](https://github.com/CHEF-KOCH/Warez/blob/master/Android.md) - Android apps, tools & more.
@@ -65,8 +65,10 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Telegram.md](https://github.com/CHEF-KOCH/Warez/blob/master/Telegram.md) - Telegram channels, bots, scripts, tools & more.
 - [Trusted.md](https://github.com/CHEF-KOCH/Warez/blob/master/Trusted.md) - Lists trusted groups or people which are known to crack or upload stuff.
 - [Tor.md](https://github.com/CHEF-KOCH/Warez/blob/master/Tor.md) - Tor 🧅 list.
+- [iOS.md](https://github.com/CHEF-KOCH/Warez/blob/master/iOS.md) - Provides an overview of iOS relatd piracy and tools, channels + jailbreak solutions.
+- [Soft-Ban.md](https://github.com/CHEF-KOCH/Warez/blob/master/Soft-Ban.md) - Websites which are temporarily removed from the list because they do not follow our security standards or are banned because of other reasons. They maybe return once the webmaster secured the website.
 - [Code-of-Conduct.md](https://github.com/CHEF-KOCH/Warez/blob/master/CODE_OF_CONDUCT.md) - A list which provides our current project standards.
-
+<!-- markdown-link-check-enable -->
 
 ## Liability for Contents
 - [Burn, drown, or smash your phone: Forensics can extract data anyway](https://anonym.to/?https://www.zdnet.com/article/burn-drown-or-smash-your-phone-forensics-can-extract-data-anyway/)
@@ -1816,9 +1818,9 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Spotifree](https://anonym.to/?https://github.com/ArtemGordinsky/Spotifree) - An OS X app that automatically mutes ads on Spotify (not supported).
 - [Spotify Ad-Free](https://anonym.to/?https://github.com/CHEF-KOCH/Spotify-Ad-free) - Modified Client(s), Information, etc.
 - [Spotify Downloader](https://anonym.to/?https://github.com/ritiek/spotify-downloader) - Download Spotify playlists with albumart and meta-tags.
-- [spotr](https://anonym.to/?https://github.com/XDGFX/spotr) - Python app which converts Spotify playlist tracks to Deezer URLs.
 - [Spytify](https://anonym.to/?https://jwallet.github.io/spy-spotify/) - Records Spotify without ads while it plays and includes media tags to the recorded files.
 - [XSPotify](https://anonym.to/?https://github.com/meik97/XSpotify) - A modified Spotify client with DRM bypass.
+- [spotr](https://anonym.to/?https://github.com/XDGFX/spotr) - Python app which converts Spotify playlist tracks to Deezer URLs.
 
 **[`^        back to top        ^`](#readme)**
 
