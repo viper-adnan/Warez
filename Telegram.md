@@ -476,7 +476,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 
-### Telegram Bot (Moderation)
+### Telegram Moderation Bots
 - [@AlbionRoBoT](https://anonym.to/?https://t.me/AlbionRoBoT) - AlbionRoBoT is similar like GroupHelp with some more extra gimmicks.
 - [@BotFather](https://anonym.to/?https://t.me/BotFather) - Create and maintain your own bots.
 - [@Combot](https://anonym.to/?https://combot.org/) - Moderation, analytics, anti-spam, the best trigger system in Telegram and more.
@@ -488,6 +488,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@Shieldy](https://anonym.to/?https://t.me/shieldy_bot) - A zero-config Telegram bot that fights spam in chats.
 - [@vardast_bot](https://anonym.to/?https://t.me/vardast_bot) - A zero-config Telegram bot that fights spam in chats.
 - [@assistChannel_bot](https://anonym.to/?https://t.me/assistChannel_bot) - A zero-config Telegram bot that fights spam in chats.
+- [Butter Bot](https://anonym.to/?https://github.com/v1nc/butter_bot) - Butter Bot supports various unique features like log protection, a Group Chat can be found [here](https://anonym.to/?https://t.me/butter_bot_info)
 
 **[`^        back to top        ^`](#)**
 
