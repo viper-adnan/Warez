@@ -3271,6 +3271,9 @@ one cryptocurrency wallet to another across various cryptocurrencies
 - [Seedr](https://anonym.to/?https://www.seedr.cc/) - Stream on any device, anytime, anywhere!
 - [Webtor](https://anonym.to/?https://webtor.io/) - Similar like Seedr.
 - [JSTorrent](https://anonym.to/?https://www.jstorrent.com/) - Chrome WebTorrent Client.
+- [bitford](https://anonym.to/?https://github.com/astro/bitford) - Open Source based Client for Chrome.
+
+
 
 **[`^        back to top        ^`](#readme)**
 
