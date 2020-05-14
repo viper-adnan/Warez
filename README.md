@@ -148,6 +148,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 **[`^        back to top        ^`](#readme)**
 
+
 ## Team Drive Indexer Source Codes
 - [GDIndex](https://anonym.to/?https://github.com/maple3142/GDIndex)
 - [goindex](https://anonym.to/?https://github.com/donwa/goindex)
@@ -156,6 +157,13 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [krat0si-ndex](https://anonym.to/?https://github.com/420tushar/krat0si-ndex)
 
 **[`^        back to top        ^`](#readme)**
+
+
+## EDU Mail
+- [Techpanga](https://anonym.to/?https://techpanga.com/free-edu-email/) -Generate your free EDU mail.
+
+**[`^        back to top        ^`](#readme)**
+
 
 ## Checksum verification
 - [OpenHashTab](https://anonym.to/?https://github.com/namazso/OpenHashTab) - File hashing shell extension for Windows.
@@ -1053,7 +1061,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [DDL-Warez](https://anonym.to/?https://ddl-warez.to/) - (`GER`) - German software, movies & tv board.
 - [DDLValley](https://anonym.to/?https://www.ddlvalley.me/) - DDL links for Movies, Games, Tv Shows, Apps, Ebooks and Music.
 - [DeeJayPirate's Pastebin](https://anonym.to/?https://pastebin.com/u/DeeJayPirate) - Pastebin user who uploads premium links for TV shows
-- [DirtyWarez Forum](https://anonym.to/?https://forum.dirtywarez.com/) - (EN-US) - Popular warez forum with films, TV shows, ebooks, anime, games, and more.
+- [DirtyWarez Forum](https://anonym.to/?https://forum.dirtywarez.com/) - (EN-US) - Popular warez forum with films, TV shows, ebooks, anime, games, and more. You also can [request Warez](https://anonym.to/?https://forum.dirtywarez.com/categories/download-requests.113/).
 - [DL4All](https://anonym.to/?https://dl4all.org/) - Various Games, Tutorials, TV Shows, Music and mobile stuff.
 - [Dospelis](https://anonym.to/?https://www.dospelis.net) - Spanish DDL indexer.
 - [DownloadLY.IR](https://anonym.to/?https://downloadly.ir/) - (IR) - Software download portal.
@@ -2540,6 +2548,13 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [WarezNX](https://anonym.to/?https://discord.gg/d6xxuPq) - Nintendo Switch Warez community server.
 - [KissCommunity Discord](https://anonym.to/?https://discordapp.com/invite/eCzUxNB) - Community based Discord channel.
 - [Freemediaheckyeah](https://anonym.to/?https://discord.com/invite/vgnaeka) - The official FreeMediaHeckYeah Discord server. The Wiki open source Wiki can be found [here](https://anonym.to/?https://notabug.org/nbatman/freemediaheckyeah/wiki/_pages), the Reddit Wiki is [here](https://anonym.to/?hhttps://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index).
+- [TopNow.se](https://anonym.to/?https://discord.gg/marBA97) - Provides Movies, TV shows and Anime.
+
+**[`^        back to top        ^`](#readme)**
+
+
+## Test Linux operating systems online
+- [DistroTest](https://anonym.to/?https://distrotest.net/) - Allows you to check and test Linux Online
 
 **[`^        back to top        ^`](#readme)**
 
