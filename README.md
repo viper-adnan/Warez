@@ -1262,6 +1262,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Shanaproject](https://anonym.to/?https://www.shanaproject.com/) - Automate your anime downloads.
 - [Hi10 Anime](https://anonym.to/?https://hi10anime.com/) - High Quality 10-bit Anime Encodes.
 - [HorribleSubs](https://anonym.to/?https://horriblesubs.info/) - Download anime via torrent files, magnet links, XDCC, and premium link hosts.
+- [Search via Google for new Animes](https://anonym.to/?https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)
+
 
 **[`^        back to top        ^`](#readme)**
 
