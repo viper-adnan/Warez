@@ -441,6 +441,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [MinimalFreaks](https://anonym.to/?https://minimalfreaks.pw/) - As the website url tells, Minimal Music.
 - [Xoamoelmosh Blogspot](https://anonym.to/?https://yoamoelmosh.blogspot.com/) - Hardcore, Metal & Beatdown etc.
 - [24Flac](https://anonym.to/?https://24flac.net/) - FLAC Music including .CUE.
+- [Orpheus](https://anonym.to/?https://emetsbank.xyz/ops/) - Music Archive for mainly MP3 files.
+
 
 **[`^        back to top        ^`](#readme)**
 
@@ -449,6 +451,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Redtopic](https://anonym.to/?https://git.fuwafuwa.moe/cairn/Redtopia) - Redtopia was a private music tracker that was shutdown. This repository contains torrents for downloading its content.
 - [Metal Tracker](https://en.metal-tracker.com/) - Metal Music in MP3.
 - [RockBox](https://anonym.to/?https://rawkbawx.rocks/) - A Metal music tracker.
+- [](http://zombtracker.the-zomb.com/)
 
 **[`^        back to top        ^`](#readme)**
 
