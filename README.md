@@ -2453,7 +2453,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Tamil Rockers](https://anonym.to/?https://tamilrockers.ws/) - Movie sharing community.
 - [magellantv](https://anonym.to/?hhttps://www.magellantv.com/featured) - Watch thousands of great documentaries on MagellanTV. Unlimited streaming, no ads, and 4K streaming are all great reasons to check out MagellanTV.
 - [HEVCBay](https://anonym.to/?https://hevcbay.com/) - Provides Movies.
-
+- [x265 Movies](https://anonym.to/?https://x265movies.co/) - x265 Movies provides Movies and TV shows.
 
 **[`^        back to top        ^`](#readme)**
 
