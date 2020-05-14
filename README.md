@@ -2460,7 +2460,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Crazy4tv](https://anonym.to/?https://crazy4tv.com/)
 - [MoviesWBB](https://anonym.to/?http://movieswbb.com/)
 - [GDriveDL](https://anonym.to/?https://gdrivedl.com/) - Movies and TV shows via Google Drive.
-
+- [megaDDL](https://anonym.to/?https://megaddl.co/) - megaDDL provides mainly TV shows and Movies.
 
 **[`^        back to top        ^`](#readme)**
 
