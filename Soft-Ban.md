@@ -259,6 +259,7 @@ Please **DO NOT** start discussions why popular websites are de-listed e.g. Fitg
 - [ccMixter](https://anonym.to/?https://ccmixter.org/) - DL Mp3s.
 - [dig ccMixter](https://anonym.to/?http://dig.ccmixter.org/dig) - Archive for MP3s.
 - http://www.jimmyr.com/mp3_search.php
+- http://takemetal.org/
 
 
 ### MacOS
