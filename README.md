@@ -1041,6 +1041,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [GOG-Games](https://anonym.to/?http://gog-games.com) - GoG Games - DD
 
 **[`^        back to top        ^`](#readme)**
+
+
 ### DDL Link Sites
 - [r/FREEMEDIAFUCKYEAH/](https://anonym.to/?https://old.reddit.com/r/FREEMEDIAFUCKYEAH/) - Animes, movies and more.
 - [/r/DataHoarder/](https://anonym.to/?https://old.reddit.com/r/DataHoarder/) - Share download links (similar to /r/opendirectories/).
@@ -2450,6 +2452,10 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Dramaday](https://anonym.to/?https://dramaday.net/) - A website dedicated to drama based movies and OST.
 - [Tamil Rockers](https://anonym.to/?https://tamilrockers.ws/) - Movie sharing community.
 - [magellantv](https://anonym.to/?hhttps://www.magellantv.com/featured) - Watch thousands of great documentaries on MagellanTV. Unlimited streaming, no ads, and 4K streaming are all great reasons to check out MagellanTV.
+- [HEVCBay](https://anonym.to/?https://hevcbay.com/) - Provides Movies.
+
+
+**[`^        back to top        ^`](#readme)**
 
 
 ### 4k/HDR TV/Movie
