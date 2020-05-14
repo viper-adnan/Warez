@@ -25,7 +25,7 @@ This list is the biggest [Warez](https://anonym.to/?https://en.wikipedia.org/wik
 ### Credits
 Since the list is huge I can't name each and every single one of you, but here is a short list which hopefully covers all of them:
 
-* All [contributors](https://github.com/CHEF-KOCH/Warez/graphs/contributors).
+* All [contris](https://github.com/CHEF-KOCH/Warez/graphs/contributors).
 * All demoscene people which helped to build the _scene_.
 * All developers which developed mentioned programs.
 * All other people which helped to push this little project forward.
