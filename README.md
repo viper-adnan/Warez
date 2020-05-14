@@ -443,6 +443,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [24Flac](https://anonym.to/?https://24flac.net/) - FLAC Music including .CUE.
 - [Orpheus](https://anonym.to/?https://emetsbank.xyz/ops/) - Music Archive for mainly MP3 files.
 - [SongsLover](https://anonym.to/?https://songslover.cam/)Blog around music, provides MP3s.
+- [FreshRemix](https://anonym.to/?http://freshremix.ru/) - A Blog around MP3s.
+
 
 **[`^        back to top        ^`](#readme)**
 
