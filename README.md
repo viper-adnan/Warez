@@ -2457,6 +2457,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [HugeWarez](https://anonym.to/?http://hugewarez.net/movie/) - HugeWarez provides not only Movies but TV Shows and bunch of other things.
 - [MKVBee](https://anonym.to/?https://mkvbee.com/) - High Quality movies and TV shows.
 - [YourSerie](https://anonym.to/?https://www.yourserie.com/) - High Quality movies and TV shows.
+- [Crazy4tv](https://anonym.to/?https://crazy4tv.com/)
+
 
 **[`^        back to top        ^`](#readme)**
 
