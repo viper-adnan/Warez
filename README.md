@@ -814,7 +814,9 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [WebTorrent Desktop](https://anonym.to/?https://webtorrent.io/desktop/) - WebTorrent Desktop is for streaming torrents.
 - [βTorrent](https://anonym.to/?https://btorrent.xyz/) - Fully-featured [WebTorrent](https://anonym.to/?https://webtorrent.io/) - browser client written in HTML, JS and CSS.
 - [Magnet Player](https://anonym.to/?https://ferrolho.github.io/magnet-player/) - Stream Torrents via Browser.
-
+- [zbigz](https://anonym.to/?https://zbigz.com/) - Anonymous file downloads.
+- [Torrents Time](https://anonym.to/?https://torrents-time.com/)
+- [TorrentSafe](https://anonym.to/?https://www.torrentsafe.com/)
 
 **[`^        back to top        ^`](#readme)**
 
@@ -3276,8 +3278,6 @@ one cryptocurrency wallet to another across various cryptocurrencies
 - [Webtor](https://anonym.to/?https://webtor.io/) - Similar like Seedr.
 - [JSTorrent](https://anonym.to/?https://www.jstorrent.com/) - Chrome WebTorrent Client.
 - [bitford](https://anonym.to/?https://github.com/astro/bitford) - Open Source based Client for Chrome.
-
-
 
 **[`^        back to top        ^`](#readme)**
 
