@@ -201,6 +201,13 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 
+#### rclone Discussion channel
+- [rclone](https://anonym.to/?https://t.me/rclone) - A help rclone discussion channel.
+
+
+**[`^        back to top        ^`](#)**
+
+
 ## Upload to Google Drive Bots
 - [@Gdldriverbot](https://anonym.to/?Gdldriverbot) - Remote uploads a link/file and mirrors it to you.
 - [@GdriveXbot](https://anonym.to/?https://t.me/GdriveXbot) - Uploads files to your Google Drive. Just send file or direct download link.
