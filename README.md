@@ -1352,6 +1352,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [openloadmovies.net](https://anonym.to/?https://openloadmovies.net/) - Reliable movie streaming site which uses OpenLoad.
 - [filmyzilla1](https://anonym.to/?https://filmyzilla1.com/genre/animation/) - (`Hindi`) - Animated Hindi movies.
 - [puretoons](https://anonym.to/?https://puretoons.me/) - (`Hindi`) - Animated Hindi movies.
+- [deadtoonsindia](https://anonym.to/?https://deadtoonsindia.ne) - (`Hindi`) - Animated Hindi movie & tv shows.
 
 **[`^        back to top        ^`](#readme)**
 
