@@ -1257,10 +1257,9 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Anime Kaizoku](https://anonym.to/?https://animekaizoku.com/) - Onclick pop-up ads (NSFW), banner ads, no torrents, GDrive as download source (encodes for donators), has torrent version on nyaa.si tagged as `[AnimeKaizoku]`.
 - [Shana Project](https://anonym.to/?https://www.anirena.com/) - Anime torrent side, no ads.
 - [Play Anime](http://127.0.0.1:43110/1AnimePihDhcbVdK1nvnbSEtH4oKU8RAYG/) - You need [ZeroNet](https://anonym.to/?https://zeronet.io/) to see the "website".
-- [Erai-Raws](https://anonym.to/?https://www.erai-raws.info/) - Provides similar service like HorribleSubs.
+- [Erai-Raws](https://anonym.to/?https://www.erai-raws.info/) - Provides similar service like HorribleSubs. Raw animes.
 - [Beatrice](https://anonym.to/?https://beatrice-raws.org/) - Raw Anime BD rips.
 - [Shanaproject](https://anonym.to/?https://www.shanaproject.com/) - Automate your anime downloads.
-- [Hi10 Anime](https://anonym.to/?https://hi10anime.com/) - High Quality 10-bit Anime Encodes.
 - [HorribleSubs](https://anonym.to/?https://horriblesubs.info/) - Download anime via torrent files, magnet links, XDCC, and premium link hosts.
 - [Search via Google for new Animes](https://anonym.to/?https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)
 
@@ -1684,7 +1683,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 ## Anime (**Hentai pages are NOT allowed!**)
 - [/r/animepiracy wiki](https://anonym.to/?https://www.removeddit.com/r/animepiracy/wiki/index) - Lists for sourcing Anime streaming sites, manga sites, and more.
 - [/r/animepiracy](https://anonym.to/?https://www.removeddit.com/r/animepiracy) - This sub is about streaming and torrent websites for anime.
-- [/r/sjain_guides](https://anonym.to/?https://www.removeddit.com/r/sjain_guides/) - Guides and downloads for CS:GO, Windows 10 gaming optimisations, and more
+- [/r/sjain_guides](https://anonym.to/?https://www.removeddit.com/r/sjain_guides/) - Guides and downloads for CS:GO, Windows 10 gaming optimisations, and more.
 - [9Anime Downloader](https://anonym.to/?https://anonembed.xyz/9anime/) - Download Full Seasons from 9anime.
 - [Animes.so](https://anonym.to/?https://www.animes.so) - (needs registration to see content) - Downloads, DL-Links for all sorts of Animes.
 - [Alternatives to Kiss websites](https://anonym.to/?https://www.removeddit.com/r/KissCartoon/wiki/alternatives) - /r/KissCartoon wiki page with lots of anime sites.
