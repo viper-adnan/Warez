@@ -159,6 +159,12 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 
+### rclone Telegram Bots
+- [Rclone-Telegram-Bot](https://anonym.to/?https://github.com/Shubham0Rajput/Rclone-Telegram-Bot) - This is Rclone Bot in Telegram made for your ease. A help Telegram channel can be found [here](https://anonym.to/?https://t.me/rclonetelegramhelp).
+
+**[`^        back to top        ^`](#)**
+
+
 ### Telgram bots for file sharing
 - [@APDSeedbox](https://anonym.to/?https://t.me/APDSeedbox)
 - [@LinkForFilebot](https://anonym.to/?https://t.me/LinkForFilebot) - Link your audio, video or media files to a specific channel or group.
