@@ -1263,8 +1263,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [HorribleSubs](https://anonym.to/?https://horriblesubs.info/) - Download anime via torrent files, magnet links, XDCC, and premium link hosts.
 - [Search via Google for new Animes](https://anonym.to/?https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)
 
-
 **[`^        back to top        ^`](#readme)**
+
 
 ### Specialty Sites
 - [1Liberty](https://anonym.to/?https://libertyvf.co/) - (fr-FR)
@@ -3263,12 +3263,14 @@ one cryptocurrency wallet to another across various cryptocurrencies
 **[`^        back to top        ^`](#readme)**
 
 
-## Transloading or (stream) sharing Services
+## Transloading or (stream) sharing Services (WebTorrent Clients)
 - [Clouddebrid](https://anonym.to/?https://clouddebrid.herokuapp.com/) - Supports more than 200 services, transload files easily.
 - [Furk.net](https://anonym.to/?https://www.furk.net/) - Personal secure storage that fetches media files and lets you stream them immediately.
 - [Offcloud](https://anonym.to/?https://offcloud.com/) - Cloud-based download manager
 - [Bitport.io](https://anonym.to/?https://bitport.io/welcome) - Download files to a secured cloud. Anonymously. Fast. Online.
 - [Seedr](https://anonym.to/?https://www.seedr.cc/) - Stream on any device, anytime, anywhere!
+- [Webtor](https://anonym.to/?https://webtor.io/) - Similar like Seedr.
+
 
 **[`^        back to top        ^`](#readme)**
 
