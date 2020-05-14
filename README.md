@@ -3270,7 +3270,7 @@ one cryptocurrency wallet to another across various cryptocurrencies
 - [Bitport.io](https://anonym.to/?https://bitport.io/welcome) - Download files to a secured cloud. Anonymously. Fast. Online.
 - [Seedr](https://anonym.to/?https://www.seedr.cc/) - Stream on any device, anytime, anywhere!
 - [Webtor](https://anonym.to/?https://webtor.io/) - Similar like Seedr.
-
+- [JSTorrent](https://anonym.to/?https://www.jstorrent.com/) - Chrome WebTorrent Client.
 
 **[`^        back to top        ^`](#readme)**
 
