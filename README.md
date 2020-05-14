@@ -20,12 +20,12 @@ This list is the biggest [Warez](https://anonym.to/?https://en.wikipedia.org/wik
 * Most lists you find are outdated, not actively maintained or full of malware links.
 
 ### How frequently is the list updated?
-* Monthly.
+* Monthly. (_In emergencies e.g. bigger scene changes/infos the list might recieve updates outside this schedule!_)
 
 ### Credits
 Since the list is huge I can't name each and every single one of you, but here is a short list which hopefully covers all of them:
 
-* All [contris](https://github.com/CHEF-KOCH/Warez/graphs/contributors).
+* All [contributors](https://github.com/CHEF-KOCH/Warez/graphs/contributors).
 * All demoscene people which helped to build the _scene_.
 * All developers which developed mentioned programs.
 * All other people which helped to push this little project forward.
@@ -430,7 +430,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Mp3va.com](https://anonym.to/?https://www.mp3va.com/browse) - Free Music mostly MP3s.
 - [My Free MP3](https://anonym.to/?https://my-free-mp3.net) - Search engine for MP3s, stream & download is possible.
 - [RnBXclusive](https://anonym.to/?https://rnbxclusive.online) - (needs ad-blocker) - MP3s via OpenLoad & Co.
-- [RockBox](https://anonym.to/?https://rawkbawx.rocks/) - A Metal music tracker.
 - [Plixid](https://anonym.to/?https://plixid.com) - Seems to work together with NovaFile, own Facebook page and lots of music.
 - [trapadan](https://anonym.to/?https://www.trapadan.com) - (needs ad-blocker) - Various music.
 - [LeakedAlbums](https://anonym.to/?https://leakedalbums.org/) - New album releases.
@@ -442,6 +441,14 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [MinimalFreaks](https://anonym.to/?https://minimalfreaks.pw/) - As the website url tells, Minimal Music.
 - [Xoamoelmosh Blogspot](https://anonym.to/?https://yoamoelmosh.blogspot.com/) - Hardcore, Metal & Beatdown etc.
 - [24Flac](https://anonym.to/?https://24flac.net/) - FLAC Music including .CUE.
+
+**[`^        back to top        ^`](#readme)**
+
+
+### Audio Torrenting
+- [Redtopic](https://anonym.to/?https://git.fuwafuwa.moe/cairn/Redtopia) - Redtopia was a private music tracker that was shutdown. This repository contains torrents for downloading its content.
+- [Metal Tracker](https://en.metal-tracker.com/) - Metal Music in MP3.
+- [RockBox](https://anonym.to/?https://rawkbawx.rocks/) - A Metal music tracker.
 
 **[`^        back to top        ^`](#readme)**
 

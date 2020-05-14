@@ -256,16 +256,12 @@ Please **DO NOT** start discussions why popular websites are de-listed e.g. Fitg
 ## Music
 - [94hiphop](https://anonym.to/?http://94hiphop.com/) - (`insecure`) - Download Free Hip Hop Albums!
 - [Beets](https://anonym.to/?http://beets.io/) - (insecue) - The purpose of beets is to get your music collection right once and for all. It catalogs your collection, automatically improving its metadata as it goes using the MusicBrainz database.
-
+- http://music-torrent.net/
+- http://zombtracker.the-zomb.com/
 
 
 ### MacOS
 - [Mac Torrents](http://mactorrent.co) - (`insecure`) - Lots of MacOS Warez.
-
-
-
-
-
 
 
 ## Academic Papers (White papers, GRE, etc.)
