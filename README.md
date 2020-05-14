@@ -445,7 +445,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [SongsLover](https://anonym.to/?https://songslover.cam/)Blog around music, provides MP3s.
 - [FreshRemix](https://anonym.to/?http://freshremix.ru/) - A Blog around MP3s.
 - [NoData](https://anonym.to/?https://nodata.tv/) - Yet another Blog for MP3s.
-
+- [Archive.org Music Archive](https://anonym.to/?https://archive.org/details/audio) - Legal public Repositry for archiving music.
 
 
 **[`^        back to top        ^`](#readme)**
