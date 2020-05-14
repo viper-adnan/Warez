@@ -258,7 +258,7 @@ Please **DO NOT** start discussions why popular websites are de-listed e.g. Fitg
 - http://zombtracker.the-zomb.com/
 - [ccMixter](https://anonym.to/?https://ccmixter.org/) - DL Mp3s.
 - [dig ccMixter](https://anonym.to/?http://dig.ccmixter.org/dig) - Archive for MP3s.
-
+- http://www.jimmyr.com/mp3_search.php
 
 
 ### MacOS
