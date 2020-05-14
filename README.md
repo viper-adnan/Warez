@@ -2538,7 +2538,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [The Eye](https://anonym.to/?https://discordapp.com/invite/py3kX3Z) - Official Discord server for The-Eye.eu.
 - [The Ratio](https://anonym.to/?https://discordapp.com/invite/wab3Qag) - A community of seedbox enthusiasts. Buying advice, application setup, and automation help.
 - [WarezNX](https://anonym.to/?https://discord.gg/d6xxuPq) - Nintendo Switch Warez community server.
-- [KissCommunity Discord](https://discordapp.com/invite/eCzUxNB) - Community based Discord channel.
+- [KissCommunity Discord](https://anonym.to/?https://discordapp.com/invite/eCzUxNB) - Community based Discord channel.
+- [Freemediaheckyeah](https://anonym.to/?https://discord.com/invite/vgnaeka)
 
 **[`^        back to top        ^`](#readme)**
 
