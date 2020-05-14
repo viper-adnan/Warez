@@ -1350,8 +1350,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [libertyVF](https://anonym.to/?https://ww1.libertyvf.org/) - (FR) -
 - [onemov](https://anonym.to/?https://onemov.net/) - Online Full HD Movie Free.
 - [openloadmovies.net](https://anonym.to/?https://openloadmovies.net/) - Reliable movie streaming site which uses OpenLoad.
-- [filmyzilla1](https://filmyzilla1.com/genre/animation/) - (`Hindi`) - Animated Hindi movies.
-
+- [filmyzilla1](https://anonym.to/?https://filmyzilla1.com/genre/animation/) - (`Hindi`) - Animated Hindi movies.
+- [puretoons](https://anonym.to/?https://puretoons.me/) - (`Hindi`) - Animated Hindi movies.
 
 **[`^        back to top        ^`](#readme)**
 
