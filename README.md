@@ -2456,7 +2456,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [x265 Movies](https://anonym.to/?https://x265movies.co/) - x265 Movies provides Movies and TV shows.
 - [HugeWarez](https://anonym.to/?http://hugewarez.net/movie/) - HugeWarez provides not only Movies but TV Shows and bunch of other things.
 - [MKVBee](https://anonym.to/?https://mkvbee.com/) - High Quality movies and TV shows.
-
+- [YourSerie](https://anonym.to/?https://www.yourserie.com/) - High Quality movies and TV shows.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2471,7 +2471,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [HDSS](https://anonym.to/?https://hdss.watch/) - (FR)
 - [MoviesFiles](https://anonym.to/?https://moviefiles.org/) - High quality MKV files which you can stream e.g. via MPV.
 - [nima4k](https://anonym.to/?https://nima4k.org/) - (`GER`) Movies and TV shows via DDL.to and Rapidgator.
-- [PrivateHD](https://anonym.to/?https://privatehd.to/)  - (login needed) - HD, 4k Movies and TV shows.
+- [PrivateHD](https://anonym.to/?https://privatehd.to/) - (login needed) - HD, 4k Movies and TV shows.
 - [Rarbg BD remux](https://rarbg.to/torrents.php?category=42;46&search=2160p&order=seeders&by=DESC) - Remuxes from Rarbg
 - [UHDBits](https://anonym.to/?https://uhdbits.org/) - (needs login) - HD, HDR and 4K tv shows and movies.
 - [UHDMV.org](https://anonym.to/?https://uhdmv.org/) - Download free, Ultra HD Bluray Movies, 4K Movies, HD Movies, Bluray Movies, REMUX, 2160p, 1080p, 720p, Free Ultra HD Movies.
