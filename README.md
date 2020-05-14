@@ -1,13 +1,13 @@
 <p align="center">
   <img width="600" height="200" src="https://i.imgur.com/OTA2IhM.png">
 </p>
-<!-- markdown-link-check-disable -->
+
 [![HitCount](http://hits.dwyl.io/CHEF-KOCH/Warez.svg)](http://hits.dwyl.io/CHEF-KOCH/Warez)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/CHEF-KOCH/Warez/issues)
 ![Twitter Follow](https://img.shields.io/twitter/follow/CKsTechNews?style=plastic)
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 [![Telegram](https://img.shields.io/badge/Telegram-t.me%2FCKKSK-blue)](https://t.me/CKKSK)
-<!-- markdown-link-check-enable -->
+
 # Warez
 This list is the biggest [Warez](https://anonym.to/?https://en.wikipedia.org/wiki/Warez_scene) overview on the entire internet! It contains links to Warez related topics, discussions, tools etc. It also provides some background information about the scene.
 
@@ -19,8 +19,11 @@ This list is the biggest [Warez](https://anonym.to/?https://en.wikipedia.org/wik
 * Freedom of information!
 * Most lists you find are outdated, not actively maintained or full of malware links.
 
+### How frequently is the list updated?
+* Monthly.
+
 ### Credits
-Since this list is really huge I can't name each and every single one of you, but here is a short list which hopefully covers all of them:
+Since the list is huge I can't name each and every single one of you, but here is a short list which hopefully covers all of them:
 
 * All [contributors](https://github.com/CHEF-KOCH/Warez/graphs/contributors).
 * All demoscene people which helped to build the _scene_.
@@ -65,7 +68,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Telegram.md](https://github.com/CHEF-KOCH/Warez/blob/master/Telegram.md) - Telegram channels, bots, scripts, tools & more.
 - [Trusted.md](https://github.com/CHEF-KOCH/Warez/blob/master/Trusted.md) - Lists trusted groups or people which are known to crack or upload stuff.
 - [Tor.md](https://github.com/CHEF-KOCH/Warez/blob/master/Tor.md) - Tor 🧅 list.
-- [iOS.md](https://github.com/CHEF-KOCH/Warez/blob/master/iOS.md) - Provides an overview of iOS relatd piracy and tools, channels + jailbreak solutions.
+- [iOS.md](https://github.com/CHEF-KOCH/Warez/blob/master/iOS.md) - Provides an overview of iOS related piracy and tools, channels + jailbreak solutions.
 - [Soft-Ban.md](https://github.com/CHEF-KOCH/Warez/blob/master/Soft-Ban.md) - Websites which are temporarily removed from the list because they do not follow our security standards or are banned because of other reasons. They maybe return once the webmaster secured the website.
 - [Code-of-Conduct.md](https://github.com/CHEF-KOCH/Warez/blob/master/CODE_OF_CONDUCT.md) - A list which provides our current project standards.
 <!-- markdown-link-check-enable -->
