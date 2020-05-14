@@ -2539,7 +2539,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [The Ratio](https://anonym.to/?https://discordapp.com/invite/wab3Qag) - A community of seedbox enthusiasts. Buying advice, application setup, and automation help.
 - [WarezNX](https://anonym.to/?https://discord.gg/d6xxuPq) - Nintendo Switch Warez community server.
 - [KissCommunity Discord](https://anonym.to/?https://discordapp.com/invite/eCzUxNB) - Community based Discord channel.
-- [Freemediaheckyeah](https://anonym.to/?https://discord.com/invite/vgnaeka)
+- [Freemediaheckyeah](https://anonym.to/?https://discord.com/invite/vgnaeka) - The official FreeMediaHeckYeah Discord server. The Wiki open source Wiki can be found [here](https://anonym.to/?https://notabug.org/nbatman/freemediaheckyeah/wiki/_pages), the Reddit Wiki is [here](https://anonym.to/?hhttps://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index).
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2941,6 +2941,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 ## Cloud based DNS Alternatives
 - [Blockchain-DNS.info](https://anonym.to/?https://blockchain-dns.info/) - First step towards the uncensored Internet
 - [NextDNS](https://anonym.to/?https://www.nextdns.io/) - Cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet.
+- [NixNet DNS](https://anonym.to/?https://docs.nixnet.services/DNS)
 
 **[`^        back to top        ^`](#readme)**
 
