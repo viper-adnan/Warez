@@ -47,7 +47,7 @@ Please **DO NOT** start discussions why popular websites are de-listed e.g. Fitg
 - [Mp4ba.cc](https://anonym.to/?http://mp4ba.cc/) - (`CN`) - Videos, TV series and animes.
 - [rutor.info](https://anonym.to/?http://rutor.info/) - (`RU`) - Largest Russian language torrent website.
 - [torrentgalaxy.io](https://anonym.to/?http://torrentgalaxy.io/) - (`GeoIP block, ISP Block`) - TorrentGalaxy is a popular torrent directory.
-
+- [7torrents](https://anonym.to/?https://www.7torrents.cc/) - Privacy-focused DHT search engine.
 
 
 ### Torrent Invites

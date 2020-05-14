@@ -706,7 +706,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 #### Public Trackers
 - [1337x](https://anonym.to/?https://1337.root.yt/) + [Official Forum](https://anonym.to/?https://www.1337x-forum.eu/) - Ad-Free and clean version of 1337x.
-- [7torrents](https://anonym.to/?https://www.7torrents.cc/) - Privacy-focused DHT search engine without any ads.
 - [Bthub.Me](https://anonym.to/?https://www.bthub.me/) - (CN) - Movies, Docus & more for your chinese friends.
 - [BTDB](https://anonym.to/?https://btdb.to/) - Large BitTorrent DHT search engine.
 - [CGPeers](https://anonym.to/?https://www.cgpeers.to/) - CGPeers is a well known trusted tracker (registration every 15th and 1st of the month).
@@ -1354,7 +1353,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [puretoons](https://anonym.to/?https://puretoons.me/) - (`Hindi`) - Animated Hindi movies.
 - [deadtoonsindia](https://anonym.to/?https://deadtoonsindia.ne) - (`Hindi`) - Animated Hindi movie & tv shows.
 
-**[`^        back to top        ^`](#readme)**
+**[`^        back to top        ^`](#readme
 
 
 ### Streaming Forums
