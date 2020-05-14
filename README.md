@@ -2941,7 +2941,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 ## Cloud based DNS Alternatives
 - [Blockchain-DNS.info](https://anonym.to/?https://blockchain-dns.info/) - First step towards the uncensored Internet
 - [NextDNS](https://anonym.to/?https://www.nextdns.io/) - Cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet.
-- [NixNet DNS](https://anonym.to/?https://docs.nixnet.services/DNS)
+- (https://anonym.to/?https://docs.nixnet.services/DNS)
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2961,6 +2961,12 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [RaidRush](https://anonym.to/?https://toplist.raidrush.ws) - (`GER`)- One of the oldest german toplist provider.
 - [Toplist Warez](https://anonym.to/?https://www.toplist.cz/warez) - (PL) - Polish warez toplist.
 - [Uscene](https://anonym.to/?https://www.uscene.net/warez.html) - A small but fine warez toplist.
+
+**[`^        back to top        ^`](#readme)**
+
+
+## Account Generator Websites
+- [h-gen](https://anonym.to/?https://www.h-gen.xyz/) - A website which offers a free service to get Accounts for various services, Minecraft, Origin etc.
 
 **[`^        back to top        ^`](#readme)**
 
