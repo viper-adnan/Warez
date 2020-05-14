@@ -167,7 +167,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@TeleWarez_Bot](https://anonym.to/?https://t.me/TeleWarez_Bot) - Official bot from Warez-IR.com to share and get files.
 - [@UniBorg](https://anonym.to/?https://github.com/SpEcHiDe/UniBorg) - Pluggable Telegram bot and userbot based on Telethon.
 - [@UploadBots](https://anonym.to/?https://t.me/UploadBots) - A bot which uploads your telegram file to a sharehoster.
-- [@ViperCloudOpen](https://anonym.to/?https://t.me/ViperCloudOpen)
+- [@vipercloud](https://anonym.to/?https://t.me/vipercloud)
 - [@filetobot](https://anonym.to/?https://t.me/filetobot) - Stores your private files and arranges them by category. Send any file to the bot and it will be immediately added.
 - [@getmediabot](https://anonym.to/?https://t.me/getmediabot)
 - [@intermediabot](https://anonym.to/?https://t.me/intermediabot)
