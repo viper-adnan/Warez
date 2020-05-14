@@ -814,6 +814,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [magnetoo](https://anonym.to/?https://www.magnetoo.io/) - Fancy new in-browser WebTorrent streaming service.
 - [WebTorrent Desktop](https://anonym.to/?https://webtorrent.io/desktop/) - WebTorrent Desktop is for streaming torrents.
 - [βTorrent](https://anonym.to/?https://btorrent.xyz/) - Fully-featured [WebTorrent](https://anonym.to/?https://webtorrent.io/) - browser client written in HTML, JS and CSS.
+- [Magnet Player](https://anonym.to/?https://ferrolho.github.io/magnet-player/) - Stream Torrents via Browser.
+
 
 **[`^        back to top        ^`](#readme)**
 
