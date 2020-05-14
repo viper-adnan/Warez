@@ -188,7 +188,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [python-aria-mirror-bot](https://anonym.to/?https://github.com/lzzy12/python-aria-mirror-bot/) - A telegram bot for all your mirror needs.
 - [tgfilestream](https://anonym.to/?https://github.com/SpEcHiDe/tgfilestream) - A Telegram bot that can stream Telegram files to users over HTTP.
 - [@lightzcloud](https://anonym.to/?https://t.me/lightzcloud)
-
+- [@LinkToFilesBot](https://anonym.to/?https://t.me/LinkToFilesBot) - Send any document to get a direct download link.
 
 
 #### Telegram channel for file sharing
