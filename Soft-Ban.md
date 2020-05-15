@@ -248,12 +248,10 @@ Please **DO NOT** start discussions why popular websites are de-listed e.g. Fitg
 
 
 ### MU3 Playlist Editor
-- [Xtream Editor](https://anonym.to/?http://www.xtream-editor.com/) - (`insecure`) - Xtream Editor allow you to create, edit and sort m3u playlists online.
-
-
+- [Xtream Editor](https://anonym.to/?http://www.xtream-editor.com/) - (`insecure`) - Xtream Editor allow you to create, edit and sort m3u playlists online
 ## Music
 - [94hiphop](https://anonym.to/?http://94hiphop.com/) - (`insecure`) - Download Free Hip Hop Albums!
-- [Beets](https://anonym.to/?http://beets.io/) - (insecue) - The purpose of beets is to get your music collection right once and for all. It catalogs your collection, automatically improving its metadata as it goes using the MusicBrainz database.
+- [Beets](https://anonym.to/?http://beets.io/) - (insecue) - The purpose of beets is to get your music collection right once and for all. It catalogues your collection, automatically improving its metadata as it goes using the MusicBrainz database.
 - http://music-torrent.net/
 - http://zombtracker.the-zomb.com/
 - [ccMixter](https://anonym.to/?https://ccmixter.org/) - DL Mp3s.
@@ -588,3 +586,7 @@ Please **DO NOT** start discussions why popular websites are de-listed e.g. Fitg
 - foxleech.com
 - torrentsafe.com
 - [1337x](https://anonym.to/?https://1337x.to/) - (Official mirror list](https://anonym.to/?https://1337x.to/about) - 1337x is a torrent site that offers verified torrent downloads.
+
+## Movies
+- http://movie-blog.sx/
+- mkvChinemas.com (watermark)
