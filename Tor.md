@@ -1,6 +1,6 @@
 **Disclaimer**:
 
-I'm not responsible for the links, domains, it's content or if the provided `.onion` links are really the ones advertised ("clearname"). It's impossible for me as individual person to check every single page every second and monitor it's content.
+I'm not responsible for the links, domains, it's content or if the provided `.onion` links are really the ones advertised ("clearname"). It's impossible for me as individual person to check every single page every xy hour nor do I can be forced to monitor them (simply impossible). Please contact me or create a pull request/ticket if you find something to improve, correct or remove from this list.
 
 
 Table below contains a list of `.onion` addresses for some more popular clearnet services.
@@ -34,6 +34,7 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 | disclose.ngo     | http://eexekfp2ye4h643c.onion/
 | Žvižgač          | http://bhzbgbet5l5p4lb3.onion/
 | The Telegraph    | http://ldbtuktejbkg227d.onion/
+| Tor Project: Anonymity Online     | http://idnxcnkne4qt76tg.onion/
 
 
 ## Tech News
@@ -131,7 +132,7 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 ## Search Engines
 | clearnet/name    | onion address
 |------------------|:--------------
-| DuckDuckGo       | https://3g2upl4pq6kufc4m.onion
+| DuckDuckGo       | http://3g2upl4pq6kufc4m.onion/
 | SearX            | http://ulrn6sryqaifefld.onion/
 | TPB              | http://uj3wazyk5u4hnvtk.onion/
 
@@ -259,10 +260,15 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 
 
 ## Wiki's
-| clearnet/name    | onion address
-|------------------|:--------------
+| clearnet/name     | onion address
+|------------------ |:--------------
 | Onion Hidden Wiki | hwikis25cffertqe.onion
-| The Hidden Wiki  | zqinthw6b4ya676y.onion
+| The Hidden Wiki   | zqinthw6b4ya676y.onion
+| The Hidden Wiki (uncensored) | zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page
+| Onion Wiki – 650+ working links | http://wiki5kauuihowqi5.onion/
+| TorProject Archive | http://j6im4v42ur6dpic3.onion/
+| TorProject Media  | http://p3igkncehackjtib.onion/
+| Tor Search        | http://kbhpodhnfxl3clb4.onion
 
 
 ## XXX (_only verified pages are allowed in this category_)
@@ -313,6 +319,20 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 | RayServers       | https://nmf6cg7tiyqlhsg3.onion/
 | Mailbox          | https://userforum-en.mailbox.org/knowledge-base/article/the-tor-exit-node-of-mailbox-org
 | Mail City        | http://eozm6j6i4mmme2p5.onion/
+
+
+
+### Onion check, check if it's up or not
+| clearnet/name    | onion address
+|------------------|:--------------
+| Is it up?        | http://nlmymchrmnlmbnii.onion/
+
+
+### Proxy
+| clearnet/name      | onion address
+|--------------------|:--------------
+| Anonet Webproxy    | http://xdagknwjc7aaytzh.onion/
+| Gateway to Freenet | http://2vlqpcqpjlhmd5r2.onion/
 
 
 ### Temp eMail services
@@ -411,6 +431,14 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 | Music Downloads | http://wuvdsbmbwyjzsgei.onion/
 | Speedcore Music | http://lolicore75rq3tm5.onion/
 | 20th Century Western Music Recordings and Scores | http://vt27twhtksyvjrky.onion/
+
+
+## Tor Links
+| clearnet/name             | onion address
+|---------------------------|:--------------
+| Tor links                 | http://torlinkbgs6aabns.onion/
+| Hidden Wiki .Onion Urls   | http://jh32yv5zgayyyts3.onion/
+| Hidden Wiki – Tor Wiki    | http://wikitjerrta4qgz4.onion/
 
 
 ### Tor bridges

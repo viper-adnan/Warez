@@ -938,6 +938,8 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 ## Other stuff related to Telegram
 - [Torrent Leecher List](https://anonym.to/?http://torrentleecherlist.xyz/) - This is a simple list for torrent leecher in telegram.
 
+**[`^        back to top        ^`](#)**
+
 
 ## Internet Monitoring
 - [chatter](https://anonym.to/?https://github.com/visualbasic6/chatter) - Internet monitoring osint telegram bot for windows.
