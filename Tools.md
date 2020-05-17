@@ -996,7 +996,7 @@ Downloads albums in bulk.
 - [spotify-dl](https://anonym.to/?https://github.com/SwapnilSoni1999/spotify-dl) - Spotify Downloader and alternative of Spotdl(python) tool made in NodeJS based on youtube-dl.
 ## RSS link generation
 - [ShowRSS.info](https://anonym.to/?http://showrss.info/) -  Compile a list of TV shows that you follow and generate an RSS link that you can put in your torrent client to automatically download new episodes as they are released based on the quality that you want (480p, 720p, 1080p, REPACK, etc).
-- [BlockTheSpot](https://github.com/mrpond/BlockTheSpot/releases) - Spotify injection (for the Windows Desktop version only) which blocks video, audio & banner.
+- [BlockTheSpot](https://anonym.to/?https://github.com/mrpond/BlockTheSpot/releases) - Spotify injection (for the Windows Desktop version only) which blocks video, audio & banner.
 
 **[`^        back to top        ^`](#)**
 
@@ -1049,10 +1049,12 @@ Overall strategy:
 
 **[`^        back to top        ^`](#)**
 
+
 ## WhatsApp decrypter
 - [whatsapp-media-decrypt](https://anonym.to/?https://github.com/ddz/whatsapp-media-decrypt) - Decrypt WhatsApp encrypted media files.
 
 **[`^        back to top        ^`](#)**
+
 
 ## WordPress login bruteforcer
 - [wpbrute-rs](https://anonym.to/?https://github.com/leo-lb/wpbrute-rs) - High performance WordPress login bruteforcer with automatic concurrency for maximum amount of tries per second.
@@ -1066,7 +1068,12 @@ Overall strategy:
 **[`^        back to top        ^`](#)**
 
 
-# Android apps
+# Secure DNS (Encrypted DNS)
+- [DNSCrypt](https://anonym.to/?https://www.dnscrypt.org/) - A protocol to improve DNS security.
+- [SimpleDNSCrypt](https://anonym.to/?https://simplednscrypt.org/) - A simple GUI management tool for dnscrypt-proxy for Windows.
+- [Stubby](https://anonym.to/?https://dnsprivacy.org/wiki/display/DP/DNS+Privacy+Daemon+-+Stubby)
+- [YogaDNS](https://anonym.to/?https://yogadns.com/docs/) - YogaDNS automatically intercepts DNS requests at the system level and allows you to process them over user-defined DNS servers using modern protocols and flexible rules. The GUI for Windows provides several features including DNSCrypt, DOT, DOH, DNSSEC , DNS blocking etc.
 
-## Movie release notifications
-- [Movie Updates](https://anonym.to/?https://play.google.com/store/apps/details?id=com.tashila.movieupdates)
+**[`^        back to top        ^`](#)**
+
+

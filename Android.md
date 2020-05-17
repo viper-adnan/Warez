@@ -213,3 +213,8 @@ TCP Port: 853
 ## YouTube Streaming Apps
 - [YouTube Streaming apk](https://anonym.to/?https://ymusic.io/) - Super convenient music app for you, enjoy music from YouTube with smallest consumed data!
 - [Fildo](https://anonym.to/?https://fildo.net/android/en/) - An app which streams Music from around the world, it's not limited to YouTube or Spotify.
+
+
+## Movie release notifications
+- [Movie Updates](https://anonym.to/?https://play.google.com/store/apps/details?id=com.tashila.movieupdates)
+
