@@ -15,7 +15,6 @@
 
 
 ## Hardware Reverse Engineering
-
 * [HAL — The Missing Piece of the Puzzle for Hardware Reverse Engineering, Trojan Detection and Insertion - 2018](https://anonym.to/?https://eprint.iacr.org/2017/783), [HAL](https://github.com/emsec/HAL) is a FLOSS project can be used to aid the hardware audit.
 
 
