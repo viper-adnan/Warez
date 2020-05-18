@@ -159,6 +159,12 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 
+### Movie Streaming Bots
+- [smart-tv-telegram](https://anonym.to/?https://github.com/andrew-ld/smart-tv-telegram) - Stream movies from telegram to smart tv over http using upnp and dlna (and chromecast).
+
+**[`^        back to top        ^`](#)**
+
+
 ### rclone Telegram Bots
 - [Rclone-Telegram-Bot](https://anonym.to/?https://github.com/Shubham0Rajput/Rclone-Telegram-Bot) - This is Rclone Bot in Telegram made for your ease. A help Telegram channel can be found [here](https://anonym.to/?https://t.me/rclonetelegramhelp).
 
