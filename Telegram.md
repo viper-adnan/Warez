@@ -86,7 +86,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@DropmailBot](https://anonym.to/?https://t.me/DropmailBot) - Get fake emails.
 - [@etlgr_bot](https://anonym.to/?https://t.me/etlgr_bot) - Get fake emails.
 - [@fakemailbot](https://anonym.to/?https://t.me/fakemailbot) - Get fake emails as soon as new ones arrive.
-- [@GmailBot](https://anonym.to/?https://t.me/GmailBot) - GMail mangement Bot.
+- [@GmailBot](https://anonym.to/?https://t.me/GmailBot) - GMail management Bot.
 - [@smtpbot](https://anonym.to/?https://t.me/smtpbot) - Get fake emails.
 - [@temp_mail_bot](https://anonym.to/?https://t.me/temp_mail_bot) - Get fake emails.
 
@@ -103,6 +103,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 **[`^        back to top        ^`](#)**
 
+
 ### Telegram Cracking Channels
 - [Keygen Fortress](https://anonym.to/?https://t.me/keygen_fortress) - Keygens and cracks only.
 - [King_of_cracking](https://anonym.to/?https://t.me/king_0f_cracking) - Free daily cracking tools, proxies and more.
@@ -110,14 +111,25 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 **[`^        back to top        ^`](#)**
 
+
 ### Telegram channel for Udemy courses
+- [@freexonlinexcourse](https://anonym.to/?https://t.me/freexonlinexcourse) - Free udemy courses.
 - [@udemyfree4u](https://anonym.to/?https://ttttt.me/udemyfree4u) - This Is The No. 1 Biggest Channel In Telegram Which Provides Paid Udemy Courses For Free, daily updated.
 - [Free Udemy Courses](https://anonym.to/?https://t.me/Freecoursefinder) - We provide paid premium online courses for free!
-- [@freexonlinexcourse](https://anonym.to/?https://t.me/freexonlinexcourse) - Free udemy courses.
 - [Free Udemy Courses](https://anonym.to/?https://t.me/joinchat/AAAAAEOVydKcDYcTQPbvYg)
 - [Udemy deals](https://anonym.to/?https://telegram.me/udemydeals) - Free udemy courses!!
+- [udemydeals](https://anonym.to/?https://t.me/udemydeals) - Free udemy courses!
 
 **[`^        back to top        ^`](#)**
+
+
+### Telegram Channeks for Adobe
+- [@premiere_pro](https://anonym.to/?https://telegram.me/premiere_pro)
+- [@Premiere](https://anonym.to/?https://telegram.me/Premiere)
+- [Adobe CRack channel](https://anonym.to/?tg://resolve?domain=adobecracks&post=17) - A channel for all Adobe cracks.
+[](https://anonym.to/?https://telegram.me/)
+**[`^        back to top        ^`](#)**
+
 
 ### Telegram Like Bot (add like/vote buttons under your posts)
 - [@ChannelLikeBot](https://anonym.to/?https://t.me/ChannelLikeBot) - Add voting buttons to posts in channels and groups.
@@ -346,7 +358,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 
 ### Redirect Bots
-- [@redirectsbot](https://anonym.to/?https://t.me/redirectsbot) - Send posts to your channel/group, forward, edit, sign, watermark, timer queue and more... You find the avaible commands [here](https://anonym.to/?https://telegra.ph/Description-of-ReDirectsbot-Commands-02-05).
+- [@redirectsbot](https://anonym.to/?https://t.me/redirectsbot) - Send posts to your channel/group, forward, edit, sign, watermark, timer queue and more... You find the available commands [here](https://anonym.to/?https://telegra.ph/Description-of-ReDirectsbot-Commands-02-05).
 
 **[`^        back to top        ^`](#)**
 
@@ -360,7 +372,11 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 
 ### Telegram Bots for unpacking .zip and .rar files
-- //
+- [@HK2_ROBOT](https://anonym.to/?https://t.me/HK2_ROBOT) - Supports .zip and .rar files.
+- [@UnzipTGBot](https://anonym.to/?https://t.me/UnzipTGBot) - Supports .zip and .rar files.
+
+**[`^        back to top        ^`](#)**
+
 
 ### Telegram Bot to create TeamDrives
 - [@HK_ROBOT](https://anonym.to/?https://t.me/HK_ROBOT) - Unpack zip and rar files with this bot.
@@ -402,7 +418,6 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 ### Telegram channels for Software
 - [@piracylinks](https://anonym.to/?https://t.me/piracylinks) - A link sharing community.
-- [Adobe CRack channel](https://anonym.to/?tg://resolve?domain=adobecracks&post=17) - A channel for all Adobe cracks.
 - [AIOSetup](https://anonym.to/?https://t.me/aiosetup) - Wide range of pre-cracked software, downloadable in Telegram.
 - [arezbank](https://anonym.to/?https://t.me/piracylinks) - Channel for Windows software.
 - [candroidsoftware](https://anonym.to/?https://t.me/candroidsoftware) - Freee APK's and software.
@@ -412,8 +427,9 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [Keygen Fortress](https://anonym.to/?https://t.me/keygen_fortress) - Wide range of keygens for various apps, downloadable in Telegram.
 - [Piracy Main](https://anonym.to/?https://t.me/joinchat/KNhdrlJyuDhsJy5dNEBoAg) - Intended to be the main chat for all piracy discussion, but very inactive - use this group for that instead.
 - [Raymond's Piracy Group](https://anonym.to/?https://t.me/raymondfreesoftware) - A group of 7000+ pirates chatting.
-- [Windows_Software](https://tele.me/telegram/groups/windows_softwares) - Windows software, cracked.
--
+- [Windows_Software](https://anonym.to/?https://tele.me/telegram/groups/windows_softwares) - Windows software, cracked.
+- [computersoftwar](https://anonym.to/?https://t.me/computersoftwar/3690) - Various software, mainly for Windows.
+
 **[`^        back to top        ^`](#)**
 
 
@@ -422,11 +438,6 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 **[`^        back to top        ^`](#)**
 
-
-### Telegram channels for Udemy Courses
-- [udemydeals](https://anonym.to/?https://t.me/udemydeals) - Free udemy courses!
-
-**[`^        back to top        ^`](#)**
 
 ### Telegram channel for general Tutorials and Courses
 - [Tech_You](https://anonym.to/?https://t.me/udemydeals) - Tutorials, Logins, Course and other stuff via Mega links.
@@ -949,3 +960,14 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 ## Internet Monitoring
 - [chatter](https://anonym.to/?https://github.com/visualbasic6/chatter) - Internet monitoring osint telegram bot for windows.
+
+**[`^        back to top        ^`](#)**
+
+
+
+## Udemy Bots
+- [udemy_link_bot](https://anonym.to/?https://t.me/udemy_link_bot) - Send `/download <course_link>` to download.
+
+**[`^        back to top        ^`](#)**
+
+

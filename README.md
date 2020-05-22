@@ -681,12 +681,17 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [WorldOfP2P](https://anonym.to/?https://worldofp2p.net) - (WOP) - Private tracker for Movies, TV and general P2P stuff.
 - [Fou Du cinema](https://anonym.to/?https://fou-du-cinema.net/) - (`FR`) - (`invite only`) Movies, TV Series, Documentaries, General.
 - [BWTorrents.tv](https://anonym.to/?https://bwtorrents.tv/signup.php) - Bollywood tracker.
-- [Blackhole torrent (BHT)](https://anonym.to/?https://bht.is/) - (`FR`) -
+- [Blackhole torrent (BHT)](https://anonym.to/?https://bht.is/) - (`FR`) - A tracker for movies and TV shows.
 - [Bangumi Moe](https://anonym.to/?https://bangumi.moe/)
 - [avg.club](https://anonym.to/?https://avg.club/)
 - [peers](https://anonym.to/?https://peers.fm/)
 - [tracker.0day.kiev](https://anonym.to/?https://tracker.0day.kiev.ua/)
-- [BeyondHD](https://anonym.to/?https://beyond-hd.me/login) (login needed) - 4K remuxes and 4K movies
+- [BeyondHD](https://anonym.to/?https://beyond-hd.me/login) - (`login needed) - 4K remuxes and 4K movies
+- [xbytes](https://anonym.to/?http://www.xbytes.li/) - (`ES`) - Spanish tracker for movies and TV shows.
+- [HDBytes](https://anonym.to/?https://www.hdbytes.li/) - (`ES`) - Spanish tracker for movies and TV shows.
+- [Torrenteros](https://anonym.to/?http://www.torrenteros.net/signup.php) - (`ES`) - Spanish tracker for movies and TV shows.
+- [HDCity](https://anonym.to/?https://hdcity.li/) - (`ES`) - Spanish tracker for movies and TV shows.
+- [HD-Spain](https://anonym.to/?https://www.hd-spain.com/) - (`ES`) - Spanish tracker for movies and TV shows.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -773,7 +778,13 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Torrents9](https://anonym.to/?https://vww.torrentz9.fr/) - (`FR`) - Yet another popular French torrent directory.
 - [Zone-Annuaire](https://anonym.to/?https://zone-annuaire.com/) - (`FR`) - Yet another popular French torrent directory.
 - [Yggtorrent](https://anonym.to/?https://www2.yggtorrent.se) - (`SE`) - Movies, Games, TV shows & more.
-- [Torrent Paradise](https://anonym.to/?https://torrent-paradise.ml/) - (`needs ad-blocker`) - A torrent site which does not offer much information appart from the title and seeders.
+- [Torrent Paradise](https://anonym.to/?https://torrent-paradise.ml/) - (`needs ad-blocker`) - A torrent site which does not offer much information apart from the title and seeders.
+- [PCGamesTorrents](https://anonym.to/?https://pcgamestorrents.com) - Designed to find PC Games.
+- [SeedPeer](https://anonym.to/?https://seedpeer.me)
+- [btdi](https://anonym.to/?https://btdig.com)
+- [YourBittorrent](https://anonym.to/?https://yourbittorrent.com)
+- [monova](https://anonym.to/?https://monova.org)
+- [idope](https://anonym.to/?https://idope.se)
 
 **[`^        back to top        ^`](#readme)**
 
@@ -785,7 +796,12 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 
 ### Tracker Aggregators
-
+- [AIO Search](https://anonym.to/?http://www.aiosearch.com/) - Yet another Torrent search engine.
+- [snowfl](https://anonym.to/?https://snowfl.com/) - Snowfl is a torrent aggregator which searches various public torrent indexes in real-time.
+- [TParser](https://anonym.to/?http://tparser.org/) (`RU`) - Russian torrent sites indexer
+- [Torrents.me](https://anonym.to/?https://torrents.me/) - Torrents.me combines popular torrent sites and specialized private trackers in a torrent multisearch.
+- [rats-search](https://anonym.to/?https://github.com/DEgITx/rats-search) - P2P Bittorrent search engine.
+- [SolidTorrents](https://anonym.to/?https://solidtorrents.net) - A clean and privacy focused torrent search engine.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1590,6 +1606,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Warmane](https://anonym.to/?https://www.warmane.com/) - Hosts private WoW Servers.
 - [Gamestorrents](https://anonym.to/?http://gamestorrents.tv) - Provides various video games.
 - [r/PiratedGame](https://anonym.to/?https://www.reddit.com/r/PiratedGames/) - Pirated Games subreddit with discussions and links.
+- [Mabandonware](https://anonym.to/?hhttps://www.myabandonware.com/) - Old(er) Video games.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1831,6 +1848,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Serialreactor](https://anonym.to/?https://www.serialreactor.com) - Looking for serials?
 - [SerialShack](https://www.serialshack.com) - One of the oldest serial websites which are still online.
 - [Smart Serials](https://anonym.to/?https://www.smartserials.com) - (needs VPN) - Forum + serials.
+- [Giveaway2k20](https://anonym.to/?https://giveaway2k20.blogspot.com/) - provide accounts and somstimes serials.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1876,7 +1894,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Bagas31](https://anonym.to/?https://www.bagas31.info/) - Bagas32 is a known disturber for software and software cracks.
 - [Bontersoft.cc](https://anonym.to/?https://www.bontersoft.cc/) - Windows software to various products, AV's, Music etc.
 - [Cloud-Droid](https://anonym.to/?https://www.cloud-droid.com) - Cloud-Droid offers (mostly) downloads via sharehoster.
-- [CrackingPatching.com](https://anonym.to/?https://crackingpatching.com/) - Cracked software for free!
+- [CrackingPatching](https://anonym.to/?https://crackingpatching.com/) - Cracked software for free!
 - [Gallery-dl](https://anonym.to/?https://github.com/mikf/gallery-dl) - Command-line program to download image-galleries and -collections from several image hosting sites.
 - [KaranPC](https://anonym.to/?https://karanpc.com) - Yet another community around Windows software.
 - [Nulled](https://anonym.to/?https://www.nulled.to/) - Nulled is a cracking community where you can find links to cracked software.
@@ -1890,8 +1908,13 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Tapochek](https://anonym.to/?https://tapochek.net/) - (`RU`)
 - [Team-OS HKRG](https://anonym.to/?https://www.teamos-hkrg.com/index.php) - Windows software and various activation tools.
 - [Underver.se](https://anonym.to/?https://underver.se/) - (`RU`)
+- [OnHaxCrack](https://anonym.to/?https://www.onhaxcrack.me) - A website dedicated to provide cracks for various types of Software.
+- [PirateCity](https://anonym.to/?https://www.piratecity.net) - Various Software releases.
+- [CrackHomes](https://anonym.to/?https://crackhomes.com) - Yet another release page.
+- [Ask4PC](https://anonym.to/?https://www.ask4pc.net) - Cracks for PC Software.
+- [ProFreeCrack](https://anonym.to/?hhttps://profreecrack.com) - Provides cvracks for various programs.
 
-
+**[`^        back to top        ^`](#readm
 ### Software Repacks
 - [Diakov.net](https://anonym.to/?https://diakov.net/) - (`RU`) - Russian repacker provides various software repacks.
 - [Punsh](https://anonym.to/?https://punsh.at.ua/) - (`RU`) - Russian repacker, similar like PoorShock and M0nkrus.
@@ -2409,8 +2432,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [OK.ru](https://anonym.to/?https://ok.ru/videos/) - (`RU`) - Legal and other videos, differnt quality, mostly 720p.
 
 **[`^        back to top        ^`](#readme)**
-
-
 ### Rarfilms
 <!-- markdown-link-check-disable -->
 - [Rarfilm](https://anonym.to/?http://rarefilm.net/)
@@ -3298,6 +3319,7 @@ one cryptocurrency wallet to another across various cryptocurrencies
 - [Webtor](https://anonym.to/?https://webtor.io/) - Similar like Seedr.
 - [JSTorrent](https://anonym.to/?https://www.jstorrent.com/) - Chrome WebTorrent Client.
 - [bitford](https://anonym.to/?https://github.com/astro/bitford) - Open Source based Client for Chrome.
+- [Multcloud](https://anonym.to/?https://www.multcloud.com/) - Similar like Offcloud. Transfer and manage your multiple cloud files with one app. 100% Free.
 
 **[`^        back to top        ^`](#readme)**
 

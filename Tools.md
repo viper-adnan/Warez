@@ -443,6 +443,7 @@ Downloads albums in bulk.
 - [wget for Windows](https://anonym.to/?http://eternallybored.org/misc/wget/) - A command-line utility for retrieving files using HTTP, HTTPS and FTP protocols.
 - [wget](https://anonym.to/?http://www.gnu.org/software/wget/) - `wget` is a free and open source tool for downloading files using HTTP, HTTPS, FTP and FTPS. It can be easily called from scripts, cronjobs, terminals without X-Windows support, etc.
 - [YouTube MP3 Rip](https://anonym.to/?http://youtubemp3.rip/) - Download YouTube music videos as MP3 files without registration.
+- [drivedl](https://anonym.to/?https://github.com/architdate/drivedl) - Download files from Google Drive (inclusive of teamdrives, shared with me and my drive) concurrently.
 
 **[`^        back to top        ^`](#)**
 

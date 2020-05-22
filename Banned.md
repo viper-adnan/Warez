@@ -243,6 +243,7 @@
 * nosTEAM.ro
 * Kkiste.io
 * Corepack
+* yasdl.com
 
 ## eBooks
 * downeu.org
