@@ -131,8 +131,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Google Team Drive](https://anonym.to/?https://teamdrive.mfoxx.workers.dev/) - Create Google Team Drive where you can share your files with others.
 - [GDIndex](https://anonym.to/?https://github.com/ParveenBhadooOfficial/GDIndex) - Team drive for _googledri.ve.workers.dev_ . You also can create your own TeamDrive.
 - [TeamDrive Software for Win, Linux, Android and iOS](https://anonym.to/?https://forum.teamdrive.net/viewforum.php?f=2) - Software with AES encryption to work across multiple PC's and keep your files update.
-- [Get Free Google Shared Drive](https://anonym.to/?https://td.fastio.me/ - Create your own TeamDrive for free.
-- [whatintheworld](https://anonym.to/?hhttps://whatintheworld.xyz/) - Search Team Drives resources.
+- [Get Free Google Shared Drive](https://anonym.to/?https://td.fastio.me/) - Create your own TeamDrive for free.
+- [whatintheworld](https://anonym.to/?https://whatintheworld.xyz/) - Search Team Drives resources.
 
 **[`^        back to top        ^`](#readme)**
 
